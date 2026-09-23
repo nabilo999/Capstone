@@ -1,0 +1,2733 @@
+player,player_id,nationality,position,squad,age,birth_year,season,league
+Antonio Adán,65d62814,esESP,GK,Atlético Madrid,32.0,1987.0,2019-2020,ESP
+Aritz Aduriz,293211e1,esESP,FW,Athletic Club,38.0,1981.0,2019-2020,ESP
+Lumor Agbenyenu,073b1b37,ghGHA,DF,Mallorca,22.0,1996.0,2019-2020,ESP
+Martin Agirregabiria,355c883a,esESP,DF,Alavés,23.0,1996.0,2019-2020,ESP
+Joseph Aidoo,18abe173,ghGHA,DF,Celta Vigo,23.0,1995.0,2019-2020,ESP
+Jordi Alba,4601e194,esESP,DF,Barcelona,30.0,1989.0,2019-2020,ESP
+Raúl Albiol,4bd414c1,esESP,DF,Villarreal,33.0,1985.0,2019-2020,ESP
+Paco Alcácer,a7a9d95a,esESP,FW,Villarreal,25.0,1993.0,2019-2020,ESP
+Rubén Alcaraz,036bba5f,esESP,MF,Valladolid,28.0,1991.0,2019-2020,ESP
+Álex Alegría,46166b49,esESP,FW,Mallorca,26.0,1992.0,2019-2020,ESP
+Carles Aleñá,6c811eb7,esESP,MF,Barcelona,21.0,1998.0,2019-2020,ESP
+Carles Aleñá,6c811eb7,esESP,MF,Real Betis,21.0,1998.0,2019-2020,ESP
+Sergio Álvarez,88d91621,esESP,"MF,DF",Eibar,27.0,1992.0,2019-2020,ESP
+Sergio Álvarez,8875b8c9,esESP,GK,Celta Vigo,32.0,1986.0,2019-2020,ESP
+Yeray Álvarez,3ecc11d8,esESP,DF,Athletic Club,24.0,1995.0,2019-2020,ESP
+Ibrahim Amadou,9260926b,frFRA,MF,Leganés,26.0,1993.0,2019-2020,ESP
+Amath,f3b1d9a2,snSEN,"FW,MF",Getafe,23.0,1996.0,2019-2020,ESP
+Miguel Ángel Guerrero,b35db3f6,esESP,FW,Leganés,29.0,1990.0,2019-2020,ESP
+José Ángel,3024e383,esESP,DF,Eibar,29.0,1989.0,2019-2020,ESP
+Miguel Ángel Moyá,011d8c56,esESP,GK,Real Sociedad,35.0,1984.0,2019-2020,ESP
+Antoñito,dbe519cf,esESP,"DF,MF",Valladolid,31.0,1987.0,2019-2020,ESP
+Vitorino Antunes,3e4f735d,ptPOR,DF,Getafe,32.0,1987.0,2019-2020,ESP
+Anuar,c93231dc,maMAR,MF,Valladolid,24.0,1995.0,2019-2020,ESP
+Mauro Arambarri,58afe001,uyURU,MF,Getafe,23.0,1995.0,2019-2020,ESP
+Néstor Araujo,27a013f7,mxMEX,DF,Celta Vigo,27.0,1991.0,2019-2020,ESP
+Ronald Araújo,2bef2bca,uyURU,DF,Barcelona,20.0,1999.0,2019-2020,ESP
+Anaitz Arbilla,850c0a0d,esESP,DF,Eibar,32.0,1987.0,2019-2020,ESP
+Alphonse Areola,2f965a72,frFRA,GK,Real Madrid,26.0,1993.0,2019-2020,ESP
+Santiago Arias,fdd60087,coCOL,DF,Atlético Madrid,27.0,1992.0,2019-2020,ESP
+José Arnaiz,46e07328,esESP,"FW,MF",Osasuna,24.0,1995.0,2019-2020,ESP
+José Arnaiz,46e07328,esESP,MF,Leganés,24.0,1995.0,2019-2020,ESP
+Sergio Asenjo,9f0ea33f,esESP,GK,Villarreal,30.0,1989.0,2019-2020,ESP
+Marco Asensio,45af8a54,esESP,FW,Real Madrid,23.0,1996.0,2019-2020,ESP
+Iago Aspas,7dcf86f6,esESP,FW,Celta Vigo,31.0,1987.0,2019-2020,ESP
+Roger Assalé,5d5219b1,ciCIV,"MF,FW",Leganés,25.0,1993.0,2019-2020,ESP
+Miguel Atienza,12eda7be,esESP,MF,Eibar,20.0,1999.0,2019-2020,ESP
+Ezequiel Ávila,253a06b9,arARG,FW,Osasuna,25.0,1994.0,2019-2020,ESP
+Javier Avilés,53ddba36,esESP,FW,Leganés,21.0,1997.0,2019-2020,ESP
+Chidozie Awaziem,70d8e84c,ngNGA,DF,Leganés,22.0,1997.0,2019-2020,ESP
+Ramon Azeez,0cc474e7,ngNGA,MF,Granada,26.0,1992.0,2019-2020,ESP
+Iddrisu Baba,bfd381b3,ghGHA,MF,Mallorca,23.0,1996.0,2019-2020,ESP
+Carlos Bacca,09a9e921,coCOL,FW,Villarreal,32.0,1986.0,2019-2020,ESP
+Alex Baena,518f2234,esESP,"FW,MF",Villarreal,18.0,2001.0,2019-2020,ESP
+Gareth Bale,a58bb1e1,wlsWAL,"FW,MF",Real Madrid,30.0,1989.0,2019-2020,ESP
+Mikel Balenziaga,1fe67e86,esESP,DF,Athletic Club,31.0,1988.0,2019-2020,ESP
+Éver Banega,fa937f7a,arARG,MF,Sevilla,31.0,1988.0,2019-2020,ESP
+Federico Barba,c010b898,itITA,DF,Valladolid,25.0,1993.0,2019-2020,ESP
+Enis Bardhi,cac2537b,mkMKD,MF,Levante,24.0,1995.0,2019-2020,ESP
+Kike Barja,aad53e64,esESP,MF,Osasuna,22.0,1997.0,2019-2020,ESP
+Antonio Barragán,487d9b09,esESP,"DF,MF",Real Betis,32.0,1987.0,2019-2020,ESP
+Ander Barrenetxea,200e89e1,esESP,MF,Real Sociedad,17.0,2001.0,2019-2020,ESP
+Marc Bartra,b742cc0d,esESP,"DF,MF",Real Betis,28.0,1991.0,2019-2020,ESP
+Gil Bastião Dias,e61bdd69,ptPOR,MF,Granada,22.0,1996.0,2019-2020,ESP
+Fran Beltrán,ed5c5fa3,esESP,MF,Celta Vigo,20.0,1999.0,2019-2020,ESP
+Hatem Ben Arfa,74dc806c,frFRA,"MF,FW",Valladolid,32.0,1987.0,2019-2020,ESP
+Karim Benzema,70d74ece,frFRA,FW,Real Madrid,31.0,1987.0,2019-2020,ESP
+Yuri Berchiche,b6e50615,esESP,DF,Athletic Club,29.0,1990.0,2019-2020,ESP
+Markel Bergara,04a65a8f,esESP,MF,Getafe,33.0,1986.0,2019-2020,ESP
+Sergio Bermejo,d166c007,esESP,"FW,MF",Celta Vigo,21.0,1997.0,2019-2020,ESP
+Pedro Bigas,697295b1,esESP,DF,Eibar,28.0,1990.0,2019-2020,ESP
+Rubén Blanco,967f34d3,esESP,GK,Celta Vigo,24.0,1995.0,2019-2020,ESP
+Pablo de Blasis,9ab48bde,arARG,"DF,MF",Eibar,31.0,1988.0,2019-2020,ESP
+Alejandro Blesa,d2ed99b4,esESP,MF,Levante,17.0,2002.0,2019-2020,ESP
+Yassine Bounou,f6798fc3,maMAR,GK,Sevilla,28.0,1991.0,2019-2020,ESP
+Filip Bradarić,605873e1,hrCRO,MF,Celta Vigo,27.0,1992.0,2019-2020,ESP
+Martin Braithwaite,fd771f95,dkDEN,"FW,MF",Barcelona,28.0,1991.0,2019-2020,ESP
+Martin Braithwaite,fd771f95,dkDEN,"FW,MF",Leganés,28.0,1991.0,2019-2020,ESP
+Brandon,3e016e5a,esESP,"FW,MF",Osasuna,24.0,1995.0,2019-2020,ESP
+Darko Brašanac,4accb7e0,rsSRB,MF,Osasuna,27.0,1992.0,2019-2020,ESP
+Yan Brice Eteki,3d688b46,cmCMR,MF,Granada,21.0,1997.0,2019-2020,ESP
+Ante Budimir,8f3565b3,hrCRO,FW,Mallorca,28.0,1991.0,2019-2020,ESP
+Esteban Burgos,40449bbd,arARG,DF,Eibar,27.0,1992.0,2019-2020,ESP
+Burgui,45e304c8,esESP,"FW,MF",Alavés,25.0,1993.0,2019-2020,ESP
+Oliver Burke,f631c17f,sctSCO,"MF,FW",Alavés,22.0,1997.0,2019-2020,ESP
+Sergio Busquets,5ab0ea87,esESP,MF,Barcelona,31.0,1988.0,2019-2020,ESP
+Unai Bustinza,f3112790,esESP,DF,Leganés,27.0,1992.0,2019-2020,ESP
+Erick Cabaco,e7ab4179,uyURU,DF,Getafe,24.0,1995.0,2019-2020,ESP
+Erick Cabaco,e7ab4179,uyURU,DF,Levante,24.0,1995.0,2019-2020,ESP
+Ariday Cabrera,206b11c5,esESP,"FW,MF",Mallorca,30.0,1988.0,2019-2020,ESP
+Leandro Cabrera,69cbc8b6,uyURU,DF,Getafe,28.0,1991.0,2019-2020,ESP
+Leandro Cabrera,69cbc8b6,uyURU,DF,Espanyol,28.0,1991.0,2019-2020,ESP
+Fernando Calero,41b3069f,esESP,DF,Espanyol,23.0,1995.0,2019-2020,ESP
+Jonathan Calleri,6922f806,arARG,FW,Espanyol,25.0,1993.0,2019-2020,ESP
+Víctor Camarasa,b2d03887,esESP,MF,Alavés,25.0,1994.0,2019-2020,ESP
+Sergio Camello,873619c6,esESP,FW,Atlético Madrid,18.0,2001.0,2019-2020,ESP
+José Campaña,61220da2,esESP,MF,Levante,26.0,1993.0,2019-2020,ESP
+Xisco Campos,bd3b9a9f,esESP,DF,Mallorca,37.0,1982.0,2019-2020,ESP
+Víctor Campuzano,06983922,esESP,FW,Espanyol,22.0,1997.0,2019-2020,ESP
+Sergio Canales,a6de370d,esESP,MF,Real Betis,28.0,1991.0,2019-2020,ESP
+Ander Capa,37f1cf47,esESP,DF,Athletic Club,27.0,1992.0,2019-2020,ESP
+Marc Cardona,b92b456a,esESP,FW,Osasuna,24.0,1995.0,2019-2020,ESP
+Diego Carlos,b4a014b1,brBRA,DF,Sevilla,26.0,1993.0,2019-2020,ESP
+Yannick Carrasco,de39485a,beBEL,MF,Atlético Madrid,25.0,1993.0,2019-2020,ESP
+Daniel Carriço,e1deea75,ptPOR,DF,Sevilla,30.0,1988.0,2019-2020,ESP
+Guido Carrillo,8f898ba8,arARG,FW,Leganés,28.0,1991.0,2019-2020,ESP
+Dani Carvajal,4958bfb2,esESP,DF,Real Madrid,27.0,1992.0,2019-2020,ESP
+William Carvalho,dee86451,ptPOR,MF,Real Betis,27.0,1992.0,2019-2020,ESP
+Casemiro,4d224fe8,brBRA,MF,Real Madrid,27.0,1992.0,2019-2020,ESP
+Santi Cazorla,e2e9c250,esESP,MF,Villarreal,34.0,1984.0,2019-2020,ESP
+Sofian Chakla,37f04799,maMAR,DF,Villarreal,25.0,1993.0,2019-2020,ESP
+Charles,c4b8bcf4,brBRA,FW,Eibar,35.0,1984.0,2019-2020,ESP
+Pablo Chavarría,4207e578,arARG,FW,Mallorca,31.0,1988.0,2019-2020,ESP
+Pape Cheikh Diop,873ce3a2,snSEN,MF,Celta Vigo,21.0,1997.0,2019-2020,ESP
+Chema,7f203b54,esESP,DF,Getafe,27.0,1992.0,2019-2020,ESP
+Denis Cheryshev,0ac94a23,ruRUS,MF,Valencia,28.0,1990.0,2019-2020,ESP
+Samuel Chukwueze,b8a642fc,ngNGA,MF,Villarreal,20.0,1999.0,2019-2020,ESP
+Churripi,81a606fc,esESP,GK,Valladolid,25.0,1994.0,2019-2020,ESP
+Jasper Cillessen,04ac8285,nlNED,GK,Valencia,30.0,1989.0,2019-2020,ESP
+Óscar Clemente,9dfdbdeb,esESP,MF,Atlético Madrid,20.0,1999.0,2019-2020,ESP
+Carlos Clerc,33a61a52,esESP,DF,Levante,27.0,1992.0,2019-2020,ESP
+Coke,6d8f8441,esESP,DF,Levante,32.0,1987.0,2019-2020,ESP
+Álex Collado,85dace26,esESP,MF,Barcelona,20.0,1999.0,2019-2020,ESP
+Francis Coquelin,a6951bf8,frFRA,MF,Valencia,28.0,1991.0,2019-2020,ESP
+Sébastien Corchia,0e7ccfc4,frFRA,DF,Espanyol,28.0,1990.0,2019-2020,ESP
+Iñigo Córdoba,49ea92be,esESP,MF,Athletic Club,22.0,1997.0,2019-2020,ESP
+Ángel Correa,01eb744d,arARG,"MF,FW",Atlético Madrid,24.0,1995.0,2019-2020,ESP
+Rober Correa,46bd3a5b,esESP,DF,Eibar,26.0,1992.0,2019-2020,ESP
+Thierry Correia,c78b352d,ptPOR,DF,Valencia,20.0,1999.0,2019-2020,ESP
+Antonio Cortés,31a1288d,esESP,"MF,FW",Granada,19.0,2000.0,2019-2020,ESP
+Diego Costa,a190d597,esESP,FW,Atlético Madrid,30.0,1988.0,2019-2020,ESP
+Jaume Costa,808d48f3,esESP,DF,Valencia,31.0,1988.0,2019-2020,ESP
+David Costas,545e2f01,esESP,DF,Celta Vigo,24.0,1995.0,2019-2020,ESP
+Thibaut Courtois,1840e36d,beBEL,GK,Real Madrid,27.0,1992.0,2019-2020,ESP
+Sebastián Cristóforo,3c05c659,uyURU,MF,Eibar,25.0,1993.0,2019-2020,ESP
+Cucho,71b47ab9,coCOL,"FW,MF",Mallorca,20.0,1999.0,2019-2020,ESP
+Marc Cucurella,1daec722,esESP,MF,Getafe,21.0,1998.0,2019-2020,ESP
+Iván Cuéllar,75751c99,esESP,GK,Leganés,35.0,1984.0,2019-2020,ESP
+Moanes Dabbur,eac044ad,ilISR,FW,Sevilla,27.0,1992.0,2019-2020,ESP
+Sergi Darder,070a3904,esESP,MF,Espanyol,25.0,1993.0,2019-2020,ESP
+Ousmane Dembélé,b19db005,frFRA,"FW,MF",Barcelona,22.0,1997.0,2019-2020,ESP
+Deyverson,2e5e846d,brBRA,FW,Getafe,28.0,1991.0,2019-2020,ESP
+Mouctar Diakhaby,d2110326,gnGUI,DF,Valencia,22.0,1996.0,2019-2020,ESP
+Brahim Díaz,407feb71,maMAR,"FW,MF",Real Madrid,19.0,1999.0,2019-2020,ESP
+Víctor Díaz,3624ce4c,esESP,DF,Granada,31.0,1988.0,2019-2020,ESP
+Papakouli Diop,7329018e,snSEN,MF,Eibar,33.0,1986.0,2019-2020,ESP
+Djené,a4971d84,tgTOG,DF,Getafe,27.0,1991.0,2019-2020,ESP
+Naïs Djouahra,3594a357,frFRA,MF,Real Sociedad,19.0,1999.0,2019-2020,ESP
+Marko Dmitrović,ac295d9e,rsSRB,GK,Eibar,27.0,1992.0,2019-2020,ESP
+Jaume Doménech,c9cb972b,esESP,GK,Valencia,28.0,1990.0,2019-2020,ESP
+Domingos Duarte,93090f69,ptPOR,DF,Granada,24.0,1995.0,2019-2020,ESP
+Óscar Duarte,aa0ac32d,crCRC,DF,Levante,30.0,1989.0,2019-2020,ESP
+Rubén Duarte,1fe0492d,esESP,DF,Alavés,23.0,1995.0,2019-2020,ESP
+Hugo Duro,37e103f8,esESP,FW,Getafe,19.0,1999.0,2019-2020,ESP
+Aritz Elustondo,f7dc2ae5,esESP,DF,Real Sociedad,25.0,1994.0,2019-2020,ESP
+Rodrigo Ely,fd47b4f2,brBRA,DF,Alavés,25.0,1993.0,2019-2020,ESP
+Adri Embarba,db8f0eba,esESP,"MF,FW",Espanyol,27.0,1992.0,2019-2020,ESP
+Emerson,df8b52a5,brBRA,DF,Real Betis,20.0,1999.0,2019-2020,ESP
+Youssef En-Nesyri,04e17fd5,maMAR,FW,Leganés,22.0,1997.0,2019-2020,ESP
+Youssef En-Nesyri,04e17fd5,maMAR,FW,Sevilla,22.0,1997.0,2019-2020,ESP
+Sergi Enrich,bb4b1242,esESP,FW,Eibar,29.0,1990.0,2019-2020,ESP
+Javier Eraso,aec0fb6f,esESP,MF,Leganés,29.0,1990.0,2019-2020,ESP
+Gonzalo Escalante,3f79a1c8,arARG,MF,Eibar,26.0,1993.0,2019-2020,ESP
+Aarón Escandell,67669ce7,esESP,GK,Granada,23.0,1995.0,2019-2020,ESP
+Sergio Escudero,b0616e3d,esESP,DF,Sevilla,29.0,1989.0,2019-2020,ESP
+Bernardo Espinosa,4242011c,coCOL,DF,Espanyol,30.0,1989.0,2019-2020,ESP
+Vicente Esquerdo,ced26057,esESP,MF,Valencia,20.0,1999.0,2019-2020,ESP
+Pervis Estupiñán,d38fdf53,ecECU,DF,Osasuna,21.0,1998.0,2019-2020,ESP
+Oghenekaro Etebo,b579e83d,ngNGA,MF,Getafe,23.0,1995.0,2019-2020,ESP
+Beñat Etxebarria,b037bd4f,esESP,MF,Athletic Club,32.0,1987.0,2019-2020,ESP
+Xabier Etxeita,4a895384,esESP,DF,Getafe,31.0,1987.0,2019-2020,ESP
+Edu Expósito,283c7121,esESP,MF,Eibar,22.0,1996.0,2019-2020,ESP
+Fabricio,af245161,esESP,GK,Mallorca,31.0,1987.0,2019-2020,ESP
+Fayçal Fajr,79135368,maMAR,MF,Getafe,30.0,1988.0,2019-2020,ESP
+Eliseo Falcon,904cd50d,esESP,DF,Levante,22.0,1997.0,2019-2020,ESP
+Ansu Fati,0ba976e4,esESP,"FW,MF",Barcelona,16.0,2002.0,2019-2020,ESP
+Aleix Febas,38126309,esESP,MF,Mallorca,23.0,1996.0,2019-2020,ESP
+Zouhair Feddal,89151b16,maMAR,DF,Real Betis,30.0,1989.0,2019-2020,ESP
+Ljubomir Fejsa,874d7a32,rsSRB,MF,Alavés,30.0,1988.0,2019-2020,ESP
+Nabil Fekir,bece776f,frFRA,"MF,FW",Real Betis,26.0,1993.0,2019-2020,ESP
+Felipe,51a3c4c8,brBRA,DF,Atlético Madrid,30.0,1989.0,2019-2020,ESP
+João Félix,8aafd64f,ptPOR,"FW,MF",Atlético Madrid,19.0,1999.0,2019-2020,ESP
+Matheus Fernandes,f76fdcd2,brBRA,MF,Valladolid,21.0,1998.0,2019-2020,ESP
+Aitor Fernández,a01c3d54,esESP,GK,Levante,28.0,1991.0,2019-2020,ESP
+Andrés Fernández,307fcd26,esESP,GK,Villarreal,32.0,1986.0,2019-2020,ESP
+Carlos Fernández,e08647d6,esESP,"MF,FW",Granada,23.0,1996.0,2019-2020,ESP
+Gabriel Fernández,36c5f77b,uyURU,FW,Celta Vigo,25.0,1994.0,2019-2020,ESP
+Joaquín Fernández,b86a64b2,esESP,"MF,DF",Valladolid,23.0,1996.0,2019-2020,ESP
+Fernando,41f32541,brBRA,MF,Sevilla,32.0,1987.0,2019-2020,ESP
+Facundo Ferreyra,b39a793e,arARG,FW,Espanyol,28.0,1991.0,2019-2020,ESP
+Junior Firpo,24f59bb2,doDOM,DF,Barcelona,22.0,1996.0,2019-2020,ESP
+Alessandro Florenzi,e288d4b3,itITA,"DF,MF",Valencia,28.0,1991.0,2019-2020,ESP
+Hernâni Fortes,2327c29e,ptPOR,"MF,FW",Levante,27.0,1991.0,2019-2020,ESP
+Dimitri Foulquier,45e17712,frFRA,"DF,MF",Granada,26.0,1993.0,2019-2020,ESP
+Jorge de Frutos,38ce1150,esESP,"FW,MF",Valladolid,22.0,1997.0,2019-2020,ESP
+Ramiro Funes Mori,89cbc961,arARG,DF,Villarreal,28.0,1991.0,2019-2020,ESP
+Enric Gallego,82e9b89d,esESP,FW,Osasuna,32.0,1986.0,2019-2020,ESP
+Enric Gallego,82e9b89d,esESP,FW,Getafe,32.0,1986.0,2019-2020,ESP
+Kévin Gameiro,42276181,frFRA,FW,Valencia,32.0,1987.0,2019-2020,ESP
+Fran Gámez,2e3406ae,esESP,DF,Mallorca,28.0,1991.0,2019-2020,ESP
+Ezequiel Garay,ac3fb1be,arARG,DF,Valencia,32.0,1986.0,2019-2020,ESP
+Dani García,240d3a0b,esESP,MF,Athletic Club,29.0,1990.0,2019-2020,ESP
+David García,3e42f707,esESP,DF,Osasuna,25.0,1994.0,2019-2020,ESP
+Javi García,167c1bb0,esESP,MF,Real Betis,32.0,1987.0,2019-2020,ESP
+Manu García,05a4465d,esESP,MF,Alavés,33.0,1986.0,2019-2020,ESP
+Raúl García,1a317a1b,esESP,DF,Valladolid,30.0,1989.0,2019-2020,ESP
+Raúl García,b418dbd4,esESP,"MF,FW",Athletic Club,33.0,1986.0,2019-2020,ESP
+Raúl García,1a317a1b,esESP,DF,Getafe,30.0,1989.0,2019-2020,ESP
+Rubén García,5c96b017,esESP,MF,Osasuna,26.0,1993.0,2019-2020,ESP
+Unai García,4a633cfe,esESP,DF,Osasuna,27.0,1992.0,2019-2020,ESP
+Víctor García,6636496a,esESP,MF,Valladolid,21.0,1997.0,2019-2020,ESP
+Manuel Garrido,f814eccb,esESP,FW,Leganés,18.0,2000.0,2019-2020,ESP
+Mario Gaspar,fb5d47b3,esESP,DF,Villarreal,28.0,1990.0,2019-2020,ESP
+Bryan Gil,7b5ab7f2,esESP,"MF,FW",Leganés,18.0,2001.0,2019-2020,ESP
+Bryan Gil,7b5ab7f2,esESP,"FW,MF",Sevilla,18.0,2001.0,2019-2020,ESP
+Ibai Gómez,9d2a3d5f,esESP,MF,Athletic Club,29.0,1989.0,2019-2020,ESP
+Maxi Gómez,4c2e9442,uyURU,FW,Valencia,22.0,1996.0,2019-2020,ESP
+Moi Gómez,5a626448,esESP,"MF,FW",Villarreal,25.0,1994.0,2019-2020,ESP
+Sergi Gómez,bc6f5f06,esESP,DF,Sevilla,27.0,1992.0,2019-2020,ESP
+Victor Gomez,b7de5bad,esESP,"MF,DF",Espanyol,19.0,2000.0,2019-2020,ESP
+Maxime Gonalons,b8c1de25,frFRA,MF,Granada,30.0,1989.0,2019-2020,ESP
+Bruno González,f11fe861,esESP,DF,Getafe,29.0,1990.0,2019-2020,ESP
+Bruno González,f11fe861,esESP,DF,Levante,29.0,1990.0,2019-2020,ESP
+Édgar González,49d028db,esESP,MF,Real Betis,22.0,1997.0,2019-2020,ESP
+Gonzalo,cca05da8,esESP,DF,Levante,22.0,1997.0,2019-2020,ESP
+Andoni Gorosabel,6f5f82c0,esESP,"DF,MF",Real Sociedad,22.0,1996.0,2019-2020,ESP
+Esteban Granero,1b17ed86,esESP,MF,Espanyol,32.0,1987.0,2019-2020,ESP
+Antoine Griezmann,df69b544,frFRA,FW,Barcelona,28.0,1991.0,2019-2020,ESP
+Andrés Guardado,ef322658,mxMEX,MF,Real Betis,32.0,1986.0,2019-2020,ESP
+Sergi Guardiola,32974271,esESP,FW,Valladolid,28.0,1991.0,2019-2020,ESP
+Nemanja Gudelj,0076ab7f,rsSRB,"MF,DF",Sevilla,27.0,1991.0,2019-2020,ESP
+Gonçalo Guedes,e6bc67d7,ptPOR,MF,Valencia,22.0,1996.0,2019-2020,ESP
+Adrián Guerrero,58a3a572,esESP,DF,Valencia,21.0,1998.0,2019-2020,ESP
+Ander Guevara,8e48dc61,esESP,MF,Real Sociedad,22.0,1997.0,2019-2020,ESP
+John Guidetti,99bebd12,seSWE,FW,Alavés,27.0,1992.0,2019-2020,ESP
+Hugo Guillamón,f7c12fbf,esESP,DF,Valencia,19.0,2000.0,2019-2020,ESP
+Munir El Haddadi,8696bc90,maMAR,FW,Sevilla,23.0,1995.0,2019-2020,ESP
+Eden Hazard,a39bb753,beBEL,"FW,MF",Real Madrid,28.0,1991.0,2019-2020,ESP
+Mario Hermoso,555f3a0b,esESP,DF,Atlético Madrid,24.0,1995.0,2019-2020,ESP
+Aridane Hernández,132ac341,esESP,DF,Osasuna,30.0,1989.0,2019-2020,ESP
+Javier Hernández,189cee7b,mxMEX,FW,Sevilla,31.0,1988.0,2019-2020,ESP
+Juan Hernández,1fc3c3d7,esESP,FW,Celta Vigo,24.0,1994.0,2019-2020,ESP
+Héctor Herrera,a8542814,mxMEX,MF,Atlético Madrid,29.0,1990.0,2019-2020,ESP
+Sergio Herrera,a4995f48,esESP,GK,Osasuna,26.0,1993.0,2019-2020,ESP
+Yangel Herrera,5083a734,veVEN,MF,Granada,21.0,1998.0,2019-2020,ESP
+Iago Herrerín,9109185e,esESP,GK,Athletic Club,31.0,1988.0,2019-2020,ESP
+Pablo Hervías,ba5a9545,esESP,"MF,FW",Valladolid,26.0,1993.0,2019-2020,ESP
+Robert Ibáñez,c7429db3,esESP,MF,Osasuna,26.0,1993.0,2019-2020,ESP
+Vicente Iborra,ad1ffcfd,esESP,MF,Villarreal,31.0,1988.0,2019-2020,ESP
+Borja Iglesias,75645f0e,esESP,FW,Real Betis,26.0,1993.0,2019-2020,ESP
+Asier Illarramendi,5ce0b5ba,esESP,MF,Real Sociedad,29.0,1990.0,2019-2020,ESP
+Takashi Inui,61bd33d0,jpJPN,MF,Eibar,31.0,1988.0,2019-2020,ESP
+Alexander Isak,8e92be30,seSWE,FW,Real Sociedad,19.0,1999.0,2019-2020,ESP
+Isco,a0b4bb3e,esESP,"FW,MF",Real Madrid,27.0,1992.0,2019-2020,ESP
+Ismael,19cdceb0,esESP,MF,Real Betis,18.0,2000.0,2019-2020,ESP
+Ander Iturraspe,6dce77a5,esESP,MF,Espanyol,30.0,1989.0,2019-2020,ESP
+Jacobo,09e81276,esESP,MF,Celta Vigo,22.0,1997.0,2019-2020,ESP
+Adnan Januzaj,4737cebe,beBEL,"MF,FW",Real Sociedad,24.0,1995.0,2019-2020,ESP
+Jason,9038c2a1,esESP,MF,Getafe,25.0,1994.0,2019-2020,ESP
+Joaquín,4c5b14d2,esESP,MF,Real Betis,38.0,1981.0,2019-2020,ESP
+Frenkie de Jong,1bacc518,nlNED,MF,Barcelona,22.0,1997.0,2019-2020,ESP
+Luuk de Jong,abb3bb95,nlNED,FW,Sevilla,28.0,1990.0,2019-2020,ESP
+Joan Jordán,2a0c8ba4,esESP,MF,Sevilla,25.0,1994.0,2019-2020,ESP
+Willian José,d87e2cae,brBRA,FW,Real Sociedad,27.0,1991.0,2019-2020,ESP
+Joselu,6265208f,esESP,FW,Alavés,29.0,1990.0,2019-2020,ESP
+Luka Jović,4d8cd038,rsSRB,FW,Real Madrid,21.0,1997.0,2019-2020,ESP
+Juanmi,84399660,esESP,MF,Real Betis,26.0,1993.0,2019-2020,ESP
+David Juncà,de7d40d6,esESP,DF,Celta Vigo,25.0,1993.0,2019-2020,ESP
+Lago Junior,360d70f8,ciCIV,"MF,FW",Mallorca,28.0,1990.0,2019-2020,ESP
+Vinicius Júnior,7111d552,brBRA,"MF,FW",Real Madrid,19.0,2000.0,2019-2020,ESP
+Lee Kang-in,8455ad90,krKOR,"MF,FW",Valencia,18.0,2001.0,2019-2020,ESP
+Wilfrid Kaptoum,d717630e,cmCMR,MF,Real Betis,23.0,1996.0,2019-2020,ESP
+Kenedy,5eebbfdf,brBRA,MF,Getafe,23.0,1996.0,2019-2020,ESP
+Kiké,e897d8ba,esESP,FW,Eibar,29.0,1989.0,2019-2020,ESP
+Giorgi Kochorashvili,3da1b6ed,geGEO,MF,Levante,20.0,1999.0,2019-2020,ESP
+Kenan Kodro,e82d2807,baBIH,"FW,MF",Athletic Club,25.0,1993.0,2019-2020,ESP
+Koke,55126f3b,esESP,MF,Atlético Madrid,27.0,1992.0,2019-2020,ESP
+Geoffrey Kondogbia,cce181df,cfCTA,MF,Valencia,26.0,1993.0,2019-2020,ESP
+Jules Koundé,4d1666ff,frFRA,DF,Sevilla,20.0,1998.0,2019-2020,ESP
+Leonardo Koutris,114b510e,grGRE,DF,Mallorca,24.0,1995.0,2019-2020,ESP
+İsmail Köybaşı,58640e66,trTUR,MF,Granada,30.0,1989.0,2019-2020,ESP
+Toni Kroos,6ce1f46f,deGER,MF,Real Madrid,29.0,1990.0,2019-2020,ESP
+Takefusa Kubo,16aa3654,jpJPN,"MF,FW",Mallorca,18.0,2001.0,2019-2020,ESP
+Víctor Laguardia,b7c99b9b,esESP,DF,Alavés,29.0,1989.0,2019-2020,ESP
+Diego Lainez,bf12926c,mxMEX,"MF,FW",Real Betis,19.0,2000.0,2019-2020,ESP
+Larra,0d690336,esESP,MF,Athletic Club,21.0,1997.0,2019-2020,ESP
+Toni Lato,8e088e04,esESP,"DF,MF",Osasuna,21.0,1997.0,2019-2020,ESP
+Robin Le Normand,9a64e67e,esESP,DF,Real Sociedad,22.0,1996.0,2019-2020,ESP
+Wu Lei,e3fabb0a,cnCHN,"FW,MF",Espanyol,27.0,1991.0,2019-2020,ESP
+Iñigo Lekue,59b7d823,esESP,"MF,DF",Athletic Club,26.0,1993.0,2019-2020,ESP
+Thomas Lemar,4dbd0916,frFRA,"MF,FW",Atlético Madrid,23.0,1995.0,2019-2020,ESP
+Clément Lenglet,4f28a6ff,frFRA,DF,Barcelona,24.0,1995.0,2019-2020,ESP
+Pedro León,d66b9872,esESP,MF,Eibar,32.0,1986.0,2019-2020,ESP
+Sergio León,0a0cc13c,esESP,FW,Levante,30.0,1989.0,2019-2020,ESP
+Lillo,476ca810,esESP,DF,Osasuna,30.0,1989.0,2019-2020,ESP
+Diego Llorente,bba30585,esESP,DF,Real Sociedad,25.0,1993.0,2019-2020,ESP
+Marcos Llorente,02c15616,esESP,"MF,FW",Atlético Madrid,24.0,1995.0,2019-2020,ESP
+Stanislav Lobotka,e1cbb531,skSVK,MF,Celta Vigo,24.0,1994.0,2019-2020,ESP
+Renan Lodi,ed9f7cfe,brBRA,DF,Atlético Madrid,21.0,1998.0,2019-2020,ESP
+Rony Lopes,7c2965bb,ptPOR,FW,Sevilla,23.0,1995.0,2019-2020,ESP
+Adrián López,88a359d4,esESP,"FW,MF",Osasuna,31.0,1988.0,2019-2020,ESP
+David López,f03f284b,esESP,"MF,DF",Espanyol,29.0,1989.0,2019-2020,ESP
+Diego López,73683fa9,esESP,GK,Espanyol,37.0,1981.0,2019-2020,ESP
+Javi López,e9ada8cf,esESP,DF,Alavés,17.0,2002.0,2019-2020,ESP
+Javi López,ffad706e,esESP,DF,Espanyol,33.0,1986.0,2019-2020,ESP
+Lluis López,a685f013,esESP,DF,Espanyol,22.0,1997.0,2019-2020,ESP
+Roberto López,2a8c9f98,esESP,"FW,MF",Real Sociedad,19.0,2000.0,2019-2020,ESP
+Unai López,88050721,esESP,MF,Athletic Club,23.0,1995.0,2019-2020,ESP
+Iker Losada,41521385,esESP,MF,Celta Vigo,17.0,2001.0,2019-2020,ESP
+Pol Lozano,ea610f00,esESP,MF,Espanyol,19.0,1999.0,2019-2020,ESP
+José Luis Gayà,b05e2dbd,esESP,DF,Valencia,24.0,1995.0,2019-2020,ESP
+José Luis Morales,4a478107,esESP,"FW,MF",Levante,32.0,1987.0,2019-2020,ESP
+José Luis Rodríguez,b333b014,paPAN,"FW,MF",Alavés,21.0,1998.0,2019-2020,ESP
+Darwin Machís,ed6ea4d9,veVEN,"MF,FW",Granada,26.0,1993.0,2019-2020,ESP
+Lisandro Magallán,01a49bd2,arARG,DF,Alavés,25.0,1993.0,2019-2020,ESP
+Abdallahi Mahmoud,ab99e4a0,mrMTN,MF,Alavés,19.0,2000.0,2019-2020,ESP
+Nemanja Maksimović,00b28772,rsSRB,MF,Getafe,24.0,1995.0,2019-2020,ESP
+Hugo Mallo,cb574619,esESP,"DF,MF",Celta Vigo,28.0,1991.0,2019-2020,ESP
+Aïssa Mandi,fbd6378b,dzALG,DF,Real Betis,27.0,1991.0,2019-2020,ESP
+Eliaquim Mangala,f520049f,frFRA,DF,Valencia,28.0,1991.0,2019-2020,ESP
+Marcelo,603116a7,brBRA,DF,Real Madrid,31.0,1988.0,2019-2020,ESP
+Óscar de Marcos,9f323c71,esESP,"MF,DF",Athletic Club,30.0,1989.0,2019-2020,ESP
+Miguel Marí,d70a3661,esESP,MF,Eibar,22.0,1997.0,2019-2020,ESP
+José María Giménez,f0da930c,uyURU,DF,Atlético Madrid,24.0,1995.0,2019-2020,ESP
+Mariano,5c4dc0ff,doDOM,FW,Real Madrid,25.0,1993.0,2019-2020,ESP
+Adrián Marín,b7f2edff,esESP,DF,Alavés,22.0,1997.0,2019-2020,ESP
+Guillermo Maripán,d9764034,clCHI,DF,Alavés,25.0,1994.0,2019-2020,ESP
+Roger Martí,0ae4e09a,esESP,FW,Levante,28.0,1991.0,2019-2020,ESP
+Daniel Martín,4df0dff8,esESP,GK,Real Betis,21.0,1998.0,2019-2020,ESP
+Álex Martínez,e1c805cf,esESP,"DF,MF",Granada,28.0,1990.0,2019-2020,ESP
+Iñigo Martínez,3fc45c73,esESP,DF,Athletic Club,28.0,1991.0,2019-2020,ESP
+Javi Martínez,3672b352,esESP,MF,Osasuna,19.0,1999.0,2019-2020,ESP
+José Martínez,8e049cbd,esESP,DF,Granada,26.0,1993.0,2019-2020,ESP
+Pablo Martínez,ecc77652,esESP,MF,Levante,21.0,1998.0,2019-2020,ESP
+Jordi Masip,8fae77ea,esESP,GK,Valladolid,30.0,1989.0,2019-2020,ESP
+Jaime Mata,02319ad7,esESP,FW,Getafe,30.0,1988.0,2019-2020,ESP
+Borja Mayoral,64e8ed6d,esESP,FW,Levante,22.0,1997.0,2019-2020,ESP
+Óscar Melendo,379652be,esESP,MF,Espanyol,21.0,1997.0,2019-2020,ESP
+Gonzalo Melero,3902e91b,esESP,MF,Levante,25.0,1994.0,2019-2020,ESP
+Arthur Melo,48b3dd60,brBRA,MF,Barcelona,22.0,1996.0,2019-2020,ESP
+Brais Méndez,c9e39d91,esESP,"MF,FW",Celta Vigo,22.0,1997.0,2019-2020,ESP
+Édgar Méndez,aed746df,esESP,MF,Alavés,29.0,1990.0,2019-2020,ESP
+Ferland Mendy,3cefcaef,frFRA,DF,Real Madrid,24.0,1995.0,2019-2020,ESP
+Fran Mérida,0e50f929,esESP,MF,Osasuna,29.0,1990.0,2019-2020,ESP
+Mikel Merino,d080ed5e,esESP,MF,Real Sociedad,23.0,1996.0,2019-2020,ESP
+Sabin Merino,1d5f96d9,esESP,FW,Leganés,27.0,1992.0,2019-2020,ESP
+Roque Mesa,7c4243d4,esESP,MF,Leganés,30.0,1989.0,2019-2020,ESP
+Lionel Messi,d70ce98e,arARG,FW,Barcelona,32.0,1987.0,2019-2020,ESP
+Míchel,418f8f61,esESP,MF,Valladolid,31.0,1988.0,2019-2020,ESP
+Miguel,6763373d,esESP,FW,Valladolid,19.0,1999.0,2019-2020,ESP
+Éder Militão,2784f898,brBRA,DF,Real Madrid,21.0,1998.0,2019-2020,ESP
+Santi Mina,0b90bb97,esESP,"FW,MF",Celta Vigo,23.0,1995.0,2019-2020,ESP
+Jorge Miramón,7f4c7c9f,esESP,DF,Levante,30.0,1989.0,2019-2020,ESP
+Luka Modrić,6025fab1,hrCRO,MF,Real Madrid,33.0,1985.0,2019-2020,ESP
+Jorge Molina,43f71e77,esESP,FW,Getafe,37.0,1982.0,2019-2020,ESP
+Jon Moncayola,9939e168,esESP,"MF,DF",Osasuna,21.0,1998.0,2019-2020,ESP
+Nacho Monreal,d4cb83cc,esESP,DF,Real Sociedad,33.0,1986.0,2019-2020,ESP
+Joan Monterde,0ff67313,esESP,FW,Levante,21.0,1997.0,2019-2020,ESP
+Ángel Montoro,719384c1,esESP,MF,Granada,31.0,1988.0,2019-2020,ESP
+Álvaro Morata,129af0db,esESP,FW,Atlético Madrid,26.0,1992.0,2019-2020,ESP
+Alberto Moreno,11b9265b,esESP,DF,Villarreal,27.0,1992.0,2019-2020,ESP
+Álex Moreno,16e9d0ea,esESP,"DF,MF",Real Betis,26.0,1993.0,2019-2020,ESP
+Gerard Moreno,81f0781e,esESP,"FW,MF",Villarreal,27.0,1992.0,2019-2020,ESP
+Manu Morlanes,a0255c67,esESP,MF,Villarreal,20.0,1999.0,2019-2020,ESP
+Loren Morón,3aa4a3be,esESP,FW,Real Betis,25.0,1993.0,2019-2020,ESP
+Toni Moya,9e098912,esESP,MF,Atlético Madrid,21.0,1998.0,2019-2020,ESP
+Javi Moyano,933e8c8a,esESP,DF,Valladolid,33.0,1986.0,2019-2020,ESP
+Iker Muniain,c05dfb74,esESP,MF,Athletic Club,26.0,1992.0,2019-2020,ESP
+Aihen Muñoz,228b0d9d,esESP,DF,Real Sociedad,21.0,1997.0,2019-2020,ESP
+Javier Muñoz,ec7c84c2,esESP,MF,Alavés,24.0,1995.0,2019-2020,ESP
+Jeison Murillo,b233e8e4,coCOL,DF,Celta Vigo,27.0,1992.0,2019-2020,ESP
+Nacho,e29d1111,esESP,DF,Valladolid,30.0,1989.0,2019-2020,ESP
+Nacho,2946f9a1,esESP,DF,Real Madrid,29.0,1990.0,2019-2020,ESP
+Naldo,a2609621,brBRA,DF,Espanyol,30.0,1988.0,2019-2020,ESP
+Marc Navarro,c2846353,esESP,MF,Leganés,24.0,1995.0,2019-2020,ESP
+Ximo Navarro,8db394aa,esESP,DF,Alavés,29.0,1990.0,2019-2020,ESP
+Jesús Navas,3f10bd22,esESP,DF,Sevilla,33.0,1985.0,2019-2020,ESP
+Raúl Navas,ad178594,esESP,DF,Osasuna,31.0,1988.0,2019-2020,ESP
+Neto,a9dc785c,brBRA,GK,Barcelona,30.0,1989.0,2019-2020,ESP
+Carlos Neva,8d47bb39,esESP,DF,Granada,23.0,1996.0,2019-2020,ESP
+Saúl Ñíguez,c14bc029,esESP,MF,Atlético Madrid,24.0,1994.0,2019-2020,ESP
+Fernando Niño,81d5c497,esESP,FW,Villarreal,18.0,2000.0,2019-2020,ESP
+Nolito,b2d0ec1b,esESP,FW,Sevilla,32.0,1986.0,2019-2020,ESP
+Nolito,b2d0ec1b,esESP,MF,Celta Vigo,32.0,1986.0,2019-2020,ESP
+Unai Núñez,be170419,esESP,DF,Athletic Club,22.0,1997.0,2019-2020,ESP
+Allan Nyom,97572117,cmCMR,"DF,MF",Getafe,31.0,1988.0,2019-2020,ESP
+Jan Oblak,ee8508c0,siSVN,GK,Atlético Madrid,26.0,1993.0,2019-2020,ESP
+Rafel Obrador,949c3655,esESP,DF,Mallorca,15.0,2004.0,2019-2020,ESP
+Lucas Ocampos,a08b974a,arARG,FW,Sevilla,25.0,1994.0,2019-2020,ESP
+Álvaro Odriozola,1d1691ad,esESP,DF,Real Madrid,23.0,1995.0,2019-2020,ESP
+Lucas Olaza,4cee5954,uyURU,"DF,MF",Celta Vigo,25.0,1994.0,2019-2020,ESP
+Oier Olazábal,b5bdf144,esESP,GK,Espanyol,29.0,1989.0,2019-2020,ESP
+Kiko Olivas,72b07a9c,esESP,DF,Valladolid,30.0,1988.0,2019-2020,ESP
+Paulo Oliveira,a8fbae1d,ptPOR,DF,Eibar,27.0,1992.0,2019-2020,ESP
+Mathías Olivera,41c12f75,uyURU,DF,Getafe,21.0,1997.0,2019-2020,ESP
+Kenneth Omeruo,0f0aa5b4,ngNGA,DF,Leganés,25.0,1993.0,2019-2020,ESP
+Javier Ontiveros,a83d8b0c,esESP,MF,Villarreal,21.0,1997.0,2019-2020,ESP
+Fabián Orellana,c90977db,clCHI,"MF,FW",Eibar,33.0,1986.0,2019-2020,ESP
+Aimar Oroz,7c363088,esESP,MF,Osasuna,17.0,2001.0,2019-2020,ESP
+Mikel Oyarzabal,8c3c640c,esESP,"MF,FW",Real Sociedad,22.0,1997.0,2019-2020,ESP
+Fernando Pacheco,97852360,esESP,GK,Alavés,27.0,1992.0,2019-2020,ESP
+Jon Pacheco,44150beb,esESP,DF,Real Sociedad,18.0,2001.0,2019-2020,ESP
+Daniel Parejo,7460ca0d,esESP,MF,Valencia,30.0,1989.0,2019-2020,ESP
+Miquel Parera,f9b42381,esESP,GK,Mallorca,23.0,1996.0,2019-2020,ESP
+Thomas Partey,529f49ab,ghGHA,MF,Atlético Madrid,26.0,1993.0,2019-2020,ESP
+Paulino,f20fce1b,esESP,MF,Alavés,22.0,1997.0,2019-2020,ESP
+Gabriel Paulista,b7ca5c51,brBRA,DF,Valencia,28.0,1990.0,2019-2020,ESP
+Alfonso Pedraza,63f04c6c,esESP,"DF,MF",Real Betis,23.0,1996.0,2019-2020,ESP
+Marc Pedraza,ff8f26ef,esESP,MF,Mallorca,32.0,1987.0,2019-2020,ESP
+Adrià Pedrosa,112521d1,esESP,"MF,DF",Espanyol,21.0,1998.0,2019-2020,ESP
+Rubén Peña,1f079188,esESP,DF,Villarreal,28.0,1991.0,2019-2020,ESP
+Luis Perea,8dc6dbb3,esESP,MF,Osasuna,21.0,1997.0,2019-2020,ESP
+Carles Pérez,a8f21b9f,esESP,FW,Barcelona,21.0,1998.0,2019-2020,ESP
+Iñigo Pérez,bc61cc65,esESP,MF,Osasuna,31.0,1988.0,2019-2020,ESP
+Juan Pérez,8f29e08b,esESP,GK,Osasuna,23.0,1996.0,2019-2020,ESP
+Kike Pérez,237a3851,esESP,MF,Valladolid,22.0,1997.0,2019-2020,ESP
+Lucas Pérez,a300ac7e,esESP,FW,Alavés,30.0,1988.0,2019-2020,ESP
+Rubén Pérez,3c7bc9bd,esESP,MF,Leganés,30.0,1989.0,2019-2020,ESP
+Samu Pérez,aae17c81,esESP,GK,Valladolid,22.0,1997.0,2019-2020,ESP
+Pablo Piatti,48e89655,arARG,"FW,MF",Espanyol,30.0,1989.0,2019-2020,ESP
+Cristiano Piccini,32c0491f,itITA,DF,Valencia,26.0,1992.0,2019-2020,ESP
+Tomás Pina Isla,e54bd0a2,esESP,MF,Alavés,31.0,1987.0,2019-2020,ESP
+Pipa,10f1cd17,esESP,"DF,MF",Espanyol,21.0,1998.0,2019-2020,ESP
+Gerard Piqué,adfc9123,esESP,DF,Barcelona,32.0,1987.0,2019-2020,ESP
+Óscar Plano,7c388b20,esESP,MF,Valladolid,28.0,1991.0,2019-2020,ESP
+Pere Pons,29b61deb,esESP,MF,Alavés,26.0,1993.0,2019-2020,ESP
+Pedro Porro,27d0a506,esESP,"DF,MF",Valladolid,19.0,1999.0,2019-2020,ESP
+Francisco Portillo,8e010ff4,esESP,MF,Getafe,29.0,1990.0,2019-2020,ESP
+Portu,1bda5842,esESP,"MF,FW",Real Sociedad,27.0,1992.0,2019-2020,ESP
+Sergio Postigo,474ecac8,esESP,DF,Levante,30.0,1988.0,2019-2020,ESP
+Florent Poulolo,07129f3c,mqMTQ,DF,Getafe,22.0,1997.0,2019-2020,ESP
+Darío Poveda,cbdf7d5c,esESP,FW,Atlético Madrid,22.0,1997.0,2019-2020,ESP
+Alejandro Pozo Pozo,3c16d927,esESP,"DF,MF",Mallorca,20.0,1999.0,2019-2020,ESP
+Alejandro Pozo Pozo,3c16d927,esESP,"DF,MF",Sevilla,20.0,1999.0,2019-2020,ESP
+Abdón Prats,d1b060e2,esESP,FW,Mallorca,26.0,1992.0,2019-2020,ESP
+Antonio Puertas,c77a8043,esESP,MF,Granada,27.0,1992.0,2019-2020,ESP
+Riqui Puig,f090a37a,esESP,MF,Barcelona,19.0,1999.0,2019-2020,ESP
+Quini,7a538238,esESP,DF,Granada,29.0,1989.0,2019-2020,ESP
+Xavi Quintillà,84fb6aff,esESP,DF,Villarreal,22.0,1996.0,2019-2020,ESP
+Quique,c966fce1,esESP,FW,Eibar,29.0,1990.0,2019-2020,ESP
+Nemanja Radoja,b5dd3469,rsSRB,MF,Levante,26.0,1993.0,2019-2020,ESP
+Rafinha,0c2ac3cb,brBRA,FW,Barcelona,26.0,1993.0,2019-2020,ESP
+Rafinha,0c2ac3cb,brBRA,MF,Celta Vigo,26.0,1993.0,2019-2020,ESP
+Baba Rahman,e4086af3,ghGHA,DF,Mallorca,25.0,1994.0,2019-2020,ESP
+Antonio Raillo,b857bd29,esESP,DF,Mallorca,27.0,1991.0,2019-2020,ESP
+Ivan Rakitić,89f951b5,hrCRO,MF,Barcelona,31.0,1988.0,2019-2020,ESP
+Sandro Ramírez,833fb62e,esESP,FW,Valladolid,24.0,1995.0,2019-2020,ESP
+Iván Ramis,d2be40f2,esESP,DF,Eibar,34.0,1984.0,2019-2020,ESP
+Adrián Ramos,c693cf7c,coCOL,"MF,FW",Granada,33.0,1986.0,2019-2020,ESP
+Sergio Ramos,08511d65,esESP,DF,Real Madrid,33.0,1986.0,2019-2020,ESP
+Raúl,18f0a9f0,esESP,FW,Real Betis,18.0,2000.0,2019-2020,ESP
+Recio,54073b28,esESP,MF,Leganés,28.0,1991.0,2019-2020,ESP
+Sergio Reguilón,3353737a,esESP,DF,Sevilla,22.0,1996.0,2019-2020,ESP
+Manolo Reina,605eb473,esESP,GK,Mallorca,34.0,1985.0,2019-2020,ESP
+Álex Remiro,374ee424,esESP,GK,Real Sociedad,24.0,1995.0,2019-2020,ESP
+Nico Ribaudo,ce8039aa,esESP,MF,Espanyol,18.0,2001.0,2019-2020,ESP
+Luis Rioja,eb3dd471,esESP,MF,Alavés,25.0,1993.0,2019-2020,ESP
+Rodrigo Riquelme,65154df0,esESP,MF,Atlético Madrid,19.0,2000.0,2019-2020,ESP
+Cristian Rivera,8ef81d2d,esESP,MF,Leganés,22.0,1997.0,2019-2020,ESP
+Rober,c00097d2,esESP,DF,Levante,24.0,1995.0,2019-2020,ESP
+Roberto,ba3ca78f,esESP,GK,Alavés,33.0,1986.0,2019-2020,ESP
+Sergi Roberto,335fa267,esESP,"DF,MF",Barcelona,27.0,1992.0,2019-2020,ESP
+Joel Robles,cda0b317,esESP,GK,Real Betis,29.0,1990.0,2019-2020,ESP
+Marc Roca,da27e268,esESP,MF,Espanyol,22.0,1996.0,2019-2020,ESP
+Rubén Rochina,ecd8c01e,esESP,MF,Levante,28.0,1991.0,2019-2020,ESP
+Rodrigo,1fb1c435,esESP,FW,Valencia,28.0,1991.0,2019-2020,ESP
+Kévin Rodrigues,f1bed920,ptPOR,"MF,DF",Leganés,25.0,1994.0,2019-2020,ESP
+Kévin Rodrigues,f1bed920,ptPOR,"DF,MF",Real Sociedad,25.0,1994.0,2019-2020,ESP
+Ángel Rodríguez,8cfc2f69,esESP,FW,Getafe,32.0,1987.0,2019-2020,ESP
+Óscar Rodríguez Arnaiz,19709006,esESP,"MF,FW",Leganés,21.0,1998.0,2019-2020,ESP
+Dani Rodríguez,70f8e0bd,esESP,"MF,FW",Mallorca,31.0,1988.0,2019-2020,ESP
+Guido Rodríguez,34e393f2,arARG,MF,Real Betis,25.0,1994.0,2019-2020,ESP
+James Rodríguez,715bf047,coCOL,"MF,FW",Real Madrid,28.0,1991.0,2019-2020,ESP
+Mario Rodriguez,a5cdedc7,esESP,FW,Granada,22.0,1997.0,2019-2020,ESP
+Rodrygo,8f5e92a6,brBRA,FW,Real Madrid,18.0,2001.0,2019-2020,ESP
+Luka Romero,ca6edaa0,arARG,MF,Mallorca,14.0,2004.0,2019-2020,ESP
+Facundo Roncaglia,51e3954c,arARG,DF,Osasuna,32.0,1987.0,2019-2020,ESP
+Roberto Rosales,81069528,veVEN,"DF,MF",Leganés,30.0,1988.0,2019-2020,ESP
+Rubén,24279b8b,esESP,GK,Osasuna,35.0,1984.0,2019-2020,ESP
+Waldo Rubio,ccaa5728,esESP,"MF,FW",Valladolid,23.0,1995.0,2019-2020,ESP
+Aitor Ruibal,a55d8df5,esESP,"MF,DF",Leganés,23.0,1996.0,2019-2020,ESP
+Jorge Sáenz,bfca375c,esESP,DF,Celta Vigo,22.0,1996.0,2019-2020,ESP
+Borja Sainz,1b40049a,esESP,MF,Alavés,18.0,2001.0,2019-2020,ESP
+Yannis Salibur,bb4a42be,frFRA,"FW,MF",Mallorca,28.0,1991.0,2019-2020,ESP
+Mohammed Salisu,0b33f6ad,ghGHA,DF,Valladolid,20.0,1999.0,2019-2020,ESP
+Fede San Emeterio,efecd633,esESP,MF,Valladolid,22.0,1997.0,2019-2020,ESP
+Mikel San José,003a5c72,esESP,MF,Athletic Club,30.0,1989.0,2019-2020,ESP
+Oihan Sancet,bdb624a3,esESP,MF,Athletic Club,19.0,2000.0,2019-2020,ESP
+Germán Sánchez,ea9b2ef9,esESP,DF,Granada,32.0,1986.0,2019-2020,ESP
+Javi Sánchez,60359288,esESP,DF,Valladolid,22.0,1997.0,2019-2020,ESP
+Manu Sánchez,ffacd3d5,esESP,DF,Atlético Madrid,18.0,2000.0,2019-2020,ESP
+Víctor Sánchez,ad4d0985,esESP,"MF,DF",Espanyol,31.0,1987.0,2019-2020,ESP
+Luca Sangalli,7958dc65,esESP,MF,Real Sociedad,24.0,1995.0,2019-2020,ESP
+Oier Sanjurjo,466824fb,esESP,MF,Osasuna,33.0,1986.0,2019-2020,ESP
+Ivan Šaponjić,d2aea9ac,rsSRB,FW,Atlético Madrid,21.0,1997.0,2019-2020,ESP
+Joan Sastre Vanrell,f9acf8bf,esESP,DF,Mallorca,22.0,1997.0,2019-2020,ESP
+Stefan Savić,f6ac68c1,meMNE,DF,Atlético Madrid,28.0,1991.0,2019-2020,ESP
+Aleksandar Sedlar,a35134ae,rsSRB,DF,Mallorca,27.0,1991.0,2019-2020,ESP
+Nélson Semedo,d04b94db,ptPOR,DF,Barcelona,25.0,1993.0,2019-2020,ESP
+Josep Señé,8fc259d7,esESP,MF,Mallorca,27.0,1991.0,2019-2020,ESP
+Salva Sevilla,75bd85ea,esESP,MF,Mallorca,35.0,1984.0,2019-2020,ESP
+Sidnei,b14d0c5d,brBRA,DF,Real Betis,29.0,1989.0,2019-2020,ESP
+Jonathan Silva,f2308b33,arARG,"DF,MF",Leganés,25.0,1994.0,2019-2020,ESP
+Rui Silva,ea83bfa6,ptPOR,GK,Granada,25.0,1994.0,2019-2020,ESP
+Unai Simón,5dcf3e90,esESP,GK,Athletic Club,22.0,1997.0,2019-2020,ESP
+Dimitris Siovas,92d38e6c,grGRE,DF,Leganés,30.0,1988.0,2019-2020,ESP
+Pione Sisto,fd9c4805,dkDEN,"MF,FW",Celta Vigo,24.0,1995.0,2019-2020,ESP
+Antonio Sivera,9970da54,esESP,GK,Alavés,22.0,1996.0,2019-2020,ESP
+Fyodor Smolov,cbbfa2e7,ruRUS,FW,Celta Vigo,29.0,1990.0,2019-2020,ESP
+Rafa Soares,062fc2e6,ptPOR,"DF,MF",Eibar,24.0,1995.0,2019-2020,ESP
+Rubén Sobrino,19b776e9,esESP,FW,Valencia,27.0,1992.0,2019-2020,ESP
+Roberto Soldado,9d66fbe3,esESP,FW,Granada,34.0,1985.0,2019-2020,ESP
+Carlos Soler,fed17f5a,esESP,MF,Valencia,22.0,1997.0,2019-2020,ESP
+Kévin Soni,6435143e,cmCMR,MF,Espanyol,21.0,1998.0,2019-2020,ESP
+David Soria,8f8c6934,esESP,GK,Getafe,26.0,1993.0,2019-2020,ESP
+Bruno Soriano,09332647,esESP,MF,Villarreal,35.0,1984.0,2019-2020,ESP
+Juan Soriano,5512b1a9,esESP,GK,Leganés,21.0,1997.0,2019-2020,ESP
+Damián Suárez,ba5004e1,uyURU,DF,Getafe,31.0,1988.0,2019-2020,ESP
+Denis Suárez,12c50af5,esESP,"MF,FW",Celta Vigo,25.0,1994.0,2019-2020,ESP
+Luis Suárez,a6154613,uyURU,FW,Barcelona,32.0,1987.0,2019-2020,ESP
+Ki Sung-yueng,1d8c99b0,krKOR,MF,Mallorca,30.0,1989.0,2019-2020,ESP
+Suso,4e219ad2,esESP,"FW,MF",Sevilla,25.0,1993.0,2019-2020,ESP
+Tachi,8b625720,esESP,DF,Alavés,21.0,1997.0,2019-2020,ESP
+Rodrigo Tarín,a03c82b2,esESP,DF,Leganés,23.0,1996.0,2019-2020,ESP
+Álvaro Tejero,868ce848,esESP,DF,Eibar,23.0,1996.0,2019-2020,ESP
+Cristian Tello,72a99e38,esESP,"MF,FW",Real Betis,27.0,1991.0,2019-2020,ESP
+Marc-André ter Stegen,6f51e382,deGER,GK,Barcelona,27.0,1992.0,2019-2020,ESP
+David Timor,174651c8,esESP,"MF,DF",Getafe,29.0,1989.0,2019-2020,ESP
+Jean-Clair Todibo,88f130ed,frFRA,DF,Barcelona,19.0,1999.0,2019-2020,ESP
+Karl Toko Ekambi,5ceba7fc,cmCMR,FW,Villarreal,26.0,1992.0,2019-2020,ESP
+Raúl de Tomás,02ef8778,esESP,FW,Espanyol,24.0,1994.0,2019-2020,ESP
+Toño,d4ef9ac5,esESP,DF,Levante,29.0,1989.0,2019-2020,ESP
+Ferrán Torres,9e1035f8,esESP,MF,Valencia,19.0,2000.0,2019-2020,ESP
+Óliver Torres,58a9a4d9,esESP,"MF,FW",Sevilla,24.0,1994.0,2019-2020,ESP
+Pau Torres,532e1e4f,esESP,DF,Villarreal,22.0,1997.0,2019-2020,ESP
+Roberto Torres,d733aa38,esESP,MF,Osasuna,30.0,1989.0,2019-2020,ESP
+Aleksandar Trajkovski,84bba8b6,mkMKD,MF,Mallorca,26.0,1992.0,2019-2020,ESP
+Manu Trigueros,963829d0,esESP,MF,Villarreal,27.0,1991.0,2019-2020,ESP
+Kieran Trippier,21512407,engENG,DF,Atlético Madrid,28.0,1990.0,2019-2020,ESP
+Samuel Umtiti,3eed9821,frFRA,DF,Barcelona,25.0,1993.0,2019-2020,ESP
+Enes Ünal,f8eca1b6,trTUR,FW,Valladolid,22.0,1997.0,2019-2020,ESP
+Tomáš Vaclík,7b456af7,czCZE,GK,Sevilla,30.0,1989.0,2019-2020,ESP
+Álvaro Vadillo,61b62b33,esESP,MF,Granada,24.0,1994.0,2019-2020,ESP
+Germán Valera,84f55b4a,esESP,"FW,MF",Atlético Madrid,17.0,2002.0,2019-2020,ESP
+Martin Valjent,f2c6ac01,skSVK,DF,Mallorca,23.0,1995.0,2019-2020,ESP
+Jesús Vallejo,c2111b45,esESP,DF,Granada,22.0,1997.0,2019-2020,ESP
+Manu Vallejo,0bc4e720,esESP,"MF,FW",Valencia,22.0,1997.0,2019-2020,ESP
+Federico Valverde,0959c2a2,uyURU,MF,Real Madrid,21.0,1998.0,2019-2020,ESP
+Raphaël Varane,9f8e9423,frFRA,DF,Real Madrid,26.0,1993.0,2019-2020,ESP
+Matías Vargas,ce82f116,arARG,"MF,FW",Espanyol,22.0,1997.0,2019-2020,ESP
+Franco Vázquez,467bae22,arARG,"MF,FW",Sevilla,30.0,1989.0,2019-2020,ESP
+Kevin Vázquez,ee923664,esESP,"DF,MF",Celta Vigo,26.0,1993.0,2019-2020,ESP
+Lucas Vázquez,fd51b456,esESP,"MF,FW",Real Madrid,28.0,1991.0,2019-2020,ESP
+Koke Vegas,bfb15d99,esESP,GK,Levante,23.0,1995.0,2019-2020,ESP
+Unai Vencedor Paris,4112ace5,esESP,MF,Athletic Club,18.0,2000.0,2019-2020,ESP
+Mikel Vesga,b0fce72c,esESP,MF,Athletic Club,26.0,1993.0,2019-2020,ESP
+Rúben Vezo,c67cd65c,ptPOR,DF,Levante,25.0,1994.0,2019-2020,ESP
+Fede Vico,f681a8ef,esESP,"MF,FW",Granada,25.0,1994.0,2019-2020,ESP
+Aleix Vidal,04965583,esESP,MF,Alavés,29.0,1989.0,2019-2020,ESP
+Arturo Vidal,67cdbc0e,clCHI,"MF,FW",Barcelona,32.0,1987.0,2019-2020,ESP
+Nacho Vidal,3a9c4b7b,esESP,DF,Osasuna,24.0,1995.0,2019-2020,ESP
+Dídac Vilà,bad38a94,esESP,"DF,MF",Espanyol,30.0,1989.0,2019-2020,ESP
+Toni Villa,636eae97,esESP,MF,Valladolid,24.0,1995.0,2019-2020,ESP
+Asier Villalibre,57be54ec,esESP,FW,Athletic Club,21.0,1997.0,2019-2020,ESP
+Iván Villar,cde52ef5,esESP,GK,Celta Vigo,22.0,1997.0,2019-2020,ESP
+Juan Villar,c33ee247,esESP,FW,Osasuna,31.0,1988.0,2019-2020,ESP
+Vitolo,db750822,esESP,"FW,MF",Atlético Madrid,29.0,1989.0,2019-2020,ESP
+Šime Vrsaljko,46a8347f,hrCRO,DF,Atlético Madrid,27.0,1992.0,2019-2020,ESP
+Nikola Vukčević,4442fbcd,meMNE,MF,Levante,27.0,1991.0,2019-2020,ESP
+Moussa Wagué,808df563,snSEN,DF,Barcelona,20.0,1998.0,2019-2020,ESP
+Wakaso,999908af,ghGHA,MF,Alavés,29.0,1990.0,2019-2020,ESP
+Daniel Wass,d83bbc54,dkDEN,"DF,MF",Valencia,30.0,1989.0,2019-2020,ESP
+Iñaki Williams,6a99e0b1,ghGHA,"FW,MF",Athletic Club,25.0,1994.0,2019-2020,ESP
+Yoel,61bb7498,esESP,GK,Eibar,30.0,1988.0,2019-2020,ESP
+Okay Yokuşlu,e49ce451,trTUR,MF,Celta Vigo,25.0,1994.0,2019-2020,ESP
+Joseba Zaldúa,5ca20b7a,esESP,DF,Real Sociedad,27.0,1992.0,2019-2020,ESP
+Andre-Frank Zambo Anguissa,6bb2c084,cmCMR,MF,Villarreal,23.0,1995.0,2019-2020,ESP
+Igor Zubeldia,5c7845f6,esESP,"MF,DF",Real Sociedad,22.0,1997.0,2019-2020,ESP
+Martín Zubimendi,3ee0dd59,esESP,MF,Real Sociedad,20.0,1999.0,2019-2020,ESP
+David Zurutuza,d9bda115,esESP,MF,Real Sociedad,33.0,1986.0,2019-2020,ESP
+Martin Ødegaard,79300479,noNOR,MF,Real Sociedad,20.0,1998.0,2019-2020,ESP
+Patrick van Aanholt,5f09991f,nlNED,DF,Crystal Palace,28.0,1990.0,2019-2020,EPL
+Max Aarons,774cf58b,engENG,DF,Norwich City,19.0,2000.0,2019-2020,EPL
+Tammy Abraham,f586779e,engENG,FW,Chelsea,21.0,1997.0,2019-2020,EPL
+Che Adams,f2bf1b0f,sctSCO,FW,Southampton,23.0,1996.0,2019-2020,EPL
+Adrián,f76e6b4e,esESP,GK,Liverpool,32.0,1987.0,2019-2020,EPL
+Sergio Agüero,4d034881,arARG,FW,Manchester City,31.0,1988.0,2019-2020,EPL
+Albian Ajeti,2b1c4abd,chSUI,FW,West Ham United,22.0,1997.0,2019-2020,EPL
+Nathan Aké,eaeca114,nlNED,DF,Bournemouth,24.0,1995.0,2019-2020,EPL
+Marc Albrighton,b827d5b3,engENG,MF,Leicester City,29.0,1989.0,2019-2020,EPL
+Toby Alderweireld,f7d50789,beBEL,DF,Tottenham Hotspur,30.0,1989.0,2019-2020,EPL
+Trent Alexander-Arnold,cd1acf9d,engENG,DF,Liverpool,20.0,1998.0,2019-2020,EPL
+Alisson,7a2e46a8,brBRA,GK,Liverpool,26.0,1992.0,2019-2020,EPL
+Dele Alli,cea4ee8f,engENG,"MF,FW",Tottenham Hotspur,23.0,1996.0,2019-2020,EPL
+Miguel Almirón,862a1c15,pyPAR,"MF,FW",Newcastle United,25.0,1994.0,2019-2020,EPL
+Marcos Alonso,f4290206,esESP,"DF,MF",Chelsea,28.0,1990.0,2019-2020,EPL
+Steven Alzate,ad1f61f3,coCOL,"MF,DF",Brighton,20.0,1998.0,2019-2020,EPL
+Ibrahim Amadou,9260926b,frFRA,"DF,MF",Norwich City,26.0,1993.0,2019-2020,EPL
+Felipe Anderson,9f1893b9,brBRA,MF,West Ham United,26.0,1993.0,2019-2020,EPL
+Florin Andone,dc008610,roROU,FW,Brighton,26.0,1993.0,2019-2020,EPL
+Angeliño,30941e96,esESP,DF,Manchester City,22.0,1997.0,2019-2020,EPL
+Faustino Anjorin,b105919e,engENG,MF,Chelsea,17.0,2001.0,2019-2020,EPL
+Michail Antonio,ac05f970,jmJAM,"FW,MF",West Ham United,29.0,1990.0,2019-2020,EPL
+Stuart Armstrong,97333cf5,sctSCO,MF,Southampton,27.0,1992.0,2019-2020,EPL
+Kepa Arrizabalaga,28d596a0,esESP,GK,Chelsea,24.0,1994.0,2019-2020,EPL
+Christian Atsu,8816329f,ghGHA,MF,Newcastle United,27.0,1992.0,2019-2020,EPL
+Pierre-Emerick Aubameyang,d5dd5f1f,gaGAB,"FW,MF",Arsenal,30.0,1989.0,2019-2020,EPL
+Serge Aurier,5c2b4f07,ciCIV,"DF,MF",Tottenham Hotspur,26.0,1992.0,2019-2020,EPL
+Jordan Ayew,da052c14,ghGHA,"FW,MF",Crystal Palace,27.0,1991.0,2019-2020,EPL
+César Azpilicueta,53cad200,esESP,"DF,MF",Chelsea,29.0,1989.0,2019-2020,EPL
+Eric Bailly,a1232f4e,ciCIV,DF,Manchester Utd,25.0,1994.0,2019-2020,EPL
+Leighton Baines,b18095b6,engENG,"DF,MF",Everton,34.0,1984.0,2019-2020,EPL
+Fabián Balbuena,3626f7d9,pyPAR,DF,West Ham United,27.0,1991.0,2019-2020,EPL
+George Baldock,394854c4,grGRE,MF,Sheffield United,26.0,1993.0,2019-2020,EPL
+Phil Bardsley,1ae30132,sctSCO,DF,Burnley,34.0,1985.0,2019-2020,EPL
+Ross Barkley,3a24769f,engENG,MF,Chelsea,25.0,1993.0,2019-2020,EPL
+Ashley Barnes,2691c772,engENG,FW,Burnley,29.0,1989.0,2019-2020,EPL
+Harvey Barnes,3ea50f67,engENG,MF,Leicester City,21.0,1997.0,2019-2020,EPL
+Chris Basham,1aa84968,engENG,DF,Sheffield United,31.0,1988.0,2019-2020,EPL
+Borja Bastón,8c44e37b,esESP,FW,Aston Villa,26.0,1992.0,2019-2020,EPL
+Michy Batshuayi,2973d8ff,beBEL,FW,Chelsea,25.0,1993.0,2019-2020,EPL
+Jan Bednarek,4115ce4e,plPOL,DF,Southampton,23.0,1996.0,2019-2020,EPL
+Héctor Bellerín,f874dd44,esESP,"DF,MF",Arsenal,24.0,1995.0,2019-2020,EPL
+Ryan Bennett,0bad4516,engENG,DF,Wolves,29.0,1990.0,2019-2020,EPL
+Ryan Bennett,0bad4516,engENG,DF,Leicester City,29.0,1990.0,2019-2020,EPL
+Nabil Bentaleb,3189f61a,dzALG,MF,Newcastle United,24.0,1994.0,2019-2020,EPL
+Christian Benteke,ab070c55,beBEL,FW,Crystal Palace,28.0,1990.0,2019-2020,EPL
+Jóhann Berg Guðmundsson,f72293fc,isISL,MF,Burnley,28.0,1990.0,2019-2020,EPL
+Sander Berge,d0b6129f,noNOR,MF,Sheffield United,21.0,1998.0,2019-2020,EPL
+Steven Bergwijn,a29b1131,nlNED,"MF,FW",Tottenham Hotspur,21.0,1997.0,2019-2020,EPL
+Bernard,ab4b3e35,brBRA,MF,Everton,26.0,1992.0,2019-2020,EPL
+Bernardo,17370b95,brBRA,"DF,MF",Brighton,24.0,1995.0,2019-2020,EPL
+Ryan Bertrand,01226327,engENG,"DF,MF",Southampton,29.0,1989.0,2019-2020,EPL
+Muhamed Bešić,7ca9f0f0,baBIH,MF,Sheffield United,26.0,1992.0,2019-2020,EPL
+Philip Billing,d328a254,dkDEN,MF,Bournemouth,23.0,1996.0,2019-2020,EPL
+Yves Bissouma,6c203af0,mlMLI,MF,Brighton,22.0,1996.0,2019-2020,EPL
+Willy Boly,a4ac4b8f,ciCIV,DF,Wolves,28.0,1991.0,2019-2020,EPL
+Gaëtan Bong,cfd5e123,cmCMR,DF,Brighton,31.0,1988.0,2019-2020,EPL
+Sofiane Boufal,b0c71810,maMAR,MF,Southampton,25.0,1993.0,2019-2020,EPL
+Jarrod Bowen,79c84d1c,engENG,MF,West Ham United,22.0,1996.0,2019-2020,EPL
+Robbie Brady,96bb8cc2,ieIRL,MF,Burnley,27.0,1992.0,2019-2020,EPL
+Jarrad Branthwaite,c1949191,engENG,DF,Everton,17.0,2002.0,2019-2020,EPL
+Claudio Bravo,10072610,clCHI,GK,Manchester City,36.0,1983.0,2019-2020,EPL
+Armando Broja,97220da2,alALB,FW,Chelsea,17.0,2001.0,2019-2020,EPL
+David Brooks,dc4cae05,wlsWAL,MF,Bournemouth,22.0,1997.0,2019-2020,EPL
+Josh Brownhill,47369df8,engENG,MF,Burnley,23.0,1995.0,2019-2020,EPL
+Emi Buendía,66b76d44,arARG,MF,Norwich City,22.0,1996.0,2019-2020,EPL
+Dan Burn,b2d31e83,engENG,DF,Brighton,27.0,1992.0,2019-2020,EPL
+Sam Byram,1bf811d4,engENG,DF,Norwich City,25.0,1993.0,2019-2020,EPL
+Willy Caballero,a179d516,arARG,GK,Chelsea,37.0,1981.0,2019-2020,EPL
+Gary Cahill,7914b9fe,engENG,DF,Crystal Palace,33.0,1985.0,2019-2020,EPL
+Dominic Calvert-Lewin,59e6e5bf,engENG,FW,Everton,22.0,1997.0,2019-2020,EPL
+Víctor Camarasa,b2d03887,esESP,MF,Crystal Palace,25.0,1994.0,2019-2020,EPL
+João Cancelo,bd6351cd,ptPOR,DF,Manchester City,25.0,1994.0,2019-2020,EPL
+Todd Cantwell,f63d8a4b,engENG,MF,Norwich City,21.0,1998.0,2019-2020,EPL
+Étienne Capoue,5acc4a10,frFRA,MF,Watford,31.0,1988.0,2019-2020,EPL
+Andy Carroll,b581987a,engENG,FW,Newcastle United,30.0,1989.0,2019-2020,EPL
+Jonny Castro,e28868f3,esESP,MF,Wolves,25.0,1994.0,2019-2020,EPL
+Craig Cathcart,89e4b358,nirNIR,DF,Watford,30.0,1989.0,2019-2020,EPL
+Dani Ceballos,c0617e2b,esESP,MF,Arsenal,22.0,1996.0,2019-2020,EPL
+Nathaniel Chalobah,422862ea,engENG,MF,Watford,24.0,1994.0,2019-2020,EPL
+Calum Chambers,dc6f5bdd,engENG,DF,Arsenal,24.0,1995.0,2019-2020,EPL
+Ben Chilwell,d2424d1b,engENG,DF,Leicester City,22.0,1996.0,2019-2020,EPL
+Tahith Chong,2696b6a9,cwCUW,"FW,MF",Manchester Utd,19.0,1999.0,2019-2020,EPL
+Hamza Choudhury,7d2d3329,bdBAN,MF,Leicester City,21.0,1997.0,2019-2020,EPL
+Andreas Christensen,1cb49278,dkDEN,DF,Chelsea,23.0,1996.0,2019-2020,EPL
+Ciaran Clark,2b91cf8e,ieIRL,DF,Newcastle United,29.0,1989.0,2019-2020,EPL
+Leon Clarke,91c975a0,engENG,FW,Sheffield United,34.0,1985.0,2019-2020,EPL
+Tom Cleverley,6cdd8245,engENG,MF,Watford,29.0,1989.0,2019-2020,EPL
+Conor Coady,2928dca2,engENG,DF,Wolves,26.0,1993.0,2019-2020,EPL
+Séamus Coleman,0420d84f,ieIRL,DF,Everton,30.0,1988.0,2019-2020,EPL
+Aaron Connolly,27c01749,ieIRL,FW,Brighton,19.0,2000.0,2019-2020,EPL
+Lewis Cook,2afc7272,engENG,MF,Bournemouth,22.0,1997.0,2019-2020,EPL
+Steve Cook,3e5e4e63,engENG,DF,Bournemouth,28.0,1991.0,2019-2020,EPL
+Jack Cork,74e12f1e,engENG,MF,Burnley,30.0,1989.0,2019-2020,EPL
+Aaron Cresswell,4f974391,engENG,DF,West Ham United,29.0,1989.0,2019-2020,EPL
+Patrick Cutrone,a4fe8cda,itITA,FW,Wolves,21.0,1998.0,2019-2020,EPL
+Diogo Dalot,d9565625,ptPOR,DF,Manchester Utd,20.0,1999.0,2019-2020,EPL
+Charlie Daniels,9d107085,engENG,DF,Bournemouth,32.0,1986.0,2019-2020,EPL
+Arnaut Danjuma,f08490a6,nlNED,MF,Bournemouth,22.0,1997.0,2019-2020,EPL
+Scott Dann,52105203,engENG,DF,Crystal Palace,32.0,1987.0,2019-2020,EPL
+Kevin Danso,6e33125f,atAUT,DF,Southampton,20.0,1998.0,2019-2020,EPL
+Ben Davies,44781702,wlsWAL,DF,Tottenham Hotspur,26.0,1993.0,2019-2020,EPL
+Tom Davies,9228b07c,engENG,MF,Everton,21.0,1998.0,2019-2020,EPL
+Keinan Davis,9deaf2c8,engENG,FW,Aston Villa,21.0,1998.0,2019-2020,EPL
+Craig Dawson,3e9e06cb,engENG,DF,Watford,29.0,1990.0,2019-2020,EPL
+Kevin De Bruyne,e46012d4,beBEL,MF,Manchester City,28.0,1991.0,2019-2020,EPL
+Troy Deeney,82e34b69,engENG,FW,Watford,31.0,1988.0,2019-2020,EPL
+Fabian Delph,111c3236,engENG,MF,Everton,29.0,1989.0,2019-2020,EPL
+Leander Dendoncker,5a7301ae,beBEL,"MF,DF",Wolves,24.0,1995.0,2019-2020,EPL
+Gerard Deulofeu,39583cfd,esESP,"MF,FW",Watford,25.0,1994.0,2019-2020,EPL
+Eric Dier,ac861941,engENG,"DF,MF",Tottenham Hotspur,25.0,1994.0,2019-2020,EPL
+Lucas Digne,1b84dbe1,frFRA,DF,Everton,26.0,1993.0,2019-2020,EPL
+Issa Diop,a712ca2b,frFRA,DF,West Ham United,22.0,1997.0,2019-2020,EPL
+Moussa Djenepo,254147d4,mlMLI,"MF,FW",Southampton,21.0,1998.0,2019-2020,EPL
+Matt Doherty,d557d734,ieIRL,MF,Wolves,27.0,1992.0,2019-2020,EPL
+Abdoulaye Doucouré,02b29014,mlMLI,MF,Watford,26.0,1993.0,2019-2020,EPL
+Tommy Doyle,5526deb1,engENG,MF,Manchester City,17.0,2001.0,2019-2020,EPL
+Danny Drinkwater,2649ff32,engENG,MF,Aston Villa,29.0,1990.0,2019-2020,EPL
+Danny Drinkwater,2649ff32,engENG,MF,Burnley,29.0,1990.0,2019-2020,EPL
+Josip Drmić,15ea94de,chSUI,FW,Norwich City,26.0,1992.0,2019-2020,EPL
+Martin Dúbravka,3a949a25,skSVK,GK,Newcastle United,30.0,1989.0,2019-2020,EPL
+Ondrej Duda,79ca3e23,skSVK,MF,Norwich City,24.0,1994.0,2019-2020,EPL
+Shane Duffy,7314bba4,ieIRL,DF,Brighton,27.0,1992.0,2019-2020,EPL
+Paul Dummett,3fe6bd8c,wlsWAL,DF,Newcastle United,27.0,1991.0,2019-2020,EPL
+Lewis Dunk,282f75f3,engENG,DF,Brighton,27.0,1991.0,2019-2020,EPL
+Ederson,3bb7b8b4,brBRA,GK,Manchester City,25.0,1993.0,2019-2020,EPL
+John Egan,debe38a0,ieIRL,DF,Sheffield United,26.0,1992.0,2019-2020,EPL
+Harvey Elliott,b9e1436c,engENG,"FW,MF",Liverpool,16.0,2003.0,2019-2020,EPL
+Ahmed Elmohamady,615ef733,egEGY,DF,Aston Villa,31.0,1987.0,2019-2020,EPL
+Björn Engels,4fdf1fd9,beBEL,DF,Aston Villa,24.0,1994.0,2019-2020,EPL
+Christian Eriksen,980522ec,dkDEN,"MF,FW",Tottenham Hotspur,27.0,1992.0,2019-2020,EPL
+Jonny Evans,f8fcd2a5,nirNIR,DF,Leicester City,31.0,1988.0,2019-2020,EPL
+Łukasz Fabiański,9328b835,plPOL,GK,West Ham United,34.0,1985.0,2019-2020,EPL
+Fabinho,7f3b388c,brBRA,MF,Liverpool,25.0,1993.0,2019-2020,EPL
+Ralf Fährmann,1e43fad8,deGER,GK,Norwich City,30.0,1988.0,2019-2020,EPL
+Akin Famewo,9d9a71c1,engENG,DF,Norwich City,20.0,1998.0,2019-2020,EPL
+Kiko Femenía,e5d01ecf,esESP,DF,Watford,28.0,1991.0,2019-2020,EPL
+Bruno Fernandes,507c7bdf,ptPOR,MF,Manchester Utd,24.0,1994.0,2019-2020,EPL
+Gedson Fernandes,e2dde94c,ptPOR,MF,Tottenham Hotspur,20.0,1999.0,2019-2020,EPL
+Federico Fernández,f25b010f,arARG,DF,Newcastle United,30.0,1989.0,2019-2020,EPL
+Fernandinho,101da2b5,brBRA,DF,Manchester City,34.0,1985.0,2019-2020,EPL
+Roberto Firmino,4c370d81,brBRA,FW,Liverpool,27.0,1991.0,2019-2020,EPL
+John Fleck,b63e789d,sctSCO,MF,Sheffield United,27.0,1991.0,2019-2020,EPL
+Phil Foden,ed1e53f3,engENG,"FW,MF",Manchester City,19.0,2000.0,2019-2020,EPL
+Pablo Fornals,82927de4,esESP,MF,West Ham United,23.0,1996.0,2019-2020,EPL
+Ben Foster,d0b3ceb9,engENG,GK,Watford,36.0,1983.0,2019-2020,EPL
+Timothy Fosu-Mensah,a9142dc3,nlNED,DF,Manchester Utd,21.0,1998.0,2019-2020,EPL
+Dimitri Foulquier,45e17712,frFRA,MF,Watford,26.0,1993.0,2019-2020,EPL
+Juan Foyth,6c7762c3,arARG,DF,Tottenham Hotspur,21.0,1998.0,2019-2020,EPL
+Simon Francis,1e0b6a73,engENG,DF,Bournemouth,34.0,1985.0,2019-2020,EPL
+Ryan Fraser,d56543a0,sctSCO,"MF,FW",Bournemouth,25.0,1994.0,2019-2020,EPL
+Fred,b853e0ad,brBRA,MF,Manchester Utd,26.0,1993.0,2019-2020,EPL
+Ryan Fredericks,c067631c,engENG,DF,West Ham United,26.0,1992.0,2019-2020,EPL
+Kieron Freeman,c13c24c8,wlsWAL,"DF,MF",Sheffield United,27.0,1992.0,2019-2020,EPL
+Luke Freeman,636b64cd,engENG,MF,Sheffield United,27.0,1992.0,2019-2020,EPL
+Christian Fuchs,a67a09fb,atAUT,"DF,MF",Leicester City,33.0,1986.0,2019-2020,EPL
+Eric García,2bed3eab,esESP,DF,Manchester City,18.0,2001.0,2019-2020,EPL
+James Garner,4e015693,engENG,MF,Manchester Utd,18.0,2001.0,2019-2020,EPL
+Dwight Gayle,e58a03c6,engENG,FW,Newcastle United,28.0,1990.0,2019-2020,EPL
+Paulo Gazzaniga,63d17038,arARG,GK,Tottenham Hotspur,27.0,1992.0,2019-2020,EPL
+Jean-Philippe Gbamin,6bd603db,ciCIV,MF,Everton,23.0,1995.0,2019-2020,EPL
+David de Gea,7ba6d84e,esESP,GK,Manchester Utd,28.0,1990.0,2019-2020,EPL
+Anwar El Ghazi,ffa90327,nlNED,"FW,MF",Aston Villa,24.0,1995.0,2019-2020,EPL
+Morgan Gibbs-White,32f60ed8,engENG,MF,Wolves,19.0,2000.0,2019-2020,EPL
+Billy Gilmour,df10e27c,sctSCO,MF,Chelsea,18.0,2001.0,2019-2020,EPL
+Olivier Giroud,16ceb862,frFRA,FW,Chelsea,32.0,1986.0,2019-2020,EPL
+Ben Godfrey,9f7c837d,engENG,DF,Norwich City,21.0,1998.0,2019-2020,EPL
+André Gomes,1961b2aa,ptPOR,MF,Everton,26.0,1993.0,2019-2020,EPL
+Angel Gomes,645a3363,engENG,"FW,MF",Manchester Utd,18.0,2000.0,2019-2020,EPL
+Joe Gomez,7a11550b,engENG,DF,Liverpool,22.0,1997.0,2019-2020,EPL
+Anthony Gordon,2bd83368,engENG,MF,Everton,18.0,2001.0,2019-2020,EPL
+Dan Gosling,7fec31a0,engENG,MF,Bournemouth,29.0,1990.0,2019-2020,EPL
+Andre Gray,c24dba2a,jmJAM,FW,Watford,28.0,1991.0,2019-2020,EPL
+Demarai Gray,4468ec10,jmJAM,MF,Leicester City,23.0,1996.0,2019-2020,EPL
+Jack Grealish,b0b4fd3e,engENG,"FW,MF",Aston Villa,23.0,1995.0,2019-2020,EPL
+Mason Greenwood,58eee997,engENG,"MF,FW",Manchester Utd,17.0,2001.0,2019-2020,EPL
+Pascal Groß,8aec0537,deGER,"MF,FW",Brighton,28.0,1991.0,2019-2020,EPL
+Vicente Guaita,ab13a5aa,esESP,GK,Crystal Palace,32.0,1987.0,2019-2020,EPL
+Mattéo Guendouzi,5ea8ef20,frFRA,MF,Arsenal,20.0,1999.0,2019-2020,EPL
+Frederic Guilbert,5d8d7454,frFRA,"DF,MF",Aston Villa,24.0,1994.0,2019-2020,EPL
+İlkay Gündoğan,819b3158,deGER,MF,Manchester City,28.0,1990.0,2019-2020,EPL
+Angus Gunn,e082af5b,sctSCO,GK,Southampton,23.0,1996.0,2019-2020,EPL
+Sébastien Haller,ba115a40,ciCIV,FW,West Ham United,25.0,1994.0,2019-2020,EPL
+Grant Hanley,e9254eec,sctSCO,DF,Norwich City,27.0,1991.0,2019-2020,EPL
+Kortney Hause,bf8fad51,engENG,DF,Aston Villa,24.0,1995.0,2019-2020,EPL
+Isaac Hayden,c951a6df,jmJAM,MF,Newcastle United,24.0,1995.0,2019-2020,EPL
+Tom Heaton,a6de6361,engENG,GK,Aston Villa,33.0,1986.0,2019-2020,EPL
+Dean Henderson,e5a76dfe,engENG,GK,Sheffield United,22.0,1997.0,2019-2020,EPL
+Jordan Henderson,935e6b8f,engENG,MF,Liverpool,29.0,1990.0,2019-2020,EPL
+Jeff Hendrick,989d5705,ieIRL,MF,Burnley,27.0,1992.0,2019-2020,EPL
+Wayne Hennessey,76eca7e2,wlsWAL,GK,Crystal Palace,32.0,1987.0,2019-2020,EPL
+Javier Hernández,189cee7b,mxMEX,FW,West Ham United,31.0,1988.0,2019-2020,EPL
+Onel Hernández,007b39a5,cuCUB,MF,Norwich City,26.0,1993.0,2019-2020,EPL
+Son Heung-min,92e7e919,krKOR,"MF,FW",Tottenham Hotspur,27.0,1992.0,2019-2020,EPL
+George Hirst,78e87179,sctSCO,FW,Leicester City,20.0,1999.0,2019-2020,EPL
+Rob Holding,d79a8c87,engENG,DF,Arsenal,23.0,1995.0,2019-2020,EPL
+José Holebas,12aa7661,grGRE,DF,Watford,35.0,1984.0,2019-2020,EPL
+Mason Holgate,d0042ab9,jmJAM,DF,Everton,22.0,1996.0,2019-2020,EPL
+Nathan Holland,45ab2170,engENG,"FW,MF",West Ham United,21.0,1998.0,2019-2020,EPL
+Conor Hourihane,fcab00a0,ieIRL,MF,Aston Villa,28.0,1991.0,2019-2020,EPL
+Callum Hudson-Odoi,15f3ec41,engENG,"MF,FW",Chelsea,18.0,2000.0,2019-2020,EPL
+Will Hughes,a0666d3e,engENG,MF,Watford,24.0,1995.0,2019-2020,EPL
+Pierre Højbjerg,8b04d6c1,dkDEN,MF,Southampton,23.0,1995.0,2019-2020,EPL
+Jordon Ibe,9f736ed2,engENG,"FW,MF",Bournemouth,23.0,1995.0,2019-2020,EPL
+Adam Idah,291e3ec3,ieIRL,FW,Norwich City,18.0,2001.0,2019-2020,EPL
+Odion Ighalo,03622183,ngNGA,FW,Manchester Utd,30.0,1989.0,2019-2020,EPL
+Kelechi Iheanacho,c92e1a31,ngNGA,FW,Leicester City,22.0,1996.0,2019-2020,EPL
+Danny Ings,07802f7f,engENG,FW,Southampton,27.0,1992.0,2019-2020,EPL
+Alex Iwobi,6ca5ec4b,ngNGA,MF,Everton,23.0,1996.0,2019-2020,EPL
+Phil Jagielka,3233eefd,engENG,DF,Sheffield United,36.0,1982.0,2019-2020,EPL
+Alireza Jahanbakhsh,08452314,irIRN,"MF,FW",Brighton,25.0,1993.0,2019-2020,EPL
+Daniel James,c931d9f9,wlsWAL,"MF,FW",Manchester Utd,21.0,1997.0,2019-2020,EPL
+Matty James,ebd0a048,engENG,MF,Leicester City,28.0,1991.0,2019-2020,EPL
+Reece James,1265a93a,engENG,"DF,MF",Chelsea,19.0,1999.0,2019-2020,EPL
+Daryl Janmaat,45da6694,nlNED,"DF,MF",Watford,30.0,1989.0,2019-2020,EPL
+Gabriel Jesus,b66315ae,brBRA,FW,Manchester City,22.0,1997.0,2019-2020,EPL
+Raúl Jiménez,b561db50,mxMEX,FW,Wolves,28.0,1991.0,2019-2020,EPL
+João Pedro,e8832875,brBRA,"FW,MF",Watford,17.0,2001.0,2019-2020,EPL
+Joelinton,c17bfb65,brBRA,"FW,MF",Newcastle United,22.0,1996.0,2019-2020,EPL
+Ben Johnson,9319781b,engENG,DF,West Ham United,19.0,2000.0,2019-2020,EPL
+Curtis Jones,4fb9c88f,engENG,MF,Liverpool,18.0,2001.0,2019-2020,EPL
+Phil Jones,def899bd,engENG,DF,Manchester Utd,27.0,1992.0,2019-2020,EPL
+Bruno Jordão,41ff002d,ptPOR,MF,Wolves,20.0,1998.0,2019-2020,EPL
+Jorginho,45db685d,itITA,MF,Chelsea,27.0,1991.0,2019-2020,EPL
+Jota,9f351459,esESP,"MF,FW",Aston Villa,28.0,1991.0,2019-2020,EPL
+Diogo Jota,178ae8f8,ptPOR,FW,Wolves,22.0,1996.0,2019-2020,EPL
+James Justin,fb614c44,engENG,"DF,MF",Leicester City,21.0,1998.0,2019-2020,EPL
+Christian Kabasele,914ab9a1,beBEL,DF,Watford,28.0,1991.0,2019-2020,EPL
+Harry Kane,21a66f6a,engENG,FW,Tottenham Hotspur,26.0,1993.0,2019-2020,EPL
+N'Golo Kanté,b9fbae28,frFRA,MF,Chelsea,28.0,1991.0,2019-2020,EPL
+Moise Kean,3d50bcdb,itITA,FW,Everton,19.0,2000.0,2019-2020,EPL
+Michael Keane,c5b7c315,engENG,DF,Everton,26.0,1993.0,2019-2020,EPL
+Naby Keïta,f25c8e3a,gnGUI,MF,Liverpool,24.0,1995.0,2019-2020,EPL
+Lloyd Kelly,f31def1e,engENG,DF,Bournemouth,20.0,1998.0,2019-2020,EPL
+Martin Kelly,d7492450,engENG,DF,Crystal Palace,29.0,1990.0,2019-2020,EPL
+Max Kilman,d0f72bf1,engENG,DF,Wolves,22.0,1997.0,2019-2020,EPL
+Joshua King,43458538,noNOR,"FW,MF",Bournemouth,27.0,1992.0,2019-2020,EPL
+Timm Klose,5f1d07f6,chSUI,DF,Norwich City,31.0,1988.0,2019-2020,EPL
+Jonathan Kodjia,ecf44e09,ciCIV,FW,Aston Villa,29.0,1989.0,2019-2020,EPL
+Sead Kolašinac,3935e52e,baBIH,DF,Arsenal,26.0,1993.0,2019-2020,EPL
+Ezri Konsa,0313a347,engENG,DF,Aston Villa,21.0,1997.0,2019-2020,EPL
+Cheikhou Kouyaté,8d3c902d,snSEN,MF,Crystal Palace,29.0,1989.0,2019-2020,EPL
+Mateo Kovačić,79c0821a,hrCRO,MF,Chelsea,25.0,1994.0,2019-2020,EPL
+Emil Krafth,77cf6852,seSWE,DF,Newcastle United,24.0,1994.0,2019-2020,EPL
+Tim Krul,f23f9d20,nlNED,GK,Norwich City,31.0,1988.0,2019-2020,EPL
+Alexandre Lacazette,9dbb75ca,frFRA,FW,Arsenal,28.0,1991.0,2019-2020,EPL
+Adam Lallana,99813635,engENG,MF,Liverpool,31.0,1988.0,2019-2020,EPL
+Érik Lamela,abe66106,arARG,"MF,FW",Tottenham Hotspur,27.0,1992.0,2019-2020,EPL
+Tariq Lamptey,f4e433d4,ghGHA,"DF,MF",Chelsea,18.0,2000.0,2019-2020,EPL
+Tariq Lamptey,f4e433d4,ghGHA,"DF,MF",Brighton,18.0,2000.0,2019-2020,EPL
+Henri Lansbury,fe8e6fa1,engENG,MF,Aston Villa,28.0,1990.0,2019-2020,EPL
+Manuel Lanzini,26f6dca8,arARG,MF,West Ham United,26.0,1993.0,2019-2020,EPL
+Aymeric Laporte,119b9a8e,esESP,DF,Manchester City,25.0,1994.0,2019-2020,EPL
+Jamaal Lascelles,450ab6fc,engENG,DF,Newcastle United,25.0,1993.0,2019-2020,EPL
+Valentino Lazaro,016ff750,atAUT,"MF,DF",Newcastle United,23.0,1996.0,2019-2020,EPL
+Moritz Leitner,9460aaed,deGER,MF,Norwich City,26.0,1992.0,2019-2020,EPL
+Florian Lejeune,6eaed4eb,frFRA,DF,Newcastle United,28.0,1991.0,2019-2020,EPL
+Aaron Lennon,2ff964a0,engENG,MF,Burnley,32.0,1987.0,2019-2020,EPL
+Bernd Leno,2628fd2b,deGER,GK,Arsenal,27.0,1992.0,2019-2020,EPL
+Jefferson Lerma,9b5ce51a,coCOL,MF,Bournemouth,24.0,1994.0,2019-2020,EPL
+Jamal Lewis,efb9215a,nirNIR,DF,Norwich City,21.0,1998.0,2019-2020,EPL
+Victor Lindelöf,f5deef4c,seSWE,DF,Manchester Utd,25.0,1994.0,2019-2020,EPL
+Jesse Lingard,810e3c74,engENG,MF,Manchester Utd,26.0,1992.0,2019-2020,EPL
+Hugo Lloris,8f62b6ee,frFRA,GK,Tottenham Hotspur,32.0,1986.0,2019-2020,EPL
+Giovani Lo Celso,d7553721,arARG,MF,Tottenham Hotspur,23.0,1996.0,2019-2020,EPL
+Jürgen Locadia,6cc47ae1,cwCUW,MF,Brighton,25.0,1993.0,2019-2020,EPL
+Ruben Loftus-Cheek,e97fd090,engENG,"MF,FW",Chelsea,23.0,1996.0,2019-2020,EPL
+Kevin Long,5a4280b1,ieIRL,DF,Burnley,28.0,1990.0,2019-2020,EPL
+Shane Long,9f472354,ieIRL,FW,Southampton,32.0,1987.0,2019-2020,EPL
+Matthew Longstaff,c0027d2d,engENG,MF,Newcastle United,19.0,2000.0,2019-2020,EPL
+Sean Longstaff,a2b105e0,engENG,MF,Newcastle United,21.0,1997.0,2019-2020,EPL
+Dejan Lovren,1a2935f6,hrCRO,DF,Liverpool,30.0,1989.0,2019-2020,EPL
+Matthew Lowton,9a9c05db,engENG,DF,Burnley,30.0,1989.0,2019-2020,EPL
+David Luiz,c0e27d1a,brBRA,DF,Arsenal,32.0,1987.0,2019-2020,EPL
+Douglas Luiz,6f7d826d,brBRA,MF,Aston Villa,21.0,1998.0,2019-2020,EPL
+John Lundstram,0df2b165,engENG,MF,Sheffield United,25.0,1994.0,2019-2020,EPL
+Alexis Mac Allister,83d074ff,arARG,"MF,FW",Brighton,20.0,1998.0,2019-2020,EPL
+James Maddison,ee38d9c5,engENG,"MF,FW",Leicester City,22.0,1996.0,2019-2020,EPL
+Harry Maguire,d8931174,engENG,DF,Manchester Utd,26.0,1993.0,2019-2020,EPL
+Riyad Mahrez,892d5bb1,dzALG,"FW,MF",Manchester City,28.0,1991.0,2019-2020,EPL
+Ainsley Maitland-Niles,e3a5814e,engENG,DF,Arsenal,21.0,1997.0,2019-2020,EPL
+Sadio Mané,c691bfe2,snSEN,FW,Liverpool,27.0,1992.0,2019-2020,EPL
+Javier Manquillo,758dd7f0,esESP,"DF,MF",Newcastle United,25.0,1994.0,2019-2020,EPL
+Solly March,bb5fbd2b,engENG,"MF,FW",Brighton,25.0,1994.0,2019-2020,EPL
+Pablo Marí,aa54ec6f,esESP,DF,Arsenal,25.0,1993.0,2019-2020,EPL
+Adrian Mariappa,8aa5f52c,jmJAM,DF,Watford,32.0,1986.0,2019-2020,EPL
+Anthony Martial,8b788c01,frFRA,FW,Manchester Utd,23.0,1995.0,2019-2020,EPL
+David Martin,07666c20,engENG,GK,West Ham United,33.0,1986.0,2019-2020,EPL
+Josh Martin,3f072a68,engENG,MF,Norwich City,17.0,2001.0,2019-2020,EPL
+Gabriel Martinelli,48a5a5d6,brBRA,MF,Arsenal,18.0,2001.0,2019-2020,EPL
+Emiliano Martínez,7956236f,arARG,GK,Arsenal,26.0,1992.0,2019-2020,EPL
+Adam Masina,de0f152c,maMAR,DF,Watford,25.0,1994.0,2019-2020,EPL
+Arthur Masuaku,57df7a11,cdCOD,"DF,MF",West Ham United,25.0,1993.0,2019-2020,EPL
+Juan Mata,29733c72,esESP,MF,Manchester Utd,31.0,1988.0,2019-2020,EPL
+Nemanja Matić,eb7822d7,rsSRB,MF,Manchester Utd,30.0,1988.0,2019-2020,EPL
+Joël Matip,b217ef29,cmCMR,DF,Liverpool,27.0,1991.0,2019-2020,EPL
+Neal Maupay,4bcf39f6,frFRA,FW,Brighton,22.0,1996.0,2019-2020,EPL
+James McArthur,cee31595,sctSCO,MF,Crystal Palace,31.0,1987.0,2019-2020,EPL
+Oliver McBurnie,78b8ac63,sctSCO,FW,Sheffield United,23.0,1996.0,2019-2020,EPL
+Alex McCarthy,36c2ca73,engENG,GK,Southampton,29.0,1989.0,2019-2020,EPL
+James McCarthy,64b08de7,ieIRL,MF,Crystal Palace,28.0,1990.0,2019-2020,EPL
+John McGinn,90f91999,sctSCO,MF,Aston Villa,24.0,1994.0,2019-2020,EPL
+David McGoldrick,dbe56a33,ieIRL,FW,Sheffield United,31.0,1987.0,2019-2020,EPL
+Michael McGovern,51a19d04,nirNIR,GK,Norwich City,35.0,1984.0,2019-2020,EPL
+Kenny McLean,471f16b3,sctSCO,MF,Norwich City,27.0,1992.0,2019-2020,EPL
+Dwight McNeil,fc15fb84,engENG,MF,Burnley,19.0,1999.0,2019-2020,EPL
+Scott McTominay,d93c2511,sctSCO,MF,Manchester Utd,22.0,1996.0,2019-2020,EPL
+Ben Mee,8df7a2fb,engENG,DF,Burnley,29.0,1989.0,2019-2020,EPL
+Benjamin Mendy,5271c8f1,frFRA,DF,Manchester City,25.0,1994.0,2019-2020,EPL
+Nampalys Mendy,1598599e,snSEN,MF,Leicester City,27.0,1992.0,2019-2020,EPL
+Chris Mepham,fed96827,wlsWAL,DF,Bournemouth,21.0,1997.0,2019-2020,EPL
+Max Meyer,eba42d2b,deGER,"MF,FW",Crystal Palace,23.0,1995.0,2019-2020,EPL
+Luka Milivojević,2ce2508a,rsSRB,MF,Crystal Palace,28.0,1991.0,2019-2020,EPL
+James Milner,2f90f6b8,engENG,"MF,DF",Liverpool,33.0,1986.0,2019-2020,EPL
+Yerry Mina,6d5701f2,coCOL,DF,Everton,24.0,1994.0,2019-2020,EPL
+Takumi Minamino,f833a830,jpJPN,FW,Liverpool,24.0,1995.0,2019-2020,EPL
+Tyrone Mings,8397a50c,engENG,DF,Aston Villa,26.0,1993.0,2019-2020,EPL
+Tyrick Mitchell,5cbd1eb0,engENG,DF,Crystal Palace,19.0,1999.0,2019-2020,EPL
+Henrikh Mkhitaryan,dd0daf32,amARM,MF,Arsenal,30.0,1989.0,2019-2020,EPL
+Nacho Monreal,d4cb83cc,esESP,DF,Arsenal,33.0,1986.0,2019-2020,EPL
+Martín Montoya,5cec2487,esESP,"DF,MF",Brighton,28.0,1991.0,2019-2020,EPL
+Simon Moore,e7434f04,engENG,GK,Sheffield United,29.0,1990.0,2019-2020,EPL
+Aaron Mooy,47b7e3af,auAUS,"MF,FW",Brighton,28.0,1990.0,2019-2020,EPL
+Wesley Moraes,bfae110f,brBRA,FW,Aston Villa,22.0,1996.0,2019-2020,EPL
+Wes Morgan,80c31c97,jmJAM,DF,Leicester City,35.0,1984.0,2019-2020,EPL
+Ravel Morrison,bf59c794,jmJAM,MF,Sheffield United,26.0,1993.0,2019-2020,EPL
+Mason Mount,9674002f,engENG,"MF,FW",Chelsea,20.0,1999.0,2019-2020,EPL
+Lucas Moura,2b622f01,brBRA,"MF,FW",Tottenham Hotspur,26.0,1992.0,2019-2020,EPL
+Lys Mousset,d9cfca3d,frFRA,FW,Sheffield United,23.0,1996.0,2019-2020,EPL
+João Moutinho,f5a00fa4,ptPOR,MF,Wolves,32.0,1986.0,2019-2020,EPL
+Glenn Murray,f2f29dda,engENG,FW,Brighton,35.0,1983.0,2019-2020,EPL
+Shkodran Mustafi,3f2d59fe,deGER,DF,Arsenal,27.0,1992.0,2019-2020,EPL
+Yoshinori Mutō,5343eb4e,jpJPN,MF,Newcastle United,27.0,1992.0,2019-2020,EPL
+Georges-Kévin N'Koudou,76c131da,cmCMR,"FW,MF",Tottenham Hotspur,24.0,1995.0,2019-2020,EPL
+Marvelous Nakamba,de5b5570,zwZIM,MF,Aston Villa,25.0,1994.0,2019-2020,EPL
+Wilfred Ndidi,6b47c5db,ngNGA,MF,Leicester City,22.0,1996.0,2019-2020,EPL
+Tanguy Ndombele,5cdddffa,frFRA,MF,Tottenham Hotspur,22.0,1996.0,2019-2020,EPL
+Reiss Nelson,c5bdb6e3,engENG,"MF,FW",Arsenal,19.0,1999.0,2019-2020,EPL
+Pedro Neto,7ba2eaa9,ptPOR,"FW,MF",Wolves,19.0,2000.0,2019-2020,EPL
+Rúben Neves,44bfb6c5,ptPOR,MF,Wolves,22.0,1997.0,2019-2020,EPL
+Jeremy Ngakia,3631ad41,,DF,West Ham United,18.0,2000.0,2019-2020,EPL
+Oumar Niasse,af721f98,snSEN,"FW,MF",Everton,29.0,1990.0,2019-2020,EPL
+Eddie Nketiah,a53649b7,engENG,FW,Arsenal,20.0,1999.0,2019-2020,EPL
+Mark Noble,ff527768,engENG,MF,West Ham United,32.0,1987.0,2019-2020,EPL
+Oliver Norwood,43439614,nirNIR,MF,Sheffield United,28.0,1991.0,2019-2020,EPL
+Ørjan Nyland,bdedffac,noNOR,GK,Aston Villa,28.0,1990.0,2019-2020,EPL
+Jack O'Connell,312626c1,engENG,DF,Sheffield United,25.0,1994.0,2019-2020,EPL
+Michael Obafemi,caa1a7f0,ieIRL,FW,Southampton,19.0,2000.0,2019-2020,EPL
+Angelo Ogbonna,74b2cd7e,itITA,DF,West Ham United,31.0,1988.0,2019-2020,EPL
+Divock Origi,43a166b4,beBEL,FW,Liverpool,24.0,1995.0,2019-2020,EPL
+Ben Osborn,79bc4c45,engENG,MF,Sheffield United,24.0,1994.0,2019-2020,EPL
+Nicolás Otamendi,0d267745,arARG,DF,Manchester City,31.0,1988.0,2019-2020,EPL
+Alex Oxlade-Chamberlain,38c7feef,engENG,"MF,FW",Liverpool,25.0,1993.0,2019-2020,EPL
+Mesut Özil,16380240,deGER,MF,Arsenal,30.0,1988.0,2019-2020,EPL
+Emerson Palmieri,e0bc6fdc,itITA,"DF,MF",Chelsea,24.0,1994.0,2019-2020,EPL
+Sokratis Papastathopoulos,b682dcf6,grGRE,DF,Arsenal,31.0,1988.0,2019-2020,EPL
+Troy Parrott,4357f557,ieIRL,FW,Tottenham Hotspur,17.0,2002.0,2019-2020,EPL
+Rui Patrício,79b0d6a0,ptPOR,GK,Wolves,31.0,1988.0,2019-2020,EPL
+Pedro,3ca7254a,esESP,"MF,FW",Chelsea,32.0,1987.0,2019-2020,EPL
+Nicolas Pépé,57e3f0c7,ciCIV,"MF,FW",Arsenal,24.0,1995.0,2019-2020,EPL
+Andreas Pereira,6639e500,brBRA,MF,Manchester Utd,23.0,1996.0,2019-2020,EPL
+Ricardo Pereira,75a72a99,ptPOR,DF,Leicester City,25.0,1993.0,2019-2020,EPL
+Roberto Pereyra,75f2c59f,arARG,"MF,FW",Watford,28.0,1991.0,2019-2020,EPL
+Ayoze Pérez,819aa8e7,esESP,"MF,FW",Leicester City,26.0,1993.0,2019-2020,EPL
+Jordan Pickford,4806ec67,engENG,GK,Everton,25.0,1994.0,2019-2020,EPL
+Brandon Pierrick,9a526299,engENG,MF,Crystal Palace,17.0,2001.0,2019-2020,EPL
+Erik Pieters,1ef37668,nlNED,"DF,MF",Burnley,30.0,1988.0,2019-2020,EPL
+Daniel Podence,7fcc71d8,ptPOR,FW,Wolves,23.0,1995.0,2019-2020,EPL
+Paul Pogba,867239d3,frFRA,MF,Manchester Utd,26.0,1993.0,2019-2020,EPL
+Nick Pope,4b40d9ca,engENG,GK,Burnley,27.0,1992.0,2019-2020,EPL
+Dennis Praet,86695068,beBEL,MF,Leicester City,25.0,1994.0,2019-2020,EPL
+Sebastian Prödl,f5e6d08d,atAUT,DF,Watford,32.0,1987.0,2019-2020,EPL
+Davy Pröpper,fdd85f94,nlNED,MF,Brighton,27.0,1991.0,2019-2020,EPL
+Teemu Pukki,0745b37d,fiFIN,FW,Norwich City,29.0,1990.0,2019-2020,EPL
+Christian Pulisic,1bf33a9a,usUSA,"FW,MF",Chelsea,20.0,1998.0,2019-2020,EPL
+Ignacio Pussetto,62437b4f,arARG,"FW,MF",Watford,23.0,1995.0,2019-2020,EPL
+Domingos Quina,41fb0f4e,ptPOR,MF,Watford,19.0,1999.0,2019-2020,EPL
+Aaron Ramsdale,466fb2c5,engENG,GK,Bournemouth,21.0,1998.0,2019-2020,EPL
+Darren Randolph,6385ebfb,ieIRL,GK,West Ham United,32.0,1987.0,2019-2020,EPL
+Marcus Rashford,a1d5bd30,engENG,"MF,FW",Manchester Utd,21.0,1997.0,2019-2020,EPL
+Nathan Redmond,ab651565,engENG,"MF,FW",Southampton,25.0,1994.0,2019-2020,EPL
+Pepe Reina,e358587b,esESP,GK,Aston Villa,36.0,1982.0,2019-2020,EPL
+Declan Rice,1c7012b8,engENG,MF,West Ham United,20.0,1999.0,2019-2020,EPL
+Richarlison,fa031b34,brBRA,"FW,MF",Everton,22.0,1997.0,2019-2020,EPL
+Diego Rico,d9ba39fc,esESP,DF,Bournemouth,26.0,1993.0,2019-2020,EPL
+Jaïro Riedewald,7a1f2c08,nlNED,"DF,MF",Crystal Palace,22.0,1996.0,2019-2020,EPL
+Matt Ritchie,71ef519e,sctSCO,"MF,DF",Newcastle United,29.0,1989.0,2019-2020,EPL
+Roberto,ba3ca78f,esESP,GK,West Ham United,33.0,1986.0,2019-2020,EPL
+Patrick Roberts,59d93937,engENG,"FW,MF",Norwich City,22.0,1997.0,2019-2020,EPL
+Andrew Robertson,2e4f5f03,sctSCO,DF,Liverpool,25.0,1994.0,2019-2020,EPL
+Callum Robinson,e75750a3,ieIRL,FW,Sheffield United,24.0,1995.0,2019-2020,EPL
+Jack Robinson,7399c7a8,engENG,DF,Sheffield United,25.0,1993.0,2019-2020,EPL
+Rodri,6434f10d,esESP,MF,Manchester City,23.0,1996.0,2019-2020,EPL
+Jay Rodriguez,4ab53cdb,engENG,FW,Burnley,30.0,1989.0,2019-2020,EPL
+Jack Rodwell,a07579ee,engENG,"DF,MF",Sheffield United,28.0,1991.0,2019-2020,EPL
+Marcos Rojo,e0991c04,arARG,DF,Manchester Utd,29.0,1990.0,2019-2020,EPL
+Oriol Romeu,4b511457,esESP,MF,Southampton,27.0,1991.0,2019-2020,EPL
+Danny Rose,89d10e53,engENG,"DF,MF",Tottenham Hotspur,29.0,1990.0,2019-2020,EPL
+Danny Rose,89d10e53,engENG,DF,Newcastle United,29.0,1990.0,2019-2020,EPL
+Antonio Rüdiger,18b896d6,deGER,DF,Chelsea,26.0,1993.0,2019-2020,EPL
+Lukas Rupp,3faa1780,deGER,MF,Norwich City,28.0,1991.0,2019-2020,EPL
+Mathew Ryan,4535e4bb,auAUS,GK,Brighton,27.0,1992.0,2019-2020,EPL
+Allan Saint-Maximin,2b16cb1a,frFRA,MF,Newcastle United,22.0,1997.0,2019-2020,EPL
+Romain Saïss,9fbbcf39,maMAR,DF,Wolves,29.0,1990.0,2019-2020,EPL
+Bukayo Saka,bc7dc64d,engENG,"MF,DF",Arsenal,17.0,2001.0,2019-2020,EPL
+Mamadou Sakho,87935cf3,frFRA,DF,Crystal Palace,29.0,1990.0,2019-2020,EPL
+Mohamed Salah,e342ad68,egEGY,FW,Liverpool,27.0,1992.0,2019-2020,EPL
+Mbwana Samatta,dae8623e,tzTAN,FW,Aston Villa,26.0,1992.0,2019-2020,EPL
+Carlos Sánchez,50b51fac,coCOL,MF,West Ham United,33.0,1986.0,2019-2020,EPL
+Davinson Sánchez,da7b447d,coCOL,DF,Tottenham Hotspur,23.0,1996.0,2019-2020,EPL
+Leroy Sané,2b114be3,deGER,"FW,MF",Manchester City,23.0,1996.0,2019-2020,EPL
+Ismaila Sarr,bfdb33aa,snSEN,MF,Watford,21.0,1998.0,2019-2020,EPL
+Fabian Schär,c8aa95da,chSUI,DF,Newcastle United,27.0,1991.0,2019-2020,EPL
+Ezequiel Schelotto,a6e316c1,itITA,"DF,MF",Brighton,30.0,1989.0,2019-2020,EPL
+Jeffrey Schlupp,3312f911,ghGHA,MF,Crystal Palace,26.0,1992.0,2019-2020,EPL
+Kasper Schmeichel,53af52f3,dkDEN,GK,Leicester City,32.0,1986.0,2019-2020,EPL
+Morgan Schneiderlin,51b41c5c,frFRA,MF,Everton,29.0,1989.0,2019-2020,EPL
+Ryan Sessegnon,6aa3e78b,engENG,"MF,DF",Tottenham Hotspur,19.0,2000.0,2019-2020,EPL
+Xherdan Shaqiri,6421ec64,chSUI,MF,Liverpool,27.0,1991.0,2019-2020,EPL
+Billy Sharp,e8c9f4e9,engENG,FW,Sheffield United,33.0,1986.0,2019-2020,EPL
+Luke Shaw,9c94165b,engENG,DF,Manchester Utd,24.0,1995.0,2019-2020,EPL
+Jonjo Shelvey,3727dd3c,engENG,MF,Newcastle United,27.0,1992.0,2019-2020,EPL
+Djibril Sidibé,4c5b714f,frFRA,"DF,MF",Everton,27.0,1992.0,2019-2020,EPL
+Gylfi Sigurðsson,76dd1480,isISL,MF,Everton,29.0,1989.0,2019-2020,EPL
+Bernardo Silva,3eb22ec9,ptPOR,"FW,MF",Manchester City,24.0,1994.0,2019-2020,EPL
+David Silva,e2716bd0,esESP,MF,Manchester City,33.0,1986.0,2019-2020,EPL
+Jack Simpson,76fa5f80,engENG,DF,Bournemouth,22.0,1996.0,2019-2020,EPL
+Moussa Sissoko,2acd49b9,frFRA,MF,Tottenham Hotspur,29.0,1989.0,2019-2020,EPL
+Oliver Skipp,6250083a,engENG,MF,Tottenham Hotspur,18.0,2000.0,2019-2020,EPL
+William Smallbone,5e105217,ieIRL,MF,Southampton,19.0,2000.0,2019-2020,EPL
+Adam Smith,20b104bc,engENG,DF,Bournemouth,28.0,1991.0,2019-2020,EPL
+Emile Smith Rowe,17695062,engENG,MF,Arsenal,19.0,2000.0,2019-2020,EPL
+Robert Snodgrass,9f4647e9,sctSCO,MF,West Ham United,31.0,1987.0,2019-2020,EPL
+Cédric Soares,839c14e1,ptPOR,MF,Arsenal,27.0,1991.0,2019-2020,EPL
+Cédric Soares,839c14e1,ptPOR,"DF,MF",Southampton,27.0,1991.0,2019-2020,EPL
+Dominic Solanke,e77dc3b2,engENG,FW,Bournemouth,21.0,1997.0,2019-2020,EPL
+Tomáš Souček,6613c819,czCZE,MF,West Ham United,24.0,1995.0,2019-2020,EPL
+Çağlar Söyüncü,21166ff4,trTUR,DF,Leicester City,23.0,1996.0,2019-2020,EPL
+Dennis Srbeny,1fdec858,deGER,"FW,MF",Norwich City,25.0,1994.0,2019-2020,EPL
+Jack Stacey,558807c0,engENG,DF,Bournemouth,23.0,1996.0,2019-2020,EPL
+Junior Stanislas,6992791d,engENG,"MF,DF",Bournemouth,29.0,1989.0,2019-2020,EPL
+Jed Steer,a8a3d139,engENG,GK,Aston Villa,26.0,1992.0,2019-2020,EPL
+Dale Stephens,653ee42d,engENG,MF,Brighton,30.0,1989.0,2019-2020,EPL
+Jack Stephens,6adbc307,engENG,DF,Southampton,25.0,1994.0,2019-2020,EPL
+Raheem Sterling,b400bde0,engENG,"FW,MF",Manchester City,24.0,1994.0,2019-2020,EPL
+Enda Stevens,17d4507a,ieIRL,MF,Sheffield United,29.0,1990.0,2019-2020,EPL
+Marco Stiepermann,b606638c,deGER,MF,Norwich City,28.0,1991.0,2019-2020,EPL
+John Stones,5eecec3d,engENG,DF,Manchester City,25.0,1994.0,2019-2020,EPL
+Isaac Success,f573a8bf,ngNGA,"FW,MF",Watford,23.0,1996.0,2019-2020,EPL
+Ki Sung-yueng,1d8c99b0,krKOR,MF,Newcastle United,30.0,1989.0,2019-2020,EPL
+Andrew Surman,7d41b619,engENG,MF,Bournemouth,32.0,1986.0,2019-2020,EPL
+Sam Surridge,b017b770,engENG,FW,Bournemouth,21.0,1998.0,2019-2020,EPL
+Japhet Tanganga,e9971f2d,engENG,"DF,MF",Tottenham Hotspur,20.0,1999.0,2019-2020,EPL
+Matt Targett,e514ab62,engENG,"DF,MF",Aston Villa,23.0,1995.0,2019-2020,EPL
+James Tarkowski,15ea812b,engENG,DF,Burnley,26.0,1992.0,2019-2020,EPL
+Charlie Taylor,cc2d7ad5,engENG,DF,Burnley,25.0,1993.0,2019-2020,EPL
+Neil Taylor,c2f9d19f,wlsWAL,DF,Aston Villa,30.0,1989.0,2019-2020,EPL
+Nathan Tella,f1e94cd6,ngNGA,"FW,MF",Southampton,20.0,1999.0,2019-2020,EPL
+Alexander Tettey,75566759,noNOR,"MF,DF",Norwich City,33.0,1986.0,2019-2020,EPL
+Jordan Thomas,b547f08c,engENG,DF,Norwich City,18.0,2001.0,2019-2020,EPL
+Luke Thomas,fc027d02,engENG,MF,Leicester City,18.0,2001.0,2019-2020,EPL
+Max Thompson,fa38722f,engENG,FW,Burnley,17.0,2002.0,2019-2020,EPL
+Youri Tielemans,56f7a928,beBEL,MF,Leicester City,22.0,1997.0,2019-2020,EPL
+Kieran Tierney,fce2302c,sctSCO,"DF,MF",Arsenal,22.0,1997.0,2019-2020,EPL
+James Tomkins,e7ca0439,engENG,DF,Crystal Palace,30.0,1989.0,2019-2020,EPL
+Fikayo Tomori,7edfbb8a,engENG,DF,Chelsea,21.0,1997.0,2019-2020,EPL
+Lucas Torreira,52611641,uyURU,MF,Arsenal,23.0,1996.0,2019-2020,EPL
+Cenk Tosun,9a104dee,trTUR,FW,Crystal Palace,28.0,1991.0,2019-2020,EPL
+Cenk Tosun,9a104dee,trTUR,FW,Everton,28.0,1991.0,2019-2020,EPL
+Andros Townsend,b28bbd58,engENG,MF,Crystal Palace,28.0,1991.0,2019-2020,EPL
+Adama Traoré,9a28eba4,esESP,"FW,MF",Wolves,23.0,1996.0,2019-2020,EPL
+Mark Travers,fe558029,ieIRL,GK,Bournemouth,20.0,1999.0,2019-2020,EPL
+Trézéguet,3ae14ed1,egEGY,"FW,MF",Aston Villa,24.0,1994.0,2019-2020,EPL
+Leandro Trossard,38ceb24a,beBEL,"MF,FW",Brighton,24.0,1994.0,2019-2020,EPL
+Tom Trybull,552aa16c,deGER,MF,Norwich City,26.0,1993.0,2019-2020,EPL
+Axel Tuanzebe,2baec6ce,cdCOD,DF,Manchester Utd,21.0,1997.0,2019-2020,EPL
+Yan Valery,531a4aa8,tnTUN,"DF,MF",Southampton,20.0,1999.0,2019-2020,EPL
+Jesús Vallejo,c2111b45,esESP,DF,Wolves,22.0,1997.0,2019-2020,EPL
+Virgil van Dijk,e06683ca,nlNED,DF,Liverpool,28.0,1991.0,2019-2020,EPL
+Jamie Vardy,45963054,engENG,FW,Leicester City,32.0,1987.0,2019-2020,EPL
+Indiana Vassilev,04e195ee,usUSA,"FW,MF",Aston Villa,18.0,2001.0,2019-2020,EPL
+Jan Vertonghen,ba23a904,beBEL,DF,Tottenham Hotspur,32.0,1987.0,2019-2020,EPL
+Jannik Vestergaard,1900032e,dkDEN,DF,Southampton,26.0,1992.0,2019-2020,EPL
+Rúben Vinagre,b937e490,ptPOR,MF,Wolves,20.0,1999.0,2019-2020,EPL
+Jake Vokins,d484c261,engENG,DF,Southampton,19.0,2000.0,2019-2020,EPL
+Mario Vrančić,16fa6881,baBIH,MF,Norwich City,30.0,1989.0,2019-2020,EPL
+Matěj Vydra,0d4ceb32,czCZE,FW,Burnley,27.0,1992.0,2019-2020,EPL
+Theo Walcott,1ecb65be,engENG,MF,Everton,30.0,1989.0,2019-2020,EPL
+Kyle Walker,86dd77d1,engENG,DF,Manchester City,29.0,1990.0,2019-2020,EPL
+Kyle Walker-Peters,984a5a64,engENG,DF,Southampton,22.0,1997.0,2019-2020,EPL
+Kyle Walker-Peters,984a5a64,engENG,DF,Tottenham Hotspur,22.0,1997.0,2019-2020,EPL
+Aaron Wan-Bissaka,9e525177,cdCOD,"DF,MF",Manchester Utd,21.0,1997.0,2019-2020,EPL
+Victor Wanyama,e0900238,keKEN,MF,Tottenham Hotspur,28.0,1991.0,2019-2020,EPL
+Joel Ward,8a7ff278,engENG,DF,Crystal Palace,29.0,1989.0,2019-2020,EPL
+James Ward-Prowse,3515d404,engENG,MF,Southampton,24.0,1994.0,2019-2020,EPL
+Kelland Watts,603e4f0b,engENG,DF,Newcastle United,19.0,1999.0,2019-2020,EPL
+Adam Webster,c40b6180,engENG,DF,Brighton,24.0,1995.0,2019-2020,EPL
+Danny Welbeck,ce5143da,engENG,"FW,MF",Watford,28.0,1990.0,2019-2020,EPL
+Ashley Westwood,495945ef,engENG,MF,Burnley,29.0,1990.0,2019-2020,EPL
+Connor Wickham,41cc19c2,engENG,"FW,MF",Crystal Palace,26.0,1993.0,2019-2020,EPL
+Georginio Wijnaldum,eb58eef0,nlNED,MF,Liverpool,28.0,1990.0,2019-2020,EPL
+Jetro Willems,9050ddc4,nlNED,"DF,MF",Newcastle United,25.0,1994.0,2019-2020,EPL
+Brandon Williams,5e74d6c8,engENG,"DF,MF",Manchester Utd,18.0,2000.0,2019-2020,EPL
+Neco Williams,dd323728,wlsWAL,DF,Liverpool,18.0,2001.0,2019-2020,EPL
+Willian,8b9ebd03,brBRA,"FW,MF",Chelsea,30.0,1988.0,2019-2020,EPL
+Joe Willock,a3b03921,engENG,MF,Arsenal,19.0,1999.0,2019-2020,EPL
+Jack Wilshere,9c318325,engENG,MF,West Ham United,27.0,1992.0,2019-2020,EPL
+Callum Wilson,c596fcb0,engENG,FW,Bournemouth,27.0,1992.0,2019-2020,EPL
+Harry Wilson,c6dc9ecd,wlsWAL,"MF,FW",Bournemouth,22.0,1997.0,2019-2020,EPL
+Harry Winks,2f7acede,engENG,MF,Tottenham Hotspur,23.0,1996.0,2019-2020,EPL
+Chris Wood,4e9a0555,nzNZL,FW,Burnley,27.0,1991.0,2019-2020,EPL
+Granit Xhaka,e61b8aee,chSUI,MF,Arsenal,26.0,1992.0,2019-2020,EPL
+Andriy Yarmolenko,849c826a,uaUKR,MF,West Ham United,29.0,1989.0,2019-2020,EPL
+DeAndre Yedlin,ae0a7ddf,usUSA,"DF,MF",Newcastle United,26.0,1993.0,2019-2020,EPL
+Maya Yoshida,caffaf5a,jpJPN,DF,Southampton,30.0,1988.0,2019-2020,EPL
+Ashley Young,be927d03,engENG,"DF,MF",Manchester Utd,34.0,1985.0,2019-2020,EPL
+Pablo Zabaleta,6813ac34,arARG,"DF,MF",West Ham United,34.0,1985.0,2019-2020,EPL
+Wilfried Zaha,b2bc3b1f,ciCIV,"MF,FW",Crystal Palace,26.0,1992.0,2019-2020,EPL
+Christoph Zimmermann,2d5f03bf,deGER,DF,Norwich City,26.0,1993.0,2019-2020,EPL
+Oleksandr Zinchenko,51cf8561,uaUKR,DF,Manchester City,22.0,1996.0,2019-2020,EPL
+Richairo Živković,d2d74d9c,cwCUW,FW,Sheffield United,22.0,1996.0,2019-2020,EPL
+Kurt Zouma,ce4246f5,frFRA,DF,Chelsea,24.0,1994.0,2019-2020,EPL
+Francesco Acerbi,b96b595c,itITA,DF,Lazio,31.0,1988.0,2019-2020,ITA
+Bobby Adekanye,3ed84b2c,nlNED,"FW,MF",Lazio,20.0,1999.0,2019-2020,ITA
+Claud Adjapong,ce5b170a,itITA,MF,Hellas Verona,21.0,1998.0,2019-2020,ITA
+Lucien Agoume,8bc8829a,frFRA,MF,Inter,17.0,2002.0,2019-2020,ITA
+Kevin Agudelo,46fa7204,coCOL,MF,Fiorentina,20.0,1998.0,2019-2020,ITA
+Kevin Agudelo,46fa7204,coCOL,"MF,FW",Genoa,20.0,1998.0,2019-2020,ITA
+Emmanuel Agyemang-Badu,fe0b8f0e,ghGHA,MF,Hellas Verona,28.0,1990.0,2019-2020,ITA
+Ola Aina,246d153b,ngNGA,MF,Torino,22.0,1996.0,2019-2020,ITA
+Luis Alberto,5294a83f,esESP,MF,Lazio,26.0,1992.0,2019-2020,ITA
+Enrico Alfonso,95adf1e1,itITA,GK,Brescia,31.0,1988.0,2019-2020,ITA
+Allan,cc700722,brBRA,MF,Napoli,28.0,1991.0,2019-2020,ITA
+Bruno Alves,585a73a8,ptPOR,DF,Parma,37.0,1981.0,2019-2020,ITA
+Sofyan Amrabat,5a2cb25d,maMAR,MF,Hellas Verona,22.0,1996.0,2019-2020,ITA
+Djavan Anderson,ca241ad3,srSUR,MF,Lazio,24.0,1995.0,2019-2020,ITA
+Lorenzo Andrenacci,fe471a89,itITA,GK,Brescia,24.0,1995.0,2019-2020,ITA
+Peter Ankersen,df525574,dkDEN,"MF,DF",Genoa,28.0,1990.0,2019-2020,ITA
+Cristian Ansaldi,bbafc0c4,arARG,MF,Torino,32.0,1986.0,2019-2020,ITA
+Mirko Antonucci,91976866,itITA,"FW,MF",Roma,20.0,1999.0,2019-2020,ITA
+Guilherme Arana,2b15a82a,brBRA,"DF,MF",Atalanta,22.0,1997.0,2019-2020,ITA
+Nicolò Armini,2f7407fa,itITA,DF,Lazio,18.0,2001.0,2019-2020,ITA
+Kwadwo Asamoah,089550f5,ghGHA,MF,Inter,30.0,1988.0,2019-2020,ITA
+Kristoffer Askildsen,a69cc629,noNOR,MF,Sampdoria,18.0,2001.0,2019-2020,ITA
+Emil Audero,649b01d8,idIDN,GK,Sampdoria,22.0,1997.0,2019-2020,ITA
+Tommaso Augello,3cd3b384,itITA,DF,Sampdoria,24.0,1994.0,2019-2020,ITA
+Florian Ayé,718b8afd,frFRA,"FW,MF",Brescia,22.0,1997.0,2019-2020,ITA
+Khouma Babacar,422ec08a,snSEN,FW,Lecce,26.0,1993.0,2019-2020,ITA
+Milan Badelj,e8c930bb,hrCRO,MF,Fiorentina,30.0,1989.0,2019-2020,ITA
+Marco Ballarini,8cb494c9,itITA,MF,Udinese,18.0,2001.0,2019-2020,ITA
+Mario Balotelli,8ff07990,itITA,FW,Brescia,28.0,1990.0,2019-2020,ITA
+Mattia Bani,0821331c,itITA,DF,Bologna,25.0,1993.0,2019-2020,ITA
+Antonín Barák,01efac19,czCZE,FW,Udinese,24.0,1994.0,2019-2020,ITA
+Antonín Barák,01efac19,czCZE,MF,Lecce,24.0,1994.0,2019-2020,ITA
+Nicolò Barella,6928979a,itITA,MF,Inter,22.0,1997.0,2019-2020,ITA
+Antonino Barillà,a64cbd35,itITA,MF,Parma,31.0,1988.0,2019-2020,ITA
+Antonio Barreca,6a189491,itITA,MF,Genoa,24.0,1995.0,2019-2020,ITA
+Édgar Barreto,43a1bea5,pyPAR,MF,Sampdoria,35.0,1984.0,2019-2020,ITA
+Musa Barrow,e5bf73f3,gmGAM,"MF,FW",Bologna,20.0,1998.0,2019-2020,ITA
+Musa Barrow,e5bf73f3,gmGAM,FW,Atalanta,20.0,1998.0,2019-2020,ITA
+Daniele Baselli,ea06dd97,itITA,MF,Torino,27.0,1992.0,2019-2020,ITA
+Alessandro Bastoni,75b86fb3,itITA,DF,Inter,20.0,1999.0,2019-2020,ITA
+Bastos,c01c66d9,aoANG,DF,Lazio,28.0,1991.0,2019-2020,ITA
+Rodrigo Becão,19e4eab9,brBRA,DF,Udinese,23.0,1996.0,2019-2020,ITA
+Asmir Begović,7b4de647,baBIH,GK,Milan,32.0,1987.0,2019-2020,ITA
+Valon Behrami,d3d758d8,chSUI,MF,Genoa,34.0,1985.0,2019-2020,ITA
+Raoul Bellanova,e3756e72,itITA,MF,Atalanta,19.0,2000.0,2019-2020,ITA
+Andrea Belotti,d705ba44,itITA,FW,Torino,25.0,1993.0,2019-2020,ITA
+Marco Benassi,0000acda,itITA,MF,Fiorentina,24.0,1994.0,2019-2020,ITA
+Ismaël Bennacer,db092d3b,dzALG,MF,Milan,21.0,1997.0,2019-2020,ITA
+Rodrigo Bentancur,3b8674e6,uyURU,MF,Juventus,22.0,1997.0,2019-2020,ITA
+Romario Benzar,2e3596d1,roROU,DF,Lecce,27.0,1992.0,2019-2020,ITA
+Domenico Berardi,53a0e358,itITA,"MF,FW",Sassuolo,24.0,1994.0,2019-2020,ITA
+Álex Berenguer,dc1c2fce,esESP,"MF,FW",Torino,24.0,1995.0,2019-2020,ITA
+Bartosz Bereszyński,61b3978f,plPOL,DF,Sampdoria,27.0,1992.0,2019-2020,ITA
+Etrit Berisha,ee833569,alALB,GK,SPAL,30.0,1989.0,2019-2020,ITA
+Valon Berisha,d5575935,xkKVX,MF,Lazio,26.0,1993.0,2019-2020,ITA
+Federico Bernardeschi,ee93c1a9,itITA,"FW,MF",Juventus,25.0,1994.0,2019-2020,ITA
+Andrea Bertolacci,c75b6a02,itITA,MF,Sampdoria,28.0,1991.0,2019-2020,ITA
+Lucas Biglia,5710a281,arARG,MF,Milan,33.0,1986.0,2019-2020,ITA
+Cristiano Biraghi,9e1577aa,itITA,MF,Inter,26.0,1992.0,2019-2020,ITA
+Davide Biraschi,64cd167d,itITA,"DF,MF",Genoa,25.0,1994.0,2019-2020,ITA
+Valter Birsa,455a2b79,siSVN,MF,Cagliari,32.0,1986.0,2019-2020,ITA
+Dimitri Bisoli,16569fef,itITA,MF,Brescia,25.0,1994.0,2019-2020,ITA
+Birkir Bjarnason,da13074e,isISL,MF,Brescia,31.0,1988.0,2019-2020,ITA
+Kevin-Prince Boateng,f4ec4fd0,ghGHA,FW,Fiorentina,32.0,1987.0,2019-2020,ITA
+Salvatore Bocchetti,faa1b07d,itITA,DF,Hellas Verona,32.0,1986.0,2019-2020,ITA
+Jeremie Boga,fe012aca,ciCIV,"MF,FW",Sassuolo,22.0,1997.0,2019-2020,ITA
+Giacomo Bonaventura,d995ed27,itITA,"MF,FW",Milan,29.0,1989.0,2019-2020,ITA
+Federico Bonazzoli,bf57eaab,itITA,FW,Sampdoria,22.0,1997.0,2019-2020,ITA
+Kevin Bonifazi,fb77bfef,itITA,DF,Torino,23.0,1996.0,2019-2020,ITA
+Kevin Bonifazi,fb77bfef,itITA,DF,SPAL,23.0,1996.0,2019-2020,ITA
+Federico Bonini,f8f0744b,itITA,DF,Bologna,17.0,2001.0,2019-2020,ITA
+Leonardo Bonucci,52ec54d0,itITA,DF,Juventus,32.0,1987.0,2019-2020,ITA
+Fabio Borini,ef5b337e,itITA,"MF,FW",Hellas Verona,28.0,1991.0,2019-2020,ITA
+Fabio Borini,ef5b337e,itITA,MF,Milan,28.0,1991.0,2019-2020,ITA
+Mehdi Bourabia,0d077b88,maMAR,MF,Sassuolo,27.0,1991.0,2019-2020,ITA
+Federico Brancolini,d4890c25,itITA,GK,Fiorentina,18.0,2001.0,2019-2020,ITA
+Gleison Bremer,5fd5ed86,brBRA,DF,Torino,22.0,1997.0,2019-2020,ITA
+Marco Brescianini,dfd56738,itITA,MF,Milan,19.0,2000.0,2019-2020,ITA
+Marcelo Brozović,33b8d077,hrCRO,MF,Inter,26.0,1992.0,2019-2020,ITA
+Gastón Brugman,e947ee4a,uyURU,MF,Parma,26.0,1992.0,2019-2020,ITA
+Gianluigi Buffon,e40d028b,itITA,GK,Juventus,41.0,1978.0,2019-2020,ITA
+Fabrizio Cacciatore,00b0bb87,itITA,DF,Cagliari,32.0,1986.0,2019-2020,ITA
+Martín Cáceres,e94d79e3,uyURU,DF,Fiorentina,32.0,1987.0,2019-2020,ITA
+Felipe Caicedo,93b891d1,ecECU,FW,Lazio,30.0,1988.0,2019-2020,ITA
+Davide Calabria,2146785a,itITA,DF,Milan,22.0,1996.0,2019-2020,ITA
+Riccardo Calafiori,aded8e6f,itITA,MF,Roma,17.0,2002.0,2019-2020,ITA
+Mattia Caldara,ac7e640b,itITA,DF,Atalanta,25.0,1994.0,2019-2020,ITA
+Marco Calderoni,652811aa,itITA,DF,Lecce,30.0,1989.0,2019-2020,ITA
+Hakan Çalhanoğlu,cd0fa27b,trTUR,"MF,FW",Milan,25.0,1994.0,2019-2020,ITA
+José Callejón,78841da9,esESP,"FW,MF",Napoli,32.0,1987.0,2019-2020,ITA
+Emre Can,a65ce836,deGER,MF,Juventus,25.0,1994.0,2019-2020,ITA
+Antonio Candreva,356c9002,itITA,MF,Inter,32.0,1987.0,2019-2020,ITA
+Gianmarco Cangiano,a36084cd,itITA,FW,Bologna,17.0,2001.0,2019-2020,ITA
+Gianluca Caprari,54e53b7e,itITA,"FW,MF",Sampdoria,26.0,1993.0,2019-2020,ITA
+Gianluca Caprari,54e53b7e,itITA,"FW,MF",Parma,26.0,1993.0,2019-2020,ITA
+Francesco Caputo,5bd72174,itITA,FW,Sassuolo,31.0,1987.0,2019-2020,ITA
+Andrea Carboni,f7e2af2c,itITA,DF,Cagliari,18.0,2001.0,2019-2020,ITA
+Francesco Cassata,96960855,itITA,MF,Genoa,22.0,1997.0,2019-2020,ITA
+Timothy Castagne,197640fd,beBEL,MF,Atalanta,23.0,1995.0,2019-2020,ITA
+Samu Castillejo,130a7a3f,esESP,"MF,FW",Milan,24.0,1995.0,2019-2020,ITA
+Lucas Castro,56b2957b,arARG,MF,SPAL,30.0,1989.0,2019-2020,ITA
+Lucas Castro,56b2957b,arARG,MF,Cagliari,30.0,1989.0,2019-2020,ITA
+Gaetano Castrovilli,0728bebe,itITA,MF,Fiorentina,22.0,1997.0,2019-2020,ITA
+Danilo Cataldi,ba3d3bea,itITA,MF,Lazio,24.0,1994.0,2019-2020,ITA
+Federico Ceccherini,d9624b51,itITA,DF,Fiorentina,27.0,1992.0,2019-2020,ITA
+Christian Celesia,d2fd20d6,itITA,MF,Torino,17.0,2002.0,2019-2020,ITA
+Luca Ceppitelli,7d50454d,itITA,DF,Cagliari,29.0,1989.0,2019-2020,ITA
+Alberto Cerri,1079c685,itITA,FW,SPAL,23.0,1996.0,2019-2020,ITA
+Alberto Cerri,1079c685,itITA,FW,Cagliari,23.0,1996.0,2019-2020,ITA
+Julian Chabot,ae7058f9,deGER,DF,Sampdoria,21.0,1998.0,2019-2020,ITA
+Jhon Chancellor,84b6acaa,veVEN,DF,Brescia,27.0,1992.0,2019-2020,ITA
+Giorgio Chiellini,e85fb9b8,itITA,DF,Juventus,34.0,1984.0,2019-2020,ITA
+Federico Chiesa,b0f7e36c,itITA,"FW,MF",Fiorentina,21.0,1997.0,2019-2020,ITA
+Vlad Chiricheș,c316607a,roROU,DF,Sassuolo,29.0,1989.0,2019-2020,ITA
+Luca Cigarini,ae64d449,itITA,MF,Cagliari,33.0,1986.0,2019-2020,ITA
+Thiago Cionek,46f5c54d,plPOL,"DF,MF",SPAL,33.0,1986.0,2019-2020,ITA
+Andrea Cistana,fe6a7685,itITA,DF,Brescia,22.0,1997.0,2019-2020,ITA
+Denilho Cleonise,91c9de34,nlNED,MF,Genoa,17.0,2001.0,2019-2020,ITA
+Ebrima Colley,bf356094,gmGAM,"FW,MF",Atalanta,19.0,2000.0,2019-2020,ITA
+Omar Colley,8b95acda,gmGAM,DF,Sampdoria,26.0,1992.0,2019-2020,ITA
+Simone Colombi,72be9309,itITA,GK,Parma,28.0,1991.0,2019-2020,ITA
+Lorenzo Colombo,04df29a5,itITA,FW,Milan,17.0,2002.0,2019-2020,ITA
+Andrea Consigli,8cabdc1e,itITA,GK,Sassuolo,32.0,1987.0,2019-2020,ITA
+Andrea Conti,8fef5412,itITA,DF,Milan,25.0,1994.0,2019-2020,ITA
+Gabriele Corbo,091795f2,itITA,DF,Bologna,19.0,2000.0,2019-2020,ITA
+Andreas Cornelius,c693347d,dkDEN,FW,Parma,26.0,1993.0,2019-2020,ITA
+Joaquín Correa,45b9b619,arARG,FW,Lazio,24.0,1994.0,2019-2020,ITA
+Douglas Costa,4fa7cb9b,brBRA,"FW,MF",Juventus,28.0,1990.0,2019-2020,ITA
+Angelo da Costa Júnior,18736214,brBRA,GK,Bologna,35.0,1983.0,2019-2020,ITA
+Alessio Cragno,f554e29b,itITA,GK,Cagliari,25.0,1994.0,2019-2020,ITA
+Domenico Criscito,35dd6d80,itITA,"DF,MF",Genoa,32.0,1986.0,2019-2020,ITA
+Bryan Cristante,16657b95,itITA,MF,Roma,24.0,1995.0,2019-2020,ITA
+Sebastián Cristóforo,3c05c659,uyURU,MF,Fiorentina,25.0,1993.0,2019-2020,ITA
+Juan Cuadrado,0ab1f153,coCOL,"DF,FW",Juventus,31.0,1988.0,2019-2020,ITA
+Jaume Cuéllar,934e264d,boBOL,FW,SPAL,17.0,2001.0,2019-2020,ITA
+Felipe Curcio,8913a9f9,brBRA,DF,Brescia,25.0,1993.0,2019-2020,ITA
+Patrick Cutrone,a4fe8cda,itITA,FW,Fiorentina,21.0,1998.0,2019-2020,ITA
+Lennart-Marten Czyborra,7ba1f1ef,deGER,"DF,MF",Atalanta,20.0,1999.0,2019-2020,ITA
+Marco D'Alessandro,060606ec,itITA,"MF,FW",SPAL,28.0,1991.0,2019-2020,ITA
+Danilo D'Ambrosio,44eb9093,itITA,"DF,MF",Inter,30.0,1988.0,2019-2020,ITA
+Felice D'Amico,0c35d28d,itITA,FW,Sampdoria,18.0,2000.0,2019-2020,ITA
+Jacopo Da Riva,9591723b,itITA,MF,Atalanta,18.0,2000.0,2019-2020,ITA
+Bryan Dabo,c53083ad,bfBFA,MF,SPAL,27.0,1992.0,2019-2020,ITA
+Felipe dal Belo,8cea6319,brBRA,DF,SPAL,35.0,1984.0,2019-2020,ITA
+Christian Dalle Mura,f32df091,itITA,DF,Fiorentina,17.0,2002.0,2019-2020,ITA
+Danilo,94b2001f,brBRA,DF,Juventus,28.0,1991.0,2019-2020,ITA
+Andrea Danzi,263b855a,itITA,MF,Hellas Verona,20.0,1999.0,2019-2020,ITA
+Matteo Darmian,96e0490d,itITA,"DF,MF",Parma,29.0,1989.0,2019-2020,ITA
+Paweł Dawidowicz,16bb656a,plPOL,DF,Hellas Verona,24.0,1995.0,2019-2020,ITA
+Sebastien De Maio,952a03fe,frFRA,DF,Udinese,32.0,1987.0,2019-2020,ITA
+Rodrigo De Paul,162efffd,arARG,MF,Udinese,25.0,1994.0,2019-2020,ITA
+Mattia De Sciglio,ae4e2852,itITA,DF,Juventus,26.0,1992.0,2019-2020,ITA
+Lorenzo De Silvestri,e74f0e59,itITA,MF,Torino,31.0,1988.0,2019-2020,ITA
+Grégoire Defrel,854ee61a,mqMTQ,"FW,MF",Sassuolo,28.0,1991.0,2019-2020,ITA
+Alessandro Deiola,7f267d66,itITA,MF,Cagliari,23.0,1995.0,2019-2020,ITA
+Alessandro Deiola,7f267d66,itITA,MF,Lecce,23.0,1995.0,2019-2020,ITA
+Cristian Dell'Orco,b0243215,itITA,DF,Lecce,25.0,1994.0,2019-2020,ITA
+Merih Demiral,e3cceee6,trTUR,DF,Juventus,21.0,1998.0,2019-2020,ITA
+Diego Demme,dc3fa3b5,deGER,MF,Napoli,27.0,1991.0,2019-2020,ITA
+Stefano Denswil,5832ebfe,srSUR,DF,Bologna,26.0,1993.0,2019-2020,ITA
+Fabio Depaoli,d97f2e8d,itITA,"MF,DF",Sampdoria,22.0,1997.0,2019-2020,ITA
+Kastriot Dermaku,2990c466,alALB,DF,Parma,27.0,1992.0,2019-2020,ITA
+Daniele Dessena,02b2937c,itITA,MF,Brescia,32.0,1987.0,2019-2020,ITA
+Mattia Destro,d7d32194,itITA,FW,Bologna,28.0,1991.0,2019-2020,ITA
+Mattia Destro,d7d32194,itITA,FW,Genoa,28.0,1991.0,2019-2020,ITA
+Samuel Di Carmine,ef94dc2f,itITA,"FW,MF",Hellas Verona,30.0,1988.0,2019-2020,ITA
+Federico Di Francesco,1fca9171,itITA,FW,SPAL,25.0,1994.0,2019-2020,ITA
+Giovanni Di Lorenzo,230a2fac,itITA,DF,Napoli,25.0,1993.0,2019-2020,ITA
+Amad Diallo,9dc96f10,ciCIV,"FW,MF",Atalanta,17.0,2002.0,2019-2020,ITA
+Amadou Diawara,bf309d24,gnGUI,MF,Roma,22.0,1997.0,2019-2020,ITA
+Mitchell Dijks,0a3065c8,nlNED,DF,Bologna,26.0,1993.0,2019-2020,ITA
+Federico Dimarco,970b8574,itITA,"MF,DF",Hellas Verona,21.0,1997.0,2019-2020,ITA
+Federico Dimarco,970b8574,itITA,"DF,MF",Inter,21.0,1997.0,2019-2020,ITA
+Koffi Djidji,933d3b51,ciCIV,DF,Torino,26.0,1992.0,2019-2020,ITA
+Berat Djimsiti,6eee05f1,alALB,DF,Atalanta,26.0,1993.0,2019-2020,ITA
+Nicolás Domínguez,20b3a502,arARG,MF,Bologna,21.0,1998.0,2019-2020,ITA
+Giulio Donati,22051fbe,itITA,DF,Lecce,29.0,1990.0,2019-2020,ITA
+Alfredo Donnarumma,5592007b,itITA,FW,Brescia,28.0,1990.0,2019-2020,ITA
+Gianluigi Donnarumma,08f5afaa,itITA,GK,Milan,20.0,1999.0,2019-2020,ITA
+Bartłomiej Drągowski,085e71a7,plPOL,GK,Fiorentina,21.0,1997.0,2019-2020,ITA
+Léo Duarte,73ddc40c,brBRA,DF,Milan,23.0,1996.0,2019-2020,ITA
+Edgaras Dubickas,c59f90b0,ltLTU,MF,Lecce,21.0,1998.0,2019-2020,ITA
+Alfred Duncan,528492ea,ghGHA,MF,Fiorentina,26.0,1993.0,2019-2020,ITA
+Alfred Duncan,528492ea,ghGHA,MF,Sassuolo,26.0,1993.0,2019-2020,ITA
+Paulo Dybala,e0921a4f,arARG,"FW,MF",Juventus,25.0,1993.0,2019-2020,ITA
+Edin Džeko,3bb7f478,baBIH,FW,Roma,33.0,1986.0,2019-2020,ITA
+Blerim Džemaili,756959aa,chSUI,MF,Bologna,33.0,1986.0,2019-2020,ITA
+Simone Edera,8697c095,itITA,"MF,FW",Torino,22.0,1997.0,2019-2020,ITA
+Albin Ekdal,f503ea63,seSWE,MF,Sampdoria,30.0,1989.0,2019-2020,ITA
+Elif Elmas,cf007308,mkMKD,MF,Napoli,19.0,1999.0,2019-2020,ITA
+Alan Empereur,825b8997,brBRA,DF,Hellas Verona,25.0,1994.0,2019-2020,ITA
+Christian Eriksen,980522ec,dkDEN,MF,Inter,27.0,1992.0,2019-2020,ITA
+Sebastiano Esposito,7ff93107,itITA,FW,Inter,17.0,2002.0,2019-2020,ITA
+Valentin Eysseric,ae82fa48,frFRA,"MF,FW",Hellas Verona,27.0,1992.0,2019-2020,ITA
+Valentin Eysseric,ae82fa48,frFRA,"FW,MF",Fiorentina,27.0,1992.0,2019-2020,ITA
+Luca Falbo,ca8fa0c0,itITA,DF,Lazio,19.0,2000.0,2019-2020,ITA
+Filippo Falco,e23f56c1,itITA,"FW,MF",Lecce,27.0,1992.0,2019-2020,ITA
+Wladimiro Falcone,9f5a610b,itITA,GK,Sampdoria,24.0,1995.0,2019-2020,ITA
+Iago Falque,440c84ed,esESP,FW,Torino,29.0,1990.0,2019-2020,ITA
+Iago Falque,440c84ed,esESP,"MF,FW",Genoa,29.0,1990.0,2019-2020,ITA
+Andri Fannar Baldursson,61f2f56a,isISL,MF,Bologna,17.0,2002.0,2019-2020,ITA
+Paolo Faragò,9085dd7c,itITA,"DF,MF",Cagliari,26.0,1993.0,2019-2020,ITA
+Davide Faraoni,aae9d04a,itITA,MF,Hellas Verona,27.0,1991.0,2019-2020,ITA
+Mohamed Fares,b7a5bc86,dzALG,"MF,DF",SPAL,23.0,1996.0,2019-2020,ITA
+Diego Farias,157d29b6,brBRA,"FW,MF",Lecce,29.0,1990.0,2019-2020,ITA
+Andrea Favilli,44510fde,itITA,FW,Genoa,22.0,1997.0,2019-2020,ITA
+Federico Fazio,4e358a2d,arARG,DF,Roma,32.0,1987.0,2019-2020,ITA
+Luiz Felipe,15d0c248,itITA,DF,Lazio,22.0,1997.0,2019-2020,ITA
+Lucas Felippe,85e51909,brBRA,MF,Hellas Verona,19.0,2000.0,2019-2020,ITA
+Alex Ferrari,d0dbca9f,itITA,DF,Sampdoria,25.0,1994.0,2019-2020,ITA
+Sergio Floccari,df301450,itITA,FW,SPAL,37.0,1981.0,2019-2020,ITA
+Alessandro Florenzi,e288d4b3,itITA,"DF,MF",Roma,28.0,1991.0,2019-2020,ITA
+Seko Fofana,5313ed43,ciCIV,MF,Udinese,24.0,1995.0,2019-2020,ITA
+Gianluca Frabotta,d80b1835,itITA,DF,Juventus,20.0,1999.0,2019-2020,ITA
+Remo Freuler,98d2c2c4,chSUI,MF,Atalanta,27.0,1992.0,2019-2020,ITA
+Daniel Fuzato,82328faf,brBRA,GK,Roma,22.0,1997.0,2019-2020,ITA
+Matteo Gabbia,c235e803,itITA,DF,Milan,19.0,1999.0,2019-2020,ITA
+Manolo Gabbiadini,8f866fe8,itITA,FW,Sampdoria,27.0,1991.0,2019-2020,ITA
+Gabriel,f93ed0df,brBRA,GK,Lecce,26.0,1992.0,2019-2020,ITA
+Luca Gagliano,1d00a56c,itITA,FW,Cagliari,19.0,2000.0,2019-2020,ITA
+Roberto Gagliardini,ce30bfc8,itITA,MF,Inter,25.0,1994.0,2019-2020,ITA
+Riccardo Gagliolo,173061c0,seSWE,DF,Parma,29.0,1990.0,2019-2020,ITA
+Daniele Gastaldello,13f89eaa,itITA,DF,Brescia,36.0,1983.0,2019-2020,ITA
+Gervinho,e468c053,ciCIV,FW,Parma,32.0,1987.0,2019-2020,ITA
+Rachid Ghezzal,dc3a9a0d,dzALG,"MF,FW",Fiorentina,27.0,1992.0,2019-2020,ITA
+Andrea Ghezzi,c840baa2,itITA,FW,Brescia,18.0,2001.0,2019-2020,ITA
+Paolo Ghiglione,71dc23da,itITA,"MF,DF",Genoa,22.0,1997.0,2019-2020,ITA
+Andrea Ghion,7f24b3eb,itITA,MF,Sassuolo,19.0,2000.0,2019-2020,ITA
+Faouzi Ghoulam,c5adc293,dzALG,DF,Napoli,28.0,1991.0,2019-2020,ITA
+Diego Godín,fc4f85b1,uyURU,DF,Inter,33.0,1986.0,2019-2020,ITA
+Edoardo Goldaniga,4b029b31,itITA,DF,Genoa,25.0,1993.0,2019-2020,ITA
+Pierluigi Gollini,f0f7f62f,itITA,GK,Atalanta,24.0,1995.0,2019-2020,ITA
+Papu Gómez,6e4df551,arARG,"MF,FW",Atalanta,31.0,1988.0,2019-2020,ITA
+Robin Gosens,2d970560,deGER,MF,Atalanta,25.0,1994.0,2019-2020,ITA
+Alberto Grassi,6cc97b6a,itITA,MF,Parma,24.0,1995.0,2019-2020,ITA
+Sinan Gümüş,ac1f056e,deGER,FW,Genoa,25.0,1994.0,2019-2020,ITA
+Koray Günter,f1f1f238,deGER,DF,Hellas Verona,24.0,1994.0,2019-2020,ITA
+Samir Handanović,74419746,siSVN,GK,Inter,35.0,1984.0,2019-2020,ITA
+Lukáš Haraslín,5c397195,skSVK,"MF,FW",Sassuolo,23.0,1996.0,2019-2020,ITA
+Hans Hateboer,3b333ac3,nlNED,MF,Atalanta,25.0,1994.0,2019-2020,ITA
+Liam Henderson,d7918b13,sctSCO,MF,Hellas Verona,23.0,1996.0,2019-2020,ITA
+Dalbert Henrique,f45f9427,brBRA,"MF,DF",Fiorentina,25.0,1993.0,2019-2020,ITA
+Theo Hernández,d4c9725f,frFRA,DF,Milan,21.0,1997.0,2019-2020,ITA
+Hernani,6f5ead86,brBRA,MF,Parma,25.0,1994.0,2019-2020,ITA
+Gonzalo Higuaín,8a08491a,arARG,FW,Juventus,31.0,1987.0,2019-2020,ITA
+Krisztofer Horváth,4ce8f4a3,huHUN,MF,SPAL,17.0,2002.0,2019-2020,ITA
+Elseid Hysaj,2f3452eb,alALB,DF,Napoli,25.0,1994.0,2019-2020,ITA
+Simone Iacoponi,63071a3f,itITA,DF,Parma,32.0,1987.0,2019-2020,ITA
+Roger Ibanez,82efe6fa,brBRA,DF,Roma,20.0,1998.0,2019-2020,ITA
+Zlatan Ibrahimović,4cde5509,seSWE,FW,Milan,37.0,1981.0,2019-2020,ITA
+Igor,a4e85758,brBRA,"DF,MF",SPAL,21.0,1998.0,2019-2020,ITA
+Igor,a4e85758,brBRA,"DF,MF",Fiorentina,21.0,1998.0,2019-2020,ITA
+Josip Iličić,68252d6d,siSVN,"FW,MF",Atalanta,31.0,1988.0,2019-2020,ITA
+Giannelli Imbula,b86fe156,cdCOD,MF,Lecce,26.0,1992.0,2019-2020,ITA
+Ciro Immobile,4431aed2,itITA,FW,Lazio,29.0,1990.0,2019-2020,ITA
+Roberto Inglese,6c1f7328,itITA,FW,Parma,27.0,1991.0,2019-2020,ITA
+Lorenzo Insigne,2f557579,itITA,"FW,MF",Napoli,28.0,1991.0,2019-2020,ITA
+Artur Ioniță,cedb3e36,mdMDA,MF,Cagliari,28.0,1990.0,2019-2020,ITA
+Jakub Iskra,103b7264,plPOL,MF,SPAL,16.0,2002.0,2019-2020,ITA
+Armando Izzo,89976232,itITA,DF,Torino,27.0,1992.0,2019-2020,ITA
+Filip Jagiełło,4cdcbc14,plPOL,MF,Genoa,21.0,1997.0,2019-2020,ITA
+Mato Jajalo,8c65eb5f,baBIH,MF,Udinese,31.0,1988.0,2019-2020,ITA
+Marko Janković,9866afec,meMNE,MF,SPAL,24.0,1995.0,2019-2020,ITA
+Jakub Jankto,1ea5f91c,czCZE,MF,Sampdoria,23.0,1996.0,2019-2020,ITA
+Juan Jesus,79083382,brBRA,DF,Roma,28.0,1991.0,2019-2020,ITA
+Jony,244f57b9,esESP,MF,Lazio,28.0,1991.0,2019-2020,ITA
+Jesse Joronen,7f66ea09,fiFIN,GK,Brescia,26.0,1993.0,2019-2020,ITA
+Hamed Junior Traorè,570bb4b9,ciCIV,MF,Sassuolo,19.0,2000.0,2019-2020,ITA
+Musa Juwara,7737dee2,gmGAM,MF,Bologna,17.0,2001.0,2019-2020,ITA
+Nikola Kalinić,d4931a5a,hrCRO,FW,Roma,31.0,1988.0,2019-2020,ITA
+Yann Karamoh,8b66d9cc,frFRA,"FW,MF",Parma,21.0,1998.0,2019-2020,ITA
+Franck Kessié,05e19d6a,ciCIV,MF,Milan,22.0,1996.0,2019-2020,ITA
+Sami Khedira,38ac43d3,deGER,MF,Juventus,32.0,1987.0,2019-2020,ITA
+Simon Kjær,8b8a56ce,dkDEN,DF,Atalanta,30.0,1989.0,2019-2020,ITA
+Simon Kjær,8b8a56ce,dkDEN,DF,Milan,30.0,1989.0,2019-2020,ITA
+Ragnar Klavan,008a6e6d,eeEST,DF,Cagliari,33.0,1985.0,2019-2020,ITA
+Justin Kluivert,4c3a6744,nlNED,MF,Roma,20.0,1999.0,2019-2020,ITA
+Aleksandar Kolarov,eda40760,rsSRB,DF,Roma,33.0,1985.0,2019-2020,ITA
+Christian Kouamé,58e933d2,ciCIV,FW,Fiorentina,21.0,1997.0,2019-2020,ITA
+Christian Kouamé,58e933d2,ciCIV,"FW,MF",Genoa,21.0,1997.0,2019-2020,ITA
+Kalidou Koulibaly,da974c7b,snSEN,DF,Napoli,28.0,1991.0,2019-2020,ITA
+Ladislav Krejčí,58027adc,czCZE,DF,Bologna,27.0,1992.0,2019-2020,ITA
+Rade Krunić,817c6964,baBIH,MF,Milan,25.0,1993.0,2019-2020,ITA
+Juraj Kucka,5aaef9ef,skSVK,"MF,FW",Parma,32.0,1987.0,2019-2020,ITA
+Dejan Kulusevski,df3cda47,seSWE,"FW,MF",Parma,19.0,2000.0,2019-2020,ITA
+Marash Kumbulla,a40819d9,alALB,DF,Hellas Verona,19.0,2000.0,2019-2020,ITA
+Jasmin Kurtić,144607cc,siSVN,MF,SPAL,30.0,1989.0,2019-2020,ITA
+Jasmin Kurtić,144607cc,siSVN,"MF,FW",Parma,30.0,1989.0,2019-2020,ITA
+Giorgos Kyriakopoulos,0a483542,grGRE,DF,Sassuolo,23.0,1996.0,2019-2020,ITA
+Antonino La Gumina,822a7761,itITA,FW,Sampdoria,23.0,1996.0,2019-2020,ITA
+Andrea La Mantia,c375dfa5,itITA,"FW,MF",Lecce,28.0,1991.0,2019-2020,ITA
+Riccardo Ladinetti,ff4296df,itITA,MF,Cagliari,18.0,2000.0,2019-2020,ITA
+Gianluca Lapadula,2ead2809,pePER,FW,Lecce,29.0,1990.0,2019-2020,ITA
+Danilo Larangeira,fed5f993,brBRA,DF,Bologna,35.0,1984.0,2019-2020,ITA
+Kevin Lasagna,09538fdb,itITA,FW,Udinese,26.0,1992.0,2019-2020,ITA
+Vincent Laurini,3535098b,frFRA,DF,Parma,30.0,1989.0,2019-2020,ITA
+Diego Laxalt,f26e3c59,uyURU,"MF,DF",Torino,26.0,1993.0,2019-2020,ITA
+Diego Laxalt,f26e3c59,uyURU,DF,Milan,26.0,1993.0,2019-2020,ITA
+Valentino Lazaro,016ff750,atAUT,MF,Inter,23.0,1996.0,2019-2020,ITA
+Darko Lazović,5128bde4,rsSRB,MF,Hellas Verona,28.0,1990.0,2019-2020,ITA
+Manuel Lazzari,02caf6e0,itITA,MF,Lazio,25.0,1993.0,2019-2020,ITA
+Rafael Leão,20730eae,ptPOR,"FW,MF",Milan,20.0,1999.0,2019-2020,ITA
+Lucas Leiva,4c78b5ed,brBRA,MF,Lazio,32.0,1987.0,2019-2020,ITA
+Lukas Lerager,1b82f8df,dkDEN,MF,Genoa,26.0,1993.0,2019-2020,ITA
+Mehdi Léris,7d3cbc67,dzALG,"MF,FW",Sampdoria,21.0,1998.0,2019-2020,ITA
+Karlo Letica,4a6914ff,hrCRO,GK,SPAL,22.0,1997.0,2019-2020,ITA
+Matthijs de Ligt,d6e53a3a,nlNED,DF,Juventus,19.0,1999.0,2019-2020,ITA
+Anderson Lima,59be3a74,brBRA,MF,Lazio,19.0,1999.0,2019-2020,ITA
+Karol Linetty,d023d70f,plPOL,MF,Sampdoria,24.0,1995.0,2019-2020,ITA
+Pol Lirola,ff800ed8,esESP,MF,Fiorentina,21.0,1997.0,2019-2020,ITA
+Fernando Llorente,82dbf623,esESP,FW,Napoli,34.0,1985.0,2019-2020,ITA
+Stanislav Lobotka,e1cbb531,skSVK,MF,Napoli,24.0,1994.0,2019-2020,ITA
+Manuel Locatelli,a8a874f1,itITA,MF,Sassuolo,21.0,1998.0,2019-2020,ITA
+Pau López,20b9f052,esESP,GK,Roma,24.0,1994.0,2019-2020,ITA
+Matteo Lovato,5fa57166,itITA,DF,Hellas Verona,19.0,2000.0,2019-2020,ITA
+Hirving Lozano,a69e4806,mxMEX,"FW,MF",Napoli,24.0,1995.0,2019-2020,ITA
+Fabio Lucioni,8efa621b,itITA,DF,Lecce,31.0,1987.0,2019-2020,ITA
+José Luis Palomino,921f6058,arARG,DF,Atalanta,29.0,1990.0,2019-2020,ITA
+Jordan Lukaku,0cd0e21b,beBEL,MF,Lazio,25.0,1994.0,2019-2020,ITA
+Romelu Lukaku,5eae500a,beBEL,FW,Inter,26.0,1993.0,2019-2020,ITA
+Saša Lukić,c6e8cf1f,rsSRB,MF,Torino,22.0,1996.0,2019-2020,ITA
+Senad Lulić,7fd58fe3,baBIH,MF,Lazio,33.0,1986.0,2019-2020,ITA
+Sebastiano Luperto,997fff07,itITA,DF,Napoli,22.0,1996.0,2019-2020,ITA
+Lyanco,b5bf1770,brBRA,DF,Torino,22.0,1997.0,2019-2020,ITA
+Charalampos Lykogiannis,5efc5389,grGRE,"DF,MF",Cagliari,25.0,1993.0,2019-2020,ITA
+Francesco Magnanelli,07767f42,itITA,MF,Sassuolo,34.0,1984.0,2019-2020,ITA
+Giangiacomo Magnani,cce9f582,itITA,DF,Brescia,23.0,1995.0,2019-2020,ITA
+Giangiacomo Magnani,cce9f582,itITA,DF,Sassuolo,23.0,1995.0,2019-2020,ITA
+Žan Majer,bf13975c,siSVN,MF,Lecce,27.0,1992.0,2019-2020,ITA
+Nikola Maksimović,16b9d5cf,rsSRB,DF,Napoli,27.0,1991.0,2019-2020,ITA
+Kévin Malcuit,d6a889ea,maMAR,DF,Napoli,28.0,1991.0,2019-2020,ITA
+Daniel Maldini,801831fe,itITA,MF,Milan,17.0,2001.0,2019-2020,ITA
+Ruslan Malinovskyi,48d5bd33,uaUKR,"MF,FW",Atalanta,26.0,1993.0,2019-2020,ITA
+Gianluca Mancini,5aa53281,itITA,"DF,MF",Roma,23.0,1996.0,2019-2020,ITA
+Marco Mancosu,2c3a6c21,itITA,MF,Lecce,30.0,1988.0,2019-2020,ITA
+Rolando Mandragora,c7259b83,itITA,MF,Udinese,22.0,1997.0,2019-2020,ITA
+Massimiliano Mangraviti,33914f14,itITA,DF,Brescia,21.0,1998.0,2019-2020,ITA
+Kostas Manolas,c707411f,grGRE,DF,Napoli,28.0,1991.0,2019-2020,ITA
+Giacomo Manzari,d8dfae8a,itITA,MF,Sassuolo,18.0,2000.0,2019-2020,ITA
+Gian Marco Ferrari,8650af85,itITA,DF,Sassuolo,27.0,1992.0,2019-2020,ITA
+Federico Marigosu,66a9470c,itITA,MF,Cagliari,18.0,2001.0,2019-2020,ITA
+Marlon,cdf65d12,brBRA,DF,Sassuolo,23.0,1995.0,2019-2020,ITA
+Gonzalo Maroni,e01ca8f4,arARG,MF,Sampdoria,20.0,1999.0,2019-2020,ITA
+Bruno Martella,1e12c53b,itITA,"DF,MF",Brescia,26.0,1992.0,2019-2020,ITA
+Lautaro Martínez,f7036e1c,arARG,FW,Inter,21.0,1997.0,2019-2020,ITA
+Adam Marušić,d4535821,meMNE,MF,Lazio,26.0,1992.0,2019-2020,ITA
+Andrea Masiello,e0314d87,itITA,DF,Genoa,33.0,1986.0,2019-2020,ITA
+Andrea Masiello,e0314d87,itITA,DF,Atalanta,33.0,1986.0,2019-2020,ITA
+Aleš Matějů,deb748c9,czCZE,DF,Brescia,23.0,1996.0,2019-2020,ITA
+Alessandro Matri,58d97e77,itITA,FW,Brescia,34.0,1984.0,2019-2020,ITA
+Federico Mattiello,fba81826,itITA,MF,Cagliari,24.0,1995.0,2019-2020,ITA
+Blaise Matuidi,c0cddebe,frFRA,MF,Juventus,32.0,1987.0,2019-2020,ITA
+Luca Mazzitelli,dc61b402,itITA,"DF,MF",Sassuolo,23.0,1995.0,2019-2020,ITA
+Ibrahima Mbaye,cfbf9881,snSEN,DF,Bologna,24.0,1994.0,2019-2020,ITA
+Biagio Meccariello,1eeeff8a,itITA,DF,Lecce,28.0,1991.0,2019-2020,ITA
+Gary Medel,563a68ad,clCHI,MF,Bologna,31.0,1987.0,2019-2020,ITA
+Soualiho Meïté,5cec2c74,frFRA,MF,Torino,25.0,1994.0,2019-2020,ITA
+Alex Meret,9413b19f,itITA,GK,Napoli,22.0,1997.0,2019-2020,ITA
+Yıldırım Mert Çetin,c730da00,trTUR,DF,Roma,22.0,1997.0,2019-2020,ITA
+Dries Mertens,89b2c8a9,beBEL,FW,Napoli,32.0,1987.0,2019-2020,ITA
+Kingsley Michael,e63e122d,ngNGA,MF,Bologna,19.0,1999.0,2019-2020,ITA
+Nikola Milenković,bee704fc,rsSRB,DF,Fiorentina,21.0,1997.0,2019-2020,ITA
+Arkadiusz Milik,85613cf0,plPOL,FW,Napoli,25.0,1994.0,2019-2020,ITA
+Sergej Milinković-Savić,4e6dbac4,rsSRB,MF,Lazio,24.0,1995.0,2019-2020,ITA
+Vincenzo Millico,6817095b,itITA,FW,Torino,18.0,2000.0,2019-2020,ITA
+Antonio Mirante,30223b33,itITA,GK,Roma,36.0,1983.0,2019-2020,ITA
+Simone Missiroli,331c0a43,itITA,MF,SPAL,33.0,1986.0,2019-2020,ITA
+Henrikh Mkhitaryan,dd0daf32,amARM,MF,Roma,30.0,1989.0,2019-2020,ITA
+Gabriele Moncini,c4efe2b4,itITA,FW,SPAL,23.0,1996.0,2019-2020,ITA
+Ilario Monterisi,31b252fc,itITA,DF,Lecce,17.0,2001.0,2019-2020,ITA
+Raúl Moro,919dd4b1,esESP,MF,Lazio,16.0,2002.0,2019-2020,ITA
+Leonardo Morosini,d89b0ebb,itITA,"FW,MF",Brescia,23.0,1995.0,2019-2020,ITA
+Victor Moses,e726e11e,ngNGA,MF,Inter,28.0,1990.0,2019-2020,ITA
+Mert Müldür,1295552e,trTUR,DF,Sassuolo,20.0,1999.0,2019-2020,ITA
+Simone Muratore,04989945,itITA,MF,Juventus,21.0,1998.0,2019-2020,ITA
+Alessandro Murgia,fb2c533b,itITA,MF,SPAL,22.0,1996.0,2019-2020,ITA
+Luis Muriel,eb2fe5b6,coCOL,FW,Atalanta,28.0,1991.0,2019-2020,ITA
+Jeison Murillo,b233e8e4,coCOL,DF,Sampdoria,27.0,1992.0,2019-2020,ITA
+Nicola Murru,d183e9d6,itITA,"DF,MF",Sampdoria,24.0,1994.0,2019-2020,ITA
+Mateo Musacchio,91899ca8,arARG,DF,Milan,28.0,1990.0,2019-2020,ITA
+Juan Musso,a111cf41,arARG,GK,Udinese,25.0,1994.0,2019-2020,ITA
+Radja Nainggolan,1f9328da,beBEL,MF,Cagliari,31.0,1988.0,2019-2020,ITA
+Nahitan Nández,95facda1,uyURU,MF,Cagliari,23.0,1995.0,2019-2020,ITA
+Michel Ndary Adopo,599d91d0,frFRA,MF,Torino,19.0,2000.0,2019-2020,ITA
+Emanuele Ndoj,482145e9,alALB,MF,Brescia,22.0,1996.0,2019-2020,ITA
+Ilija Nestorovski,b1236c63,mkMKD,FW,Udinese,29.0,1990.0,2019-2020,ITA
+Nicolas Nkoulou,93cf32a8,cmCMR,DF,Torino,29.0,1990.0,2019-2020,ITA
+Bram Nuytinck,e33f36d5,nlNED,DF,Udinese,29.0,1990.0,2019-2020,ITA
+Pedro Obiang,ba1e04b3,gqEQG,MF,Sassuolo,27.0,1992.0,2019-2020,ITA
+Stefano Okaka,601ef102,itITA,FW,Udinese,29.0,1989.0,2019-2020,ITA
+Christian Oliva,d3b888e3,uyURU,MF,Cagliari,23.0,1996.0,2019-2020,ITA
+Maximiliano Olivera,32a33c68,uyURU,DF,Fiorentina,27.0,1992.0,2019-2020,ITA
+Marco Olivieri,f5ba8903,itITA,FW,Juventus,20.0,1999.0,2019-2020,ITA
+Robin Olsen,e7ee38c3,seSWE,GK,Cagliari,29.0,1990.0,2019-2020,ITA
+Nicholas Opoku,b871bf55,ghGHA,"DF,MF",Udinese,21.0,1997.0,2019-2020,ITA
+Riccardo Orsolini,e14ec482,itITA,"MF,FW",Bologna,22.0,1997.0,2019-2020,ITA
+David Ospina,82b1198a,coCOL,GK,Napoli,30.0,1988.0,2019-2020,ITA
+Daniele Padelli,cf1c23d8,itITA,GK,Inter,33.0,1985.0,2019-2020,ITA
+Marko Pajač,5df4ef30,hrCRO,"MF,DF",Genoa,26.0,1993.0,2019-2020,ITA
+Rodrigo Palacio,8d8178ac,arARG,FW,Bologna,37.0,1982.0,2019-2020,ITA
+Alberto Paloschi,b5cae4e6,itITA,FW,SPAL,29.0,1990.0,2019-2020,ITA
+Alberto Paloschi,b5cae4e6,itITA,FW,Cagliari,29.0,1990.0,2019-2020,ITA
+Martin Palumbo,f8d41a8c,noNOR,MF,Udinese,17.0,2002.0,2019-2020,ITA
+Goran Pandev,d711d04f,mkMKD,"FW,MF",Genoa,36.0,1983.0,2019-2020,ITA
+Andrea Papetti,4195b8b6,itITA,DF,Brescia,17.0,2002.0,2019-2020,ITA
+Lucas Paquetá,9b6f7fd5,brBRA,MF,Milan,21.0,1997.0,2019-2020,ITA
+Marco Parolo,ed5886d2,itITA,MF,Lazio,34.0,1985.0,2019-2020,ITA
+Mario Pašalić,e599253a,hrCRO,MF,Atalanta,24.0,1995.0,2019-2020,ITA
+Javier Pastore,881ef58c,arARG,MF,Roma,30.0,1989.0,2019-2020,ITA
+Patric,f7223718,esESP,DF,Lazio,26.0,1993.0,2019-2020,ITA
+Leonardo Pavoletti,d37b0350,itITA,FW,Cagliari,30.0,1988.0,2019-2020,ITA
+Nehuén Paz,42b1a58a,arARG,DF,Bologna,26.0,1993.0,2019-2020,ITA
+Nehuén Paz,42b1a58a,arARG,DF,Lecce,26.0,1993.0,2019-2020,ITA
+Giampaolo Pazzini,6ca663b4,itITA,FW,Hellas Verona,34.0,1984.0,2019-2020,ITA
+Pedro,1ab6fad3,brBRA,FW,Fiorentina,22.0,1997.0,2019-2020,ITA
+João Pedro,81255c03,itITA,"FW,MF",Cagliari,27.0,1992.0,2019-2020,ITA
+Daouda Peeters,e83f8ebb,beBEL,MF,Juventus,20.0,1999.0,2019-2020,ITA
+Gianluca Pegolo,f058ed1f,itITA,GK,Sassuolo,38.0,1981.0,2019-2020,ITA
+Lorenzo Pellegrini,4a5a45c7,itITA,MF,Roma,23.0,1996.0,2019-2020,ITA
+Luca Pellegrini,3b61c9ec,itITA,"DF,MF",Cagliari,20.0,1999.0,2019-2020,ITA
+Federico Peluso,4f2908e5,itITA,DF,Sassuolo,35.0,1984.0,2019-2020,ITA
+Gastón Pereiro,7ec7738e,uyURU,"FW,MF",Cagliari,24.0,1995.0,2019-2020,ITA
+Bruno Peres,852351df,brBRA,"MF,DF",Roma,29.0,1990.0,2019-2020,ITA
+Carles Pérez,a8f21b9f,esESP,MF,Roma,21.0,1998.0,2019-2020,ITA
+Mattia Perin,4c62d0c8,itITA,GK,Genoa,26.0,1992.0,2019-2020,ITA
+Diego Perotti,a40d5a0c,arARG,MF,Roma,31.0,1988.0,2019-2020,ITA
+Matteo Pessina,780e3631,itITA,MF,Hellas Verona,22.0,1997.0,2019-2020,ITA
+Andrea Petagna,03f946ed,itITA,FW,SPAL,24.0,1995.0,2019-2020,ITA
+Jacopo Petriccione,909bce7f,itITA,MF,Lecce,24.0,1995.0,2019-2020,ITA
+Germán Pezzella,8c725b43,arARG,DF,Fiorentina,28.0,1991.0,2019-2020,ITA
+Giuseppe Pezzella,149c5f5d,itITA,MF,Udinese,21.0,1997.0,2019-2020,ITA
+Giuseppe Pezzella,149c5f5d,itITA,DF,Parma,21.0,1997.0,2019-2020,ITA
+Krzysztof Piątek,17f3620a,plPOL,FW,Milan,24.0,1995.0,2019-2020,ITA
+Stefano Piccinini,6010ba04,itITA,DF,Sassuolo,16.0,2002.0,2019-2020,ITA
+Roberto Piccoli,1cadaf34,itITA,FW,Atalanta,18.0,2001.0,2019-2020,ITA
+Andrea Pinamonti,08aa9cd1,itITA,FW,Genoa,20.0,1999.0,2019-2020,ITA
+Simone Pinna,6523afa4,itITA,DF,Cagliari,21.0,1997.0,2019-2020,ITA
+Carlo Pinsoglio,f6a06749,itITA,GK,Juventus,29.0,1990.0,2019-2020,ITA
+Lorenzo Pirola,caec77da,itITA,DF,Inter,17.0,2002.0,2019-2020,ITA
+Fabio Pisacane,56400c01,itITA,DF,Cagliari,33.0,1986.0,2019-2020,ITA
+Miralem Pjanić,ad6df2d5,baBIH,MF,Juventus,29.0,1990.0,2019-2020,ITA
+Andrea Poli,b3fd7075,itITA,MF,Bologna,29.0,1989.0,2019-2020,ITA
+Matteo Politano,5e861944,itITA,FW,Napoli,25.0,1993.0,2019-2020,ITA
+Matteo Politano,5e861944,itITA,"MF,FW",Inter,25.0,1993.0,2019-2020,ITA
+Erick Pulgar,4611e028,clCHI,MF,Fiorentina,25.0,1994.0,2019-2020,ITA
+Ignacio Pussetto,62437b4f,arARG,"MF,FW",Udinese,23.0,1995.0,2019-2020,ITA
+Fabio Quagliarella,ee4f2f3b,itITA,FW,Sampdoria,36.0,1983.0,2019-2020,ITA
+Adrien Rabiot,8794e251,frFRA,MF,Juventus,24.0,1995.0,2019-2020,ITA
+Ivan Radovanović,023937a9,rsSRB,MF,Genoa,30.0,1988.0,2019-2020,ITA
+Ionuț Radu,67f649be,roROU,GK,Genoa,22.0,1997.0,2019-2020,ITA
+Ștefan Radu,53de807a,roROU,DF,Lazio,32.0,1986.0,2019-2020,ITA
+Boris Radunović,0dfce079,rsSRB,GK,Hellas Verona,23.0,1996.0,2019-2020,ITA
+Rafael,dd06d56c,brBRA,GK,Cagliari,37.0,1982.0,2019-2020,ITA
+Daniele Ragatzu,282b3a4d,itITA,"MF,FW",Cagliari,27.0,1991.0,2019-2020,ITA
+Gastón Ramírez,2c851997,uyURU,"MF,FW",Sampdoria,28.0,1990.0,2019-2020,ITA
+Aaron Ramsey,ef619b0b,wlsWAL,"MF,FW",Juventus,28.0,1990.0,2019-2020,ITA
+Luca Ranieri,8c63fae5,itITA,DF,Fiorentina,20.0,1999.0,2019-2020,ITA
+Andrea Ranocchia,539230cf,itITA,DF,Inter,31.0,1988.0,2019-2020,ITA
+Giacomo Raspadori,6e058f06,itITA,"MF,FW",Sassuolo,19.0,2000.0,2019-2020,ITA
+Ante Rebić,536cebe5,hrCRO,"MF,FW",Milan,25.0,1993.0,2019-2020,ITA
+Arkadiusz Reca,6213fd82,plPOL,"MF,DF",SPAL,24.0,1995.0,2019-2020,ITA
+Vasco Regini,339c6ed4,itITA,DF,Sampdoria,28.0,1990.0,2019-2020,ITA
+Vasco Regini,339c6ed4,itITA,DF,Parma,28.0,1990.0,2019-2020,ITA
+Pepe Reina,e358587b,esESP,GK,Milan,36.0,1982.0,2019-2020,ITA
+Franck Ribéry,f61c7c4e,frFRA,FW,Fiorentina,36.0,1983.0,2019-2020,ITA
+Davide Riccardi,7b4b9221,itITA,DF,Lecce,23.0,1996.0,2019-2020,ITA
+Emiliano Rigoni,a1216563,arARG,"MF,FW",Sampdoria,26.0,1993.0,2019-2020,ITA
+Tomás Rincón,f1cfc209,veVEN,MF,Torino,31.0,1988.0,2019-2020,ITA
+Andrea Rispoli,39ee6cb6,itITA,DF,Lecce,30.0,1988.0,2019-2020,ITA
+Ricardo Rodríguez,7f78ad23,chSUI,DF,Milan,26.0,1992.0,2019-2020,ITA
+Marko Rog,b6b2b820,hrCRO,MF,Cagliari,24.0,1995.0,2019-2020,ITA
+Rogério,10e7f486,brBRA,DF,Sassuolo,21.0,1998.0,2019-2020,ITA
+Filippo Romagna,84594618,itITA,DF,Sassuolo,22.0,1997.0,2019-2020,ITA
+Alessio Romagnoli,3ead85f9,itITA,DF,Milan,24.0,1995.0,2019-2020,ITA
+Cristian Romero,a3d94a58,arARG,DF,Genoa,21.0,1998.0,2019-2020,ITA
+Rômulo,07abb358,itITA,MF,Brescia,32.0,1987.0,2019-2020,ITA
+Rômulo,07abb358,itITA,"DF,MF",Genoa,32.0,1987.0,2019-2020,ITA
+Cristiano Ronaldo,dea698d9,ptPOR,FW,Juventus,34.0,1985.0,2019-2020,ITA
+Marten de Roon,2a1beb34,nlNED,MF,Atalanta,28.0,1991.0,2019-2020,ITA
+Antonio Rosati,28a15394,itITA,GK,Torino,36.0,1983.0,2019-2020,ITA
+Luca Rossettini,47a500ae,itITA,DF,Lecce,34.0,1985.0,2019-2020,ITA
+Francesco Rossi,7b5f516f,itITA,GK,Atalanta,28.0,1991.0,2019-2020,ITA
+Nicolò Rovella,e58cbfd5,itITA,MF,Genoa,17.0,2001.0,2019-2020,ITA
+Amir Rrahmani,4b3e1a38,xkKVX,DF,Hellas Verona,25.0,1994.0,2019-2020,ITA
+Dion Ruffo Luci,f239e6dd,itITA,MF,Bologna,18.0,2001.0,2019-2020,ITA
+Daniele Rugani,14b8fcdf,itITA,DF,Juventus,25.0,1994.0,2019-2020,ITA
+Mário Rui,0b5a292a,ptPOR,DF,Napoli,28.0,1991.0,2019-2020,ITA
+Fabián Ruiz Peña,c0c7ff58,esESP,MF,Napoli,23.0,1996.0,2019-2020,ITA
+Stefano Sabelli,0ccac09c,itITA,DF,Brescia,26.0,1993.0,2019-2020,ITA
+Alexis Saelemaekers,ee251371,beBEL,MF,Milan,20.0,1999.0,2019-2020,ITA
+Jacopo Sala,da5a981b,itITA,"DF,MF",SPAL,27.0,1991.0,2019-2020,ITA
+Bartosz Salamon,9b30df1e,plPOL,DF,SPAL,28.0,1991.0,2019-2020,ITA
+Eddie Salcedo,0489bb30,itITA,"FW,MF",Hellas Verona,17.0,2001.0,2019-2020,ITA
+Antonio Sanabria,0a447501,pyPAR,FW,Genoa,23.0,1996.0,2019-2020,ITA
+Alexis Sánchez,2c0f8e9e,clCHI,FW,Inter,30.0,1988.0,2019-2020,ITA
+Alex Sandro,0d82903c,brBRA,DF,Juventus,28.0,1991.0,2019-2020,ITA
+Nicola Sansone,7eb97a8e,itITA,"MF,FW",Bologna,27.0,1991.0,2019-2020,ITA
+Federico Santander,df85d472,pyPAR,FW,Bologna,28.0,1991.0,2019-2020,ITA
+Davide Santon,88c89891,itITA,DF,Roma,28.0,1991.0,2019-2020,ITA
+Samir Santos,92b4758e,brBRA,"DF,MF",Udinese,24.0,1994.0,2019-2020,ITA
+Riccardo Saponara,3bb7af3b,itITA,MF,Genoa,27.0,1991.0,2019-2020,ITA
+Riccardo Saponara,3bb7af3b,itITA,"MF,FW",Lecce,27.0,1991.0,2019-2020,ITA
+Lasse Schöne,c3a8bcd8,dkDEN,MF,Genoa,33.0,1986.0,2019-2020,ITA
+Jerdy Schouten,2cfae697,nlNED,MF,Bologna,22.0,1997.0,2019-2020,ITA
+Matteo Scozzarella,ea164f99,itITA,MF,Parma,31.0,1988.0,2019-2020,ITA
+Ken Sema,1770bd68,seSWE,MF,Udinese,25.0,1993.0,2019-2020,ITA
+Alessandro Semprini,dd29f81d,itITA,DF,Brescia,21.0,1998.0,2019-2020,ITA
+Stefano Sensi,b70bde8f,itITA,MF,Inter,23.0,1995.0,2019-2020,ITA
+Luigi Sepe,343f753a,itITA,GK,Parma,28.0,1991.0,2019-2020,ITA
+Yevhen Shakhov,ff764de3,uaUKR,"MF,FW",Lecce,28.0,1990.0,2019-2020,ITA
+Luca Siligardi,1cac99dc,itITA,"MF,FW",Parma,31.0,1988.0,2019-2020,ITA
+André Silva,3effaa34,ptPOR,FW,Milan,23.0,1995.0,2019-2020,ITA
+Marco Silvestri,0d422df7,itITA,GK,Hellas Verona,28.0,1991.0,2019-2020,ITA
+Giovanni Simeone,343c0d52,arARG,FW,Cagliari,24.0,1995.0,2019-2020,ITA
+Wilfried Singo,8b609c34,ciCIV,MF,Torino,18.0,2000.0,2019-2020,ITA
+Salvatore Sirigu,10dc46f0,itITA,GK,Torino,32.0,1987.0,2019-2020,ITA
+Łukasz Skorupski,ab4449d6,plPOL,GK,Bologna,28.0,1991.0,2019-2020,ITA
+Andreas Skov Olsen,c50cee19,dkDEN,MF,Bologna,19.0,1999.0,2019-2020,ITA
+Simon Skrabb,45af5134,fiFIN,"FW,MF",Brescia,24.0,1995.0,2019-2020,ITA
+Milan Škriniar,30f5ffa9,skSVK,DF,Inter,24.0,1995.0,2019-2020,ITA
+Chris Smalling,b6964eb6,engENG,DF,Roma,29.0,1989.0,2019-2020,ITA
+Roberto Soriano,9d4c45d6,itITA,MF,Bologna,28.0,1991.0,2019-2020,ITA
+Riccardo Sottil,94816803,itITA,"FW,MF",Fiorentina,20.0,1999.0,2019-2020,ITA
+Adama Soumaoro,7b075c75,frFRA,DF,Genoa,27.0,1992.0,2019-2020,ITA
+Nikolas Špalek,9e90fb5d,skSVK,MF,Brescia,22.0,1997.0,2019-2020,ITA
+Leonardo Spinazzola,3626daea,itITA,"DF,MF",Roma,26.0,1993.0,2019-2020,ITA
+Marco Sportiello,ac4003af,itITA,GK,Atalanta,27.0,1992.0,2019-2020,ITA
+Mattia Sprocati,bdd0692f,itITA,FW,Parma,26.0,1993.0,2019-2020,ITA
+Mariusz Stępiński,7b536033,plPOL,"FW,MF",Hellas Verona,24.0,1995.0,2019-2020,ITA
+Thomas Strakosha,339fe0e8,alALB,GK,Lazio,24.0,1995.0,2019-2020,ITA
+Gabriel Strefezza,ac4a4508,brBRA,MF,SPAL,22.0,1997.0,2019-2020,ITA
+Jens Stryger Larsen,f91e81c9,dkDEN,MF,Udinese,28.0,1991.0,2019-2020,ITA
+Stefano Sturaro,2334478a,itITA,MF,Genoa,26.0,1993.0,2019-2020,ITA
+Suso,4e219ad2,esESP,"FW,MF",Milan,25.0,1993.0,2019-2020,ITA
+Bosko Sutalo,1d0bb7e4,hrCRO,DF,Atalanta,19.0,2000.0,2019-2020,ITA
+Mattias Svanberg,92d83c27,seSWE,MF,Bologna,20.0,1999.0,2019-2020,ITA
+Wojciech Szczęsny,01b8a2b2,plPOL,GK,Juventus,29.0,1990.0,2019-2020,ITA
+Andrea Tabanelli,b59e02da,itITA,MF,Lecce,29.0,1990.0,2019-2020,ITA
+Panagiotis Tachtsidis,e26bd2f4,grGRE,MF,Lecce,28.0,1991.0,2019-2020,ITA
+Adrien Tameze,8da74c05,cmCMR,MF,Atalanta,25.0,1994.0,2019-2020,ITA
+Łukasz Teodorczyk,7e81a17d,plPOL,FW,Udinese,28.0,1991.0,2019-2020,ITA
+Hidde ter Avest,18f9dbd0,nlNED,MF,Udinese,22.0,1997.0,2019-2020,ITA
+Pietro Terracciano,e1b0a70d,itITA,GK,Fiorentina,29.0,1990.0,2019-2020,ITA
+Aleksa Terzić,3ef0a2d7,rsSRB,DF,Fiorentina,19.0,1999.0,2019-2020,ITA
+Demba Thiam,0f47717b,snSEN,GK,SPAL,21.0,1998.0,2019-2020,ITA
+Morten Thorsby,d1b49282,noNOR,"MF,DF",Sampdoria,23.0,1996.0,2019-2020,ITA
+Jeremy Toljan,a96e5dc0,deGER,DF,Sassuolo,24.0,1994.0,2019-2020,ITA
+Rafael Tolói,c56dc39e,itITA,DF,Atalanta,28.0,1990.0,2019-2020,ITA
+Takehiro Tomiyasu,b3af9be1,jpJPN,DF,Bologna,20.0,1998.0,2019-2020,ITA
+Nenad Tomović,6aafdc27,rsSRB,DF,SPAL,31.0,1987.0,2019-2020,ITA
+Sandro Tonali,0db169ae,itITA,MF,Brescia,19.0,2000.0,2019-2020,ITA
+Lorenzo Tonelli,8cc29864,itITA,DF,Sampdoria,29.0,1990.0,2019-2020,ITA
+Ernesto Torregrossa,bf39bdec,veVEN,FW,Brescia,27.0,1992.0,2019-2020,ITA
+Luca Tremolada,ed65da8c,itITA,MF,Brescia,27.0,1991.0,2019-2020,ITA
+Alessandro Tripaldelli,4571fa88,itITA,DF,Sassuolo,20.0,1999.0,2019-2020,ITA
+William Troost-Ekong,7ed4921e,ngNGA,DF,Udinese,25.0,1993.0,2019-2020,ITA
+Georgi Tunjov,7aa84ac5,eeEST,MF,SPAL,18.0,2001.0,2019-2020,ITA
+Stefano Turati,bf168004,itITA,GK,Sassuolo,17.0,2001.0,2019-2020,ITA
+Gennaro Tutino,8b303bcb,itITA,FW,Hellas Verona,22.0,1996.0,2019-2020,ITA
+Samir Ujkani,96640846,xkKVX,GK,Torino,31.0,1988.0,2019-2020,ITA
+Cengiz Ünder,1880614f,trTUR,MF,Roma,22.0,1997.0,2019-2020,ITA
+Mirko Valdifiori,c710f7d5,itITA,MF,SPAL,33.0,1986.0,2019-2020,ITA
+Borja Valero,0e21fc3c,esESP,MF,Inter,34.0,1985.0,2019-2020,ITA
+Mattia Valoti,c414df9d,itITA,"MF,FW",SPAL,25.0,1993.0,2019-2020,ITA
+Denis Vavro,08990838,skSVK,DF,Lazio,23.0,1996.0,2019-2020,ITA
+Matías Vecino,44ac04e9,uyURU,MF,Inter,27.0,1991.0,2019-2020,ITA
+Miguel Veloso,ab1ca213,ptPOR,MF,Hellas Verona,33.0,1986.0,2019-2020,ITA
+Lorenzo Venuti,983ff2c7,itITA,"MF,DF",Fiorentina,24.0,1995.0,2019-2020,ITA
+Brayan Vera,80c718dd,coCOL,DF,Lecce,20.0,1999.0,2019-2020,ITA
+Simone Verdi,0375723e,itITA,"MF,FW",Torino,27.0,1992.0,2019-2020,ITA
+Jordan Veretout,4a56052c,frFRA,MF,Roma,26.0,1993.0,2019-2020,ITA
+Valerio Verre,33ecf462,itITA,"MF,FW",Hellas Verona,25.0,1994.0,2019-2020,ITA
+Francesco Vicari,de045b15,itITA,DF,SPAL,24.0,1994.0,2019-2020,ITA
+Ronaldo Vieira,75e60d75,gwGNB,MF,Sampdoria,21.0,1998.0,2019-2020,ITA
+Mauro Vigorito,582a251c,itITA,GK,Lecce,29.0,1990.0,2019-2020,ITA
+Gonzalo Villar,bdc74a8f,esESP,MF,Roma,21.0,1998.0,2019-2020,ITA
+Luigi Vitale,fe479e17,itITA,"DF,FW",Hellas Verona,31.0,1987.0,2019-2020,ITA
+Mattia Viviani,360b2bb1,itITA,MF,Brescia,18.0,2000.0,2019-2020,ITA
+Dušan Vlahović,79443529,rsSRB,FW,Fiorentina,19.0,2000.0,2019-2020,ITA
+Stefan de Vrij,d0d8dd44,nlNED,DF,Inter,27.0,1992.0,2019-2020,ITA
+Giacomo Vrioni,bf4d31d3,alALB,FW,Juventus,20.0,1998.0,2019-2020,ITA
+Walace,26db8853,brBRA,MF,Udinese,24.0,1995.0,2019-2020,ITA
+Sebastian Walukiewicz,217875a4,plPOL,DF,Cagliari,19.0,2000.0,2019-2020,ITA
+Jawad El Yamiq,f6f6b6e8,maMAR,DF,Genoa,27.0,1992.0,2019-2020,ITA
+Maya Yoshida,caffaf5a,jpJPN,DF,Sampdoria,30.0,1988.0,2019-2020,ITA
+Amin Younes,228f73ae,deGER,MF,Napoli,25.0,1993.0,2019-2020,ITA
+Ashley Young,be927d03,engENG,MF,Inter,34.0,1985.0,2019-2020,ITA
+Mattia Zaccagni,d85c238b,itITA,"MF,FW",Hellas Verona,24.0,1995.0,2019-2020,ITA
+Luca Zanimacchia,5e834dce,itITA,FW,Juventus,21.0,1998.0,2019-2020,ITA
+Nicolò Zaniolo,9907b1c8,itITA,MF,Roma,20.0,1999.0,2019-2020,ITA
+Cristián Zapata,b1deecf8,coCOL,DF,Genoa,32.0,1986.0,2019-2020,ITA
+Duván Zapata,d3de9af0,coCOL,FW,Atalanta,28.0,1991.0,2019-2020,ITA
+Davide Zappacosta,7fe90ccd,itITA,"DF,MF",Roma,27.0,1992.0,2019-2020,ITA
+Simone Zaza,9592289a,itITA,FW,Torino,28.0,1991.0,2019-2020,ITA
+Marvin Zeegelaar,8abd0c03,nlNED,MF,Udinese,28.0,1990.0,2019-2020,ITA
+Piotr Zieliński,a5296e55,plPOL,MF,Napoli,25.0,1994.0,2019-2020,ITA
+Jaromír Zmrhal,cbec1196,czCZE,MF,Brescia,25.0,1993.0,2019-2020,ITA
+Ervin Zukanović,1253a12e,baBIH,DF,SPAL,32.0,1987.0,2019-2020,ITA
+Szymon Żurkowski,4e1d5e59,plPOL,MF,Fiorentina,21.0,1997.0,2019-2020,ITA
+Filip Đuričić,eccbe56a,rsSRB,MF,Sassuolo,27.0,1992.0,2019-2020,ITA
+Suleiman Abdullahi,abf0cad0,ngNGA,MF,Union Berlin,22.0,1996.0,2019-2020,GER
+David Abraham,565bf0da,arARG,DF,Eintracht Frankfurt,33.0,1986.0,2019-2020,GER
+Amir Abrashi,1c08a3c8,alALB,MF,Freiburg,29.0,1990.0,2019-2020,GER
+Tyler Adams,2b09d998,usUSA,"MF,DF",RB Leipzig,20.0,1999.0,2019-2020,GER
+Sargis Adamyan,22919e97,amARM,"MF,FW",Hoffenheim,26.0,1993.0,2019-2020,GER
+Manuel Akanji,89ac64a6,chSUI,DF,Dortmund,24.0,1995.0,2019-2020,GER
+Kevin Akpoguma,6ec6fde0,ngNGA,DF,Hoffenheim,24.0,1995.0,2019-2020,GER
+David Alaba,05439de2,atAUT,DF,Bayern Munich,27.0,1992.0,2019-2020,GER
+Lucas Alario,834d0be5,arARG,FW,Leverkusen,26.0,1992.0,2019-2020,GER
+Paco Alcácer,a7a9d95a,esESP,FW,Dortmund,25.0,1993.0,2019-2020,GER
+Thiago Alcántara,77e84962,esESP,MF,Bayern Munich,28.0,1991.0,2019-2020,GER
+Nadiem Amiri,555d5edd,deGER,MF,Leverkusen,22.0,1996.0,2019-2020,GER
+Ethan Ampadu,10b9fa99,wlsWAL,"DF,MF",RB Leipzig,18.0,2000.0,2019-2020,GER
+Opoku Ampomah,e7199efb,ghGHA,"FW,MF",Düsseldorf,23.0,1996.0,2019-2020,GER
+Sebastian Andersson,b4cf5806,seSWE,FW,Union Berlin,28.0,1991.0,2019-2020,GER
+Robert Andrich,e0b113a7,deGER,MF,Union Berlin,24.0,1994.0,2019-2020,GER
+Angeliño,30941e96,esESP,"MF,DF",RB Leipzig,22.0,1997.0,2019-2020,GER
+Christopher Antwi-Adjei,0a3f6cde,ghGHA,"MF,FW",Paderborn 07,25.0,1994.0,2019-2020,GER
+Charles Aránguiz,56413b1f,clCHI,MF,Leverkusen,30.0,1989.0,2019-2020,GER
+Maximilian Arnold,86e119e0,deGER,MF,Wolfsburg,25.0,1994.0,2019-2020,GER
+Santiago Ascacíbar,e26fcca3,arARG,MF,Hertha BSC,22.0,1997.0,2019-2020,GER
+Ludwig Augustinsson,9fec8860,seSWE,"MF,DF",Werder Bremen,25.0,1994.0,2019-2020,GER
+Taiwo Awoniyi,e5478b87,ngNGA,"MF,FW",Mainz 05,21.0,1997.0,2019-2020,GER
+Kaan Ayhan,2200181e,trTUR,DF,Düsseldorf,24.0,1994.0,2019-2020,GER
+Matthias Bader,3489184e,deGER,"DF,MF",Köln,22.0,1997.0,2019-2020,GER
+Daniel Baier,f261abcb,deGER,MF,Augsburg,35.0,1984.0,2019-2020,GER
+Leon Bailey,3a233281,jmJAM,"MF,FW",Leverkusen,21.0,1997.0,2019-2020,GER
+Lewis Baker,1b278bf5,engENG,MF,Düsseldorf,24.0,1995.0,2019-2020,GER
+Ridle Baku,442b56fa,deGER,"MF,DF",Mainz 05,21.0,1998.0,2019-2020,GER
+Leonardo Balerdi,7c3ed041,arARG,DF,Dortmund,20.0,1999.0,2019-2020,GER
+Philipp Bargfrede,3f7cd8f1,deGER,"MF,FW",Werder Bremen,30.0,1989.0,2019-2020,GER
+Aymen Barkok,a2a85828,maMAR,MF,Düsseldorf,21.0,1998.0,2019-2020,GER
+Leandro Barreiro Martins,00242b75,luLUX,MF,Mainz 05,19.0,2000.0,2019-2020,GER
+Fin Bartels,acc7b7ec,deGER,FW,Werder Bremen,32.0,1987.0,2019-2020,GER
+Oliver Batista-Meier,b7828a08,deGER,"FW,MF",Bayern Munich,18.0,2001.0,2019-2020,GER
+Oliver Baumann,47064058,deGER,GK,Hoffenheim,29.0,1990.0,2019-2020,GER
+Julian Baumgartlinger,69374ff5,atAUT,MF,Leverkusen,31.0,1988.0,2019-2020,GER
+Christoph Baumgartner,437f2b00,atAUT,"MF,FW",Hoffenheim,19.0,1999.0,2019-2020,GER
+Noah Joel Sarenren Bazee,fbbc8e15,ngNGA,MF,Augsburg,22.0,1996.0,2019-2020,GER
+Ihlas Bebou,a53b661f,tgTOG,"FW,MF",Hoffenheim,25.0,1994.0,2019-2020,GER
+Sheraldo Becker,8eb55dbb,srSUR,MF,Union Berlin,24.0,1995.0,2019-2020,GER
+Timo Becker,543ddcaf,deGER,"DF,MF",Schalke 04,22.0,1997.0,2019-2020,GER
+Maximilian Beier,5db45ee5,deGER,"FW,MF",Hoffenheim,16.0,2002.0,2019-2020,GER
+Ishak Belfodil,ff182fdc,dzALG,"FW,MF",Hoffenheim,27.0,1992.0,2019-2020,GER
+Karim Bellarabi,bee0bab1,deGER,"MF,FW",Leverkusen,29.0,1990.0,2019-2020,GER
+Lars Bender,c50281a0,deGER,"DF,MF",Leverkusen,30.0,1989.0,2019-2020,GER
+Sven Bender,070ec0b1,deGER,DF,Leverkusen,30.0,1989.0,2019-2020,GER
+László Bénes,fe888e39,skSVK,MF,Gladbach,21.0,1997.0,2019-2020,GER
+Keanan Bennetts,f4c7c708,engENG,MF,Gladbach,20.0,1999.0,2019-2020,GER
+Ramy Bensebaini,378825c7,dzALG,DF,Gladbach,24.0,1995.0,2019-2020,GER
+Valon Berisha,d5575935,xkKVX,MF,Düsseldorf,26.0,1993.0,2019-2020,GER
+Jordan Beyer,9af1f9ff,deGER,DF,Gladbach,19.0,2000.0,2019-2020,GER
+Ermin Bičakčić,7aac47fe,baBIH,DF,Hoffenheim,29.0,1990.0,2019-2020,GER
+Leonardo Bittencourt,dc62fbee,deGER,"FW,MF",Hoffenheim,25.0,1993.0,2019-2020,GER
+Leonardo Bittencourt,dc62fbee,deGER,"FW,MF",Werder Bremen,25.0,1993.0,2019-2020,GER
+Jérôme Boateng,2db2fd7b,deGER,DF,Bayern Munich,30.0,1988.0,2019-2020,GER
+Adam Bodzek,bb8a42fa,deGER,MF,Düsseldorf,33.0,1985.0,2019-2020,GER
+Jean-Paul Boëtius,635f2732,srSUR,"MF,FW",Mainz 05,25.0,1994.0,2019-2020,GER
+Melayro Bogarde,1fda91b3,nlNED,DF,Hoffenheim,17.0,2002.0,2019-2020,GER
+Dennis Borkowski,78b9e99c,deGER,"FW,MF",RB Leipzig,17.0,2002.0,2019-2020,GER
+Robin Bormuth,d728acae,deGER,DF,Düsseldorf,23.0,1995.0,2019-2020,GER
+Sebastiaan Bornauw,01834aa0,beBEL,DF,Köln,20.0,1999.0,2019-2020,GER
+Brandon Borrello,b4d90315,auAUS,"MF,FW",Freiburg,24.0,1995.0,2019-2020,GER
+Nassim Boujellab,541127d5,maMAR,"FW,MF",Schalke 04,20.0,1999.0,2019-2020,GER
+Dedryck Boyata,7c473e12,beBEL,DF,Hertha BSC,28.0,1990.0,2019-2020,GER
+Can Bozdogan,b797f558,deGER,MF,Schalke 04,18.0,2001.0,2019-2020,GER
+Julian Brandt,a167537f,deGER,"MF,FW",Dortmund,23.0,1996.0,2019-2020,GER
+Josip Brekalo,d4a2533d,hrCRO,"MF,FW",Wolfsburg,21.0,1998.0,2019-2020,GER
+John Brooks,e27da244,usUSA,DF,Wolfsburg,26.0,1993.0,2019-2020,GER
+Daniel Brosinski,a7813ac4,deGER,"DF,MF",Mainz 05,31.0,1988.0,2019-2020,GER
+Jeffrey Bruma,fbffc4b1,nlNED,DF,Wolfsburg,27.0,1991.0,2019-2020,GER
+Jeffrey Bruma,fbffc4b1,nlNED,DF,Mainz 05,27.0,1991.0,2019-2020,GER
+Jacob Bruun Larsen,4e204552,dkDEN,"MF,FW",Hoffenheim,20.0,1998.0,2019-2020,GER
+Jacob Bruun Larsen,4e204552,dkDEN,"FW,MF",Dortmund,20.0,1998.0,2019-2020,GER
+Marius Bülter,ab5b7dc1,deGER,"MF,FW",Union Berlin,26.0,1993.0,2019-2020,GER
+Guido Burgstaller,2bcc6d52,atAUT,FW,Schalke 04,30.0,1989.0,2019-2020,GER
+Jonathan Burkardt,05f99a4a,deGER,"MF,FW",Mainz 05,19.0,2000.0,2019-2020,GER
+Roman Bürki,9d12e142,chSUI,GK,Dortmund,28.0,1990.0,2019-2020,GER
+Daniel Caligiuri,d1273f09,itITA,MF,Schalke 04,31.0,1988.0,2019-2020,GER
+Emre Can,a65ce836,deGER,"MF,DF",Dortmund,25.0,1994.0,2019-2020,GER
+Koen Casteels,db401046,beBEL,GK,Wolfsburg,27.0,1992.0,2019-2020,GER
+Timothy Chandler,b3b7f5a6,usUSA,MF,Eintracht Frankfurt,29.0,1990.0,2019-2020,GER
+Kwon Chang-hoon,7961f7aa,krKOR,"MF,FW",Freiburg,25.0,1994.0,2019-2020,GER
+Darko Churlinov,c6608135,mkMKD,"FW,MF",Köln,19.0,2000.0,2019-2020,GER
+Per Ciljan Skjelbred,ecab64a0,noNOR,MF,Hertha BSC,32.0,1987.0,2019-2020,GER
+Christian Clemens,612cb8d3,deGER,"FW,MF",Köln,27.0,1991.0,2019-2020,GER
+Jamilu Collins,33a95e0a,ngNGA,DF,Paderborn 07,24.0,1994.0,2019-2020,GER
+Kingsley Coman,042e8a49,frFRA,"MF,FW",Bayern Munich,23.0,1996.0,2019-2020,GER
+Jhon Córdoba,9f381d8b,coCOL,FW,Köln,26.0,1993.0,2019-2020,GER
+Sergio Córdova,229cd98a,veVEN,FW,Augsburg,21.0,1997.0,2019-2020,GER
+Danny da Costa,5ddb8f9f,deGER,MF,Eintracht Frankfurt,26.0,1993.0,2019-2020,GER
+Philippe Coutinho,0ef89a37,brBRA,MF,Bayern Munich,27.0,1992.0,2019-2020,GER
+Mickaël Cuisance,5722eced,frFRA,MF,Bayern Munich,19.0,1999.0,2019-2020,GER
+Matheus Cunha,dc62b55d,brBRA,"FW,MF",Hertha BSC,20.0,1999.0,2019-2020,GER
+Matheus Cunha,dc62b55d,brBRA,FW,RB Leipzig,20.0,1999.0,2019-2020,GER
+Rafael Czichos,b0a0698b,deGER,DF,Köln,29.0,1990.0,2019-2020,GER
+Moanes Dabbur,eac044ad,ilISR,FW,Hoffenheim,27.0,1992.0,2019-2020,GER
+Mahmoud Dahoud,db4ed67b,deGER,MF,Dortmund,23.0,1996.0,2019-2020,GER
+Leon Dajaku,aeaf1bc1,deGER,"FW,MF",Bayern Munich,18.0,2001.0,2019-2020,GER
+Vladimír Darida,3eb0f2df,czCZE,MF,Hertha BSC,28.0,1990.0,2019-2020,GER
+Alphonso Davies,d781d855,caCAN,DF,Bayern Munich,18.0,2000.0,2019-2020,GER
+Thomas Delaney,fe641c1a,dkDEN,MF,Dortmund,27.0,1991.0,2019-2020,GER
+Kerem Demirbay,54b4dc4e,deGER,MF,Leverkusen,26.0,1993.0,2019-2020,GER
+Diego Demme,dc3fa3b5,deGER,MF,RB Leipzig,27.0,1991.0,2019-2020,GER
+Moussa Diaby,aeed5c06,frFRA,"MF,FW",Leverkusen,20.0,1999.0,2019-2020,GER
+Javairô Dilrosun,34a0f5ff,nlNED,MF,Hertha BSC,21.0,1998.0,2019-2020,GER
+Ji Dong-won,7d841904,krKOR,MF,Mainz 05,28.0,1991.0,2019-2020,GER
+Bas Dost,dc90cfbe,nlNED,FW,Eintracht Frankfurt,30.0,1989.0,2019-2020,GER
+Mamadou Doucouré,7bd5b8fd,frFRA,DF,Gladbach,21.0,1998.0,2019-2020,GER
+Mohamed Dräger,8954fddc,tnTUN,"DF,MF",Paderborn 07,23.0,1996.0,2019-2020,GER
+Aleksandar Dragović,6fd8a334,atAUT,DF,Leverkusen,28.0,1991.0,2019-2020,GER
+Dominick Drexler,809940aa,deGER,MF,Köln,29.0,1990.0,2019-2020,GER
+Ondrej Duda,79ca3e23,skSVK,MF,Hertha BSC,24.0,1994.0,2019-2020,GER
+Erik Durm,cf623c78,deGER,"MF,DF",Eintracht Frankfurt,27.0,1992.0,2019-2020,GER
+Johannes Eggestein,d571df78,deGER,"MF,FW",Werder Bremen,21.0,1998.0,2019-2020,GER
+Maximilian Eggestein,beb882a8,deGER,MF,Werder Bremen,22.0,1996.0,2019-2020,GER
+Kingsley Ehizibue,76b2817e,nlNED,"DF,MF",Köln,24.0,1995.0,2019-2020,GER
+Ilay Elmkies,6cb0211b,ilISR,MF,Hoffenheim,19.0,2000.0,2019-2020,GER
+Nico Elvedi,48035304,chSUI,DF,Gladbach,22.0,1996.0,2019-2020,GER
+Breel Embolo,0b4f388a,chSUI,"FW,MF",Gladbach,22.0,1997.0,2019-2020,GER
+Alexander Esswein,b48215cd,deGER,DF,Hertha BSC,29.0,1990.0,2019-2020,GER
+Antony Evans,cce7087c,engENG,MF,Paderborn 07,20.0,1998.0,2019-2020,GER
+Simon Falette,b82880c6,gnGUI,DF,Eintracht Frankfurt,27.0,1992.0,2019-2020,GER
+Ohis Felix Uduokhai,677da306,deGER,DF,Augsburg,21.0,1997.0,2019-2020,GER
+Edimilson Fernandes,3bb625ac,chSUI,"MF,DF",Mainz 05,23.0,1996.0,2019-2020,GER
+Gelson Fernandes,8e58987d,chSUI,MF,Eintracht Frankfurt,32.0,1986.0,2019-2020,GER
+Oliver Fink,316162b6,deGER,"MF,FW",Düsseldorf,37.0,1982.0,2019-2020,GER
+Alfreð Finnbogason,f9e7c4ac,isISL,FW,Augsburg,30.0,1989.0,2019-2020,GER
+Mark Flekken,a92ab7be,nlNED,GK,Freiburg,26.0,1993.0,2019-2020,GER
+Emil Forsberg,9a2e0ccc,seSWE,MF,RB Leipzig,27.0,1991.0,2019-2020,GER
+Raphael Framberger,626fab5f,deGER,DF,Augsburg,23.0,1995.0,2019-2020,GER
+Mike Frantz,482b70ad,deGER,MF,Freiburg,32.0,1986.0,2019-2020,GER
+Marco Friedl,f86ad3f5,atAUT,"DF,MF",Werder Bremen,21.0,1998.0,2019-2020,GER
+Marvin Friedrich,b77f44a4,deGER,DF,Union Berlin,23.0,1995.0,2019-2020,GER
+Samúel Friðjónsson,55557b25,isISL,MF,Paderborn 07,23.0,1996.0,2019-2020,GER
+Niclas Füllkrug,4f16405e,deGER,FW,Werder Bremen,26.0,1993.0,2019-2020,GER
+Mijat Gaćinović,16daec92,rsSRB,MF,Eintracht Frankfurt,24.0,1995.0,2019-2020,GER
+Theodor Gebre Selassie,3f65898c,czCZE,"DF,MF",Werder Bremen,32.0,1986.0,2019-2020,GER
+Dennis Geiger,37f606f0,deGER,MF,Hoffenheim,21.0,1998.0,2019-2020,GER
+Christian Gentner,a4f94a0d,deGER,MF,Union Berlin,33.0,1985.0,2019-2020,GER
+Yannick Gerhardt,62ab9184,deGER,MF,Wolfsburg,25.0,1994.0,2019-2020,GER
+Niko Gießelmann,7242b495,deGER,DF,Düsseldorf,27.0,1991.0,2019-2020,GER
+Rafał Gikiewicz,17376543,plPOL,GK,Union Berlin,31.0,1987.0,2019-2020,GER
+Daniel Ginczek,e5f63987,deGER,FW,Wolfsburg,28.0,1991.0,2019-2020,GER
+Matthias Ginter,f521b80a,deGER,DF,Gladbach,25.0,1994.0,2019-2020,GER
+Klaus Gjasula,431c837b,alALB,MF,Paderborn 07,29.0,1989.0,2019-2020,GER
+Serge Gnabry,88e357ef,deGER,"MF,FW",Bayern Munich,24.0,1995.0,2019-2020,GER
+Akaki Gogia,deee6467,deGER,MF,Union Berlin,27.0,1992.0,2019-2020,GER
+Benjamin Goller,d5980989,deGER,FW,Werder Bremen,20.0,1999.0,2019-2020,GER
+Jérôme Gondorf,49ffe0f2,deGER,MF,Freiburg,31.0,1988.0,2019-2020,GER
+Leon Goretzka,cc86b9a3,deGER,MF,Bayern Munich,24.0,1995.0,2019-2020,GER
+Mario Götze,9efa1d25,deGER,FW,Dortmund,27.0,1992.0,2019-2020,GER
+Jeffrey Gouweleeuw,1025db8e,nlNED,DF,Augsburg,28.0,1991.0,2019-2020,GER
+Michael Gregoritsch,8e235926,atAUT,"MF,FW",Augsburg,25.0,1994.0,2019-2020,GER
+Michael Gregoritsch,8e235926,atAUT,FW,Schalke 04,25.0,1994.0,2019-2020,GER
+Vincenzo Grifo,54e4866f,itITA,"FW,MF",Hoffenheim,26.0,1993.0,2019-2020,GER
+Vincenzo Grifo,54e4866f,itITA,MF,Freiburg,26.0,1993.0,2019-2020,GER
+Florian Grillitsch,ffbbc83b,atAUT,"MF,DF",Hoffenheim,23.0,1995.0,2019-2020,GER
+Christian Groß,14a7af33,deGER,"DF,MF",Werder Bremen,30.0,1989.0,2019-2020,GER
+Carlos Gruezo,f2dd9a21,ecECU,MF,Augsburg,24.0,1995.0,2019-2020,GER
+Marko Grujić,8b8e759d,rsSRB,MF,Hertha BSC,23.0,1996.0,2019-2020,GER
+Raphaël Guerreiro,048a1cbc,ptPOR,"MF,DF",Dortmund,25.0,1993.0,2019-2020,GER
+Babacar Guèye,4942dad3,snSEN,FW,Paderborn 07,24.0,1994.0,2019-2020,GER
+Josuha Guilavogui,e6c43eec,frFRA,"MF,DF",Wolfsburg,28.0,1990.0,2019-2020,GER
+Péter Gulácsi,bcb2ccd8,huHUN,GK,RB Leipzig,29.0,1990.0,2019-2020,GER
+Manuel Gulde,25ab9c9c,deGER,DF,Freiburg,28.0,1991.0,2019-2020,GER
+Christian Günter,8593f88c,deGER,"MF,DF",Freiburg,26.0,1993.0,2019-2020,GER
+Jonathan de Guzmán,1bcca8b8,nlNED,MF,Eintracht Frankfurt,31.0,1987.0,2019-2020,GER
+Erling Haaland,1f44ac21,noNOR,FW,Dortmund,19.0,2000.0,2019-2020,GER
+Janik Haberer,70dcf94d,deGER,"MF,FW",Freiburg,25.0,1994.0,2019-2020,GER
+Alexander Hack,a5ec3ede,deGER,DF,Mainz 05,25.0,1993.0,2019-2020,GER
+André Hahn,cd82452e,deGER,"MF,FW",Augsburg,28.0,1990.0,2019-2020,GER
+Amadou Haidara,92432bc6,mlMLI,MF,RB Leipzig,21.0,1998.0,2019-2020,GER
+Achraf Hakimi,e42d61c7,maMAR,"MF,DF",Dortmund,20.0,1998.0,2019-2020,GER
+Marcel Halstenberg,8ff2354e,deGER,"DF,MF",RB Leipzig,27.0,1991.0,2019-2020,GER
+Amine Harit,e7d59f4f,maMAR,"MF,FW",Schalke 04,22.0,1997.0,2019-2020,GER
+Martin Harnik,99b7584f,atAUT,"FW,MF",Werder Bremen,32.0,1987.0,2019-2020,GER
+Makoto Hasebe,9ab16552,jpJPN,DF,Eintracht Frankfurt,35.0,1984.0,2019-2020,GER
+Kai Havertz,fed7cb61,deGER,"MF,FW",Leverkusen,20.0,1999.0,2019-2020,GER
+Thorgan Hazard,50871bcc,beBEL,"MF,FW",Dortmund,26.0,1993.0,2019-2020,GER
+Jonas Hector,c2009df3,deGER,"MF,DF",Köln,29.0,1990.0,2019-2020,GER
+Dominique Heintz,699fb8db,deGER,DF,Freiburg,25.0,1993.0,2019-2020,GER
+Rouwen Hennings,17611373,deGER,FW,Düsseldorf,31.0,1987.0,2019-2020,GER
+Lucas Hernández,c3ee18ef,frFRA,DF,Bayern Munich,23.0,1996.0,2019-2020,GER
+Patrick Herrmann,dfb6490a,deGER,"MF,FW",Gladbach,28.0,1991.0,2019-2020,GER
+Martin Hinteregger,080440a4,atAUT,DF,Eintracht Frankfurt,26.0,1992.0,2019-2020,GER
+Marwin Hitz,2e7ff968,chSUI,GK,Dortmund,31.0,1987.0,2019-2020,GER
+André Hoffmann,34b306a1,deGER,DF,Düsseldorf,26.0,1993.0,2019-2020,GER
+Nicolas Höfler,5d8e331f,deGER,MF,Freiburg,29.0,1990.0,2019-2020,GER
+Jonas Hofmann,2903a856,deGER,MF,Gladbach,27.0,1992.0,2019-2020,GER
+Jonas Hofmann,9908c518,deGER,MF,Schalke 04,22.0,1997.0,2019-2020,GER
+Marco Höger,4114f306,deGER,MF,Köln,29.0,1989.0,2019-2020,GER
+Lucas Höler,ca618d23,deGER,"FW,MF",Freiburg,25.0,1994.0,2019-2020,GER
+Gerrit Holtmann,2979c05a,phPHI,"MF,DF",Paderborn 07,24.0,1995.0,2019-2020,GER
+Luca Horn,60dfc525,deGER,MF,Wolfsburg,20.0,1998.0,2019-2020,GER
+Timo Horn,3cd9e95a,deGER,GK,Köln,26.0,1993.0,2019-2020,GER
+Lukáš Hrádecký,ad3389d5,fiFIN,GK,Leverkusen,29.0,1989.0,2019-2020,GER
+Benjamin Hübner,99de6b6f,deGER,DF,Hoffenheim,30.0,1989.0,2019-2020,GER
+Florian Hübner,e87ad81a,deGER,DF,Union Berlin,28.0,1991.0,2019-2020,GER
+Mats Hummels,05d548d8,deGER,DF,Dortmund,30.0,1988.0,2019-2020,GER
+Uwe Hünemeier,f42456eb,deGER,DF,Paderborn 07,33.0,1986.0,2019-2020,GER
+Jannik Huth,e8fd2e5b,deGER,GK,Paderborn 07,25.0,1994.0,2019-2020,GER
+Iago,054849d2,brBRA,"DF,MF",Augsburg,22.0,1997.0,2019-2020,GER
+Vedad Ibišević,c3fd9887,baBIH,FW,Hertha BSC,34.0,1984.0,2019-2020,GER
+Luc Ihorst,e5cad51e,deGER,FW,Werder Bremen,19.0,2000.0,2019-2020,GER
+Stefan Ilsanker,8494acc4,atAUT,DF,RB Leipzig,30.0,1989.0,2019-2020,GER
+Stefan Ilsanker,8494acc4,atAUT,"DF,MF",Eintracht Frankfurt,30.0,1989.0,2019-2020,GER
+Marcus Ingvartsen,271b8617,dkDEN,"MF,FW",Union Berlin,23.0,1996.0,2019-2020,GER
+Gian-Luca Itter,e6c15f6e,deGER,DF,Freiburg,20.0,1999.0,2019-2020,GER
+Ismail Jakobs,a0415710,snSEN,MF,Köln,19.0,1999.0,2019-2020,GER
+Laurent Jans,0fbb73c2,luLUX,DF,Paderborn 07,26.0,1992.0,2019-2020,GER
+Tony Jantschke,34b54da7,deGER,DF,Gladbach,29.0,1990.0,2019-2020,GER
+Rune Jarstein,27d2618c,noNOR,GK,Hertha BSC,34.0,1984.0,2019-2020,GER
+Dennis Jastrzembski,6bba916f,plPOL,MF,Paderborn 07,19.0,2000.0,2019-2020,GER
+Tin Jedvaj,f820504e,hrCRO,DF,Augsburg,23.0,1995.0,2019-2020,GER
+Fredrik Jensen,3eeb80e0,fiFIN,"MF,FW",Augsburg,21.0,1997.0,2019-2020,GER
+Fabian Johnson,76e5da9d,usUSA,"MF,DF",Gladbach,31.0,1987.0,2019-2020,GER
+Dejan Joveljić,95a24690,rsSRB,FW,Eintracht Frankfurt,19.0,1999.0,2019-2020,GER
+Mathias Jørgensen,0db5d2c8,dkDEN,DF,Düsseldorf,29.0,1990.0,2019-2020,GER
+Ozan Kabak,2d61d13a,trTUR,DF,Schalke 04,19.0,2000.0,2019-2020,GER
+Pavel Kadeřábek,79c90e45,czCZE,"MF,DF",Hoffenheim,27.0,1992.0,2019-2020,GER
+Florian Kainz,94c18565,atAUT,MF,Köln,26.0,1992.0,2019-2020,GER
+Salomon Kalou,2042d931,ciCIV,FW,Hertha BSC,33.0,1985.0,2019-2020,GER
+Daichi Kamada,15b287da,jpJPN,"MF,FW",Eintracht Frankfurt,22.0,1996.0,2019-2020,GER
+Kevin Kampl,b825a650,siSVN,MF,RB Leipzig,28.0,1990.0,2019-2020,GER
+Stefanos Kapino,62ba5881,grGRE,GK,Werder Bremen,25.0,1994.0,2019-2020,GER
+Kenan Karaman,8f0f2230,trTUR,"FW,MF",Düsseldorf,25.0,1994.0,2019-2020,GER
+Mamoudou Karamoko,23a10591,frFRA,FW,Wolfsburg,19.0,1999.0,2019-2020,GER
+Florian Kastenmeier,dc2e4736,deGER,GK,Düsseldorf,22.0,1997.0,2019-2020,GER
+Noah Katterbach,e27de4fa,deGER,DF,Köln,18.0,2001.0,2019-2020,GER
+Yannik Keitel,d2c580ce,deGER,MF,Freiburg,19.0,2000.0,2019-2020,GER
+Jonjoe Kenny,099e666f,engENG,DF,Schalke 04,22.0,1997.0,2019-2020,GER
+Rani Khedira,59e4b92e,deGER,MF,Augsburg,25.0,1994.0,2019-2020,GER
+Luca Kilian,610aa1e9,deGER,DF,Paderborn 07,19.0,1999.0,2019-2020,GER
+Joshua Kimmich,49296448,deGER,"MF,DF",Bayern Munich,24.0,1995.0,2019-2020,GER
+Davy Klaassen,15fd5593,nlNED,MF,Werder Bremen,26.0,1993.0,2019-2020,GER
+Felix Klaus,aeda1f69,deGER,"MF,FW",Wolfsburg,26.0,1992.0,2019-2020,GER
+Lukas Klostermann,ca8033cb,deGER,"DF,MF",RB Leipzig,23.0,1996.0,2019-2020,GER
+Lukas Klünter,92948149,deGER,"DF,MF",Hertha BSC,23.0,1996.0,2019-2020,GER
+Robin Knoche,6bd5cd5d,deGER,DF,Wolfsburg,27.0,1992.0,2019-2020,GER
+Robin Koch,ea6bc03a,deGER,"DF,MF",Freiburg,23.0,1996.0,2019-2020,GER
+Dominik Kohr,0fbecd11,deGER,MF,Eintracht Frankfurt,25.0,1994.0,2019-2020,GER
+Ibrahima Konaté,5ed9b537,frFRA,DF,RB Leipzig,20.0,1999.0,2019-2020,GER
+Pascal Köpke,3861d9cc,deGER,FW,Hertha BSC,23.0,1995.0,2019-2020,GER
+Filip Kostić,b1cd37e6,rsSRB,MF,Eintracht Frankfurt,26.0,1992.0,2019-2020,GER
+Tomáš Koubek,dc366c36,czCZE,GK,Augsburg,26.0,1992.0,2019-2020,GER
+Dawid Kownacki,be5e1c4c,plPOL,"MF,FW",Düsseldorf,22.0,1997.0,2019-2020,GER
+Thomas Kraft,bb25c778,deGER,GK,Hertha BSC,31.0,1988.0,2019-2020,GER
+Andrej Kramarić,603cb947,hrCRO,"FW,MF",Hoffenheim,28.0,1991.0,2019-2020,GER
+Christoph Kramer,496aeede,deGER,MF,Gladbach,28.0,1991.0,2019-2020,GER
+Tom Krauß,9f77012e,deGER,MF,RB Leipzig,18.0,2001.0,2019-2020,GER
+Felix Kroos,4d7faad1,deGER,MF,Union Berlin,28.0,1991.0,2019-2020,GER
+Lukas Kübler,2a29eb9b,deGER,DF,Freiburg,26.0,1992.0,2019-2020,GER
+Pierre Kunde,9ceb7642,cmCMR,MF,Mainz 05,24.0,1995.0,2019-2020,GER
+Ahmed Kutucu,beda9675,trTUR,FW,Schalke 04,19.0,2000.0,2019-2020,GER
+Konrad Laimer,c1b7847c,atAUT,MF,RB Leipzig,22.0,1997.0,2019-2020,GER
+Stefan Lainer,4aea5077,atAUT,"DF,MF",Gladbach,26.0,1992.0,2019-2020,GER
+Michael Lang,864db10a,chSUI,"DF,MF",Werder Bremen,28.0,1991.0,2019-2020,GER
+Sebastian Langkamp,74d70fb5,deGER,DF,Werder Bremen,31.0,1988.0,2019-2020,GER
+Danny Latza,33b554b7,deGER,MF,Mainz 05,29.0,1989.0,2019-2020,GER
+Mathew Leckie,b93b7882,auAUS,MF,Hertha BSC,28.0,1991.0,2019-2020,GER
+Toni Leistner,364445b2,deGER,DF,Köln,28.0,1990.0,2019-2020,GER
+Tim Lemperle,792ffa71,deGER,FW,Köln,17.0,2002.0,2019-2020,GER
+Christopher Lenz,bbd86530,deGER,"MF,DF",Union Berlin,24.0,1994.0,2019-2020,GER
+Robert Lewandowski,8d78e732,plPOL,FW,Bayern Munich,30.0,1988.0,2019-2020,GER
+Stephan Lichtsteiner,99b1d0e6,chSUI,DF,Augsburg,35.0,1984.0,2019-2020,GER
+Philipp Lienhart,302527b2,atAUT,DF,Freiburg,23.0,1996.0,2019-2020,GER
+Jürgen Locadia,6cc47ae1,cwCUW,FW,Hoffenheim,25.0,1993.0,2019-2020,GER
+Ademola Lookman,7c104bb7,ngNGA,FW,RB Leipzig,21.0,1997.0,2019-2020,GER
+Eduard Löwen,70678132,deGER,MF,Augsburg,22.0,1997.0,2019-2020,GER
+Eduard Löwen,70678132,deGER,MF,Hertha BSC,22.0,1997.0,2019-2020,GER
+Jan Luca Rumpf,3588d4fe,deGER,DF,Paderborn 07,20.0,1999.0,2019-2020,GER
+Dodi Lukebakio,0c61c77c,beBEL,"MF,FW",Hertha BSC,21.0,1997.0,2019-2020,GER
+Andreas Luthe,7fe12375,deGER,GK,Augsburg,32.0,1987.0,2019-2020,GER
+Arne Maier,ab700320,deGER,MF,Hertha BSC,20.0,1999.0,2019-2020,GER
+Yunus Mallı,f3722c97,trTUR,"MF,FW",Union Berlin,27.0,1992.0,2019-2020,GER
+Streli Mamba,625e41b1,deGER,FW,Paderborn 07,25.0,1994.0,2019-2020,GER
+Omar Marmoush,0e0102eb,egEGY,"FW,MF",Wolfsburg,20.0,1999.0,2019-2020,GER
+Aarón Martín,2f3e911a,esESP,"DF,MF",Mainz 05,22.0,1997.0,2019-2020,GER
+Javi Martínez,7f97771d,esESP,"DF,MF",Bayern Munich,30.0,1988.0,2019-2020,GER
+Omar Mascarell,11fd2b75,gqEQG,MF,Schalke 04,26.0,1993.0,2019-2020,GER
+Jean-Philippe Mateta,50e6dc35,frFRA,FW,Mainz 05,22.0,1997.0,2019-2020,GER
+Rabbi Matondo,33144cc5,wlsWAL,"FW,MF",Schalke 04,18.0,2000.0,2019-2020,GER
+Philipp Max,826e8b63,deGER,"DF,MF",Augsburg,25.0,1993.0,2019-2020,GER
+Alexandru Maxim,61fc9685,roROU,"FW,MF",Mainz 05,29.0,1990.0,2019-2020,GER
+Kevin Mbabu,493924a7,chSUI,DF,Wolfsburg,24.0,1995.0,2019-2020,GER
+Weston McKennie,01c3aff5,usUSA,"MF,DF",Schalke 04,20.0,1998.0,2019-2020,GER
+Joshua Mees,4b6dd263,deGER,MF,Union Berlin,23.0,1996.0,2019-2020,GER
+Admir Mehmedi,b500b384,chSUI,"MF,FW",Wolfsburg,28.0,1991.0,2019-2020,GER
+Levent Mercan,33340bd6,deGER,MF,Schalke 04,18.0,2000.0,2019-2020,GER
+Jorge Meré,9f979eb2,esESP,DF,Köln,22.0,1997.0,2019-2020,GER
+Sven Michel,1e274a0a,deGER,FW,Paderborn 07,29.0,1990.0,2019-2020,GER
+Juan Miranda,ead61f73,esESP,"DF,MF",Schalke 04,19.0,2000.0,2019-2020,GER
+Maximilian Mittelstädt,88d4144a,deGER,"DF,MF",Hertha BSC,22.0,1997.0,2019-2020,GER
+Anthony Modeste,34e4343c,frFRA,FW,Köln,31.0,1988.0,2019-2020,GER
+Kevin Möhwald,a5ce09f2,deGER,MF,Werder Bremen,26.0,1993.0,2019-2020,GER
+Niklas Moisander,00844823,fiFIN,DF,Werder Bremen,33.0,1985.0,2019-2020,GER
+Alfredo Morales,ff45add5,usUSA,MF,Düsseldorf,29.0,1990.0,2019-2020,GER
+Jan Morávek,e7d22eae,czCZE,MF,Augsburg,29.0,1989.0,2019-2020,GER
+Mateu Morey,5fd5e542,esESP,MF,Dortmund,19.0,2000.0,2019-2020,GER
+Nordi Mukiele,ac73ec79,frFRA,"DF,MF",RB Leipzig,21.0,1997.0,2019-2020,GER
+Florian Müller,cbac6ec9,deGER,GK,Mainz 05,21.0,1997.0,2019-2020,GER
+Thomas Müller,3c6089ab,deGER,MF,Bayern Munich,29.0,1989.0,2019-2020,GER
+Torben Müsel,d01b9ad6,deGER,"FW,MF",Gladbach,20.0,1999.0,2019-2020,GER
+Jamal Musiala,2c0558b8,deGER,MF,Bayern Munich,16.0,2003.0,2019-2020,GER
+Yvon Mvogo,dc29b608,chSUI,GK,RB Leipzig,25.0,1994.0,2019-2020,GER
+Phillipp Mwene,2ff76adc,atAUT,"DF,MF",Mainz 05,25.0,1994.0,2019-2020,GER
+Obite N'Dicka,441197b8,ciCIV,DF,Eintracht Frankfurt,19.0,1999.0,2019-2020,GER
+Matija Nastasić,f35430a4,rsSRB,DF,Schalke 04,26.0,1993.0,2019-2020,GER
+Manuel Neuer,8778c910,deGER,GK,Bayern Munich,33.0,1986.0,2019-2020,GER
+Florian Neuhaus,36a59ba4,deGER,MF,Gladbach,22.0,1997.0,2019-2020,GER
+Jessic Ngankam,bc249af8,deGER,FW,Hertha BSC,19.0,2000.0,2019-2020,GER
+Moussa Niakhate,00242715,snSEN,DF,Mainz 05,23.0,1996.0,2019-2020,GER
+Moritz Nicolas,226ddf9d,deGER,GK,Union Berlin,21.0,1997.0,2019-2020,GER
+Florian Niederlechner,d6862409,deGER,"FW,MF",Augsburg,28.0,1990.0,2019-2020,GER
+Christopher Nkunku,7c56da38,frFRA,"MF,FW",RB Leipzig,21.0,1997.0,2019-2020,GER
+Lukas Nmecha,0cc5f4a5,deGER,MF,Wolfsburg,20.0,1998.0,2019-2020,GER
+Håvard Nordtveit,6cafd68d,noNOR,DF,Hoffenheim,29.0,1990.0,2019-2020,GER
+Alexander Nübel,afb0c500,deGER,GK,Schalke 04,22.0,1996.0,2019-2020,GER
+Kasim Nuhu,93a50d2c,ghGHA,DF,Düsseldorf,24.0,1995.0,2019-2020,GER
+Bastian Oczipka,d1661819,deGER,DF,Schalke 04,30.0,1989.0,2019-2020,GER
+Álvaro Odriozola,1d1691ad,esESP,"MF,DF",Bayern Munich,23.0,1995.0,2019-2020,GER
+Kelvin Ofori,1151fb6e,ghGHA,MF,Düsseldorf,18.0,2001.0,2019-2020,GER
+Kwasi Okyere Wriedt,7124239e,ghGHA,FW,Bayern Munich,25.0,1994.0,2019-2020,GER
+Cauly Oliveira Souza,2b53f7a5,brBRA,"MF,FW",Paderborn 07,23.0,1995.0,2019-2020,GER
+Dani Olmo,ae44e8e2,esESP,"MF,FW",RB Leipzig,21.0,1998.0,2019-2020,GER
+Karim Onisiwo,f26834c7,atAUT,"FW,MF",Mainz 05,27.0,1992.0,2019-2020,GER
+Willi Orban,20030c06,huHUN,DF,RB Leipzig,26.0,1992.0,2019-2020,GER
+Yuya Osako,f69fba57,jpJPN,"FW,MF",Werder Bremen,29.0,1990.0,2019-2020,GER
+Paulo Otávio,1cbe4984,brBRA,DF,Wolfsburg,24.0,1994.0,2019-2020,GER
+Reece Oxford,8b6e0db2,engENG,MF,Augsburg,20.0,1998.0,2019-2020,GER
+Levin Öztunalı,66385c46,deGER,MF,Mainz 05,23.0,1996.0,2019-2020,GER
+Gonçalo Paciência,962e54cb,ptPOR,FW,Eintracht Frankfurt,24.0,1994.0,2019-2020,GER
+Exequiel Palacios,e82adcab,arARG,MF,Leverkusen,20.0,1998.0,2019-2020,GER
+Michael Parensen,3acad81a,deGER,DF,Union Berlin,33.0,1986.0,2019-2020,GER
+Paulinho,53070b63,brBRA,MF,Leverkusen,19.0,2000.0,2019-2020,GER
+Benjamin Pavard,45a03961,frFRA,DF,Bayern Munich,23.0,1996.0,2019-2020,GER
+Jiří Pavlenka,0a1cb833,czCZE,GK,Werder Bremen,27.0,1992.0,2019-2020,GER
+Mads Pedersen,582a5247,dkDEN,DF,Augsburg,22.0,1996.0,2019-2020,GER
+Peter Pekarík,c18d22f5,skSVK,"DF,MF",Hertha BSC,32.0,1986.0,2019-2020,GER
+Philipp Pentke,c41f7379,deGER,GK,Hoffenheim,34.0,1985.0,2019-2020,GER
+Ivan Perišić,6fe90922,hrCRO,"MF,FW",Bayern Munich,30.0,1989.0,2019-2020,GER
+Pavao Pervan,c89e8aae,atAUT,GK,Wolfsburg,31.0,1987.0,2019-2020,GER
+Nils Petersen,f93e6e94,deGER,"FW,MF",Freiburg,30.0,1988.0,2019-2020,GER
+Krzysztof Piątek,17f3620a,plPOL,"FW,MF",Hertha BSC,24.0,1995.0,2019-2020,GER
+Ronaël Pierre-Gabriel,64ba07c0,frFRA,DF,Mainz 05,21.0,1998.0,2019-2020,GER
+Łukasz Piszczek,fe2db476,plPOL,DF,Dortmund,34.0,1985.0,2019-2020,GER
+Claudio Pizarro,54b6ee79,pePER,FW,Werder Bremen,40.0,1978.0,2019-2020,GER
+Marvin Plattenhardt,f7aa75bd,deGER,"DF,MF",Hertha BSC,27.0,1992.0,2019-2020,GER
+Alassane Pléa,bc6bd723,frFRA,"FW,MF",Gladbach,26.0,1993.0,2019-2020,GER
+Thomas Pledl,1748c9f7,deGER,"FW,MF",Düsseldorf,25.0,1994.0,2019-2020,GER
+Joel Pohjanpalo,ea003d07,fiFIN,FW,Leverkusen,24.0,1994.0,2019-2020,GER
+Sebastian Polter,3745e8bd,deGER,FW,Union Berlin,28.0,1991.0,2019-2020,GER
+Marin Pongračić,2a6cd437,hrCRO,DF,Wolfsburg,21.0,1997.0,2019-2020,GER
+Stefan Posch,7f609bfc,atAUT,DF,Hoffenheim,22.0,1997.0,2019-2020,GER
+Yussuf Poulsen,d2416c2e,dkDEN,FW,RB Leipzig,25.0,1994.0,2019-2020,GER
+Kai Pröger,8a080a61,deGER,"MF,FW",Paderborn 07,27.0,1992.0,2019-2020,GER
+Grischa Prömel,924f9191,deGER,MF,Union Berlin,24.0,1995.0,2019-2020,GER
+Robin Quaison,74c7c2db,seSWE,"FW,MF",Mainz 05,25.0,1993.0,2019-2020,GER
+Raffael,791af558,brBRA,"FW,MF",Gladbach,34.0,1985.0,2019-2020,GER
+Benito Raman,867501bf,beBEL,"FW,MF",Schalke 04,24.0,1994.0,2019-2020,GER
+Tobias Raschl,bd992863,deGER,MF,Dortmund,19.0,2000.0,2019-2020,GER
+Milot Rashica,6c6a3300,xkKVX,FW,Werder Bremen,23.0,1996.0,2019-2020,GER
+Ante Rebić,536cebe5,hrCRO,FW,Eintracht Frankfurt,25.0,1993.0,2019-2020,GER
+Daishawn Redan,16b4260e,nlNED,FW,Hertha BSC,18.0,2001.0,2019-2020,GER
+Fabian Reese,b1823b08,deGER,FW,Schalke 04,21.0,1997.0,2019-2020,GER
+Ken Reichel,e881ed15,deGER,"DF,MF",Union Berlin,32.0,1986.0,2019-2020,GER
+Karim Rekik,3376a776,nlNED,DF,Hertha BSC,24.0,1994.0,2019-2020,GER
+Panagiotis Retsos,4bd00a50,grGRE,DF,Leverkusen,20.0,1998.0,2019-2020,GER
+Marco Reus,36a3ff67,deGER,"MF,FW",Dortmund,30.0,1989.0,2019-2020,GER
+Elvis Rexhbeçaj,1ae836b1,xkKVX,MF,Köln,21.0,1997.0,2019-2020,GER
+Gio Reyna,7fa4e703,usUSA,"MF,FW",Dortmund,16.0,2002.0,2019-2020,GER
+Lucas Ribeiro,607d64c6,brBRA,DF,Hoffenheim,20.0,1999.0,2019-2020,GER
+Chris Richards,0a3d6d2b,usUSA,DF,Bayern Munich,19.0,2000.0,2019-2020,GER
+Marco Richter,f972644c,deGER,MF,Augsburg,21.0,1997.0,2019-2020,GER
+Marcel Risse,140afefb,deGER,"DF,FW",Köln,29.0,1989.0,2019-2020,GER
+Marlon Ritter,ce2c51c0,deGER,MF,Paderborn 07,24.0,1994.0,2019-2020,GER
+Sebastian Rode,e12b0b5b,deGER,MF,Eintracht Frankfurt,28.0,1990.0,2019-2020,GER
+Jérôme Roussillon,13203c45,frFRA,"DF,MF",Wolfsburg,26.0,1993.0,2019-2020,GER
+Sebastian Rudy,80f36c88,deGER,MF,Hoffenheim,29.0,1990.0,2019-2020,GER
+Lukas Rupp,3faa1780,deGER,MF,Hoffenheim,28.0,1991.0,2019-2020,GER
+Julian Ryerson,009a4f60,noNOR,MF,Union Berlin,21.0,1997.0,2019-2020,GER
+Frederik Rønnow,a70b8345,dkDEN,GK,Eintracht Frankfurt,26.0,1992.0,2019-2020,GER
+Victor Sá,1a1033a1,brBRA,"MF,FW",Wolfsburg,25.0,1994.0,2019-2020,GER
+Abdelhamid Sabiri,4830e0af,maMAR,MF,Paderborn 07,22.0,1996.0,2019-2020,GER
+Marcel Sabitzer,e280527c,atAUT,"MF,FW",RB Leipzig,25.0,1994.0,2019-2020,GER
+Nuri Şahin,f4081572,trTUR,MF,Werder Bremen,30.0,1988.0,2019-2020,GER
+Roland Sallai,bf075f6b,huHUN,MF,Freiburg,22.0,1997.0,2019-2020,GER
+Lazar Samardzic,217c93a1,rsSRB,MF,Hertha BSC,17.0,2002.0,2019-2020,GER
+Diadie Samassékou,08593525,mlMLI,MF,Hoffenheim,23.0,1996.0,2019-2020,GER
+Renato Sanches,032f894e,ptPOR,MF,Bayern Munich,21.0,1997.0,2019-2020,GER
+Jadon Sancho,dbf053da,engENG,"MF,FW",Dortmund,19.0,2000.0,2019-2020,GER
+Salif Sané,791abba1,snSEN,DF,Schalke 04,28.0,1990.0,2019-2020,GER
+Marcelo Saracchi,1c96ad85,uyURU,DF,RB Leipzig,21.0,1998.0,2019-2020,GER
+Josh Sargent,a8d4428b,usUSA,FW,Werder Bremen,19.0,2000.0,2019-2020,GER
+Louis Schaub,b50ec54b,atAUT,MF,Köln,24.0,1994.0,2019-2020,GER
+Patrik Schick,5d4f7d61,czCZE,FW,RB Leipzig,23.0,1996.0,2019-2020,GER
+Julian Schieber,37c213cf,deGER,FW,Augsburg,30.0,1989.0,2019-2020,GER
+Kingsley Schindler,bd527260,ghGHA,"MF,FW",Köln,26.0,1993.0,2019-2020,GER
+Xaver Schlager,8f056768,atAUT,MF,Wolfsburg,21.0,1997.0,2019-2020,GER
+Keven Schlotterbeck,f6bdc830,deGER,DF,Union Berlin,22.0,1997.0,2019-2020,GER
+Nico Schlotterbeck,34e12499,deGER,DF,Freiburg,19.0,1999.0,2019-2020,GER
+Marcel Schmelzer,89565ac5,deGER,DF,Dortmund,31.0,1988.0,2019-2020,GER
+Jonathan Schmid,088ca1bd,frFRA,"MF,DF",Freiburg,29.0,1990.0,2019-2020,GER
+Manuel Schmiedebach,d8f5dc3d,deGER,MF,Union Berlin,30.0,1988.0,2019-2020,GER
+Benno Schmitz,ad00b1a8,deGER,DF,Köln,24.0,1994.0,2019-2020,GER
+Sebastian Schonlau,efd623db,deGER,DF,Paderborn 07,24.0,1994.0,2019-2020,GER
+Alessandro Schöpf,106bca06,atAUT,MF,Schalke 04,25.0,1994.0,2019-2020,GER
+Markus Schubert,289b90cd,deGER,GK,Schalke 04,21.0,1998.0,2019-2020,GER
+Nico Schulz,fa274d97,deGER,"DF,MF",Dortmund,26.0,1993.0,2019-2020,GER
+Alexander Schwolow,0d55d942,deGER,GK,Freiburg,27.0,1992.0,2019-2020,GER
+Davie Selke,1238a3f9,deGER,FW,Hertha BSC,24.0,1995.0,2019-2020,GER
+Davie Selke,1238a3f9,deGER,FW,Werder Bremen,24.0,1995.0,2019-2020,GER
+Suat Serdar,b3325a30,deGER,MF,Schalke 04,22.0,1997.0,2019-2020,GER
+Khiry Shelton,f935709c,usUSA,"DF,FW",Paderborn 07,26.0,1993.0,2019-2020,GER
+André Silva,3effaa34,ptPOR,FW,Eintracht Frankfurt,23.0,1995.0,2019-2020,GER
+Sarpreet Singh,4ba886c6,nzNZL,MF,Bayern Munich,20.0,1999.0,2019-2020,GER
+Daley Sinkgraven,73000a79,nlNED,"DF,MF",Leverkusen,24.0,1995.0,2019-2020,GER
+Ellyes Skhiri,c2211709,tnTUN,MF,Köln,24.0,1995.0,2019-2020,GER
+Robert Skov,ff98492b,dkDEN,"MF,DF",Hoffenheim,23.0,1996.0,2019-2020,GER
+Steven Skrzybski,58ce23e5,deGER,"MF,FW",Düsseldorf,26.0,1992.0,2019-2020,GER
+Dennis Smarsch,45f6f52b,deGER,GK,Hertha BSC,20.0,1999.0,2019-2020,GER
+Lasse Sobiech,c46607bf,deGER,DF,Köln,28.0,1991.0,2019-2020,GER
+Marcel Sobottka,664590fa,deGER,MF,Düsseldorf,25.0,1994.0,2019-2020,GER
+Yann Sommer,420c18a1,chSUI,GK,Gladbach,30.0,1988.0,2019-2020,GER
+Djibril Sow,4c6facae,chSUI,MF,Eintracht Frankfurt,22.0,1997.0,2019-2020,GER
+Dennis Srbeny,1fdec858,deGER,"FW,MF",Paderborn 07,25.0,1994.0,2019-2020,GER
+Jerry St. Juste,90339309,nlNED,DF,Mainz 05,22.0,1996.0,2019-2020,GER
+Kostas Stafylidis,861e0116,grGRE,"DF,MF",Hoffenheim,25.0,1993.0,2019-2020,GER
+Benjamin Stambouli,5939baa2,frFRA,DF,Schalke 04,28.0,1990.0,2019-2020,GER
+Niklas Stark,aad48be9,deGER,"DF,MF",Hertha BSC,24.0,1995.0,2019-2020,GER
+Renato Steffen,dd669209,chSUI,"MF,FW",Wolfsburg,27.0,1991.0,2019-2020,GER
+Zack Steffen,42130443,usUSA,GK,Düsseldorf,24.0,1995.0,2019-2020,GER
+Lars Stindl,7cd6badb,deGER,"MF,FW",Gladbach,30.0,1988.0,2019-2020,GER
+Kevin Stöger,e5649a78,atAUT,MF,Düsseldorf,25.0,1993.0,2019-2020,GER
+Tobias Strobl,17780d2b,deGER,"MF,DF",Gladbach,29.0,1990.0,2019-2020,GER
+Christian Strohdiek,9c2394c9,deGER,DF,Paderborn 07,31.0,1988.0,2019-2020,GER
+Neven Subotić,821233cc,rsSRB,DF,Union Berlin,30.0,1988.0,2019-2020,GER
+Marek Suchý,c5224618,czCZE,DF,Augsburg,31.0,1988.0,2019-2020,GER
+Niklas Süle,e33c06cf,deGER,DF,Bayern Munich,23.0,1995.0,2019-2020,GER
+Markus Suttner,7391c2d9,atAUT,"DF,MF",Düsseldorf,32.0,1987.0,2019-2020,GER
+Ádám Szalai,53e07d0b,huHUN,FW,Mainz 05,31.0,1987.0,2019-2020,GER
+Jonathan Tah,bd142efb,deGER,DF,Leverkusen,23.0,1996.0,2019-2020,GER
+Edmond Tapsoba,a73c8f95,bfBFA,DF,Leverkusen,20.0,1999.0,2019-2020,GER
+Georg Teigl,c8cfb04d,atAUT,DF,Augsburg,28.0,1991.0,2019-2020,GER
+Bernard Tekpetey,7bf8ad6c,ghGHA,"MF,FW",Düsseldorf,21.0,1997.0,2019-2020,GER
+Lino Tempelmann,4e3a947f,deGER,MF,Freiburg,20.0,1999.0,2019-2020,GER
+Simon Terodde,863ff1ee,deGER,"FW,MF",Köln,31.0,1988.0,2019-2020,GER
+Malick Thiaw,ff5ea0bf,deGER,"DF,MF",Schalke 04,17.0,2001.0,2019-2020,GER
+Niclas Thiede,cac55e10,deGER,GK,Freiburg,20.0,1999.0,2019-2020,GER
+Jan Thielmann,fd53759d,deGER,MF,Köln,17.0,2002.0,2019-2020,GER
+Erik Thommy,df8e7b62,deGER,"MF,FW",Düsseldorf,24.0,1994.0,2019-2020,GER
+Marcus Thuram,6f8cd6d0,frFRA,"MF,FW",Gladbach,21.0,1997.0,2019-2020,GER
+Marcel Tisserand,45954ec7,cdCOD,DF,Wolfsburg,26.0,1993.0,2019-2020,GER
+Jean-Clair Todibo,88f130ed,frFRA,DF,Schalke 04,19.0,1999.0,2019-2020,GER
+Corentin Tolisso,652d4c37,frFRA,MF,Bayern Munich,24.0,1994.0,2019-2020,GER
+Ömer Toprak,c5fd13e9,trTUR,DF,Werder Bremen,30.0,1989.0,2019-2020,GER
+Lucas Torró,0e4fef6e,esESP,MF,Eintracht Frankfurt,25.0,1994.0,2019-2020,GER
+Jordan Torunarigha,f86cabbd,deGER,DF,Hertha BSC,21.0,1997.0,2019-2020,GER
+Almamy Touré,c8c60119,mlMLI,"DF,MF",Eintracht Frankfurt,23.0,1996.0,2019-2020,GER
+Ibrahima Traoré,096a77c4,gnGUI,MF,Gladbach,31.0,1988.0,2019-2020,GER
+Kevin Trapp,ce17b5eb,deGER,GK,Eintracht Frankfurt,29.0,1990.0,2019-2020,GER
+Christopher Trimmel,056d2d95,atAUT,"MF,DF",Union Berlin,32.0,1987.0,2019-2020,GER
+Anthony Ujah,99be8fb5,ngNGA,"FW,MF",Union Berlin,28.0,1990.0,2019-2020,GER
+Sven Ulreich,7d3e7da6,deGER,GK,Bayern Munich,30.0,1988.0,2019-2020,GER
+Dayot Upamecano,d248cd8f,frFRA,DF,RB Leipzig,20.0,1998.0,2019-2020,GER
+Mark Uth,a3ddb1b9,deGER,"MF,FW",Köln,27.0,1991.0,2019-2020,GER
+Mark Uth,a3ddb1b9,deGER,"FW,MF",Schalke 04,27.0,1991.0,2019-2020,GER
+Ruben Vargas,6ecbddf6,chSUI,MF,Augsburg,20.0,1998.0,2019-2020,GER
+Sebastian Vasiliadis,d3112d86,grGRE,MF,Paderborn 07,21.0,1997.0,2019-2020,GER
+Miloš Veljković,a5ae8f8e,rsSRB,DF,Werder Bremen,23.0,1995.0,2019-2020,GER
+Birger Verstraete,28eaa0f3,beBEL,MF,Köln,25.0,1994.0,2019-2020,GER
+Kevin Vogt,1d8e9add,deGER,DF,Hoffenheim,27.0,1991.0,2019-2020,GER
+Kevin Vogt,1d8e9add,deGER,"DF,MF",Werder Bremen,27.0,1991.0,2019-2020,GER
+Kevin Volland,64f69877,deGER,"FW,MF",Leverkusen,27.0,1992.0,2019-2020,GER
+Luca Waldschmidt,e5a35ae9,deGER,FW,Freiburg,23.0,1996.0,2019-2020,GER
+Wout Weghorst,c4e87b8b,nlNED,FW,Wolfsburg,26.0,1992.0,2019-2020,GER
+Julian Weigl,346d51d9,deGER,"MF,DF",Dortmund,23.0,1995.0,2019-2020,GER
+Mitchell Weiser,30c220c3,deGER,"DF,MF",Leverkusen,25.0,1994.0,2019-2020,GER
+Wendell,f9acca3a,brBRA,"DF,MF",Leverkusen,26.0,1993.0,2019-2020,GER
+Oscar Wendt,b69261a0,seSWE,"DF,MF",Gladbach,33.0,1985.0,2019-2020,GER
+Timo Werner,49fe9070,deGER,FW,RB Leipzig,23.0,1996.0,2019-2020,GER
+Felix Wiedwald,e2d34771,deGER,GK,Eintracht Frankfurt,29.0,1990.0,2019-2020,GER
+William,d4d0a9ad,brBRA,"MF,DF",Wolfsburg,24.0,1995.0,2019-2020,GER
+Florian Wirtz,e7fcf289,deGER,"MF,FW",Leverkusen,16.0,2003.0,2019-2020,GER
+Axel Witsel,5dfc6ad5,beBEL,MF,Dortmund,30.0,1989.0,2019-2020,GER
+Hannes Wolf,be42a291,atAUT,"FW,MF",RB Leipzig,20.0,1999.0,2019-2020,GER
+Marius Wolf,fa661778,deGER,MF,Hertha BSC,24.0,1995.0,2019-2020,GER
+Nick Woltemade,7ca196eb,deGER,FW,Werder Bremen,17.0,2002.0,2019-2020,GER
+Dan-Axel Zagadou,a4effc55,frFRA,DF,Dortmund,20.0,1999.0,2019-2020,GER
+Denis Zakaria,384d58d9,chSUI,MF,Gladbach,22.0,1996.0,2019-2020,GER
+Robin Zentner,5c4bf6ba,deGER,GK,Mainz 05,24.0,1994.0,2019-2020,GER
+Jean Zimmer,912e63b5,deGER,"MF,DF",Düsseldorf,25.0,1993.0,2019-2020,GER
+Matthias Zimmermann,e199d5b0,deGER,"DF,MF",Düsseldorf,27.0,1992.0,2019-2020,GER
+Leopold Zingerle,bf9d9070,deGER,GK,Paderborn 07,25.0,1994.0,2019-2020,GER
+Joshua Zirkzee,028e70b9,nlNED,FW,Bayern Munich,18.0,2001.0,2019-2020,GER
+Ben Zolinski,4d50454e,deGER,"FW,MF",Paderborn 07,27.0,1992.0,2019-2020,GER
+Steven Zuber,b6a6e0a7,chSUI,"MF,DF",Hoffenheim,27.0,1991.0,2019-2020,GER
+Yunis Abdelhamid,32c2d95f,maMAR,DF,Reims,31.0,1987.0,2019-2020,FRA
+Mehdi Abeid,a4c3f7af,dzALG,MF,Nantes,26.0,1992.0,2019-2020,FRA
+Charles Abi,469d3d84,frFRA,FW,Saint-Étienne,19.0,2000.0,2019-2020,FRA
+Amine Adli,dcfb17f4,maMAR,"FW,MF",Toulouse,19.0,2000.0,2019-2020,FRA
+Yacine Adli,26777636,frFRA,MF,Bordeaux,19.0,2000.0,2019-2020,FRA
+Nayef Aguerd,288e1e13,maMAR,DF,Dijon,23.0,1996.0,2019-2020,FRA
+Ruben Aguilar,3dd738a1,frFRA,"DF,MF",Monaco,26.0,1993.0,2019-2020,FRA
+Jean-Eudes Aholou,48b28bfd,ciCIV,MF,Saint-Étienne,25.0,1994.0,2019-2020,FRA
+Youssef Aït Bennasser,c46fa34c,maMAR,MF,Bordeaux,23.0,1996.0,2019-2020,FRA
+Rayan Aït-Nouri,9b398aea,dzALG,DF,Angers,18.0,2001.0,2019-2020,FRA
+Ludovic Ajorque,462475ed,frFRA,FW,Strasbourg,25.0,1994.0,2019-2020,FRA
+Marley Aké,414e1f69,frFRA,"FW,MF",Marseille,18.0,2001.0,2019-2020,FRA
+Chadrac Akolo,debc2f28,cdCOD,MF,Amiens,24.0,1995.0,2019-2020,FRA
+Sofiane Alakouch,5314e067,maMAR,DF,Nîmes,21.0,1998.0,2019-2020,FRA
+Haitam Aleesami,4085f08e,noNOR,DF,Amiens,28.0,1991.0,2019-2020,FRA
+Rúnar Alex Rúnarsson,8fa8f8d2,isISL,GK,Dijon,24.0,1995.0,2019-2020,FRA
+Rachid Alioui,bdedd861,maMAR,FW,Angers,27.0,1992.0,2019-2020,FRA
+Mickaël Alphonse,0a63446f,gpGLP,"DF,MF",Dijon,30.0,1989.0,2019-2020,FRA
+Romain Amalfitano,d7bf3d19,frFRA,MF,Dijon,29.0,1989.0,2019-2020,FRA
+Jordan Amavi,22721b88,frFRA,DF,Marseille,25.0,1994.0,2019-2020,FRA
+Thierry Ambrose,2945f4b7,gpGLP,"FW,MF",Metz,22.0,1997.0,2019-2020,FRA
+Kelvin Amian,bcc81786,frFRA,DF,Toulouse,21.0,1998.0,2019-2020,FRA
+Joachim Andersen,e34fc66d,dkDEN,DF,Lyon,23.0,1996.0,2019-2020,FRA
+Benjamin André,ef9c1c95,frFRA,MF,Lille,28.0,1990.0,2019-2020,FRA
+Victorien Angban,d8992b84,ciCIV,MF,Metz,22.0,1996.0,2019-2020,FRA
+Janis Antiste,38d9ce53,frFRA,"FW,MF",Toulouse,16.0,2002.0,2019-2020,FRA
+Houssem Aouar,a5db0bec,dzALG,MF,Lyon,21.0,1998.0,2019-2020,FRA
+Adil Aouchiche,b94b8be1,frFRA,MF,Paris Saint-Germain,17.0,2002.0,2019-2020,FRA
+Dennis Appiah,feb5d3ab,frFRA,DF,Nantes,27.0,1992.0,2019-2020,FRA
+Luiz Araújo,fa18c72e,brBRA,"MF,FW",Lille,23.0,1996.0,2019-2020,FRA
+Alphonse Areola,2f965a72,frFRA,GK,Paris Saint-Germain,26.0,1993.0,2019-2020,FRA
+Youcef Atal,6a827d8e,dzALG,"FW,MF",Nice,23.0,1996.0,2019-2020,FRA
+Jean-Kévin Augustin,97bfa797,frFRA,FW,Monaco,22.0,1997.0,2019-2020,FRA
+Mathias Autret,7dfbba27,frFRA,"MF,FW",Brest,28.0,1991.0,2019-2020,FRA
+Ludovic Baal,d3ce9f1f,gfGUF,DF,Brest,33.0,1986.0,2019-2020,FRA
+Benoît Badiashile,06df8256,frFRA,DF,Monaco,18.0,2001.0,2019-2020,FRA
+Bastian Badu,3deb2342,frFRA,FW,Montpellier,19.0,2000.0,2019-2020,FRA
+Stéphane Bahoken,5046b7d4,cmCMR,FW,Angers,27.0,1992.0,2019-2020,FRA
+Dénys Bain,5065d67d,frFRA,DF,Brest,26.0,1993.0,2019-2020,FRA
+Stefan Bajic,be13e5a8,frFRA,GK,Saint-Étienne,17.0,2001.0,2019-2020,FRA
+Tiemoué Bakayoko,59bf127b,frFRA,MF,Monaco,24.0,1994.0,2019-2020,FRA
+Mitchel Bakker,a8567629,nlNED,DF,Paris Saint-Germain,19.0,2000.0,2019-2020,FRA
+Keita Baldé,509a4ccb,snSEN,"MF,FW",Monaco,24.0,1995.0,2019-2020,FRA
+Fodé Ballo-Touré,f449640d,snSEN,"DF,MF",Monaco,22.0,1997.0,2019-2020,FRA
+Florent Balmont,4e7bfc23,frFRA,MF,Dijon,39.0,1980.0,2019-2020,FRA
+Abdoulaye Bamba,7fecbcdb,ciCIV,DF,Angers,29.0,1990.0,2019-2020,FRA
+Jonathan Bamba,b2bd0f6c,ciCIV,MF,Lille,23.0,1996.0,2019-2020,FRA
+Danilo Barbosa,0557ff4f,brBRA,"DF,MF",Nice,23.0,1996.0,2019-2020,FRA
+Melvin Bard,1ddbc7ca,frFRA,"DF,MF",Lyon,18.0,2000.0,2019-2020,FRA
+Toma Bašić,80556f08,hrCRO,MF,Bordeaux,22.0,1996.0,2019-2020,FRA
+Thomas Basila,65391fa7,frFRA,DF,Nantes,20.0,1999.0,2019-2020,FRA
+Gil Bastião Dias,e61bdd69,ptPOR,"MF,DF",Monaco,22.0,1996.0,2019-2020,FRA
+Cristian Battocchio,0f9b8301,itITA,MF,Brest,27.0,1992.0,2019-2020,FRA
+Gaëtan Belaud,3f1a7191,frFRA,DF,Brest,32.0,1986.0,2019-2020,FRA
+Haris Belkebla,2b1bed19,dzALG,MF,Brest,25.0,1994.0,2019-2020,FRA
+Raoul Bellanova,e3756e72,itITA,DF,Bordeaux,19.0,2000.0,2019-2020,FRA
+Jean-Ricner Bellegarde,10f0fdd3,htHAI,MF,Strasbourg,21.0,1998.0,2019-2020,FRA
+Sami Ben Amar,c05d65d1,maMAR,FW,Nîmes,21.0,1998.0,2019-2020,FRA
+Wissam Ben Yedder,942b4f90,frFRA,FW,Monaco,28.0,1990.0,2019-2020,FRA
+Cristian Benavente,3b5cd50d,pePER,MF,Nantes,25.0,1994.0,2019-2020,FRA
+Darío Benedetto,bef0a7ac,arARG,FW,Marseille,29.0,1990.0,2019-2020,FRA
+Walter Benítez,8a2248b4,arARG,GK,Nice,26.0,1993.0,2019-2020,FRA
+Loris Benito,f5b6fb78,chSUI,"MF,DF",Bordeaux,27.0,1992.0,2019-2020,FRA
+Bilal Benkhedim,b6047994,frFRA,MF,Saint-Étienne,18.0,2001.0,2019-2020,FRA
+Yassine Benrahou,fbf76716,frFRA,FW,Bordeaux,20.0,1999.0,2019-2020,FRA
+Yassine Benrahou,fbf76716,frFRA,"MF,FW",Nîmes,20.0,1999.0,2019-2020,FRA
+Yassine Benzia,6fbde63a,dzALG,MF,Dijon,24.0,1994.0,2019-2020,FRA
+Robert Berić,9001138b,siSVN,FW,Saint-Étienne,28.0,1991.0,2019-2020,FRA
+Paul Bernardoni,28dabd43,frFRA,GK,Nîmes,22.0,1997.0,2019-2020,FRA
+Juan Bernat,433dc9a2,esESP,"DF,MF",Paris Saint-Germain,26.0,1993.0,2019-2020,FRA
+Dimitry Bertaud,380a15e2,cdCOD,GK,Montpellier,21.0,1998.0,2019-2020,FRA
+El Bilal Touré,47c609d5,mlMLI,FW,Reims,17.0,2001.0,2019-2020,FRA
+Ludovic Blas,6191093d,frFRA,"MF,FW",Nantes,21.0,1997.0,2019-2020,FRA
+Alexis Blin,c69ef855,frFRA,MF,Amiens,22.0,1996.0,2019-2020,FRA
+Antonin Bobichon,7d937aa1,frFRA,MF,Nîmes,23.0,1995.0,2019-2020,FRA
+Antonin Bobichon,7d937aa1,frFRA,MF,Angers,23.0,1995.0,2019-2020,FRA
+Mathieu Bodmer,f3642ba8,frFRA,"DF,MF",Amiens,36.0,1982.0,2019-2020,FRA
+Sacha Boey,6c8ddd52,frFRA,DF,Rennes,18.0,2000.0,2019-2020,FRA
+Quentin Boisgard,f6496133,frFRA,"MF,FW",Toulouse,22.0,1997.0,2019-2020,FRA
+Gabriel Boschilia,e90af77c,brBRA,MF,Monaco,23.0,1996.0,2019-2020,FRA
+Denis Bouanga,0b0cbe5b,gaGAB,"MF,FW",Saint-Étienne,24.0,1994.0,2019-2020,FRA
+Hicham Boudaoui,f9d5908e,dzALG,"MF,FW",Nice,19.0,1999.0,2019-2020,FRA
+Ryad Boudebouz,1001ae82,dzALG,"MF,FW",Saint-Étienne,29.0,1990.0,2019-2020,FRA
+Farid Boulaya,a0791826,dzALG,FW,Metz,26.0,1993.0,2019-2020,FRA
+Benjamin Bourigeaud,20e73fac,frFRA,MF,Rennes,25.0,1994.0,2019-2020,FRA
+Bilal Boutobba,e8a65bc8,frFRA,"FW,MF",Montpellier,20.0,1998.0,2019-2020,FRA
+John Boye,861227d2,ghGHA,DF,Metz,32.0,1987.0,2019-2020,FRA
+Domagoj Bradarić,8bbe2df5,hrCRO,DF,Lille,19.0,1999.0,2019-2020,FRA
+Anthony Briançon,16324e1d,frFRA,DF,Nîmes,24.0,1994.0,2019-2020,FRA
+Jimmy Briand,f83c8d6c,frFRA,FW,Bordeaux,33.0,1985.0,2019-2020,FRA
+Dylan Bronn,edd81e2a,tnTUN,DF,Metz,24.0,1995.0,2019-2020,FRA
+Lucas Buadés,f9921b7f,frFRA,FW,Nîmes,21.0,1997.0,2019-2020,FRA
+Patrick Burner,8746d5d0,mqMTQ,DF,Nice,23.0,1996.0,2019-2020,FRA
+Ludovic Butelle,26975a92,frFRA,GK,Angers,36.0,1983.0,2019-2020,FRA
+Marcin Bułka,db87a2c4,plPOL,GK,Paris Saint-Germain,19.0,1999.0,2019-2020,FRA
+Yohan Cabaye,ad7b19ef,frFRA,MF,Saint-Étienne,33.0,1986.0,2019-2020,FRA
+Manuel Cabit,38568467,mqMTQ,DF,Metz,26.0,1993.0,2019-2020,FRA
+Anthony Caci,0118c54c,frFRA,DF,Strasbourg,22.0,1997.0,2019-2020,FRA
+Jhonder Cádiz,e8edfdc9,veVEN,"FW,MF",Dijon,24.0,1995.0,2019-2020,FRA
+Mathieu Cafaro,2a657da0,frFRA,MF,Reims,22.0,1997.0,2019-2020,FRA
+Jonathan Cafu,8d043f1d,brBRA,MF,Bordeaux,28.0,1991.0,2019-2020,FRA
+Arturo Calabresi,34bb6fbd,itITA,DF,Amiens,23.0,1996.0,2019-2020,FRA
+Duje Ćaleta-Car,94f8d10c,hrCRO,DF,Marseille,22.0,1996.0,2019-2020,FRA
+Mahdi Camara,8577e60a,frFRA,MF,Saint-Étienne,21.0,1998.0,2019-2020,FRA
+Souleymane Camara,c58270f8,snSEN,FW,Montpellier,36.0,1982.0,2019-2020,FRA
+Eduardo Camavinga,7b9c2d84,frFRA,MF,Rennes,16.0,2002.0,2019-2020,FRA
+Pierrick Capelle,79b2399c,frFRA,"MF,DF",Angers,32.0,1987.0,2019-2020,FRA
+Maxence Caqueret,f81ef10d,frFRA,MF,Lyon,19.0,2000.0,2019-2020,FRA
+Irvin Cardona,5e080f73,mtMLT,"FW,MF",Brest,21.0,1997.0,2019-2020,FRA
+Lionel Carole,5b5724d2,frFRA,"MF,DF",Strasbourg,28.0,1991.0,2019-2020,FRA
+Matis Carvalho,8608f269,ptPOR,GK,Montpellier,20.0,1999.0,2019-2020,FRA
+Moreto Cassamã,f54d2149,gwGNB,MF,Reims,21.0,1998.0,2019-2020,FRA
+Jean-Charles Castelletto,e0f3a1f6,cmCMR,DF,Brest,24.0,1995.0,2019-2020,FRA
+Edinson Cavani,527f063d,uyURU,FW,Paris Saint-Germain,32.0,1987.0,2019-2020,FRA
+Zeki Çelik,31a62dc7,trTUR,DF,Lille,22.0,1997.0,2019-2020,FRA
+Fabien Centonze,3c6bbbab,frFRA,DF,Metz,23.0,1996.0,2019-2020,FRA
+Florian Chabrolle,5d9577aa,frFRA,MF,Marseille,21.0,1998.0,2019-2020,FRA
+Fouad Chafik,edd1466a,maMAR,DF,Dijon,32.0,1986.0,2019-2020,FRA
+Gaëtan Charbonnier,18ebca4b,frFRA,FW,Brest,30.0,1988.0,2019-2020,FRA
+Brendan Chardonnet,16aa7d4c,frFRA,DF,Brest,24.0,1994.0,2019-2020,FRA
+Xavier Chavalerin,279ddf6a,frFRA,MF,Reims,28.0,1991.0,2019-2020,FRA
+Aurélien Chedjou,80e4c841,cmCMR,DF,Amiens,34.0,1985.0,2019-2020,FRA
+Rayan Cherki,b34c63a5,frFRA,MF,Lyon,15.0,2003.0,2019-2020,FRA
+Joris Chotard,7909ffa4,frFRA,MF,Montpellier,17.0,2001.0,2019-2020,FRA
+Mounir Chouiar,45c1c326,frFRA,MF,Dijon,20.0,1999.0,2019-2020,FRA
+Ibrahim Cissé,9cebd6ce,ciCIV,DF,Nice,20.0,1999.0,2019-2020,FRA
+Ibrahim Cissé,0f87f8c2,snSEN,DF,Angers,23.0,1996.0,2019-2020,FRA
+Alexis Claude-Maurice,741418c3,frFRA,"MF,FW",Nice,21.0,1998.0,2019-2020,FRA
+Yannis Clementia,7800bdb8,mqMTQ,GK,Nice,22.0,1997.0,2019-2020,FRA
+Marcus Coco,3010aefb,frFRA,FW,Nantes,23.0,1996.0,2019-2020,FRA
+Renaud Cohade,4e7d66f8,frFRA,MF,Metz,34.0,1984.0,2019-2020,FRA
+Racine Coly,166a981d,snSEN,"DF,MF",Nice,23.0,1995.0,2019-2020,FRA
+Daniel Congré,3f5b4635,frFRA,DF,Montpellier,34.0,1985.0,2019-2020,FRA
+Benjamin Corgnet,cfd8dde3,frFRA,"MF,FW",Strasbourg,32.0,1987.0,2019-2020,FRA
+Maxwel Cornet,beb391dd,ciCIV,"FW,MF",Lyon,22.0,1996.0,2019-2020,FRA
+Quentin Cornette,5d42d487,frFRA,MF,Amiens,25.0,1994.0,2019-2020,FRA
+Edmilson Correia,bc50c437,gwGNB,FW,Saint-Étienne,19.0,2000.0,2019-2020,FRA
+Nuno da Costa,909222de,cvCPV,FW,Strasbourg,28.0,1991.0,2019-2020,FRA
+Benoît Costil,2434f24a,frFRA,GK,Bordeaux,32.0,1987.0,2019-2020,FRA
+Kalifa Coulibaly,9980269a,mlMLI,FW,Nantes,27.0,1991.0,2019-2020,FRA
+Senou Coulibaly,67b7357e,mlMLI,DF,Dijon,24.0,1994.0,2019-2020,FRA
+Yoann Court,26e4447b,frFRA,"MF,FW",Brest,29.0,1990.0,2019-2020,FRA
+Nicolas Cozza,8f325097,frFRA,DF,Montpellier,20.0,1999.0,2019-2020,FRA
+Wylan Cyprien,3e092724,frFRA,MF,Nice,24.0,1995.0,2019-2020,FRA
+Lucas Da Cunha,007faf7a,frFRA,MF,Rennes,18.0,2001.0,2019-2020,FRA
+Damien Da Silva,1ec7e1c5,frFRA,DF,Rennes,31.0,1988.0,2019-2020,FRA
+Colin Dagba,29c02c9f,frFRA,DF,Paris Saint-Germain,20.0,1998.0,2019-2020,FRA
+Dante,fd2bc67d,brBRA,DF,Nice,35.0,1983.0,2019-2020,FRA
+Lucas Deaux,44f8c299,frFRA,MF,Nîmes,30.0,1988.0,2019-2020,FRA
+Mathieu Debuchy,92232aad,frFRA,"DF,MF",Saint-Étienne,34.0,1985.0,2019-2020,FRA
+Romain Del Castillo,0be95d34,frFRA,"FW,MF",Rennes,23.0,1996.0,2019-2020,FRA
+Thomas Delaine,8332db56,frFRA,"DF,MF",Metz,27.0,1992.0,2019-2020,FRA
+Paul Delecroix,2ee1b96b,frFRA,GK,Metz,30.0,1988.0,2019-2020,FRA
+Andy Delort,d33c706e,dzALG,FW,Montpellier,27.0,1991.0,2019-2020,FRA
+Moussa Dembélé,e7986081,frFRA,FW,Lyon,23.0,1996.0,2019-2020,FRA
+Jason Denayer,47af88b8,beBEL,DF,Lyon,24.0,1995.0,2019-2020,FRA
+Kévin Denkey,0d3585b5,tgTOG,FW,Nîmes,18.0,2000.0,2019-2020,FRA
+Ángel Di María,19cda00b,arARG,"MF,FW",Paris Saint-Germain,31.0,1988.0,2019-2020,FRA
+Boulaye Dia,244bc2c8,snSEN,FW,Reims,22.0,1996.0,2019-2020,FRA
+Fousseni Diabaté,d07e3b41,mlMLI,MF,Amiens,23.0,1995.0,2019-2020,FRA
+Bafodé Diakité,1bfb6fef,frFRA,DF,Toulouse,18.0,2001.0,2019-2020,FRA
+Abdou Diallo,fc62f087,snSEN,DF,Paris Saint-Germain,23.0,1996.0,2019-2020,FRA
+Habib Diallo,6605d143,snSEN,FW,Metz,24.0,1995.0,2019-2020,FRA
+Ibrahima Diallo,11ff3d56,frFRA,MF,Brest,20.0,1999.0,2019-2020,FRA
+Moussa Diarra,698f11e3,mlMLI,DF,Toulouse,18.0,2000.0,2019-2020,FRA
+Lucas Dias,d83f8f69,frFRA,GK,Nîmes,20.0,1999.0,2019-2020,FRA
+Bakaye Dibassy,247accfd,mlMLI,DF,Amiens,29.0,1989.0,2019-2020,FRA
+Tristan Dingomé,92b56413,cmCMR,MF,Reims,28.0,1991.0,2019-2020,FRA
+Lois Diony,4be0b467,frFRA,FW,Saint-Étienne,26.0,1992.0,2019-2020,FRA
+Assane Dioussé,7f622eef,snSEN,MF,Saint-Étienne,21.0,1997.0,2019-2020,FRA
+Axel Disasi,ad82197c,frFRA,DF,Reims,21.0,1998.0,2019-2020,FRA
+Tiago Djaló,b2336681,ptPOR,DF,Lille,19.0,2000.0,2019-2020,FRA
+Alexander Djiku,43e7a164,ghGHA,"DF,MF",Strasbourg,24.0,1994.0,2019-2020,FRA
+Kasper Dolberg,cc83b74d,dkDEN,FW,Nice,21.0,1997.0,2019-2020,FRA
+Keagan Dolly,ccb1c3af,zaRSA,MF,Montpellier,26.0,1993.0,2019-2020,FRA
+Anastasios Donis,0f26fd24,grGRE,"MF,FW",Reims,22.0,1996.0,2019-2020,FRA
+Mathieu Dossevi,6421dd73,tgTOG,"MF,FW",Toulouse,31.0,1988.0,2019-2020,FRA
+Moussa Doumbia,6481421d,mlMLI,"MF,FW",Reims,24.0,1994.0,2019-2020,FRA
+Souleyman Doumbia,9daeac61,ciCIV,DF,Angers,22.0,1996.0,2019-2020,FRA
+Souleyman Doumbia,9daeac61,ciCIV,DF,Rennes,22.0,1996.0,2019-2020,FRA
+Julian Draxler,1a992676,deGER,MF,Paris Saint-Germain,25.0,1993.0,2019-2020,FRA
+Leo Dubois,ff0ab48c,frFRA,"DF,MF",Lyon,24.0,1994.0,2019-2020,FRA
+Haris Duljević,9b6556d2,baBIH,"FW,MF",Nîmes,25.0,1993.0,2019-2020,FRA
+Riza Durmisi,e5cd9da6,dkDEN,MF,Nice,25.0,1994.0,2019-2020,FRA
+Jean-Kevin Duverne,0cbc8baa,htHAI,DF,Brest,22.0,1997.0,2019-2020,FRA
+Bruno Ecuele Manga,72a0fb65,gaGAB,DF,Dijon,31.0,1988.0,2019-2020,FRA
+Renaud Emond,5c9ac7f0,beBEL,FW,Nantes,27.0,1991.0,2019-2020,FRA
+Fábio,bc7b4580,brBRA,DF,Nantes,29.0,1990.0,2019-2020,FRA
+Cesc Fàbregas,33508c78,esESP,MF,Monaco,32.0,1987.0,2019-2020,FRA
+Julien Faussurier,767212e6,frFRA,DF,Brest,32.0,1987.0,2019-2020,FRA
+Zinedine Ferhat,005c0807,dzALG,"MF,FW",Nîmes,26.0,1993.0,2019-2020,FRA
+Juan Ferney Otero,05816e19,coCOL,"MF,FW",Amiens,24.0,1995.0,2019-2020,FRA
+Jordan Ferri,375622c5,frFRA,MF,Montpellier,27.0,1992.0,2019-2020,FRA
+Mamadou Fofana,4c4ffacc,mlMLI,"DF,MF",Metz,21.0,1998.0,2019-2020,FRA
+Wesley Fofana,132a82f1,frFRA,DF,Saint-Étienne,18.0,2000.0,2019-2020,FRA
+Youssouf Fofana,822d51d7,frFRA,MF,Strasbourg,20.0,1999.0,2019-2020,FRA
+Youssouf Fofana,822d51d7,frFRA,MF,Monaco,20.0,1999.0,2019-2020,FRA
+Thomas Foket,90eb507d,beBEL,DF,Reims,24.0,1994.0,2019-2020,FRA
+Lamine Fomba,2145368f,frFRA,MF,Nîmes,21.0,1998.0,2019-2020,FRA
+José Fonte,90f87966,ptPOR,DF,Lille,35.0,1983.0,2019-2020,FRA
+Lyle Foster,f84a807c,zaRSA,FW,Monaco,18.0,2000.0,2019-2020,FRA
+Angelo Fulgini,4b96c347,frFRA,MF,Angers,22.0,1996.0,2019-2020,FRA
+Ruben Gabrielsen,9e64fc85,noNOR,DF,Toulouse,27.0,1992.0,2019-2020,FRA
+Nicolás Gaitán,7ebfac0f,arARG,"FW,MF",Lille,31.0,1988.0,2019-2020,FRA
+Marvin Gakpa,c1b16364,frFRA,"MF,FW",Metz,25.0,1993.0,2019-2020,FRA
+Idrissa Gana Gueye,72c812f3,snSEN,MF,Paris Saint-Germain,29.0,1989.0,2019-2020,FRA
+Ignatius Ganago,23c63b7f,cmCMR,"FW,MF",Nice,20.0,1999.0,2019-2020,FRA
+Yann Gboho,6be41a31,frFRA,FW,Rennes,18.0,2001.0,2019-2020,FRA
+Jérémy Gélin,4c700f46,frFRA,"DF,MF",Rennes,22.0,1997.0,2019-2020,FRA
+Valère Germain,ea0ff634,frFRA,"FW,MF",Marseille,29.0,1990.0,2019-2020,FRA
+Saman Ghoddos,f7b1d4e0,irIRN,"MF,FW",Amiens,25.0,1993.0,2019-2020,FRA
+Andrei Girotto,3befc2b6,brBRA,DF,Nantes,27.0,1992.0,2019-2020,FRA
+Kamil Glik,c6056d58,plPOL,DF,Monaco,31.0,1988.0,2019-2020,FRA
+Joris Gnagnon,1232e1dc,frFRA,DF,Rennes,22.0,1997.0,2019-2020,FRA
+Eddy Gnahoré,a0434482,frFRA,MF,Amiens,25.0,1993.0,2019-2020,FRA
+Mauro Goicoechea,132bb875,uyURU,GK,Toulouse,31.0,1988.0,2019-2020,FRA
+Aleksandr Golovin,3708e9fa,ruRUS,MF,Monaco,23.0,1996.0,2019-2020,FRA
+Alfred Gomis,cecbce23,snSEN,GK,Dijon,25.0,1993.0,2019-2020,FRA
+Mathieu Goncalves,d26cd32d,frFRA,DF,Toulouse,18.0,2001.0,2019-2020,FRA
+Álvaro González,42dcf26d,esESP,DF,Marseille,29.0,1990.0,2019-2020,FRA
+Prince-Désir Gouano,7c6d6c96,frFRA,DF,Amiens,25.0,1993.0,2019-2020,FRA
+Amine Gouiri,aad56ca3,dzALG,"FW,MF",Lyon,19.0,2000.0,2019-2020,FRA
+Max Gradel,c5a500ca,ciCIV,"MF,FW",Toulouse,31.0,1987.0,2019-2020,FRA
+Samuel Grandsir,d2448564,frFRA,MF,Brest,22.0,1996.0,2019-2020,FRA
+Clément Grenier,8b298f56,frFRA,MF,Rennes,28.0,1991.0,2019-2020,FRA
+Jérémy Grimm,53283127,frFRA,MF,Strasbourg,32.0,1987.0,2019-2020,FRA
+Bruno Guimarães,82518f62,brBRA,MF,Lyon,21.0,1997.0,2019-2020,FRA
+Serhou Guirassy,923f4dda,gnGUI,FW,Amiens,23.0,1996.0,2019-2020,FRA
+Rafik Guitane,7091324a,frFRA,"FW,MF",Rennes,20.0,1999.0,2019-2020,FRA
+Régis Gurtner,bc270726,frFRA,GK,Amiens,32.0,1986.0,2019-2020,FRA
+Luiz Gustavo,82671804,brBRA,MF,Marseille,32.0,1987.0,2019-2020,FRA
+Romain Hamouma,0b4d8274,frFRA,"MF,FW",Saint-Étienne,32.0,1987.0,2019-2020,FRA
+Benjamin Henrichs,0a89e877,deGER,"DF,MF",Monaco,22.0,1997.0,2019-2020,FRA
+Christophe Hérelle,3681cfff,mqMTQ,DF,Nice,26.0,1992.0,2019-2020,FRA
+Ander Herrera,436a9dd0,esESP,"MF,DF",Paris Saint-Germain,29.0,1989.0,2019-2020,FRA
+Vitorino Hilton,c4bbea9f,brBRA,DF,Montpellier,41.0,1977.0,2019-2020,FRA
+Josué Homawoo,fa060e71,tgTOG,DF,Nantes,21.0,1997.0,2019-2020,FRA
+Franck Honorat,db7849ca,frFRA,MF,Saint-Étienne,22.0,1996.0,2019-2020,FRA
+Adrien Hunou,d14229f3,frFRA,"FW,MF",Rennes,25.0,1994.0,2019-2020,FRA
+Suk Hyun-jun,7ffaf233,krKOR,FW,Reims,28.0,1991.0,2019-2020,FRA
+Didier Ibrahim Ndong,885b7aa7,gaGAB,MF,Dijon,25.0,1994.0,2019-2020,FRA
+Mauro Icardi,43b78598,arARG,FW,Paris Saint-Germain,26.0,1993.0,2019-2020,FRA
+Jonathan Ikone,42eaa028,frFRA,"MF,FW",Lille,21.0,1998.0,2019-2020,FRA
+Yun Il-lok,23bf644d,krKOR,MF,Montpellier,27.0,1992.0,2019-2020,FRA
+Nicolas Isimat-Mirin,14e8e9d7,frFRA,DF,Toulouse,27.0,1991.0,2019-2020,FRA
+Christophe Jallet,46d50339,frFRA,"DF,MF",Amiens,35.0,1983.0,2019-2020,FRA
+Corentin Jean,7d9b37bf,frFRA,"FW,MF",Toulouse,24.0,1995.0,2019-2020,FRA
+Benjamin Jeannot,2e52206e,frFRA,MF,Dijon,27.0,1992.0,2019-2020,FRA
+Jemerson,7cab69b5,brBRA,"DF,MF",Monaco,26.0,1992.0,2019-2020,FRA
+Jesé,4a537185,esESP,"FW,MF",Paris Saint-Germain,26.0,1993.0,2019-2020,FRA
+Vukašin Jovanović,0eb03d5b,rsSRB,DF,Bordeaux,23.0,1996.0,2019-2020,FRA
+Stevan Jovetić,f36c432f,meMNE,"FW,MF",Monaco,29.0,1989.0,2019-2020,FRA
+Abdoul Kader Bamba,32f3d97e,frFRA,MF,Nantes,25.0,1994.0,2019-2020,FRA
+Gaël Kakuta,5b1bf5e3,cdCOD,MF,Amiens,28.0,1991.0,2019-2020,FRA
+Lovre Kalinić,3a74f92b,hrCRO,GK,Toulouse,29.0,1990.0,2019-2020,FRA
+Samuel Kalu,b8d22478,ngNGA,MF,Bordeaux,21.0,1997.0,2019-2020,FRA
+François Kamano,81d3318f,gnGUI,MF,Bordeaux,23.0,1996.0,2019-2020,FRA
+Boubacar Kamara,cc77354e,frFRA,"DF,MF",Marseille,19.0,1999.0,2019-2020,FRA
+Hassane Kamara,19a12bed,ciCIV,"DF,MF",Reims,25.0,1994.0,2019-2020,FRA
+Wilfried Kanga,b4c816a9,ciCIV,"FW,MF",Angers,21.0,1998.0,2019-2020,FRA
+Thilo Kehrer,51dbeea9,deGER,DF,Paris Saint-Germain,22.0,1996.0,2019-2020,FRA
+Jules Keita,8c955557,gnGUI,MF,Dijon,21.0,1998.0,2019-2020,FRA
+Saîf-Eddine Khaoui,796b1c41,tnTUN,"FW,MF",Marseille,24.0,1995.0,2019-2020,FRA
+Wahbi Khazri,2677a1de,tnTUN,"FW,MF",Saint-Étienne,28.0,1991.0,2019-2020,FRA
+Presnel Kimpembe,aef6e670,frFRA,DF,Paris Saint-Germain,23.0,1995.0,2019-2020,FRA
+Timothée Kolodziejczak,ab096c6f,frFRA,DF,Saint-Étienne,27.0,1991.0,2019-2020,FRA
+Ghislain Konan,6b2c894b,ciCIV,DF,Reims,23.0,1995.0,2019-2020,FRA
+Moussa Konaté,fcbcbd94,snSEN,FW,Amiens,26.0,1993.0,2019-2020,FRA
+Lamine Koné,a46472d0,ciCIV,DF,Strasbourg,30.0,1989.0,2019-2020,FRA
+Manu Koné,86574238,frFRA,MF,Toulouse,18.0,2001.0,2019-2020,FRA
+Moussa Koné,3ef68782,snSEN,FW,Nîmes,22.0,1996.0,2019-2020,FRA
+Youssouf Koné,e6eadfb8,mlMLI,"DF,MF",Lyon,24.0,1995.0,2019-2020,FRA
+Laurent Koscielny,f5efb153,frFRA,DF,Bordeaux,33.0,1985.0,2019-2020,FRA
+Efthimis Koulouris,21f8d950,grGRE,FW,Toulouse,23.0,1996.0,2019-2020,FRA
+Rene Krhin,9a506145,siSVN,"MF,DF",Nantes,29.0,1990.0,2019-2020,FRA
+Layvin Kurzawa,41e7ef1c,frFRA,DF,Paris Saint-Germain,26.0,1992.0,2019-2020,FRA
+Dereck Kutesa,1b6862e8,chSUI,"MF,FW",Reims,21.0,1997.0,2019-2020,FRA
+Enock Kwateng,4bf69118,frFRA,"DF,MF",Bordeaux,22.0,1997.0,2019-2020,FRA
+Gaëtan Laborde,7cdda3bf,frFRA,FW,Montpellier,25.0,1994.0,2019-2020,FRA
+Alban Lafont,4e7db402,ciCIV,GK,Nantes,20.0,1999.0,2019-2020,FRA
+Jack Lahne,07f73a4f,zmZAM,FW,Amiens,17.0,2001.0,2019-2020,FRA
+Kenny Lala,770d7eb8,mgMAD,"DF,MF",Strasbourg,27.0,1991.0,2019-2020,FRA
+Loïck Landre,08082af0,frFRA,DF,Nîmes,27.0,1992.0,2019-2020,FRA
+Gautier Larsonneur,b49729cb,frFRA,GK,Brest,22.0,1997.0,2019-2020,FRA
+Paul Lasne,542cc80f,frFRA,MF,Brest,30.0,1989.0,2019-2020,FRA
+Wesley Lautoa,6e5b5a45,ncNCL,"MF,DF",Dijon,31.0,1987.0,2019-2020,FRA
+Mickaël Le Bihan,d512db65,frFRA,FW,Nice,29.0,1990.0,2019-2020,FRA
+Damien Le Tallec,8f4d116f,frFRA,"MF,DF",Montpellier,29.0,1990.0,2019-2020,FRA
+James Lea Siliki,7cf431a5,cmCMR,MF,Rennes,23.0,1996.0,2019-2020,FRA
+Adrien Lebeau,ca122e29,frFRA,MF,Strasbourg,20.0,1999.0,2019-2020,FRA
+Benjamin Lecomte,2fa2a875,frFRA,GK,Monaco,28.0,1991.0,2019-2020,FRA
+Pierre Lees-Melou,f5044e54,frFRA,MF,Nice,26.0,1993.0,2019-2020,FRA
+Jordan Lefort,c3e4ecbb,frFRA,DF,Amiens,25.0,1993.0,2019-2020,FRA
+Nicolas Lemaître,586ef3a3,frFRA,GK,Reims,22.0,1997.0,2019-2020,FRA
+Donovan Léon,51c83a90,gfGUF,GK,Brest,26.0,1992.0,2019-2020,FRA
+Aaron Leya Iseka,29ef0f49,beBEL,FW,Toulouse,21.0,1997.0,2019-2020,FRA
+Dimitri Liénard,f7691f63,frFRA,MF,Strasbourg,31.0,1988.0,2019-2020,FRA
+Isaac Lihadji,57a46f3f,frFRA,FW,Marseille,17.0,2002.0,2019-2020,FRA
+Lucas Lima,0f52f925,brBRA,"MF,FW",Nantes,27.0,1991.0,2019-2020,FRA
+Anthony Limbombe,ccee698e,beBEL,MF,Nantes,25.0,1994.0,2019-2020,FRA
+Gautier Lloris,ac89503b,frFRA,DF,Nice,24.0,1995.0,2019-2020,FRA
+Enzo Loiodice,6bca20fe,frFRA,MF,Dijon,18.0,2000.0,2019-2020,FRA
+Anthony Lopes,f00de885,ptPOR,GK,Lyon,28.0,1990.0,2019-2020,FRA
+Rony Lopes,7c2965bb,ptPOR,MF,Monaco,23.0,1995.0,2019-2020,FRA
+Maxime Lopez,20094685,frFRA,"MF,FW",Marseille,21.0,1997.0,2019-2020,FRA
+Albert Lottin,934a0957,frFRA,MF,Bordeaux,17.0,2001.0,2019-2020,FRA
+Imran Louza,e1df6989,maMAR,MF,Nantes,20.0,1999.0,2019-2020,FRA
+Jean Lucas,a99138af,brBRA,MF,Lyon,21.0,1998.0,2019-2020,FRA
+Arnaud Lusamba,54131505,cdCOD,"MF,FW",Nice,22.0,1997.0,2019-2020,FRA
+Yann M'Vila,d4133fa1,frFRA,MF,Saint-Étienne,29.0,1990.0,2019-2020,FRA
+Yvann Macon,0bb6e193,frFRA,"MF,DF",Saint-Étienne,20.0,1998.0,2019-2020,FRA
+Gabriel Magalhães,67ac5bb8,brBRA,DF,Lille,21.0,1997.0,2019-2020,FRA
+Hugo Magnetti,d4d35152,frFRA,MF,Brest,21.0,1998.0,2019-2020,FRA
+Thiago Maia,91e58f66,brBRA,MF,Lille,22.0,1997.0,2019-2020,FRA
+Habib Maïga,e768de1f,ciCIV,MF,Metz,23.0,1996.0,2019-2020,FRA
+Mike Maignan,fcb38f57,frFRA,GK,Lille,24.0,1995.0,2019-2020,FRA
+Josh Maja,bc0bfc64,ngNGA,FW,Bordeaux,20.0,1998.0,2019-2020,FRA
+Abdul Majeed Waris,46907171,ghGHA,"MF,FW",Strasbourg,27.0,1991.0,2019-2020,FRA
+Jean-Victor Makengo,22bfb57e,frFRA,MF,Toulouse,21.0,1998.0,2019-2020,FRA
+Hianga Mananga Mbock,0f86995c,frFRA,MF,Brest,19.0,1999.0,2019-2020,FRA
+Vincent Manceau,c26a3918,frFRA,DF,Angers,30.0,1989.0,2019-2020,FRA
+Steve Mandanda,1d2d5cc8,frFRA,GK,Marseille,34.0,1985.0,2019-2020,FRA
+Reinildo Mandava,c20bdcd7,mzMOZ,"DF,MF",Lille,25.0,1994.0,2019-2020,FRA
+Thomas Mangani,c801616a,frFRA,MF,Angers,32.0,1987.0,2019-2020,FRA
+Myziane Maolida,706a60e1,kmCOM,"FW,MF",Nice,20.0,1999.0,2019-2020,FRA
+Faitout Maouassa,e54a9890,frFRA,DF,Rennes,21.0,1998.0,2019-2020,FRA
+Fernando Marçal,9ae9eaea,brBRA,DF,Lyon,30.0,1989.0,2019-2020,FRA
+Marcelo,e3d0b0c4,brBRA,DF,Lyon,32.0,1987.0,2019-2020,FRA
+Dario Maresic,5d93ccee,atAUT,DF,Reims,19.0,1999.0,2019-2020,FRA
+Jordan Marié,0d2158d5,frFRA,MF,Dijon,27.0,1991.0,2019-2020,FRA
+Guillermo Maripán,d9764034,clCHI,DF,Monaco,25.0,1994.0,2019-2020,FRA
+Marquinhos,d5f2f82b,brBRA,"MF,DF",Paris Saint-Germain,25.0,1994.0,2019-2020,FRA
+Jonas Martin,468fdbad,frFRA,MF,Rennes,29.0,1990.0,2019-2020,FRA
+Jonas Martin,468fdbad,frFRA,MF,Strasbourg,29.0,1990.0,2019-2020,FRA
+Pablo Martinez,1ad8cb67,frFRA,DF,Nîmes,30.0,1989.0,2019-2020,FRA
+Gelson Martins,3ef0fa48,ptPOR,"MF,FW",Monaco,24.0,1995.0,2019-2020,FRA
+Stephy Mavididi,30144daa,engENG,"MF,FW",Dijon,21.0,1998.0,2019-2020,FRA
+Eric Maxim Choupo-Moting,0e6bc38c,cmCMR,"FW,MF",Paris Saint-Germain,30.0,1989.0,2019-2020,FRA
+Kévin Mayi,6a26e528,gaGAB,"FW,MF",Brest,26.0,1993.0,2019-2020,FRA
+Kylian Mbappé,42fd9c7f,frFRA,FW,Paris Saint-Germain,20.0,1998.0,2019-2020,FRA
+Loïc Mbe Soh,8f534f8e,frFRA,DF,Paris Saint-Germain,18.0,2001.0,2019-2020,FRA
+Isaac Mbenza,aa1a8c7e,beBEL,MF,Amiens,23.0,1996.0,2019-2020,FRA
+Nathanael Mbuku,46750e9c,cdCOD,"MF,FW",Reims,17.0,2002.0,2019-2020,FRA
+Farid El Melali,d21e361a,dzALG,MF,Angers,22.0,1997.0,2019-2020,FRA
+Memphis,8f696594,nlNED,"FW,MF",Lyon,25.0,1994.0,2019-2020,FRA
+Pedro Mendes,6690ef25,ptPOR,DF,Montpellier,28.0,1990.0,2019-2020,FRA
+Thiago Mendes,c6e5d20f,brBRA,MF,Lyon,27.0,1992.0,2019-2020,FRA
+Stiven Mendoza,e68f2cb4,coCOL,MF,Amiens,27.0,1992.0,2019-2020,FRA
+Alexandre Mendy,e067808c,gwGNB,FW,Brest,25.0,1994.0,2019-2020,FRA
+Edouard Mendy,33887998,snSEN,GK,Rennes,27.0,1992.0,2019-2020,FRA
+Hamza Mendyl,f99fe221,maMAR,DF,Dijon,21.0,1997.0,2019-2020,FRA
+Thomas Meunier,e162b013,beBEL,DF,Paris Saint-Germain,27.0,1991.0,2019-2020,FRA
+Mexer,ce492295,mzMOZ,DF,Bordeaux,30.0,1988.0,2019-2020,FRA
+Florian Miguel,b66d1d8a,frFRA,DF,Nîmes,22.0,1996.0,2019-2020,FRA
+Georges Mikautadze,4788cb6b,geGEO,FW,Metz,18.0,2000.0,2019-2020,FRA
+Stefan Mitrović,e6777e6b,rsSRB,DF,Strasbourg,29.0,1990.0,2019-2020,FRA
+Florent Mollet,7e82a78f,frFRA,"MF,FW",Montpellier,27.0,1991.0,2019-2020,FRA
+Thomas Monconduit,84d94b91,frFRA,MF,Amiens,28.0,1991.0,2019-2020,FRA
+Steven Moreira,f10983ae,cvCPV,DF,Toulouse,24.0,1994.0,2019-2020,FRA
+Jérémy Morel,e97150c0,mgMAD,DF,Rennes,35.0,1984.0,2019-2020,FRA
+Lebo Mothiba,3eaf8817,zaRSA,FW,Strasbourg,23.0,1996.0,2019-2020,FRA
+Harold Moukoudi,5f26e0c5,cmCMR,DF,Saint-Étienne,21.0,1997.0,2019-2020,FRA
+Jessy Moulin,28a65a2c,frFRA,GK,Saint-Étienne,33.0,1986.0,2019-2020,FRA
+Wesley Moustache,4c93a97f,frFRA,DF,Nantes,20.0,1999.0,2019-2020,FRA
+Samuel Moutoussamy,af0c835b,cdCOD,"DF,MF",Nantes,22.0,1996.0,2019-2020,FRA
+Marshall Munetsi,2acf0cd7,zwZIM,MF,Reims,23.0,1996.0,2019-2020,FRA
+Kévin N'Doram,e50623a0,frFRA,MF,Metz,23.0,1996.0,2019-2020,FRA
+Abdallah N'dour,4749367a,snSEN,"MF,DF",Strasbourg,25.0,1993.0,2019-2020,FRA
+Ferris N'Goma,2b3d9aad,frFRA,"FW,MF",Brest,26.0,1993.0,2019-2020,FRA
+Nathan N'Goumou,e110ea4b,cmCMR,"FW,MF",Toulouse,19.0,2000.0,2019-2020,FRA
+Stanley N'Soki,61590953,frFRA,DF,Nice,20.0,1999.0,2019-2020,FRA
+Keylor Navas,ecada4fc,crCRC,GK,Paris Saint-Germain,32.0,1986.0,2019-2020,FRA
+Papa Ndiaga Yade,87e9c7cd,mrMTN,MF,Metz,19.0,2000.0,2019-2020,FRA
+Neymar,69384e5d,brBRA,"MF,FW",Paris Saint-Germain,27.0,1992.0,2019-2020,FRA
+Muzinga Ngonda,b748968d,cdCOD,"DF,MF",Dijon,24.0,1994.0,2019-2020,FRA
+Ahmad Ngouyamsa,8413ceb1,tdCHA,"DF,MF",Dijon,18.0,2000.0,2019-2020,FRA
+Opa Nguette,75a63397,snSEN,FW,Metz,25.0,1994.0,2019-2020,FRA
+Ibrahima Niane,46faabfa,snSEN,FW,Metz,20.0,1999.0,2019-2020,FRA
+M'Baye Niang,2054d037,snSEN,FW,Rennes,24.0,1994.0,2019-2020,FRA
+Tanguy Nianzou,5853ac44,frFRA,"DF,MF",Paris Saint-Germain,17.0,2002.0,2019-2020,FRA
+Cheikh Niasse,ff20acfe,snSEN,MF,Lille,19.0,2000.0,2019-2020,FRA
+Casimir Ninga,91f2da4c,tdCHA,"MF,FW",Angers,26.0,1993.0,2019-2020,FRA
+Timothée Nkada,80d1adb3,frFRA,FW,Reims,20.0,1999.0,2019-2020,FRA
+Arnaud Nordin,7b9a9e25,frFRA,"MF,FW",Saint-Étienne,21.0,1998.0,2019-2020,FRA
+Gerzino Nyamsi,6043997c,cmCMR,DF,Rennes,22.0,1997.0,2019-2020,FRA
+Steven Nzonzi,c7526c18,frFRA,MF,Rennes,30.0,1988.0,2019-2020,FRA
+Jean Onana,b5bb8188,cmCMR,MF,Lille,19.0,2000.0,2019-2020,FRA
+Henry Onyekuru,e90dc1d5,ngNGA,MF,Monaco,22.0,1997.0,2019-2020,FRA
+Nicholas Opoku,b871bf55,ghGHA,DF,Amiens,21.0,1997.0,2019-2020,FRA
+Victor Osimhen,8c90fd7a,ngNGA,FW,Lille,20.0,1998.0,2019-2020,FRA
+Otávio,243f4a0b,brBRA,MF,Bordeaux,25.0,1994.0,2019-2020,FRA
+Abou Ouattara,6578600f,bfBFA,MF,Lille,19.0,1999.0,2019-2020,FRA
+Remi Oudin,ea02beaf,frFRA,MF,Bordeaux,22.0,1996.0,2019-2020,FRA
+Remi Oudin,ea02beaf,frFRA,"MF,FW",Reims,22.0,1996.0,2019-2020,FRA
+Alexandre Oukidja,ae7d0ecd,dzALG,GK,Metz,31.0,1988.0,2019-2020,FRA
+Zinédine Ould Khaled,6b4436ba,frFRA,MF,Angers,19.0,2000.0,2019-2020,FRA
+Adam Ounas,ed90babd,dzALG,"MF,FW",Nice,22.0,1996.0,2019-2020,FRA
+Ambroise Oyongo,e3e05edf,cmCMR,MF,Montpellier,28.0,1991.0,2019-2020,FRA
+Pablo,29d8ad3f,brBRA,DF,Bordeaux,28.0,1991.0,2019-2020,FRA
+Vincent Pajot,f86ca403,frFRA,MF,Angers,28.0,1990.0,2019-2020,FRA
+Vincent Pajot,f86ca403,frFRA,MF,Metz,28.0,1990.0,2019-2020,FRA
+Sergi Palencia,19f8e480,esESP,"MF,DF",Saint-Étienne,23.0,1996.0,2019-2020,FRA
+Nicolas Pallois,779847d6,frFRA,DF,Nantes,31.0,1987.0,2019-2020,FRA
+Jonathan Panzo,c795c408,engENG,DF,Monaco,18.0,2000.0,2019-2020,FRA
+Gaëtan Paquiez,475583ff,frFRA,"DF,MF",Nîmes,25.0,1994.0,2019-2020,FRA
+Rubén Pardo,2306bfde,esESP,MF,Bordeaux,26.0,1992.0,2019-2020,FRA
+Leandro Paredes,dff153a4,arARG,MF,Paris Saint-Germain,25.0,1994.0,2019-2020,FRA
+Mateo Pavlović,450e277f,baBIH,DF,Angers,29.0,1990.0,2019-2020,FRA
+Dimitri Payet,58ae47b2,frFRA,"FW,MF",Marseille,32.0,1987.0,2019-2020,FRA
+Jordan Pefok,b684a484,usUSA,FW,Rennes,23.0,1996.0,2019-2020,FRA
+Yohann Pelé,76806215,frFRA,GK,Marseille,36.0,1982.0,2019-2020,FRA
+Théo Pellenard,97fb4608,frFRA,DF,Angers,25.0,1994.0,2019-2020,FRA
+Andy Pelmard,f18d7ab2,mgMAD,DF,Nice,19.0,2000.0,2019-2020,FRA
+Mathias Pereira Lage,8846a40f,ptPOR,MF,Angers,22.0,1996.0,2019-2020,FRA
+Romain Perraud,6dfd8f05,frFRA,DF,Brest,21.0,1997.0,2019-2020,FRA
+Loïc Perrin,6b200d45,frFRA,DF,Saint-Étienne,33.0,1985.0,2019-2020,FRA
+Lucas Perrin,49070d66,frFRA,DF,Marseille,20.0,1998.0,2019-2020,FRA
+Danijel Petković,b98cea65,meMNE,GK,Angers,26.0,1993.0,2019-2020,FRA
+Denis Petrić,dab1b8dc,rsSRB,GK,Nantes,31.0,1988.0,2019-2020,FRA
+Rayan Philippe,a046fc35,frFRA,FW,Dijon,18.0,2000.0,2019-2020,FRA
+Romain Philippoteaux,f98b15f0,frFRA,"MF,FW",Nîmes,31.0,1988.0,2019-2020,FRA
+Jérémy Pied,a634b9d2,frFRA,DF,Lille,30.0,1989.0,2019-2020,FRA
+Maxime Poundjé,b92edde2,frFRA,DF,Bordeaux,26.0,1992.0,2019-2020,FRA
+Percy Prado,9bb0b9f1,pePER,DF,Nantes,23.0,1996.0,2019-2020,FRA
+Sanjin Prcić,51c30111,baBIH,MF,Strasbourg,25.0,1993.0,2019-2020,FRA
+Nicolas de Préville,b0547a87,frFRA,MF,Bordeaux,28.0,1991.0,2019-2020,FRA
+Nemanja Radonjić,0630eb63,rsSRB,"FW,MF",Marseille,23.0,1996.0,2019-2020,FRA
+Rafael,9a1f2e1c,brBRA,"DF,MF",Lyon,29.0,1990.0,2019-2020,FRA
+Predrag Rajković,58ad9383,rsSRB,GK,Reims,23.0,1995.0,2019-2020,FRA
+Raphinha,3423f250,brBRA,"MF,FW",Rennes,22.0,1996.0,2019-2020,FRA
+Jeff Reine-Adélaïde,d504b3e1,frFRA,MF,Angers,21.0,1998.0,2019-2020,FRA
+Jeff Reine-Adélaïde,d504b3e1,frFRA,MF,Lyon,21.0,1998.0,2019-2020,FRA
+Loïc Rémy,5c2da10f,frFRA,FW,Lille,32.0,1987.0,2019-2020,FRA
+Baptiste Reynet,bcf1b2e9,frFRA,GK,Toulouse,28.0,1990.0,2019-2020,FRA
+Sergio Rico,5f0241b2,esESP,GK,Paris Saint-Germain,25.0,1993.0,2019-2020,FRA
+Renaud Ripart,beae3a73,frFRA,"FW,MF",Nîmes,26.0,1993.0,2019-2020,FRA
+Mihailo Ristić,ea0aa7e0,rsSRB,MF,Montpellier,23.0,1995.0,2019-2020,FRA
+Maxence Rivera,46a7b605,frFRA,MF,Saint-Étienne,17.0,2002.0,2019-2020,FRA
+Agustín Rogel,ea42c03f,uyURU,DF,Toulouse,21.0,1997.0,2019-2020,FRA
+Alaixys Romao,0aa874f4,tgTOG,MF,Reims,35.0,1984.0,2019-2020,FRA
+Valentin Rongier,ed45c4a5,frFRA,MF,Marseille,24.0,1994.0,2019-2020,FRA
+Valentin Rongier,ed45c4a5,frFRA,MF,Nantes,24.0,1994.0,2019-2020,FRA
+Nolan Roux,3071a619,frFRA,FW,Nîmes,31.0,1988.0,2019-2020,FRA
+Stéphane Ruffier,cac76a72,frFRA,GK,Saint-Étienne,32.0,1986.0,2019-2020,FRA
+Gerónimo Rulli,625c144a,arARG,GK,Montpellier,27.0,1992.0,2019-2020,FRA
+Roli Pereira de Sa,60f58477,frFRA,MF,Nantes,22.0,1996.0,2019-2020,FRA
+Youssouf Sabaly,fbbb9269,snSEN,"DF,MF",Bordeaux,26.0,1993.0,2019-2020,FRA
+Ihsan Sacko,68a87d66,frFRA,FW,Nice,22.0,1997.0,2019-2020,FRA
+Wesley Saïd,90fcf472,frFRA,"MF,FW",Toulouse,24.0,1995.0,2019-2020,FRA
+Théo Sainte-Luce,93c942fb,frFRA,DF,Nîmes,20.0,1998.0,2019-2020,FRA
+Hiroki Sakai,d63e2912,jpJPN,DF,Marseille,29.0,1990.0,2019-2020,FRA
+William Saliba,972aeb2a,frFRA,DF,Saint-Étienne,18.0,2001.0,2019-2020,FRA
+Romain Salin,74733221,frFRA,GK,Rennes,35.0,1984.0,2019-2020,FRA
+Mama Samba Baldé,fb14aa28,gwGNB,"MF,FW",Dijon,23.0,1995.0,2019-2020,FRA
+Junior Sambia,24eb7ed6,frFRA,"MF,DF",Montpellier,22.0,1996.0,2019-2020,FRA
+Frédéric Sammaritano,8802c1d5,frFRA,"MF,FW",Dijon,33.0,1986.0,2019-2020,FRA
+Renato Sanches,032f894e,ptPOR,MF,Lille,21.0,1997.0,2019-2020,FRA
+Ibrahim Sangaré,bced0375,ciCIV,MF,Toulouse,21.0,1997.0,2019-2020,FRA
+Yaya Sanogo,11ced928,frFRA,FW,Toulouse,26.0,1993.0,2019-2020,FRA
+Morgan Sanson,6e7f1353,frFRA,MF,Marseille,24.0,1994.0,2019-2020,FRA
+Baptiste Santamaria,5e22e2a4,frFRA,MF,Angers,24.0,1995.0,2019-2020,FRA
+Pablo Sarabia,9744ff80,esESP,"FW,MF",Paris Saint-Germain,27.0,1992.0,2019-2020,FRA
+Bouna Sarr,1a4b9094,snSEN,"DF,FW",Marseille,27.0,1992.0,2019-2020,FRA
+Malang Sarr,4315f30d,frFRA,DF,Nice,20.0,1999.0,2019-2020,FRA
+Sidy Sarr,a0b65401,snSEN,MF,Nîmes,23.0,1996.0,2019-2020,FRA
+Téji Savanier,6bde367b,frFRA,MF,Montpellier,27.0,1991.0,2019-2020,FRA
+Matz Sels,834b5c4c,beBEL,GK,Strasbourg,27.0,1992.0,2019-2020,FRA
+Gen Shoji,8b28686a,jpJPN,DF,Toulouse,26.0,1992.0,2019-2020,FRA
+Kalidou Sidibé,ea540835,mlMLI,"DF,MF",Toulouse,20.0,1999.0,2019-2020,FRA
+Kaj Sierhuis,9c2b1f11,nlNED,FW,Reims,21.0,1998.0,2019-2020,FRA
+Adrien Silva,d6f88a1d,ptPOR,MF,Monaco,30.0,1989.0,2019-2020,FRA
+Gabriel Silva,4914ed4a,brBRA,"DF,MF",Saint-Étienne,28.0,1991.0,2019-2020,FRA
+Matheus Pereira da Silva,bef22bc4,brBRA,"MF,FW",Dijon,21.0,1998.0,2019-2020,FRA
+Thiago Silva,86e7deaf,brBRA,DF,Paris Saint-Germain,34.0,1984.0,2019-2020,FRA
+Mohamed Simakan,fcb27134,frFRA,"DF,MF",Strasbourg,19.0,2000.0,2019-2020,FRA
+Moses Simon,5f3eaaf5,ngNGA,"MF,FW",Nantes,24.0,1995.0,2019-2020,FRA
+Ibrahima Sissoko,0f8418aa,mlMLI,MF,Strasbourg,21.0,1997.0,2019-2020,FRA
+Sambou Sissoko,e4bb1f08,frFRA,MF,Reims,20.0,1999.0,2019-2020,FRA
+Petar Škuletić,d9a66c60,rsSRB,FW,Montpellier,29.0,1990.0,2019-2020,FRA
+Islam Slimani,ffec9769,dzALG,FW,Monaco,31.0,1988.0,2019-2020,FRA
+Oumar Solet,0670ee51,frFRA,DF,Lyon,19.0,2000.0,2019-2020,FRA
+Adama Soumaoro,7b075c75,frFRA,DF,Lille,27.0,1992.0,2019-2020,FRA
+Boubakary Soumaré,ae59b359,frFRA,MF,Lille,20.0,1999.0,2019-2020,FRA
+Bryan Soumaré,85e2d218,frFRA,MF,Dijon,20.0,1999.0,2019-2020,FRA
+Arnaud Souquet,4e0afc5d,frFRA,MF,Montpellier,27.0,1992.0,2019-2020,FRA
+Bassem Srarfi,84549a07,tnTUN,FW,Nice,22.0,1997.0,2019-2020,FRA
+Vlatko Stojanovski,bb67bff1,mkMKD,FW,Nîmes,22.0,1997.0,2019-2020,FRA
+Kevin Strootman,ef2e5e1a,nlNED,MF,Marseille,29.0,1990.0,2019-2020,FRA
+Mathías Suárez,0c291a1a,uyURU,MF,Montpellier,23.0,1996.0,2019-2020,FRA
+Stoppila Sunzu,1bab7b66,zmZAM,DF,Metz,30.0,1989.0,2019-2020,FRA
+Issiaga Sylla,b99bec05,gnGUI,DF,Toulouse,25.0,1994.0,2019-2020,FRA
+Moussa Sylla,d8b97bb3,mlMLI,"FW,MF",Monaco,19.0,1999.0,2019-2020,FRA
+Eddy Sylvestre,ff3a6a60,frFRA,MF,Nice,19.0,1999.0,2019-2020,FRA
+Flavien Tait,a0f9b535,frFRA,"MF,FW",Rennes,26.0,1993.0,2019-2020,FRA
+Madih Talal,814ac171,frFRA,MF,Amiens,21.0,1997.0,2019-2020,FRA
+Adrien Tameze,8da74c05,cmCMR,MF,Nice,25.0,1994.0,2019-2020,FRA
+Adil Taoui,53e585f2,frFRA,FW,Toulouse,17.0,2001.0,2019-2020,FRA
+Ciprian Tătărușanu,b056e3da,roROU,GK,Lyon,33.0,1986.0,2019-2020,FRA
+Júlio Tavares,d520120b,cvCPV,FW,Dijon,30.0,1988.0,2019-2020,FRA
+Aurélien Tchouaméni,4f255115,frFRA,MF,Bordeaux,19.0,2000.0,2019-2020,FRA
+Aurélien Tchouaméni,4f255115,frFRA,"DF,MF",Monaco,19.0,2000.0,2019-2020,FRA
+Martin Terrier,5148dcc5,frFRA,"FW,MF",Lyon,22.0,1997.0,2019-2020,FRA
+Kenny Tete,77d7c96f,nlNED,DF,Lyon,23.0,1995.0,2019-2020,FRA
+Florian Thauvin,2b9fdeea,frFRA,"FW,MF",Marseille,26.0,1993.0,2019-2020,FRA
+Sada Thioub,f4bc42b1,snSEN,"MF,FW",Angers,24.0,1995.0,2019-2020,FRA
+Romain Thomas,275e2c51,frFRA,DF,Angers,31.0,1988.0,2019-2020,FRA
+Adrien Thomasson,c76b7567,frFRA,"FW,MF",Strasbourg,25.0,1993.0,2019-2020,FRA
+Khéphren Thuram,7d9397f8,frFRA,MF,Nice,18.0,2001.0,2019-2020,FRA
+Cheick Timite,2c92d3c0,ciCIV,MF,Amiens,21.0,1997.0,2019-2020,FRA
+Karl Toko Ekambi,5ceba7fc,cmCMR,FW,Lyon,26.0,1992.0,2019-2020,FRA
+Abdoulaye Touré,ef7cd87a,gnGUI,MF,Nantes,25.0,1994.0,2019-2020,FRA
+Lucas Tousart,71ec39ef,frFRA,MF,Lyon,22.0,1997.0,2019-2020,FRA
+Adama Traoré,1a6f2a66,mlMLI,"FW,MF",Metz,24.0,1995.0,2019-2020,FRA
+Adama Traoré,1a6f2a66,mlMLI,"FW,MF",Monaco,24.0,1995.0,2019-2020,FRA
+Bertrand Traoré,c47541e0,bfBFA,"FW,MF",Lyon,23.0,1995.0,2019-2020,FRA
+Charles Traore,de488e56,mlMLI,DF,Nantes,27.0,1992.0,2019-2020,FRA
+Hamari Traoré,a4b1028a,mlMLI,DF,Rennes,27.0,1992.0,2019-2020,FRA
+Ismaël Traoré,b666421b,ciCIV,DF,Angers,32.0,1986.0,2019-2020,FRA
+Miguel Trauco,e4b72e34,pePER,"DF,MF",Saint-Étienne,26.0,1992.0,2019-2020,FRA
+Matthieu Udol,cc41f558,frFRA,DF,Metz,23.0,1996.0,2019-2020,FRA
+Hwang Ui-jo,a2d873dd,krKOR,"MF,FW",Bordeaux,26.0,1992.0,2019-2020,FRA
+William Vainqueur,92cd4bef,frFRA,MF,Toulouse,30.0,1988.0,2019-2020,FRA
+Pierrick Valdivia,e562a02e,frFRA,MF,Nîmes,31.0,1988.0,2019-2020,FRA
+Antoine Valerio,95981861,frFRA,MF,Nîmes,19.0,1999.0,2019-2020,FRA
+Luca Valls,254c927d,frFRA,MF,Nîmes,20.0,1998.0,2019-2020,FRA
+Theo Valls,c8090cb3,frFRA,MF,Nîmes,23.0,1995.0,2019-2020,FRA
+Thibaut Vargas,e9743d8a,frFRA,MF,Montpellier,19.0,2000.0,2019-2020,FRA
+Marco Verratti,1467af0d,itITA,MF,Paris Saint-Germain,26.0,1992.0,2019-2020,FRA
+Clément Vidal,b2791a55,frFRA,DF,Montpellier,19.0,2000.0,2019-2020,FRA
+Molla Wagué,a440d8ca,mlMLI,DF,Nantes,28.0,1991.0,2019-2020,FRA
+Moussa Wagué,808df563,snSEN,MF,Nice,20.0,1998.0,2019-2020,FRA
+Rémi Walter,0984c5d5,frFRA,MF,Nice,24.0,1995.0,2019-2020,FRA
+Timothy Weah,8eec784d,usUSA,MF,Lille,19.0,2000.0,2019-2020,FRA
+Xeka,f3600c02,ptPOR,MF,Lille,24.0,1994.0,2019-2020,FRA
+Yusuf Yazıcı,f5c8b425,trTUR,"MF,FW",Lille,22.0,1997.0,2019-2020,FRA
+Elie Youan,698b37b8,frFRA,FW,Nantes,20.0,1999.0,2019-2020,FRA
+Zaydou Youssouf,e2f9bb5f,kmCOM,MF,Saint-Étienne,20.0,1999.0,2019-2020,FRA
+Arthur Zagre,3225654e,frFRA,DF,Paris Saint-Germain,17.0,2001.0,2019-2020,FRA
+Mootaz Zemzemi,242b350c,tnTUN,MF,Strasbourg,19.0,1999.0,2019-2020,FRA
+Arber Zeneli,095e4199,xkKVX,"FW,MF",Reims,24.0,1995.0,2019-2020,FRA
+Kévin Zohi,775185ae,mlMLI,"MF,FW",Strasbourg,22.0,1996.0,2019-2020,FRA
+Bongani Zungu,a8797cf1,zaRSA,MF,Amiens,26.0,1992.0,2019-2020,FRA

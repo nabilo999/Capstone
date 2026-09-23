@@ -1,0 +1,2772 @@
+player,player_id,nationality,position,squad,age,birth_year,season,league
+Aymen Abdennour,2f798b41,tnTUN,DF,Valencia,25.0,1989.0,2015-2016,ESP
+Antonio Adán,65d62814,esESP,GK,Real Betis,28.0,1987.0,2015-2016,ESP
+Adriano,9d8586c4,brBRA,DF,Barcelona,30.0,1984.0,2015-2016,ESP
+Aritz Aduriz,293211e1,esESP,FW,Athletic Club,34.0,1981.0,2015-2016,ESP
+Imanol Agirretxe,c84c1afc,esESP,FW,Real Sociedad,28.0,1987.0,2015-2016,ESP
+Rachid Aït-Atmane,539b773e,dzALG,MF,Sporting Gijón,22.0,1993.0,2015-2016,ESP
+Ager Aketxe,c5eaff5c,esESP,MF,Athletic Club,21.0,1993.0,2015-2016,ESP
+Jordi Alba,4601e194,esESP,DF,Barcelona,26.0,1989.0,2015-2016,ESP
+Raúl Albentosa,348e4809,esESP,DF,Málaga,26.0,1988.0,2015-2016,ESP
+Luis Alberto,5294a83f,esESP,"MF,FW",Dep La Coruña,22.0,1992.0,2015-2016,ESP
+Paco Alcácer,a7a9d95a,esESP,FW,Valencia,21.0,1993.0,2015-2016,ESP
+Antolín Alcaraz,cee38e27,pyPAR,DF,Las Palmas,33.0,1982.0,2015-2016,ESP
+Nauzet Alemán,4cf8242b,esESP,MF,Las Palmas,30.0,1985.0,2015-2016,ESP
+Diego Alende,9af88279,esESP,DF,Celta Vigo,17.0,1997.0,2015-2016,ESP
+Alexis,db0cd1ae,esESP,DF,Getafe,29.0,1985.0,2015-2016,ESP
+Sergio Álvarez,88d91621,esESP,MF,Sporting Gijón,23.0,1992.0,2015-2016,ESP
+Sergio Álvarez,8875b8c9,esESP,GK,Celta Vigo,28.0,1986.0,2015-2016,ESP
+Víctor Álvarez,563f3469,esESP,"MF,DF",Espanyol,22.0,1993.0,2015-2016,ESP
+Dani Alves,c9e99e49,brBRA,DF,Barcelona,32.0,1983.0,2015-2016,ESP
+Diego Alves,12421a7c,brBRA,GK,Valencia,30.0,1985.0,2015-2016,ESP
+Antonio Amaya,cfe5ba41,esESP,DF,Rayo Vallecano,32.0,1983.0,2015-2016,ESP
+Nordin Amrabat,7c2a398c,maMAR,"MF,FW",Málaga,28.0,1987.0,2015-2016,ESP
+Marco Andreolli,13d820de,itITA,DF,Sevilla,29.0,1986.0,2015-2016,ESP
+José Ángel Crespo,8ec4c2f7,esESP,DF,Rayo Vallecano,28.0,1987.0,2015-2016,ESP
+Miguel Ángel Guerrero,b35db3f6,esESP,FW,Sporting Gijón,25.0,1990.0,2015-2016,ESP
+Miguel Ángel,cb6766fa,esESP,DF,Getafe,19.0,1996.0,2015-2016,ESP
+Marcos Angeleri,f1c9c320,arARG,DF,Málaga,32.0,1983.0,2015-2016,ESP
+Ion Ansotegi,72b26e8e,esESP,DF,Eibar,33.0,1982.0,2015-2016,ESP
+José Antonio Reyes,19058f02,esESP,MF,Sevilla,31.0,1983.0,2015-2016,ESP
+Youssef El-Arabi,c63f6e46,maMAR,FW,Granada,28.0,1987.0,2015-2016,ESP
+Sergio Araujo,080ac8d8,arARG,FW,Las Palmas,23.0,1992.0,2015-2016,ESP
+Álvaro Arbeloa,6dc73abd,esESP,DF,Real Madrid,32.0,1983.0,2015-2016,ESP
+Anaitz Arbilla,850c0a0d,esESP,DF,Espanyol,28.0,1987.0,2015-2016,ESP
+Alphonse Areola,2f965a72,frFRA,GK,Villarreal,22.0,1993.0,2015-2016,ESP
+Giedrius Arlauskis,1858bbf7,ltLTU,GK,Espanyol,27.0,1987.0,2015-2016,ESP
+Alejandro Arribas,cc29324e,esESP,DF,Dep La Coruña,26.0,1989.0,2015-2016,ESP
+Mikel Arruabarrena,ad0c4ebb,esESP,FW,Eibar,32.0,1983.0,2015-2016,ESP
+Aythami Artiles,01ae64cd,esESP,DF,Las Palmas,29.0,1986.0,2015-2016,ESP
+Sergio Asenjo,9f0ea33f,esESP,GK,Villarreal,26.0,1989.0,2015-2016,ESP
+Marco Asensio,45af8a54,esESP,"MF,FW",Espanyol,19.0,1996.0,2015-2016,ESP
+Iago Aspas,7dcf86f6,esESP,"FW,MF",Celta Vigo,27.0,1987.0,2015-2016,ESP
+Christian Atsu,8816329f,ghGHA,MF,Málaga,23.0,1992.0,2015-2016,ESP
+Jean-Sylvain Babin,ba998e22,mqMTQ,DF,Granada,28.0,1986.0,2015-2016,ESP
+Raúl Baena,df9c9276,esESP,MF,Rayo Vallecano,26.0,1989.0,2015-2016,ESP
+Eric Bailly,a1232f4e,ciCIV,DF,Villarreal,21.0,1994.0,2015-2016,ESP
+Cédric Bakambu,0af4dcf0,cdCOD,FW,Villarreal,24.0,1991.0,2015-2016,ESP
+Zakaria Bakkali,ec3efd7f,beBEL,"MF,FW",Valencia,19.0,1996.0,2015-2016,ESP
+Gareth Bale,a58bb1e1,wlsWAL,"FW,MF",Real Madrid,26.0,1989.0,2015-2016,ESP
+Mikel Balenziaga,1fe67e86,esESP,DF,Athletic Club,27.0,1988.0,2015-2016,ESP
+Éver Banega,fa937f7a,arARG,MF,Sevilla,27.0,1988.0,2015-2016,ESP
+Lass Bangoura,740f39d4,gnGUI,MF,Rayo Vallecano,23.0,1992.0,2015-2016,ESP
+Léo Baptistão,35f6db55,brBRA,FW,Villarreal,22.0,1992.0,2015-2016,ESP
+Danilo Barbosa,0557ff4f,brBRA,MF,Valencia,19.0,1996.0,2015-2016,ESP
+Mariano Barbosa,aad4f74f,arARG,GK,Villarreal,31.0,1984.0,2015-2016,ESP
+Antonio Barragán,487d9b09,esESP,DF,Valencia,28.0,1987.0,2015-2016,ESP
+David Barral,d99f9282,esESP,FW,Granada,32.0,1983.0,2015-2016,ESP
+Iñigo Barrenetxea,f08e1c7a,esESP,MF,Eibar,21.0,1994.0,2015-2016,ESP
+Álex Barrera,59533f80,esESP,MF,Sporting Gijón,24.0,1991.0,2015-2016,ESP
+Marc Bartra,b742cc0d,esESP,DF,Barcelona,24.0,1991.0,2015-2016,ESP
+Borja Bastón,8c44e37b,esESP,FW,Eibar,22.0,1992.0,2015-2016,ESP
+Jon Bautista,debc6b55,esESP,FW,Real Sociedad,20.0,1995.0,2015-2016,ESP
+Claudio Beauvue,8ca253a3,gpGLP,"MF,FW",Celta Vigo,27.0,1988.0,2015-2016,ESP
+Bebé,d8712bf9,cvCPV,MF,Rayo Vallecano,25.0,1990.0,2015-2016,ESP
+Karim Benzema,70d74ece,frFRA,FW,Real Madrid,27.0,1987.0,2015-2016,ESP
+Yuri Berchiche,b6e50615,esESP,DF,Real Sociedad,25.0,1990.0,2015-2016,ESP
+Álex Bergantiños,65ea8868,esESP,MF,Dep La Coruña,30.0,1985.0,2015-2016,ESP
+Markel Bergara,04a65a8f,esESP,MF,Real Sociedad,29.0,1986.0,2015-2016,ESP
+Saúl Berjón,59e3e14b,esESP,MF,Eibar,29.0,1986.0,2015-2016,ESP
+Beto,3b4941e4,ptPOR,GK,Sevilla,33.0,1982.0,2015-2016,ESP
+Thievy Bifouma,5978dc3c,cgCGO,"FW,MF",Granada,23.0,1992.0,2015-2016,ESP
+Pedro Bigas,697295b1,esESP,DF,Las Palmas,24.0,1990.0,2015-2016,ESP
+Cristiano Biraghi,9e1577aa,itITA,DF,Granada,22.0,1992.0,2015-2016,ESP
+Rubén Blanco,967f34d3,esESP,GK,Celta Vigo,20.0,1995.0,2015-2016,ESP
+Arthur Boka,3abb0642,ciCIV,DF,Málaga,32.0,1983.0,2015-2016,ESP
+Daniele Bonera,13b0c150,itITA,DF,Villarreal,34.0,1981.0,2015-2016,ESP
+Theo Bongonda,0da6a13e,cdCOD,"MF,FW",Celta Vigo,19.0,1995.0,2015-2016,ESP
+Celso Borges,b8836910,crCRC,MF,Dep La Coruña,27.0,1988.0,2015-2016,ESP
+Eneko Bóveda,1771f2c1,esESP,DF,Athletic Club,26.0,1988.0,2015-2016,ESP
+Claudio Bravo,10072610,clCHI,GK,Barcelona,32.0,1983.0,2015-2016,ESP
+Bruma,5caa62a7,ptPOR,"MF,FW",Real Sociedad,20.0,1994.0,2015-2016,ESP
+Emi Buendía,66b76d44,arARG,"MF,DF",Getafe,18.0,1996.0,2015-2016,ESP
+Burgui,45e304c8,esESP,"MF,FW",Espanyol,21.0,1993.0,2015-2016,ESP
+Sergio Busquets,5ab0ea87,esESP,MF,Barcelona,27.0,1988.0,2015-2016,ESP
+Gustavo Cabral,92b4a127,arARG,DF,Celta Vigo,29.0,1985.0,2015-2016,ESP
+Felipe Caicedo,93b891d1,ecECU,FW,Espanyol,26.0,1988.0,2015-2016,ESP
+Cala,fe05804b,esESP,DF,Getafe,25.0,1989.0,2015-2016,ESP
+Ignacio Camacho,8ed9b33a,esESP,MF,Málaga,25.0,1990.0,2015-2016,ESP
+Víctor Camarasa,b2d03887,esESP,MF,Levante,21.0,1994.0,2015-2016,ESP
+Sergio Canales,a6de370d,esESP,"MF,FW",Real Sociedad,24.0,1991.0,2015-2016,ESP
+José Cañas,ab77f2d9,esESP,MF,Espanyol,28.0,1987.0,2015-2016,ESP
+João Cancelo,bd6351cd,ptPOR,"DF,FW",Valencia,21.0,1994.0,2015-2016,ESP
+Roberto Canella,18c74b8d,esESP,DF,Sporting Gijón,27.0,1988.0,2015-2016,ESP
+Cani,b493db11,esESP,MF,Dep La Coruña,33.0,1981.0,2015-2016,ESP
+Ander Capa,37f1cf47,esESP,DF,Eibar,23.0,1992.0,2015-2016,ESP
+Eneko Capilla,54bed007,esESP,MF,Real Sociedad,20.0,1995.0,2015-2016,ESP
+Miguel Filipe Nunes Cardoso,f9c7bf18,ptPOR,"FW,MF",Dep La Coruña,21.0,1994.0,2015-2016,ESP
+Juan Carlos,688b96e3,esESP,GK,Rayo Vallecano,27.0,1988.0,2015-2016,ESP
+Juan Carlos Valerón,71e8d6b0,esESP,MF,Las Palmas,40.0,1975.0,2015-2016,ESP
+Carlos Carmona,d161184f,esESP,MF,Sporting Gijón,28.0,1987.0,2015-2016,ESP
+David Carmona,ed922d43,esESP,DF,Sevilla,18.0,1997.0,2015-2016,ESP
+Yannick Carrasco,de39485a,beBEL,"MF,FW",Atlético Madrid,21.0,1993.0,2015-2016,ESP
+Daniel Carriço,e1deea75,ptPOR,"DF,MF",Sevilla,26.0,1988.0,2015-2016,ESP
+Federico Cartabia,a8e6bebf,arARG,"MF,FW",Dep La Coruña,22.0,1993.0,2015-2016,ESP
+Dani Carvajal,4958bfb2,esESP,DF,Real Madrid,23.0,1992.0,2015-2016,ESP
+Víctor Casadesús,73cd0a2a,esESP,"FW,MF",Levante,30.0,1985.0,2015-2016,ESP
+Casemiro,4d224fe8,brBRA,MF,Real Madrid,23.0,1992.0,2015-2016,ESP
+Nacho Cases,1ef6f38d,esESP,MF,Sporting Gijón,27.0,1987.0,2015-2016,ESP
+Kiko Casilla,58bc7d18,esESP,GK,Real Madrid,28.0,1986.0,2015-2016,ESP
+Dani Castellano,21d4e122,esESP,DF,Las Palmas,27.0,1987.0,2015-2016,ESP
+Javi Castellano,dac68523,esESP,MF,Las Palmas,27.0,1987.0,2015-2016,ESP
+Samu Castillejo,130a7a3f,esESP,MF,Villarreal,20.0,1995.0,2015-2016,ESP
+Carlos Castro,9bf4f036,esESP,FW,Sporting Gijón,20.0,1995.0,2015-2016,ESP
+Chory Castro,8cc3d96e,uyURU,MF,Málaga,30.0,1984.0,2015-2016,ESP
+Chory Castro,8cc3d96e,uyURU,MF,Real Sociedad,30.0,1984.0,2015-2016,ESP
+Jonny Castro,e28868f3,esESP,DF,Celta Vigo,21.0,1994.0,2015-2016,ESP
+Rubén Castro,d109f62b,esESP,FW,Real Betis,34.0,1981.0,2015-2016,ESP
+Zé Castro,ea2434db,ptPOR,DF,Rayo Vallecano,32.0,1983.0,2015-2016,ESP
+Dani Ceballos,c0617e2b,esESP,MF,Real Betis,18.0,1996.0,2015-2016,ESP
+Álvaro Cejudo,a39b23eb,esESP,MF,Real Betis,31.0,1984.0,2015-2016,ESP
+Charles,c4b8bcf4,brBRA,FW,Málaga,31.0,1984.0,2015-2016,ESP
+Chechu,e98f3a6a,esESP,DF,Rayo Vallecano,33.0,1982.0,2015-2016,ESP
+Pape Cheikh Diop,873ce3a2,snSEN,MF,Celta Vigo,17.0,1997.0,2015-2016,ESP
+Zhang Chengdong,891016f1,cnCHN,"DF,FW",Rayo Vallecano,26.0,1989.0,2015-2016,ESP
+Denis Cheryshev,0ac94a23,ruRUS,"FW,MF",Real Madrid,24.0,1990.0,2015-2016,ESP
+Denis Cheryshev,0ac94a23,ruRUS,"MF,FW",Valencia,24.0,1990.0,2015-2016,ESP
+Michaël Ciani,2ce3dc98,frFRA,DF,Espanyol,31.0,1984.0,2015-2016,ESP
+Coke,6d8f8441,esESP,DF,Sevilla,28.0,1987.0,2015-2016,ESP
+Duje Čop,8b0b02c9,hrCRO,"FW,MF",Málaga,25.0,1990.0,2015-2016,ESP
+Imanol Corral,1ee11fb6,esESP,DF,Eibar,21.0,1994.0,2015-2016,ESP
+Ángel Correa,01eb744d,arARG,"MF,FW",Atlético Madrid,20.0,1995.0,2015-2016,ESP
+Rober Correa,46bd3a5b,esESP,DF,Espanyol,22.0,1992.0,2015-2016,ESP
+Jaume Costa,808d48f3,esESP,DF,Villarreal,27.0,1988.0,2015-2016,ESP
+Ricardo Costa,cd7325e1,ptPOR,DF,Granada,34.0,1981.0,2015-2016,ESP
+Antonio Cotán,d92dd30e,esESP,MF,Sevilla,19.0,1995.0,2015-2016,ESP
+Sebastián Cristóforo,3c05c659,uyURU,MF,Sevilla,21.0,1993.0,2015-2016,ESP
+Iván Cuéllar,75751c99,esESP,GK,Sporting Gijón,31.0,1984.0,2015-2016,ESP
+Isaac Cuenca,24e9421b,esESP,"MF,FW",Granada,24.0,1991.0,2015-2016,ESP
+Mauricio Cuero,7e03c92a,coCOL,"MF,FW",Levante,22.0,1993.0,2015-2016,ESP
+Emmanuel Culio,170eb35b,arARG,MF,Las Palmas,31.0,1983.0,2015-2016,ESP
+Curro,f9a225f5,esESP,MF,Sevilla,19.0,1996.0,2015-2016,ESP
+Leandro Damião,8e0eac01,brBRA,FW,Real Betis,26.0,1989.0,2015-2016,ESP
+Danilo,94b2001f,brBRA,DF,Real Madrid,24.0,1991.0,2015-2016,ESP
+Sergi Darder,070a3904,esESP,MF,Málaga,21.0,1993.0,2015-2016,ESP
+Rodrigo De Paul,162efffd,arARG,"MF,FW",Valencia,21.0,1994.0,2015-2016,ESP
+Rafael van der Vaart,41473b67,nlNED,MF,Real Betis,32.0,1983.0,2015-2016,ESP
+Deyverson,2e5e846d,brBRA,FW,Levante,24.0,1991.0,2015-2016,ESP
+Marcelo Díaz,955b2e8a,clCHI,MF,Celta Vigo,28.0,1986.0,2015-2016,ESP
+Néstor Díaz,6a3a6617,esESP,GK,Celta Vigo,23.0,1992.0,2015-2016,ESP
+Didier Digard,557f1466,frFRA,MF,Real Betis,29.0,1986.0,2015-2016,ESP
+Papakouli Diop,7329018e,snSEN,MF,Espanyol,29.0,1986.0,2015-2016,ESP
+Jaume Doménech,c9cb972b,esESP,GK,Valencia,24.0,1990.0,2015-2016,ESP
+Juan Domínguez,b85adf53,esESP,MF,Dep La Coruña,25.0,1990.0,2015-2016,ESP
+Dória,d28b4a9d,brBRA,DF,Granada,20.0,1994.0,2015-2016,ESP
+Jonathan dos Santos,91872dec,mxMEX,MF,Villarreal,25.0,1990.0,2015-2016,ESP
+Mauro dos Santos,ec699fdd,arARG,DF,Eibar,26.0,1989.0,2015-2016,ESP
+Abdoulaye Doucouré,02b29014,mlMLI,MF,Granada,22.0,1993.0,2015-2016,ESP
+Douglas,ee0da7af,brBRA,DF,Barcelona,24.0,1990.0,2015-2016,ESP
+Dejan Dražić,e9457fb9,rsSRB,MF,Celta Vigo,19.0,1995.0,2015-2016,ESP
+Óscar Duarte,aa0ac32d,crCRC,"DF,MF",Espanyol,26.0,1989.0,2015-2016,ESP
+Rubén Duarte,1fe0492d,esESP,DF,Espanyol,19.0,1995.0,2015-2016,ESP
+Duda,13d41642,ptPOR,MF,Málaga,35.0,1980.0,2015-2016,ESP
+Patrick Ebert,92d24319,deGER,MF,Rayo Vallecano,28.0,1987.0,2015-2016,ESP
+Borja Ekiza,6465e1c9,esESP,DF,Eibar,27.0,1988.0,2015-2016,ESP
+Aritz Elustondo,f7dc2ae5,esESP,DF,Real Sociedad,21.0,1994.0,2015-2016,ESP
+Gorka Elustondo,7b309e55,esESP,"MF,DF",Athletic Club,28.0,1987.0,2015-2016,ESP
+Adri Embarba,db8f0eba,esESP,MF,Rayo Vallecano,23.0,1992.0,2015-2016,ESP
+Sergi Enrich,bb4b1242,esESP,FW,Eibar,25.0,1990.0,2015-2016,ESP
+Javier Eraso,aec0fb6f,esESP,MF,Athletic Club,25.0,1990.0,2015-2016,ESP
+Gonzalo Escalante,3f79a1c8,arARG,MF,Eibar,22.0,1993.0,2015-2016,ESP
+Sergio Escudero,b0616e3d,esESP,"DF,MF",Sevilla,25.0,1989.0,2015-2016,ESP
+Fábio Espinho,6ad3c36f,ptPOR,MF,Málaga,29.0,1985.0,2015-2016,ESP
+Bernardo Espinosa,4242011c,coCOL,DF,Sporting Gijón,26.0,1989.0,2015-2016,ESP
+Beñat Etxebarria,b037bd4f,esESP,MF,Athletic Club,28.0,1987.0,2015-2016,ESP
+Xabier Etxeita,4a895384,esESP,DF,Athletic Club,27.0,1987.0,2015-2016,ESP
+Fayçal Fajr,79135368,maMAR,MF,Dep La Coruña,26.0,1988.0,2015-2016,ESP
+Luis Fariña,2a8b21d4,arARG,"FW,MF",Rayo Vallecano,24.0,1991.0,2015-2016,ESP
+Federico Fazio,4e358a2d,arARG,DF,Sevilla,28.0,1987.0,2015-2016,ESP
+Zouhair Feddal,89151b16,maMAR,DF,Levante,26.0,1989.0,2015-2016,ESP
+Sofiane Feghouli,691f64f5,dzALG,"FW,MF",Valencia,25.0,1989.0,2015-2016,ESP
+Andrés Fernández,307fcd26,esESP,GK,Granada,28.0,1986.0,2015-2016,ESP
+Augusto Fernández,78c40e94,arARG,MF,Atlético Madrid,29.0,1986.0,2015-2016,ESP
+Augusto Fernández,78c40e94,arARG,MF,Celta Vigo,29.0,1986.0,2015-2016,ESP
+Borja Fernández,3ebe8651,esESP,MF,Celta Vigo,19.0,1995.0,2015-2016,ESP
+Carlos Fernández,e08647d6,esESP,FW,Sevilla,19.0,1996.0,2015-2016,ESP
+Diogo Figueiras,3e587547,ptPOR,"MF,DF",Sevilla,24.0,1991.0,2015-2016,ESP
+Egor Filipenko,1321d6f0,byBLR,"DF,MF",Málaga,27.0,1988.0,2015-2016,ESP
+Andreu Fontàs,0f138d5a,esESP,DF,Celta Vigo,25.0,1989.0,2015-2016,ESP
+Pablo Fornals,82927de4,esESP,MF,Málaga,19.0,1996.0,2015-2016,ESP
+Dimitri Foulquier,45e17712,frFRA,DF,Granada,22.0,1993.0,2015-2016,ESP
+Hugo Fraile,168ec9a3,esESP,MF,Sporting Gijón,28.0,1987.0,2015-2016,ESP
+Javi Fuego,2e8fc160,esESP,MF,Valencia,31.0,1984.0,2015-2016,ESP
+Gabi,65d750b5,esESP,MF,Atlético Madrid,32.0,1983.0,2015-2016,ESP
+Kévin Gameiro,42276181,frFRA,FW,Sevilla,28.0,1987.0,2015-2016,ESP
+Jesús Gámez,bd1d1cbb,esESP,DF,Atlético Madrid,30.0,1985.0,2015-2016,ESP
+Alberto García,17d9e354,esESP,GK,Sporting Gijón,30.0,1985.0,2015-2016,ESP
+Dani García,240d3a0b,esESP,MF,Eibar,25.0,1990.0,2015-2016,ESP
+David García,1250086e,esESP,DF,Las Palmas,33.0,1982.0,2015-2016,ESP
+Raúl García,b418dbd4,esESP,MF,Athletic Club,29.0,1986.0,2015-2016,ESP
+Raúl García,b418dbd4,esESP,"FW,MF",Atlético Madrid,29.0,1986.0,2015-2016,ESP
+Rubén García,5c96b017,esESP,"FW,MF",Levante,22.0,1993.0,2015-2016,ESP
+Samu García,5f7db81a,esESP,"MF,FW",Villarreal,25.0,1990.0,2015-2016,ESP
+Javier Garrido,3b142ce5,esESP,DF,Las Palmas,30.0,1985.0,2015-2016,ESP
+Mario Gaspar,fb5d47b3,esESP,DF,Villarreal,24.0,1990.0,2015-2016,ESP
+Ander Gayoso,72c85656,esESP,DF,Eibar,22.0,1993.0,2015-2016,ESP
+Nabil Ghilas,cee627f6,dzALG,FW,Levante,25.0,1990.0,2015-2016,ESP
+Dani Giménez,7c218bf9,esESP,GK,Real Betis,32.0,1983.0,2015-2016,ESP
+Diego Godín,fc4f85b1,uyURU,DF,Atlético Madrid,29.0,1986.0,2015-2016,ESP
+Henok Goitom,c3680236,erERI,FW,Getafe,30.0,1984.0,2015-2016,ESP
+David Goldar,56a787a6,esESP,DF,Celta Vigo,20.0,1994.0,2015-2016,ESP
+André Gomes,1961b2aa,ptPOR,MF,Valencia,22.0,1993.0,2015-2016,ESP
+Ibai Gómez,9d2a3d5f,esESP,MF,Athletic Club,25.0,1989.0,2015-2016,ESP
+Moi Gómez,5a626448,esESP,MF,Getafe,21.0,1994.0,2015-2016,ESP
+Sergi Gómez,bc6f5f06,esESP,DF,Celta Vigo,23.0,1992.0,2015-2016,ESP
+Vicente Gómez,cefb32b1,esESP,MF,Las Palmas,26.0,1988.0,2015-2016,ESP
+Abraham González,682bd745,esESP,MF,Espanyol,30.0,1985.0,2015-2016,ESP
+Adrián González,57ebd662,esESP,MF,Eibar,27.0,1988.0,2015-2016,ESP
+Álvaro González,42dcf26d,esESP,DF,Espanyol,25.0,1990.0,2015-2016,ESP
+Bruno González,f11fe861,esESP,DF,Real Betis,25.0,1990.0,2015-2016,ESP
+Diego González,4ac7608e,esESP,DF,Sevilla,20.0,1995.0,2015-2016,ESP
+Mikel González,7cc5bd9c,esESP,DF,Real Sociedad,29.0,1985.0,2015-2016,ESP
+Ian Gonzalez Nieto,040e5ca4,esESP,FW,Getafe,22.0,1993.0,2015-2016,ESP
+Esteban Granero,1b17ed86,esESP,MF,Real Sociedad,28.0,1987.0,2015-2016,ESP
+Antoine Griezmann,df69b544,frFRA,FW,Atlético Madrid,24.0,1991.0,2015-2016,ESP
+Vicente Guaita,ab13a5aa,esESP,GK,Getafe,28.0,1987.0,2015-2016,ESP
+Javi Guerra,aa386464,esESP,FW,Rayo Vallecano,33.0,1982.0,2015-2016,ESP
+John Guidetti,99bebd12,seSWE,FW,Celta Vigo,23.0,1992.0,2015-2016,ESP
+Alberto Guitián,0eaaa3b0,esESP,DF,Sporting Gijón,25.0,1990.0,2015-2016,ESP
+Gerard Gumbau,ac454a4f,esESP,MF,Barcelona,20.0,1994.0,2015-2016,ESP
+Carlos Gurpegui,6920be59,esESP,DF,Athletic Club,34.0,1980.0,2015-2016,ESP
+Jonás Gutiérrez,816fd91c,arARG,MF,Dep La Coruña,32.0,1983.0,2015-2016,ESP
+Munir El Haddadi,8696bc90,maMAR,"FW,MF",Barcelona,19.0,1995.0,2015-2016,ESP
+Izet Hajrović,55537f53,baBIH,MF,Eibar,23.0,1991.0,2015-2016,ESP
+Alen Halilović,a6b9bd00,hrCRO,MF,Sporting Gijón,19.0,1996.0,2015-2016,ESP
+Uche Henry Agbo,98554bfd,ngNGA,MF,Granada,19.0,1995.0,2015-2016,ESP
+Hernán,8c83efb6,esESP,"MF,DF",Las Palmas,24.0,1990.0,2015-2016,ESP
+Héctor Hernández,76ee80ee,esESP,"DF,FW",Real Sociedad,24.0,1991.0,2015-2016,ESP
+Lucas Hernández,c3ee18ef,frFRA,DF,Atlético Madrid,19.0,1996.0,2015-2016,ESP
+Luis Hernández,02d2c436,esESP,DF,Sporting Gijón,26.0,1989.0,2015-2016,ESP
+Pablo Hernández,c0398aca,esESP,MF,Rayo Vallecano,30.0,1985.0,2015-2016,ESP
+Pablo Hernández,6c2f5996,clCHI,MF,Celta Vigo,28.0,1986.0,2015-2016,ESP
+Iago Herrerín,9109185e,esESP,GK,Athletic Club,27.0,1988.0,2015-2016,ESP
+Ricardo Horta,6603fed7,ptPOR,MF,Málaga,20.0,1994.0,2015-2016,ESP
+Robert Ibáñez,c7429db3,esESP,"MF,FW",Granada,22.0,1993.0,2015-2016,ESP
+Vicente Iborra,ad1ffcfd,esESP,MF,Sevilla,27.0,1988.0,2015-2016,ESP
+Asier Illarramendi,5ce0b5ba,esESP,MF,Real Sociedad,25.0,1990.0,2015-2016,ESP
+Ciro Immobile,4431aed2,itITA,FW,Sevilla,25.0,1990.0,2015-2016,ESP
+Andrés Iniesta,cfd65a29,esESP,MF,Barcelona,31.0,1984.0,2015-2016,ESP
+Takashi Inui,61bd33d0,jpJPN,MF,Eibar,27.0,1988.0,2015-2016,ESP
+Gorka Iraizoz,26f2473f,esESP,GK,Athletic Club,34.0,1981.0,2015-2016,ESP
+Xabi Irureta,ad11657f,esESP,GK,Eibar,29.0,1986.0,2015-2016,ESP
+Isco,a0b4bb3e,esESP,"MF,FW",Real Madrid,23.0,1992.0,2015-2016,ESP
+Manuel Iturra,000b3da6,clCHI,MF,Rayo Vallecano,31.0,1984.0,2015-2016,ESP
+Ander Iturraspe,6dce77a5,esESP,MF,Athletic Club,26.0,1989.0,2015-2016,ESP
+Jesé,4a537185,esESP,FW,Real Madrid,22.0,1993.0,2015-2016,ESP
+Jesús,fba3c8c1,esESP,GK,Granada,27.0,1988.0,2015-2016,ESP
+Joaquín,4c5b14d2,esESP,MF,Real Betis,34.0,1981.0,2015-2016,ESP
+Bojan Jokić,8ac44cc2,siSVN,DF,Villarreal,29.0,1986.0,2015-2016,ESP
+Jonathas,531807b3,brBRA,FW,Real Sociedad,26.0,1989.0,2015-2016,ESP
+Jony,244f57b9,esESP,MF,Sporting Gijón,24.0,1991.0,2015-2016,ESP
+Joan Jordán,2a0c8ba4,esESP,MF,Espanyol,21.0,1994.0,2015-2016,ESP
+Jordi,744a8a7c,esESP,DF,Real Betis,28.0,1987.0,2015-2016,ESP
+Willian José,d87e2cae,brBRA,FW,Las Palmas,23.0,1991.0,2015-2016,ESP
+Jota,9f351459,esESP,MF,Eibar,24.0,1991.0,2015-2016,ESP
+Jozabed,9b337c7c,esESP,MF,Rayo Vallecano,24.0,1991.0,2015-2016,ESP
+Juanfran,9ba48d64,esESP,"DF,MF",Dep La Coruña,26.0,1988.0,2015-2016,ESP
+Juanfran,d8a22e59,esESP,DF,Levante,39.0,1976.0,2015-2016,ESP
+Juanfran,cfd8d664,esESP,DF,Atlético Madrid,30.0,1985.0,2015-2016,ESP
+Juankar,e9a12436,esESP,"MF,DF",Málaga,25.0,1990.0,2015-2016,ESP
+Juanpi,d79afcfc,veVEN,MF,Málaga,21.0,1994.0,2015-2016,ESP
+David Juncà,de7d40d6,esESP,DF,Eibar,21.0,1993.0,2015-2016,ESP
+Foued Kadir,0136606c,dzALG,MF,Real Betis,31.0,1983.0,2015-2016,ESP
+Gaël Kakuta,5b1bf5e3,cdCOD,MF,Sevilla,24.0,1991.0,2015-2016,ESP
+Carlos Kameni,867c7fb3,cmCMR,GK,Málaga,31.0,1984.0,2015-2016,ESP
+Nikolaos Karabelas,a41c6410,grGRE,DF,Levante,30.0,1984.0,2015-2016,ESP
+Keko,1512328c,esESP,MF,Eibar,23.0,1991.0,2015-2016,ESP
+Koke,55126f3b,esESP,MF,Atlético Madrid,23.0,1992.0,2015-2016,ESP
+Timothée Kolodziejczak,ab096c6f,frFRA,DF,Sevilla,23.0,1991.0,2015-2016,ESP
+Yevhen Konoplyanka,d9a5d930,uaUKR,MF,Sevilla,25.0,1989.0,2015-2016,ESP
+Mateo Kovačić,79c0821a,hrCRO,MF,Real Madrid,21.0,1994.0,2015-2016,ESP
+Matías Kranevitter,314bdac5,arARG,MF,Atlético Madrid,22.0,1993.0,2015-2016,ESP
+Rene Krhin,9a506145,siSVN,MF,Granada,25.0,1990.0,2015-2016,ESP
+Michael Krohn-Dehli,1c8dc17d,dkDEN,MF,Sevilla,32.0,1983.0,2015-2016,ESP
+Toni Kroos,6ce1f46f,deGER,MF,Real Madrid,25.0,1990.0,2015-2016,ESP
+Grzegorz Krychowiak,580d52dd,plPOL,MF,Sevilla,25.0,1990.0,2015-2016,ESP
+Alberto de la Bella,8497faf7,esESP,DF,Real Sociedad,29.0,1985.0,2015-2016,ESP
+Mehdi Lacen,a3a306f6,dzALG,MF,Getafe,31.0,1984.0,2015-2016,ESP
+Ángel Lafita,0b68c35a,esESP,MF,Getafe,30.0,1984.0,2015-2016,ESP
+Roberto Lago,98e0ad35,esESP,DF,Getafe,29.0,1985.0,2015-2016,ESP
+Aymeric Laporte,119b9a8e,esESP,DF,Athletic Club,21.0,1994.0,2015-2016,ESP
+Laure,256f3aa9,esESP,DF,Dep La Coruña,30.0,1985.0,2015-2016,ESP
+Iñigo Lekue,59b7d823,esESP,"DF,MF",Athletic Club,22.0,1993.0,2015-2016,ESP
+Mauricio Lemos,dbe5a587,uyURU,DF,Las Palmas,19.0,1995.0,2015-2016,ESP
+Pedro León,d66b9872,esESP,MF,Getafe,28.0,1986.0,2015-2016,ESP
+Jefferson Lerma,9b5ce51a,coCOL,"MF,DF",Levante,20.0,1994.0,2015-2016,ESP
+Igor Lichnovsky,3947fa95,clCHI,DF,Sporting Gijón,21.0,1994.0,2015-2016,ESP
+Lillo,476ca810,esESP,DF,Eibar,26.0,1989.0,2015-2016,ESP
+Raúl Lizoain,f69e9eee,esESP,GK,Las Palmas,24.0,1991.0,2015-2016,ESP
+Diego Llorente,bba30585,esESP,"DF,MF",Rayo Vallecano,21.0,1993.0,2015-2016,ESP
+Fernando Llorente,82dbf623,esESP,FW,Sevilla,30.0,1985.0,2015-2016,ESP
+Marcos Llorente,02c15616,esESP,"DF,MF",Real Madrid,20.0,1995.0,2015-2016,ESP
+David Lombán,b43b81f1,esESP,DF,Granada,28.0,1987.0,2015-2016,ESP
+Miguel Lopes,258b0d9b,ptPOR,DF,Granada,28.0,1986.0,2015-2016,ESP
+Adrián López,88a359d4,esESP,FW,Villarreal,27.0,1988.0,2015-2016,ESP
+Ángel López,93cdc601,esESP,"DF,MF",Las Palmas,34.0,1981.0,2015-2016,ESP
+Isma López,e644a7f5,esESP,DF,Sporting Gijón,25.0,1990.0,2015-2016,ESP
+Iván López,576575e5,esESP,DF,Levante,21.0,1993.0,2015-2016,ESP
+Javi López,ffad706e,esESP,"DF,MF",Espanyol,29.0,1986.0,2015-2016,ESP
+Pedro López Muñoz,a60823a4,esESP,DF,Levante,31.0,1983.0,2015-2016,ESP
+Nicolás López,8d2ee5e2,uyURU,MF,Granada,21.0,1993.0,2015-2016,ESP
+Pau López,20b9f052,esESP,GK,Espanyol,20.0,1994.0,2015-2016,ESP
+Alberto Lopo,17cd5bb7,esESP,DF,Dep La Coruña,35.0,1980.0,2015-2016,ESP
+Alberto Lora,723cd8b7,esESP,DF,Sporting Gijón,28.0,1987.0,2015-2016,ESP
+Filipe Luís,e4ed2628,brBRA,DF,Atlético Madrid,29.0,1985.0,2015-2016,ESP
+José Luis Gayà,b05e2dbd,esESP,DF,Valencia,20.0,1995.0,2015-2016,ESP
+José Luis Morales,4a478107,esESP,"MF,FW",Levante,28.0,1987.0,2015-2016,ESP
+Luisinho,a7f00c8c,ptPOR,"MF,DF",Dep La Coruña,30.0,1985.0,2015-2016,ESP
+Antonio Luna,ed239245,esESP,DF,Eibar,24.0,1991.0,2015-2016,ESP
+Germán Lux,14ed837f,arARG,GK,Dep La Coruña,33.0,1982.0,2015-2016,ESP
+Lévy Madinda,ea26e99f,gaGAB,MF,Celta Vigo,23.0,1992.0,2015-2016,ESP
+Diego Mainz,95db62b7,esESP,DF,Granada,32.0,1982.0,2015-2016,ESP
+Hugo Mallo,cb574619,esESP,DF,Celta Vigo,24.0,1991.0,2015-2016,ESP
+Manu,e6c6988d,esESP,GK,Dep La Coruña,29.0,1986.0,2015-2016,ESP
+Manucho,89b18034,aoANG,FW,Rayo Vallecano,32.0,1983.0,2015-2016,ESP
+Juan Manuel Vargas,d6804f6a,pePER,DF,Real Betis,31.0,1983.0,2015-2016,ESP
+Marcelo,603116a7,brBRA,DF,Real Madrid,27.0,1988.0,2015-2016,ESP
+Óscar de Marcos,9f323c71,esESP,"DF,MF",Athletic Club,26.0,1989.0,2015-2016,ESP
+José Mari,6f4c734d,esESP,MF,Levante,27.0,1987.0,2015-2016,ESP
+José María Giménez,f0da930c,uyURU,DF,Atlético Madrid,20.0,1995.0,2015-2016,ESP
+Mariano,e26f559f,brBRA,DF,Sevilla,29.0,1986.0,2015-2016,ESP
+Adrián Marín,b7f2edff,esESP,DF,Villarreal,18.0,1997.0,2015-2016,ESP
+Diego Mariño,d9235a45,esESP,GK,Levante,25.0,1990.0,2015-2016,ESP
+Javi Márquez,40c7cdd2,esESP,MF,Granada,29.0,1986.0,2015-2016,ESP
+Roger Martí,0ae4e09a,esESP,FW,Levante,24.0,1991.0,2015-2016,ESP
+Carlos Martínez,d9b0cc38,esESP,DF,Real Sociedad,29.0,1986.0,2015-2016,ESP
+Iñigo Martínez,3fc45c73,esESP,DF,Real Sociedad,24.0,1991.0,2015-2016,ESP
+Jackson Martínez,89fbacc3,coCOL,FW,Atlético Madrid,28.0,1986.0,2015-2016,ESP
+Omar Mascarell,11fd2b75,gqEQG,MF,Sporting Gijón,22.0,1993.0,2015-2016,ESP
+Javier Mascherano,5070881b,arARG,DF,Barcelona,31.0,1984.0,2015-2016,ESP
+Hachim Mastour,e585f1c2,maMAR,FW,Málaga,17.0,1998.0,2015-2016,ESP
+Simão Mate Junior,68723d1f,mzMOZ,"MF,DF",Levante,27.0,1988.0,2015-2016,ESP
+Jérémy Mathieu,5b887c7a,frFRA,DF,Barcelona,31.0,1983.0,2015-2016,ESP
+Jose Matos,19fdd28f,esESP,MF,Sevilla,20.0,1995.0,2015-2016,ESP
+Borja Mayoral,64e8ed6d,esESP,FW,Real Madrid,18.0,1997.0,2015-2016,ESP
+Carl Medjani,70c2f41a,dzALG,DF,Levante,30.0,1985.0,2015-2016,ESP
+Álvaro Medrán,31223bcf,esESP,MF,Getafe,21.0,1994.0,2015-2016,ESP
+Tiago Mendes,5e0f7b89,ptPOR,MF,Atlético Madrid,34.0,1981.0,2015-2016,ESP
+Édgar Méndez,aed746df,esESP,"MF,FW",Granada,25.0,1990.0,2015-2016,ESP
+Sergio Mendigutxia,67d64f59,esESP,FW,Sporting Gijón,22.0,1993.0,2015-2016,ESP
+Álex Menéndez,ddab8ee4,esESP,"MF,DF",Sporting Gijón,24.0,1991.0,2015-2016,ESP
+Bernard Mensah,91947112,ghGHA,MF,Getafe,20.0,1994.0,2015-2016,ESP
+Jorge Meré,9f979eb2,esESP,DF,Sporting Gijón,18.0,1997.0,2015-2016,ESP
+Sabin Merino,1d5f96d9,esESP,"MF,FW",Athletic Club,23.0,1992.0,2015-2016,ESP
+Roque Mesa,7c4243d4,esESP,MF,Las Palmas,26.0,1989.0,2015-2016,ESP
+Lionel Messi,d70ce98e,arARG,FW,Barcelona,28.0,1987.0,2015-2016,ESP
+Miku,4eba9598,veVEN,"FW,MF",Rayo Vallecano,29.0,1985.0,2015-2016,ESP
+Santi Mina,0b90bb97,esESP,"FW,MF",Valencia,19.0,1995.0,2015-2016,ESP
+Luka Modrić,6025fab1,hrCRO,MF,Real Madrid,29.0,1985.0,2015-2016,ESP
+Jorge Molina,43f71e77,esESP,FW,Real Betis,33.0,1982.0,2015-2016,ESP
+Francisco Molinero,2cea96ce,esESP,DF,Real Betis,30.0,1985.0,2015-2016,ESP
+Momo,9857e65d,esESP,MF,Las Palmas,33.0,1982.0,2015-2016,ESP
+Nacho Monsalve,8246c61e,esESP,DF,Atlético Madrid,21.0,1994.0,2015-2016,ESP
+Paco Montañés,9cc493b1,esESP,MF,Espanyol,28.0,1986.0,2015-2016,ESP
+Joni Montiel,535771bb,esESP,MF,Rayo Vallecano,16.0,1998.0,2015-2016,ESP
+Ángel Montoro,719384c1,esESP,MF,Las Palmas,27.0,1988.0,2015-2016,ESP
+Martín Montoya,5cec2487,esESP,DF,Real Betis,24.0,1991.0,2015-2016,ESP
+Gerard Moreno,81f0781e,esESP,"FW,MF",Espanyol,23.0,1992.0,2015-2016,ESP
+Pedro Mosquera,c5fa58ea,esESP,MF,Dep La Coruña,27.0,1988.0,2015-2016,ESP
+Iker Muniain,c05dfb74,esESP,MF,Athletic Club,22.0,1992.0,2015-2016,ESP
+Juan Muñiz,1533d658,esESP,MF,Sporting Gijón,23.0,1992.0,2015-2016,ESP
+Juan Muñoz,25018d62,esESP,"MF,FW",Sevilla,19.0,1995.0,2015-2016,ESP
+Mateo Musacchio,91899ca8,arARG,DF,Villarreal,24.0,1990.0,2015-2016,ESP
+Charly Musonda Jr.,62a0089e,beBEL,MF,Real Betis,18.0,1996.0,2015-2016,ESP
+Shkodran Mustafi,3f2d59fe,deGER,DF,Valencia,23.0,1992.0,2015-2016,ESP
+Alfred N'Diaye,7789bf63,snSEN,MF,Real Betis,25.0,1990.0,2015-2016,ESP
+Nacho,2946f9a1,esESP,DF,Real Madrid,25.0,1990.0,2015-2016,ESP
+Nacho,e29d1111,esESP,DF,Rayo Vallecano,26.0,1989.0,2015-2016,ESP
+Matías Nahuel,48e4c485,esESP,"MF,FW",Villarreal,18.0,1996.0,2015-2016,ESP
+David Navarro,5dbdb37b,esESP,DF,Levante,35.0,1980.0,2015-2016,ESP
+Fernando Navarro,5a3f6fae,esESP,DF,Dep La Coruña,33.0,1982.0,2015-2016,ESP
+Keylor Navas,ecada4fc,crCRC,GK,Real Madrid,28.0,1986.0,2015-2016,ESP
+Dani Ndi,b99f5920,cmCMR,MF,Sporting Gijón,19.0,1995.0,2015-2016,ESP
+Álvaro Negredo,63b0ca6b,esESP,FW,Valencia,29.0,1985.0,2015-2016,ESP
+Neymar,69384e5d,brBRA,FW,Barcelona,23.0,1992.0,2015-2016,ESP
+Saúl Ñíguez,c14bc029,esESP,MF,Atlético Madrid,20.0,1994.0,2015-2016,ESP
+Nili,6f1cce9a,esESP,"MF,FW",Las Palmas,21.0,1994.0,2015-2016,ESP
+Javi Noblejas,34d08919,esESP,DF,Getafe,22.0,1993.0,2015-2016,ESP
+Nolito,b2d0ec1b,esESP,"MF,FW",Celta Vigo,28.0,1986.0,2015-2016,ESP
+Steven Nzonzi,c7526c18,frFRA,MF,Sevilla,26.0,1988.0,2015-2016,ESP
+Jan Oblak,ee8508c0,siSVN,GK,Atlético Madrid,22.0,1993.0,2015-2016,ESP
+Guillermo Ochoa,1e9bde92,mxMEX,GK,Málaga,30.0,1985.0,2015-2016,ESP
+Oier Olazábal,b5bdf144,esESP,GK,Real Sociedad,25.0,1989.0,2015-2016,ESP
+Weligton Oliveira,ce8c6861,brBRA,DF,Málaga,35.0,1979.0,2015-2016,ESP
+Javier Ontiveros,a83d8b0c,esESP,"FW,MF",Málaga,17.0,1997.0,2015-2016,ESP
+Lucas Orbán,8ff1d70e,arARG,DF,Levante,26.0,1989.0,2015-2016,ESP
+Lucas Orbán,8ff1d70e,arARG,DF,Valencia,26.0,1989.0,2015-2016,ESP
+Fabián Orellana,c90977db,clCHI,"MF,FW",Celta Vigo,29.0,1986.0,2015-2016,ESP
+Mikel Oyarzabal,8c3c640c,esESP,"FW,MF",Real Sociedad,18.0,1997.0,2015-2016,ESP
+Aras Özbiliz,5c081e18,amARM,MF,Rayo Vallecano,25.0,1990.0,2015-2016,ESP
+Manuel Pablo,c1776cef,esESP,DF,Dep La Coruña,39.0,1976.0,2015-2016,ESP
+Aleksandar Pantić,70e5566a,rsSRB,DF,Eibar,23.0,1992.0,2015-2016,ESP
+Rubén Pardo,2306bfde,esESP,MF,Real Sociedad,22.0,1992.0,2015-2016,ESP
+Nicolás Pareja,a92669f6,arARG,DF,Sevilla,31.0,1984.0,2015-2016,ESP
+Daniel Parejo,7460ca0d,esESP,MF,Valencia,26.0,1989.0,2015-2016,ESP
+Thomas Partey,529f49ab,ghGHA,MF,Atlético Madrid,22.0,1993.0,2015-2016,ESP
+Alfonso Pedraza,63f04c6c,esESP,MF,Villarreal,19.0,1996.0,2015-2016,ESP
+Adalberto Peñaranda,4b3f2936,veVEN,"FW,MF",Granada,18.0,1997.0,2015-2016,ESP
+Pepe,c906ce0f,ptPOR,DF,Real Madrid,32.0,1983.0,2015-2016,ESP
+Álvaro Pereira,1b0aaf11,uyURU,DF,Getafe,29.0,1985.0,2015-2016,ESP
+Enzo Pérez,6d27cfc2,arARG,MF,Valencia,29.0,1986.0,2015-2016,ESP
+Hernán Pérez,e1cea3f7,pyPAR,"MF,FW",Espanyol,26.0,1989.0,2015-2016,ESP
+Lucas Pérez,a300ac7e,esESP,FW,Dep La Coruña,26.0,1988.0,2015-2016,ESP
+Pablo Pérez,4f4549a5,esESP,"MF,FW",Sporting Gijón,21.0,1993.0,2015-2016,ESP
+Rubén Pérez,3c7bc9bd,esESP,MF,Granada,26.0,1989.0,2015-2016,ESP
+Petros,7773f73b,brBRA,MF,Real Betis,26.0,1989.0,2015-2016,ESP
+Germán Pezzella,8c725b43,arARG,DF,Real Betis,24.0,1991.0,2015-2016,ESP
+Pablo Piatti,48e89655,arARG,"FW,MF",Valencia,26.0,1989.0,2015-2016,ESP
+Cristiano Piccini,32c0491f,itITA,DF,Real Betis,22.0,1992.0,2015-2016,ESP
+Tomás Pina Isla,e54bd0a2,esESP,MF,Villarreal,27.0,1987.0,2015-2016,ESP
+Gerard Piqué,adfc9123,esESP,DF,Barcelona,28.0,1987.0,2015-2016,ESP
+Piti,ab530738,esESP,MF,Rayo Vallecano,34.0,1981.0,2015-2016,ESP
+Piti,ab530738,esESP,"MF,FW",Granada,34.0,1981.0,2015-2016,ESP
+Carles Planas,72b92c4e,esESP,DF,Celta Vigo,24.0,1991.0,2015-2016,ESP
+Stipe Pletikosa,38a1b57c,hrCRO,GK,Dep La Coruña,36.0,1979.0,2015-2016,ESP
+Francisco Portillo,8e010ff4,esESP,MF,Real Betis,25.0,1990.0,2015-2016,ESP
+Xabi Prieto,d054d8b0,esESP,MF,Real Sociedad,31.0,1983.0,2015-2016,ESP
+Quini,7a538238,esESP,DF,Rayo Vallecano,25.0,1989.0,2015-2016,ESP
+Nemanja Radoja,b5dd3469,rsSRB,MF,Celta Vigo,22.0,1993.0,2015-2016,ESP
+Josip Radošević,6afcaaa3,hrCRO,MF,Eibar,21.0,1994.0,2015-2016,ESP
+Juan Rafael Fuentes,5b54a75f,esESP,DF,Espanyol,25.0,1990.0,2015-2016,ESP
+Rafinha,0c2ac3cb,brBRA,"FW,MF",Barcelona,22.0,1993.0,2015-2016,ESP
+Antonio Raillo,b857bd29,esESP,DF,Espanyol,23.0,1991.0,2015-2016,ESP
+Ivan Rakitić,89f951b5,hrCRO,MF,Barcelona,27.0,1988.0,2015-2016,ESP
+Adil Rami,8dbff17c,frFRA,DF,Sevilla,29.0,1985.0,2015-2016,ESP
+Sandro Ramírez,833fb62e,esESP,FW,Barcelona,20.0,1995.0,2015-2016,ESP
+Iván Ramis,d2be40f2,esESP,DF,Eibar,30.0,1984.0,2015-2016,ESP
+Sergio Ramos,08511d65,esESP,DF,Real Madrid,29.0,1986.0,2015-2016,ESP
+Răzvan Raț,0a0ee36e,roROU,DF,Rayo Vallecano,34.0,1981.0,2015-2016,ESP
+Recio,54073b28,esESP,MF,Málaga,24.0,1991.0,2015-2016,ESP
+Vincenzo Rennella,b3c467b4,itITA,FW,Real Betis,26.0,1988.0,2015-2016,ESP
+Diego Reyes,d4f46475,mxMEX,"DF,MF",Real Sociedad,22.0,1992.0,2015-2016,ESP
+Federico Ricca,54f5ce34,uyURU,"DF,MF",Málaga,20.0,1994.0,2015-2016,ESP
+Fran Rico,eda29127,esESP,MF,Granada,27.0,1987.0,2015-2016,ESP
+Mikel Rico,def69cd0,esESP,MF,Athletic Club,30.0,1984.0,2015-2016,ESP
+Sergio Rico,5f0241b2,esESP,GK,Sevilla,21.0,1993.0,2015-2016,ESP
+Oriol Riera,ed742ed9,esESP,FW,Dep La Coruña,29.0,1986.0,2015-2016,ESP
+Asier Riesgo,581c5276,esESP,GK,Eibar,31.0,1983.0,2015-2016,ESP
+Rober,c00097d2,esESP,"DF,MF",Dep La Coruña,20.0,1995.0,2015-2016,ESP
+Sergi Roberto,335fa267,esESP,"MF,DF",Barcelona,23.0,1992.0,2015-2016,ESP
+Rubén Rochina,ecd8c01e,esESP,"MF,FW",Granada,24.0,1991.0,2015-2016,ESP
+Enzo Roco,37f827ec,clCHI,DF,Espanyol,22.0,1992.0,2015-2016,ESP
+Rodri,6434f10d,esESP,MF,Villarreal,19.0,1996.0,2015-2016,ESP
+Rodrigo,1fb1c435,esESP,"FW,MF",Valencia,24.0,1991.0,2015-2016,ESP
+James Rodríguez,715bf047,coCOL,"MF,FW",Real Madrid,24.0,1991.0,2015-2016,ESP
+Jonathan Rodríguez,86ca9bca,uyURU,FW,Dep La Coruña,22.0,1993.0,2015-2016,ESP
+Juan Rodríguez,25c3c939,esESP,MF,Getafe,33.0,1982.0,2015-2016,ESP
+Víctor Rodríguez,15781606,esESP,MF,Getafe,26.0,1989.0,2015-2016,ESP
+Cristiano Ronaldo,dea698d9,ptPOR,"FW,MF",Real Madrid,30.0,1985.0,2015-2016,ESP
+Roberto Rosales,81069528,veVEN,DF,Málaga,26.0,1988.0,2015-2016,ESP
+Giuseppe Rossi,fe48a073,itITA,FW,Levante,28.0,1987.0,2015-2016,ESP
+Rubén,24279b8b,esESP,GK,Levante,31.0,1984.0,2015-2016,ESP
+Fabián Ruiz Peña,c0c7ff58,esESP,MF,Real Betis,19.0,1996.0,2015-2016,ESP
+Salva Ruiz,e36f9794,esESP,DF,Granada,20.0,1995.0,2015-2016,ESP
+Víctor Ruiz,b3dc6eca,esESP,DF,Villarreal,26.0,1989.0,2015-2016,ESP
+Antonio Rukavina,e12d7851,rsSRB,"DF,MF",Villarreal,31.0,1984.0,2015-2016,ESP
+Gerónimo Rulli,625c144a,arARG,GK,Real Sociedad,23.0,1992.0,2015-2016,ESP
+Mathew Ryan,4535e4bb,auAUS,GK,Valencia,23.0,1992.0,2015-2016,ESP
+Sergi Samper,6a7586f4,esESP,MF,Barcelona,20.0,1995.0,2015-2016,ESP
+Mikel San José,003a5c72,esESP,"MF,DF",Athletic Club,26.0,1989.0,2015-2016,ESP
+Antonio Sanabria,0a447501,pyPAR,FW,Sporting Gijón,19.0,1996.0,2015-2016,ESP
+Víctor Sánchez,ad4d0985,esESP,MF,Espanyol,27.0,1987.0,2015-2016,ESP
+Roque Santa Cruz,7f2107eb,pyPAR,FW,Málaga,33.0,1981.0,2015-2016,ESP
+Aderlan Santos,847e4cd8,brBRA,DF,Valencia,26.0,1989.0,2015-2016,ESP
+Pablo Sarabia,9744ff80,esESP,MF,Getafe,23.0,1992.0,2015-2016,ESP
+Stefan Savić,f6ac68c1,meMNE,DF,Atlético Madrid,24.0,1991.0,2015-2016,ESP
+Stefan Šćepović,983f798c,rsSRB,FW,Getafe,25.0,1990.0,2015-2016,ESP
+Josep Señé,8fc259d7,esESP,"MF,FW",Celta Vigo,23.0,1991.0,2015-2016,ESP
+Salva Sevilla,75bd85ea,esESP,MF,Espanyol,31.0,1984.0,2015-2016,ESP
+Sidnei,b14d0c5d,brBRA,DF,Dep La Coruña,25.0,1989.0,2015-2016,ESP
+Eddy Silvestre,15ac2dc2,azAZE,MF,Eibar,22.0,1992.0,2015-2016,ESP
+David Simón,251336da,esESP,DF,Las Palmas,26.0,1988.0,2015-2016,ESP
+Guilherme Siqueira,3770a135,brBRA,DF,Atlético Madrid,29.0,1986.0,2015-2016,ESP
+Guilherme Siqueira,3770a135,brBRA,DF,Valencia,29.0,1986.0,2015-2016,ESP
+Sito,59504479,esESP,MF,Valencia,18.0,1996.0,2015-2016,ESP
+Enrique Sola,bef2e50e,esESP,FW,Athletic Club,29.0,1986.0,2015-2016,ESP
+Roberto Soldado,9d66fbe3,esESP,FW,Villarreal,30.0,1985.0,2015-2016,ESP
+Bruno Soriano,09332647,esESP,MF,Villarreal,31.0,1984.0,2015-2016,ESP
+Damián Suárez,ba5004e1,uyURU,DF,Getafe,27.0,1988.0,2015-2016,ESP
+Denis Suárez,12c50af5,esESP,MF,Villarreal,21.0,1994.0,2015-2016,ESP
+Luis Suárez,a6154613,uyURU,FW,Barcelona,28.0,1987.0,2015-2016,ESP
+Isaac Success,f573a8bf,ngNGA,"MF,FW",Granada,19.0,1996.0,2015-2016,ESP
+Markel Susaeta,6fd1ba62,esESP,MF,Athletic Club,27.0,1987.0,2015-2016,ESP
+Mamadou Sylla,e5ec95f8,snSEN,FW,Espanyol,21.0,1994.0,2015-2016,ESP
+Tana,ef345601,esESP,MF,Las Palmas,24.0,1990.0,2015-2016,ESP
+Marc-André ter Stegen,6f51e382,deGER,GK,Barcelona,23.0,1992.0,2015-2016,ESP
+Adnane Tighadouini,e52e477c,maMAR,"MF,FW",Málaga,22.0,1992.0,2015-2016,ESP
+Fernando Tissone,e224238d,arARG,MF,Málaga,29.0,1986.0,2015-2016,ESP
+Tito,7cefa219,esESP,DF,Rayo Vallecano,30.0,1985.0,2015-2016,ESP
+Toño,d4ef9ac5,esESP,DF,Levante,25.0,1989.0,2015-2016,ESP
+Toño,2ed4ea81,esESP,GK,Rayo Vallecano,35.0,1979.0,2015-2016,ESP
+Fernando Torres,bdf7b97d,esESP,FW,Atlético Madrid,31.0,1984.0,2015-2016,ESP
+Miguel Torres,44b61913,esESP,DF,Málaga,29.0,1986.0,2015-2016,ESP
+Óliver Torres,58a9a4d9,esESP,MF,Atlético Madrid,20.0,1994.0,2015-2016,ESP
+Xavi Torres,1b51ad2f,esESP,MF,Real Betis,28.0,1986.0,2015-2016,ESP
+Roberto Trashorras,5252fdf5,esESP,MF,Rayo Vallecano,34.0,1981.0,2015-2016,ESP
+Benoît Trémoulinas,37a24709,frFRA,DF,Sevilla,29.0,1985.0,2015-2016,ESP
+Manu Trigueros,963829d0,esESP,MF,Villarreal,23.0,1991.0,2015-2016,ESP
+Tropi,50f1ed37,esESP,MF,Valencia,20.0,1995.0,2015-2016,ESP
+Ángel Trujillo,08011c9c,esESP,DF,Levante,27.0,1987.0,2015-2016,ESP
+Arda Turan,017ab4d4,trTUR,MF,Barcelona,28.0,1987.0,2015-2016,ESP
+Ikechukwu Uche,ba7c6d25,ngNGA,FW,Málaga,31.0,1984.0,2015-2016,ESP
+Álvaro Vadillo,61b62b33,esESP,MF,Real Betis,20.0,1994.0,2015-2016,ESP
+Raphaël Varane,9f8e9423,frFRA,DF,Real Madrid,22.0,1993.0,2015-2016,ESP
+Javi Varas,6db3da37,esESP,GK,Las Palmas,32.0,1982.0,2015-2016,ESP
+Francisco Varela,15b2386c,esESP,DF,Real Betis,20.0,1994.0,2015-2016,ESP
+Álvaro Vázquez,d2d8675a,esESP,FW,Getafe,24.0,1991.0,2015-2016,ESP
+Lucas Vázquez,fd51b456,esESP,"FW,MF",Real Madrid,24.0,1991.0,2015-2016,ESP
+Carlos Vela,e0cd04e0,mxMEX,"MF,FW",Real Sociedad,26.0,1989.0,2015-2016,ESP
+Emiliano Velázquez,5efb80d5,uyURU,DF,Getafe,21.0,1994.0,2015-2016,ESP
+Simone Verdi,0375723e,itITA,MF,Eibar,23.0,1992.0,2015-2016,ESP
+Joan Verdú,61508522,esESP,"MF,FW",Levante,32.0,1983.0,2015-2016,ESP
+Santiago Vergini,6d041dd0,arARG,DF,Getafe,26.0,1988.0,2015-2016,ESP
+Thomas Vermaelen,d0d79694,beBEL,DF,Barcelona,29.0,1985.0,2015-2016,ESP
+Verza,f972b073,esESP,MF,Levante,28.0,1986.0,2015-2016,ESP
+Rúben Vezo,c67cd65c,ptPOR,DF,Valencia,21.0,1994.0,2015-2016,ESP
+Aleix Vidal,04965583,esESP,DF,Barcelona,25.0,1989.0,2015-2016,ESP
+Jonathan Viera,efa708aa,esESP,"MF,FW",Las Palmas,25.0,1989.0,2015-2016,ESP
+Luciano Vietto,2513a588,arARG,FW,Atlético Madrid,21.0,1993.0,2015-2016,ESP
+Carlos Vigaray,f69d934e,esESP,DF,Getafe,20.0,1994.0,2015-2016,ESP
+Borja Viguera,d906a703,esESP,FW,Athletic Club,28.0,1987.0,2015-2016,ESP
+Fran Villalba,0d2603b5,esESP,"FW,MF",Valencia,17.0,1998.0,2015-2016,ESP
+Vitolo,db750822,esESP,MF,Sevilla,25.0,1989.0,2015-2016,ESP
+Ognjen Vranješ,b8ae831b,baBIH,DF,Sporting Gijón,25.0,1989.0,2015-2016,ESP
+Wakaso,999908af,ghGHA,MF,Las Palmas,25.0,1990.0,2015-2016,ESP
+Wanderson,5da33b33,brBRA,MF,Getafe,20.0,1994.0,2015-2016,ESP
+Daniel Wass,d83bbc54,dkDEN,MF,Celta Vigo,26.0,1989.0,2015-2016,ESP
+Heiko Westermann,7beecde1,deGER,DF,Real Betis,31.0,1983.0,2015-2016,ESP
+Iñaki Williams,6a99e0b1,ghGHA,MF,Athletic Club,21.0,1994.0,2015-2016,ESP
+Ricky van Wolfswinkel,dbe16ade,nlNED,FW,Real Betis,26.0,1989.0,2015-2016,ESP
+Jordi Xumetra,3b79dbdb,esESP,"MF,FW",Levante,29.0,1985.0,2015-2016,ESP
+Karim Yoda,a7893629,frFRA,"DF,FW",Getafe,26.0,1988.0,2015-2016,ESP
+Yoel,61bb7498,esESP,GK,Rayo Vallecano,26.0,1988.0,2015-2016,ESP
+Wilfried Zahibo,784ec3de,cfCTA,MF,Valencia,21.0,1993.0,2015-2016,ESP
+Joseba Zaldúa,5ca20b7a,esESP,DF,Real Sociedad,23.0,1992.0,2015-2016,ESP
+Nabil El Zhar,37f96552,maMAR,MF,Las Palmas,28.0,1986.0,2015-2016,ESP
+Igor Zubeldia,5c7845f6,esESP,"DF,MF",Real Sociedad,18.0,1997.0,2015-2016,ESP
+David Zurutuza,d9bda115,esESP,"MF,FW",Real Sociedad,29.0,1986.0,2015-2016,ESP
+Patrick van Aanholt,5f09991f,nlNED,DF,Sunderland,24.0,1990.0,2015-2016,EPL
+Rolando Aarons,c5942695,engENG,"DF,MF",Newcastle United,19.0,1995.0,2015-2016,EPL
+Almen Abdi,8d425d84,chSUI,MF,Watford,28.0,1986.0,2015-2016,EPL
+Tammy Abraham,f586779e,engENG,FW,Chelsea,17.0,1997.0,2015-2016,EPL
+Charlie Adam,aff418dc,sctSCO,MF,Stoke City,29.0,1985.0,2015-2016,EPL
+Emmanuel Adebayor,936d9e3e,tgTOG,FW,Crystal Palace,31.0,1984.0,2015-2016,EPL
+Adrián,f76e6b4e,esESP,GK,West Ham United,28.0,1987.0,2015-2016,EPL
+Ibrahim Afellay,9a8c6673,nlNED,MF,Stoke City,29.0,1986.0,2015-2016,EPL
+Benik Afobe,b63f4077,cdCOD,FW,Bournemouth,22.0,1993.0,2015-2016,EPL
+Gabriel Agbonlahor,db80f5f1,engENG,FW,Aston Villa,28.0,1986.0,2015-2016,EPL
+Sergio Agüero,4d034881,arARG,FW,Manchester City,27.0,1988.0,2015-2016,EPL
+Nathan Aké,eaeca114,nlNED,DF,Watford,20.0,1995.0,2015-2016,EPL
+Marc Albrighton,b827d5b3,engENG,MF,Leicester City,25.0,1989.0,2015-2016,EPL
+Toby Alderweireld,f7d50789,beBEL,DF,Tottenham Hotspur,26.0,1989.0,2015-2016,EPL
+Joe Allen,9feb8f24,wlsWAL,MF,Liverpool,25.0,1990.0,2015-2016,EPL
+Dele Alli,cea4ee8f,engENG,MF,Tottenham Hotspur,19.0,1996.0,2015-2016,EPL
+Ryan Allsop,af615123,engENG,GK,Bournemouth,23.0,1992.0,2015-2016,EPL
+Daniel Amartey,1a4ef233,ghGHA,DF,Leicester City,20.0,1994.0,2015-2016,EPL
+Jordi Amat,d70a2141,idIDN,DF,Swansea City,23.0,1992.0,2015-2016,EPL
+Jordan Amavi,22721b88,frFRA,DF,Aston Villa,21.0,1994.0,2015-2016,EPL
+Nordin Amrabat,7c2a398c,maMAR,"MF,FW",Watford,28.0,1987.0,2015-2016,EPL
+José Ángel Crespo,8ec4c2f7,esESP,FW,Aston Villa,28.0,1987.0,2015-2016,EPL
+Victor Anichebe,4aed5c19,ngNGA,FW,West Bromwich Albion,27.0,1988.0,2015-2016,EPL
+Vurnon Anita,2d368fd5,cwCUW,"MF,DF",Newcastle United,26.0,1989.0,2015-2016,EPL
+Michail Antonio,ac05f970,jmJAM,"MF,FW",West Ham United,25.0,1990.0,2015-2016,EPL
+Ikechi Anya,c55e973d,sctSCO,"MF,DF",Watford,27.0,1988.0,2015-2016,EPL
+Giedrius Arlauskis,1858bbf7,ltLTU,GK,Watford,27.0,1987.0,2015-2016,EPL
+Marko Arnautović,00459419,atAUT,"MF,FW",Stoke City,26.0,1989.0,2015-2016,EPL
+Harry Arter,2f4c5a52,ieIRL,MF,Bournemouth,25.0,1989.0,2015-2016,EPL
+Mikel Arteta,d934d1e6,esESP,MF,Arsenal,33.0,1982.0,2015-2016,EPL
+Charlie Austin,8d228291,engENG,FW,Southampton,26.0,1989.0,2015-2016,EPL
+André Ayew,5dbefa9d,ghGHA,"MF,FW",Swansea City,25.0,1989.0,2015-2016,EPL
+Jordan Ayew,da052c14,ghGHA,FW,Aston Villa,23.0,1991.0,2015-2016,EPL
+César Azpilicueta,53cad200,esESP,DF,Chelsea,25.0,1989.0,2015-2016,EPL
+Leandro Bacuna,9dc69d38,cwCUW,"DF,MF",Aston Villa,23.0,1991.0,2015-2016,EPL
+Leighton Baines,b18095b6,engENG,DF,Everton,30.0,1984.0,2015-2016,EPL
+Patrick Bamford,93feac6e,engENG,FW,Norwich City,21.0,1993.0,2015-2016,EPL
+Patrick Bamford,93feac6e,engENG,"FW,MF",Crystal Palace,21.0,1993.0,2015-2016,EPL
+Phil Bardsley,1ae30132,sctSCO,DF,Stoke City,30.0,1985.0,2015-2016,EPL
+Ross Barkley,3a24769f,engENG,MF,Everton,21.0,1993.0,2015-2016,EPL
+Modou Barrow,75783f5f,gmGAM,"MF,FW",Swansea City,22.0,1992.0,2015-2016,EPL
+Gareth Barry,7dbbe367,engENG,MF,Everton,34.0,1981.0,2015-2016,EPL
+Kyle Bartley,18e96f64,engENG,DF,Swansea City,24.0,1991.0,2015-2016,EPL
+Sébastien Bassong,0d521662,cmCMR,DF,Norwich City,29.0,1986.0,2015-2016,EPL
+Asmir Begović,7b4de647,baBIH,GK,Chelsea,28.0,1987.0,2015-2016,EPL
+Valon Behrami,d3d758d8,chSUI,MF,Watford,30.0,1985.0,2015-2016,EPL
+Héctor Bellerín,f874dd44,esESP,DF,Arsenal,20.0,1995.0,2015-2016,EPL
+Yohan Benalouane,8309b068,tnTUN,DF,Leicester City,28.0,1987.0,2015-2016,EPL
+Ryan Bennett,0bad4516,engENG,DF,Norwich City,25.0,1990.0,2015-2016,EPL
+Nabil Bentaleb,3189f61a,dzALG,MF,Tottenham Hotspur,20.0,1994.0,2015-2016,EPL
+Christian Benteke,ab070c55,beBEL,FW,Liverpool,24.0,1990.0,2015-2016,EPL
+Saido Berahino,25b166d0,biBDI,"FW,MF",West Bromwich Albion,21.0,1993.0,2015-2016,EPL
+Steven Berghuis,713c144a,nlNED,"FW,MF",Watford,23.0,1991.0,2015-2016,EPL
+Ryan Bertrand,01226327,engENG,"DF,MF",Southampton,25.0,1989.0,2015-2016,EPL
+Muhamed Bešić,7ca9f0f0,baBIH,"MF,DF",Everton,22.0,1992.0,2015-2016,EPL
+Mame Biram Diouf,7f4f3e49,snSEN,"FW,MF",Stoke City,27.0,1987.0,2015-2016,EPL
+Daley Blind,691bef82,nlNED,DF,Manchester Utd,25.0,1990.0,2015-2016,EPL
+Hiram Boateng,929917ce,engENG,"FW,MF",Crystal Palace,19.0,1996.0,2015-2016,EPL
+Ádám Bogdán,56f99ec7,huHUN,GK,Liverpool,27.0,1987.0,2015-2016,EPL
+Yannick Bolasie,715fc0fe,cdCOD,"MF,FW",Crystal Palace,26.0,1989.0,2015-2016,EPL
+Wilfried Bony,61abe9b6,ciCIV,FW,Manchester City,26.0,1988.0,2015-2016,EPL
+Fabio Borini,ef5b337e,itITA,"MF,FW",Sunderland,24.0,1991.0,2015-2016,EPL
+Cameron Borthwick-Jackson,ff61102d,engENG,DF,Manchester Utd,18.0,1997.0,2015-2016,EPL
+Artur Boruc,34ccf6fa,plPOL,GK,Bournemouth,35.0,1980.0,2015-2016,EPL
+Robbie Brady,96bb8cc2,ieIRL,"MF,DF",Norwich City,23.0,1992.0,2015-2016,EPL
+Cameron Brannagan,9220e731,engENG,MF,Liverpool,19.0,1996.0,2015-2016,EPL
+Miguel Britos,356a9a62,uyURU,DF,Watford,30.0,1985.0,2015-2016,EPL
+Leon Britton,b92dd711,engENG,MF,Swansea City,32.0,1982.0,2015-2016,EPL
+Wes Brown,659ccc97,engENG,DF,Sunderland,35.0,1979.0,2015-2016,EPL
+Tyias Browning,c4e180f0,cnCHN,DF,Everton,21.0,1994.0,2015-2016,EPL
+Chris Brunt,ec7e6ad1,nirNIR,"DF,MF",West Bromwich Albion,30.0,1984.0,2015-2016,EPL
+Mark Bunn,a6738b6c,engENG,GK,Aston Villa,30.0,1984.0,2015-2016,EPL
+Jack Butland,cc70a1d5,engENG,GK,Stoke City,22.0,1993.0,2015-2016,EPL
+Sam Byram,1bf811d4,engENG,DF,West Ham United,21.0,1993.0,2015-2016,EPL
+Willy Caballero,a179d516,arARG,GK,Manchester City,33.0,1981.0,2015-2016,EPL
+Yohan Cabaye,ad7b19ef,frFRA,MF,Crystal Palace,29.0,1986.0,2015-2016,EPL
+Gary Cahill,7914b9fe,engENG,DF,Chelsea,29.0,1985.0,2015-2016,EPL
+Geoff Cameron,1a160ea3,usUSA,"DF,MF",Stoke City,30.0,1985.0,2015-2016,EPL
+Fraizer Campbell,81d63375,engENG,FW,Crystal Palace,27.0,1987.0,2015-2016,EPL
+Joel Campbell,895ff3ca,crCRC,MF,Arsenal,23.0,1992.0,2015-2016,EPL
+Emre Can,a65ce836,deGER,"MF,DF",Liverpool,21.0,1994.0,2015-2016,EPL
+Sergi Canós,1137759d,esESP,"FW,MF",Liverpool,18.0,1997.0,2015-2016,EPL
+Étienne Capoue,5acc4a10,frFRA,MF,Watford,27.0,1988.0,2015-2016,EPL
+Juan Carlos Paredes,5d8c6afd,ecECU,"DF,MF",Watford,28.0,1987.0,2015-2016,EPL
+João Carlos Teixeira,601299e9,ptPOR,"FW,MF",Liverpool,22.0,1993.0,2015-2016,EPL
+Michael Carrick,ab7263c1,engENG,MF,Manchester Utd,34.0,1981.0,2015-2016,EPL
+Andy Carroll,b581987a,engENG,FW,West Ham United,26.0,1989.0,2015-2016,EPL
+Tom Carroll,5a1900a4,engENG,MF,Tottenham Hotspur,23.0,1992.0,2015-2016,EPL
+Craig Cathcart,89e4b358,nirNIR,DF,Watford,26.0,1989.0,2015-2016,EPL
+Lee Cattermole,538e77d5,engENG,MF,Sunderland,27.0,1988.0,2015-2016,EPL
+Steven Caulker,2592d9b5,slSLE,DF,Southampton,23.0,1991.0,2015-2016,EPL
+Steven Caulker,2592d9b5,slSLE,DF,Liverpool,23.0,1991.0,2015-2016,EPL
+Santi Cazorla,e2e9c250,esESP,MF,Arsenal,30.0,1984.0,2015-2016,EPL
+Petr Čech,71672fa0,czCZE,GK,Arsenal,33.0,1982.0,2015-2016,EPL
+Bersant Celina,3043d33f,xkKVX,"FW,MF",Manchester City,18.0,1996.0,2015-2016,EPL
+Nacer Chadli,5b54bf3b,beBEL,MF,Tottenham Hotspur,25.0,1989.0,2015-2016,EPL
+Marouane Chamakh,790ca5f3,maMAR,FW,Crystal Palace,31.0,1984.0,2015-2016,EPL
+Calum Chambers,dc6f5bdd,engENG,"MF,DF",Arsenal,20.0,1995.0,2015-2016,EPL
+James Chester,a772eba6,wlsWAL,DF,West Bromwich Albion,26.0,1989.0,2015-2016,EPL
+Pedro Chirivella,68a26d51,esESP,MF,Liverpool,18.0,1997.0,2015-2016,EPL
+Lee Chung-yong,49b05a83,krKOR,MF,Crystal Palace,27.0,1988.0,2015-2016,EPL
+Papiss Cissé,40f3ff51,snSEN,FW,Newcastle United,30.0,1985.0,2015-2016,EPL
+Aly Cissokho,83a2bb30,frFRA,DF,Aston Villa,27.0,1987.0,2015-2016,EPL
+Ciaran Clark,2b91cf8e,ieIRL,DF,Aston Villa,25.0,1989.0,2015-2016,EPL
+Jake Clarke-Salter,0df092d3,engENG,DF,Chelsea,17.0,1997.0,2015-2016,EPL
+Jordy Clasie,31c01b85,nlNED,MF,Southampton,24.0,1991.0,2015-2016,EPL
+Tom Cleverley,6cdd8245,engENG,MF,Everton,25.0,1989.0,2015-2016,EPL
+Gaël Clichy,450ad405,frFRA,DF,Manchester City,30.0,1985.0,2015-2016,EPL
+Nathaniel Clyne,0442183b,engENG,DF,Liverpool,24.0,1991.0,2015-2016,EPL
+Sebastián Coates,1fbbfbde,uyURU,DF,Sunderland,24.0,1990.0,2015-2016,EPL
+Jack Colback,963a9201,engENG,MF,Newcastle United,25.0,1989.0,2015-2016,EPL
+Séamus Coleman,0420d84f,ieIRL,DF,Everton,26.0,1988.0,2015-2016,EPL
+James Collins,c61f1719,wlsWAL,DF,West Ham United,31.0,1983.0,2015-2016,EPL
+Fabricio Coloccini,78b3399f,arARG,DF,Newcastle United,33.0,1982.0,2015-2016,EPL
+Callum Connolly,39ad0b72,engENG,"DF,MF",Everton,17.0,1997.0,2015-2016,EPL
+Steve Cook,3e5e4e63,engENG,DF,Bournemouth,24.0,1991.0,2015-2016,EPL
+Francis Coquelin,a6951bf8,frFRA,MF,Arsenal,24.0,1991.0,2015-2016,EPL
+Jack Cork,74e12f1e,engENG,MF,Swansea City,26.0,1989.0,2015-2016,EPL
+Diego Costa,a190d597,esESP,FW,Chelsea,26.0,1988.0,2015-2016,EPL
+Thibaut Courtois,1840e36d,beBEL,GK,Chelsea,23.0,1992.0,2015-2016,EPL
+Philippe Coutinho,0ef89a37,brBRA,"MF,FW",Liverpool,23.0,1992.0,2015-2016,EPL
+Aaron Cresswell,4f974391,engENG,DF,West Ham United,25.0,1989.0,2015-2016,EPL
+Peter Crouch,73d9bdc7,engENG,FW,Stoke City,34.0,1981.0,2015-2016,EPL
+Juan Cuadrado,0ab1f153,coCOL,"DF,FW",Chelsea,27.0,1988.0,2015-2016,EPL
+Josh Cullen,f6d7d690,ieIRL,"DF,MF",West Ham United,19.0,1996.0,2015-2016,EPL
+Charlie Daniels,9d107085,engENG,DF,Bournemouth,28.0,1986.0,2015-2016,EPL
+Scott Dann,52105203,engENG,DF,Crystal Palace,28.0,1987.0,2015-2016,EPL
+Karl Darlow,cde3309f,wlsWAL,GK,Newcastle United,24.0,1990.0,2015-2016,EPL
+Matteo Darmian,96e0490d,itITA,DF,Manchester Utd,25.0,1989.0,2015-2016,EPL
+Ben Davies,44781702,wlsWAL,DF,Tottenham Hotspur,22.0,1993.0,2015-2016,EPL
+Tom Davies,9228b07c,engENG,FW,Everton,17.0,1998.0,2015-2016,EPL
+Kelvin Davis,33b6ee02,engENG,GK,Southampton,38.0,1976.0,2015-2016,EPL
+Steven Davis,cf15bbb1,nirNIR,MF,Southampton,30.0,1985.0,2015-2016,EPL
+Craig Dawson,3e9e06cb,engENG,DF,West Bromwich Albion,25.0,1990.0,2015-2016,EPL
+Kevin De Bruyne,e46012d4,beBEL,MF,Manchester City,24.0,1991.0,2015-2016,EPL
+Ritchie De Laet,dc234f98,beBEL,DF,Leicester City,26.0,1988.0,2015-2016,EPL
+Mathieu Debuchy,92232aad,frFRA,DF,Arsenal,30.0,1985.0,2015-2016,EPL
+Troy Deeney,82e34b69,engENG,"FW,MF",Watford,27.0,1988.0,2015-2016,EPL
+Jermain Defoe,f1e8372d,engENG,FW,Sunderland,32.0,1982.0,2015-2016,EPL
+Damien Delaney,210d9ecb,ieIRL,DF,Crystal Palace,34.0,1981.0,2015-2016,EPL
+Fabian Delph,111c3236,engENG,MF,Manchester City,25.0,1989.0,2015-2016,EPL
+Mousa Dembélé,f7ee69fb,beBEL,MF,Tottenham Hotspur,28.0,1987.0,2015-2016,EPL
+Martín Demichelis,e9c7102a,arARG,DF,Manchester City,34.0,1980.0,2015-2016,EPL
+Gerard Deulofeu,39583cfd,esESP,"MF,FW",Everton,21.0,1994.0,2015-2016,EPL
+Alessandro Diamanti,cb5af1af,itITA,"FW,MF",Watford,32.0,1983.0,2015-2016,EPL
+Eric Dier,ac861941,engENG,MF,Tottenham Hotspur,21.0,1994.0,2015-2016,EPL
+Sylvain Distin,002d06bb,frFRA,DF,Bournemouth,37.0,1977.0,2015-2016,EPL
+Joe Dodoo,beed85c7,engENG,"FW,MF",Leicester City,20.0,1995.0,2015-2016,EPL
+Graham Dorrans,eeb032db,sctSCO,MF,Norwich City,28.0,1987.0,2015-2016,EPL
+Seydou Doumbia,c49afee6,ciCIV,FW,Newcastle United,27.0,1987.0,2015-2016,EPL
+Kieran Dowell,2f6ec02a,engENG,MF,Everton,17.0,1997.0,2015-2016,EPL
+Danny Drinkwater,2649ff32,engENG,MF,Leicester City,25.0,1990.0,2015-2016,EPL
+Paul Dummett,3fe6bd8c,wlsWAL,DF,Newcastle United,23.0,1991.0,2015-2016,EPL
+Nathan Dyer,6dfd5af0,engENG,"FW,MF",Swansea City,27.0,1987.0,2015-2016,EPL
+Nathan Dyer,6dfd5af0,engENG,"FW,MF",Leicester City,27.0,1987.0,2015-2016,EPL
+Éder,f0fc9d0e,ptPOR,FW,Swansea City,27.0,1987.0,2015-2016,EPL
+Rob Elliot,b1b25949,ieIRL,GK,Newcastle United,29.0,1986.0,2015-2016,EPL
+Mohamed Elneny,47a34c4f,egEGY,MF,Arsenal,23.0,1992.0,2015-2016,EPL
+Tommy Elphick,14caf5c9,engENG,DF,Bournemouth,27.0,1987.0,2015-2016,EPL
+Emmanuel Emenike,df6bcd09,ngNGA,"FW,MF",West Ham United,28.0,1987.0,2015-2016,EPL
+Marvin Emnes,a5900d91,nlNED,MF,Swansea City,27.0,1988.0,2015-2016,EPL
+Christian Eriksen,980522ec,dkDEN,MF,Tottenham Hotspur,23.0,1992.0,2015-2016,EPL
+Jonny Evans,f8fcd2a5,nirNIR,"DF,MF",West Bromwich Albion,27.0,1988.0,2015-2016,EPL
+Łukasz Fabiański,9328b835,plPOL,GK,Swansea City,30.0,1985.0,2015-2016,EPL
+Cesc Fàbregas,33508c78,esESP,MF,Chelsea,28.0,1987.0,2015-2016,EPL
+Radamel Falcao,66116290,coCOL,FW,Chelsea,29.0,1986.0,2015-2016,EPL
+Adam Federici,e5ea8be7,auAUS,GK,Bournemouth,30.0,1985.0,2015-2016,EPL
+Marouane Fellaini,87575fd9,beBEL,MF,Manchester Utd,27.0,1987.0,2015-2016,EPL
+Leroy Fer,3cefa66a,nlNED,MF,Swansea City,25.0,1990.0,2015-2016,EPL
+Federico Fernández,f25b010f,arARG,DF,Swansea City,26.0,1989.0,2015-2016,EPL
+Fernandinho,101da2b5,brBRA,MF,Manchester City,30.0,1985.0,2015-2016,EPL
+Fernando,41f32541,brBRA,MF,Manchester City,28.0,1987.0,2015-2016,EPL
+Sam Field,bd8a7d05,engENG,MF,West Bromwich Albion,17.0,1998.0,2015-2016,EPL
+Roberto Firmino,4c370d81,brBRA,"FW,MF",Liverpool,23.0,1991.0,2015-2016,EPL
+Mathieu Flamini,148d4105,frFRA,MF,Arsenal,31.0,1984.0,2015-2016,EPL
+Jon Flanagan,f2428fd4,engENG,DF,Liverpool,22.0,1993.0,2015-2016,EPL
+Darren Fletcher,184e4970,sctSCO,MF,West Bromwich Albion,31.0,1984.0,2015-2016,EPL
+Steven Fletcher,2c9c3502,sctSCO,FW,Sunderland,28.0,1987.0,2015-2016,EPL
+José Fonte,90f87966,ptPOR,DF,Southampton,31.0,1983.0,2015-2016,EPL
+Fraser Forster,c3e39f12,engENG,GK,Southampton,27.0,1988.0,2015-2016,EPL
+Ben Foster,d0b3ceb9,engENG,GK,West Bromwich Albion,32.0,1983.0,2015-2016,EPL
+Timothy Fosu-Mensah,a9142dc3,nlNED,DF,Manchester Utd,17.0,1998.0,2015-2016,EPL
+Simon Francis,1e0b6a73,engENG,DF,Bournemouth,30.0,1985.0,2015-2016,EPL
+Christian Fuchs,a67a09fb,atAUT,DF,Leicester City,29.0,1986.0,2015-2016,EPL
+Jay Fulton,434ad289,sctSCO,MF,Swansea City,21.0,1994.0,2015-2016,EPL
+Ramiro Funes Mori,89cbc961,arARG,DF,Everton,24.0,1991.0,2015-2016,EPL
+Brendan Galloway,321506b3,zwZIM,DF,Everton,19.0,1996.0,2015-2016,EPL
+Cristian Gamboa,f27680d9,crCRC,"DF,MF",West Bromwich Albion,25.0,1989.0,2015-2016,EPL
+Idrissa Gana Gueye,72c812f3,snSEN,MF,Aston Villa,25.0,1989.0,2015-2016,EPL
+Manu García,6ed1a2a2,esESP,"FW,MF",Manchester City,17.0,1998.0,2015-2016,EPL
+Craig Gardner,1117b9ff,engENG,MF,West Bromwich Albion,28.0,1986.0,2015-2016,EPL
+Dwight Gayle,e58a03c6,engENG,FW,Crystal Palace,24.0,1990.0,2015-2016,EPL
+Paulo Gazzaniga,63d17038,arARG,GK,Southampton,23.0,1992.0,2015-2016,EPL
+David de Gea,7ba6d84e,esESP,GK,Manchester Utd,24.0,1990.0,2015-2016,EPL
+Rudy Gestede,822b3ef9,bjBEN,FW,Aston Villa,26.0,1988.0,2015-2016,EPL
+Kieran Gibbs,46ee5234,engENG,"DF,MF",Arsenal,25.0,1989.0,2015-2016,EPL
+Darron Gibson,f0e72e1c,ieIRL,MF,Everton,27.0,1987.0,2015-2016,EPL
+Carles Gil,11c30a46,esESP,"FW,MF",Aston Villa,22.0,1992.0,2015-2016,EPL
+Marco van Ginkel,47681787,nlNED,MF,Stoke City,22.0,1992.0,2015-2016,EPL
+Olivier Giroud,16ceb862,frFRA,FW,Arsenal,28.0,1986.0,2015-2016,EPL
+Shay Given,0db918ff,ieIRL,GK,Stoke City,39.0,1976.0,2015-2016,EPL
+Serge Gnabry,88e357ef,deGER,"FW,MF",West Bromwich Albion,20.0,1995.0,2015-2016,EPL
+Heurelho Gomes,d596e193,brBRA,GK,Watford,34.0,1981.0,2015-2016,EPL
+Joe Gomez,7a11550b,engENG,"DF,MF",Liverpool,18.0,1997.0,2015-2016,EPL
+Jordi Gómez,d92b0327,esESP,MF,Sunderland,30.0,1985.0,2015-2016,EPL
+Bafétimbi Gomis,3d6686f9,frFRA,FW,Swansea City,29.0,1985.0,2015-2016,EPL
+Dan Gosling,7fec31a0,engENG,MF,Bournemouth,25.0,1990.0,2015-2016,EPL
+Yoan Gouffran,a28d181a,frFRA,MF,Newcastle United,29.0,1986.0,2015-2016,EPL
+Lewis Grabban,1a857282,engENG,FW,Norwich City,27.0,1988.0,2015-2016,EPL
+Lewis Grabban,1a857282,engENG,FW,Bournemouth,27.0,1988.0,2015-2016,EPL
+Max Gradel,c5a500ca,ciCIV,MF,Bournemouth,27.0,1987.0,2015-2016,EPL
+Danny Graham,7d7bdee6,engENG,FW,Sunderland,29.0,1985.0,2015-2016,EPL
+Demarai Gray,4468ec10,jmJAM,MF,Leicester City,19.0,1996.0,2015-2016,EPL
+Jack Grealish,b0b4fd3e,engENG,"MF,FW",Aston Villa,19.0,1995.0,2015-2016,EPL
+André Green,6e287b7a,engENG,"FW,MF",Aston Villa,17.0,1998.0,2015-2016,EPL
+Rees Greenwood,e5e459d4,engENG,MF,Sunderland,18.0,1996.0,2015-2016,EPL
+Matt Grimes,81a487b9,engENG,DF,Swansea City,20.0,1995.0,2015-2016,EPL
+Adlène Guedioura,f75825e3,dzALG,MF,Watford,29.0,1985.0,2015-2016,EPL
+Brad Guzan,d899e3bf,usUSA,GK,Aston Villa,30.0,1984.0,2015-2016,EPL
+Massadio Haïdara,5167c97e,mlMLI,DF,Newcastle United,22.0,1992.0,2015-2016,EPL
+Brede Hangeland,7cbeb80c,noNOR,DF,Crystal Palace,34.0,1981.0,2015-2016,EPL
+Joe Hart,cb4f24c6,engENG,GK,Manchester City,28.0,1987.0,2015-2016,EPL
+Jakob Haugaard,142741bb,dkDEN,GK,Stoke City,23.0,1992.0,2015-2016,EPL
+Eden Hazard,a39bb753,beBEL,"MF,FW",Chelsea,24.0,1991.0,2015-2016,EPL
+Jordan Henderson,935e6b8f,engENG,MF,Liverpool,25.0,1990.0,2015-2016,EPL
+Wayne Hennessey,76eca7e2,wlsWAL,GK,Crystal Palace,28.0,1987.0,2015-2016,EPL
+Rushian Hepburn-Murphy,1e2012a6,engENG,FW,Aston Villa,16.0,1998.0,2015-2016,EPL
+Javier Hernández,189cee7b,mxMEX,FW,Manchester Utd,27.0,1988.0,2015-2016,EPL
+Ander Herrera,436a9dd0,esESP,MF,Manchester Utd,25.0,1989.0,2015-2016,EPL
+Son Heung-min,92e7e919,krKOR,MF,Tottenham Hotspur,23.0,1992.0,2015-2016,EPL
+Tony Hibbert,c878c4bf,engENG,DF,Everton,34.0,1981.0,2015-2016,EPL
+José Holebas,12aa7661,grGRE,DF,Watford,31.0,1984.0,2015-2016,EPL
+George Honeyman,84afeaff,engENG,MF,Sunderland,20.0,1994.0,2015-2016,EPL
+Wes Hoolahan,5236a502,ieIRL,MF,Norwich City,33.0,1982.0,2015-2016,EPL
+Gary Hooper,b73ce4ba,engENG,FW,Norwich City,27.0,1988.0,2015-2016,EPL
+Tim Howard,c444465e,usUSA,GK,Everton,36.0,1979.0,2015-2016,EPL
+Jonny Howson,08b10f50,engENG,MF,Norwich City,27.0,1988.0,2015-2016,EPL
+Robert Huth,0bd1ea64,deGER,DF,Leicester City,30.0,1984.0,2015-2016,EPL
+Alan Hutton,688ae34c,sctSCO,DF,Aston Villa,30.0,1984.0,2015-2016,EPL
+Víctor Ibarbo,552d1e41,coCOL,"FW,MF",Watford,25.0,1990.0,2015-2016,EPL
+Jordon Ibe,9f736ed2,engENG,"MF,FW",Liverpool,19.0,1995.0,2015-2016,EPL
+Odion Ighalo,03622183,ngNGA,"FW,MF",Watford,26.0,1989.0,2015-2016,EPL
+Kelechi Iheanacho,c92e1a31,ngNGA,"FW,MF",Manchester City,18.0,1996.0,2015-2016,EPL
+Giannelli Imbula,b86fe156,cdCOD,MF,Stoke City,22.0,1992.0,2015-2016,EPL
+Danny Ings,07802f7f,engENG,FW,Liverpool,23.0,1992.0,2015-2016,EPL
+Gökhan Inler,3200c583,chSUI,MF,Leicester City,31.0,1984.0,2015-2016,EPL
+Stephen Ireland,bcf30f17,ieIRL,MF,Stoke City,28.0,1986.0,2015-2016,EPL
+Juan Iturbe,2c0fbaf5,pyPAR,"FW,MF",Bournemouth,22.0,1993.0,2015-2016,EPL
+Branislav Ivanović,85f8571a,rsSRB,DF,Chelsea,31.0,1984.0,2015-2016,EPL
+Alex Iwobi,6ca5ec4b,ngNGA,"MF,FW",Arsenal,19.0,1996.0,2015-2016,EPL
+Phil Jagielka,3233eefd,engENG,DF,Everton,32.0,1982.0,2015-2016,EPL
+Daryl Janmaat,45da6694,nlNED,DF,Newcastle United,26.0,1989.0,2015-2016,EPL
+Adnan Januzaj,4737cebe,beBEL,MF,Manchester Utd,20.0,1995.0,2015-2016,EPL
+Matthew Jarvis,02d6d2b4,engENG,MF,Norwich City,29.0,1986.0,2015-2016,EPL
+Matthew Jarvis,02d6d2b4,engENG,MF,West Ham United,29.0,1986.0,2015-2016,EPL
+Mile Jedinak,22fd2214,auAUS,MF,Crystal Palace,30.0,1984.0,2015-2016,EPL
+Nikica Jelavić,1a29f38c,hrCRO,FW,West Ham United,29.0,1985.0,2015-2016,EPL
+Carl Jenkinson,874125a3,engENG,DF,West Ham United,23.0,1992.0,2015-2016,EPL
+Cameron Jerome,680fb5ee,engENG,"FW,MF",Norwich City,28.0,1986.0,2015-2016,EPL
+Adam Johnson,1ba61951,engENG,MF,Sunderland,28.0,1987.0,2015-2016,EPL
+Bradley Johnson,e0d9bbbe,engENG,MF,Norwich City,28.0,1987.0,2015-2016,EPL
+Glen Johnson,8cceca90,engENG,DF,Stoke City,30.0,1984.0,2015-2016,EPL
+Billy Jones,aa3cb1ad,engENG,DF,Sunderland,28.0,1987.0,2015-2016,EPL
+Phil Jones,def899bd,engENG,DF,Manchester Utd,23.0,1992.0,2015-2016,EPL
+Siem de Jong,cf2a6ace,nlNED,MF,Newcastle United,26.0,1989.0,2015-2016,EPL
+Joselu,6265208f,esESP,FW,Stoke City,25.0,1990.0,2015-2016,EPL
+Juanmi,84399660,esESP,"FW,MF",Southampton,22.0,1993.0,2015-2016,EPL
+Younès Kaboul,3680d723,frFRA,DF,Sunderland,29.0,1986.0,2015-2016,EPL
+Sullay Kaikai,fc166e49,slSLE,"FW,MF",Crystal Palace,19.0,1995.0,2015-2016,EPL
+Harry Kane,21a66f6a,engENG,FW,Tottenham Hotspur,22.0,1993.0,2015-2016,EPL
+N'Golo Kanté,b9fbae28,frFRA,MF,Leicester City,24.0,1991.0,2015-2016,EPL
+Will Keane,fc7f8f87,ieIRL,"FW,MF",Manchester Utd,22.0,1993.0,2015-2016,EPL
+Martin Kelly,d7492450,engENG,DF,Crystal Palace,25.0,1990.0,2015-2016,EPL
+Kenedy,5eebbfdf,brBRA,"DF,MF",Chelsea,19.0,1996.0,2015-2016,EPL
+Jonjoe Kenny,099e666f,engENG,"DF,FW",Everton,18.0,1997.0,2015-2016,EPL
+Yann Kermorgant,0172d6cc,frFRA,FW,Bournemouth,33.0,1981.0,2015-2016,EPL
+Wahbi Khazri,2677a1de,tnTUN,MF,Sunderland,24.0,1991.0,2015-2016,EPL
+Andy King,d790907f,wlsWAL,MF,Leicester City,26.0,1988.0,2015-2016,EPL
+Joshua King,43458538,noNOR,"FW,MF",Bournemouth,23.0,1992.0,2015-2016,EPL
+Stephen Kingsley,488cc9c7,sctSCO,DF,Swansea City,21.0,1994.0,2015-2016,EPL
+Jan Kirchhoff,a14d04e3,deGER,MF,Sunderland,24.0,1990.0,2015-2016,EPL
+Timm Klose,5f1d07f6,chSUI,DF,Norwich City,27.0,1988.0,2015-2016,EPL
+Aleksandar Kolarov,eda40760,rsSRB,DF,Manchester City,29.0,1985.0,2015-2016,EPL
+Vincent Kompany,d2bff301,beBEL,DF,Manchester City,29.0,1986.0,2015-2016,EPL
+Arouna Koné,f9a72ca4,ciCIV,"MF,FW",Everton,31.0,1983.0,2015-2016,EPL
+Lamine Koné,a46472d0,ciCIV,DF,Sunderland,26.0,1989.0,2015-2016,EPL
+Laurent Koscielny,f5efb153,frFRA,DF,Arsenal,29.0,1985.0,2015-2016,EPL
+Cheikhou Kouyaté,8d3c902d,snSEN,MF,West Ham United,25.0,1989.0,2015-2016,EPL
+Libor Kozák,979d0640,czCZE,FW,Aston Villa,26.0,1989.0,2015-2016,EPL
+Andrej Kramarić,603cb947,hrCRO,"FW,MF",Leicester City,24.0,1991.0,2015-2016,EPL
+Bojan Krkić,9fa0a0b8,esESP,"MF,FW",Stoke City,24.0,1990.0,2015-2016,EPL
+Tim Krul,f23f9d20,nlNED,GK,Newcastle United,27.0,1988.0,2015-2016,EPL
+Kyle Lafferty,3bf81c50,nirNIR,FW,Norwich City,27.0,1987.0,2015-2016,EPL
+Adam Lallana,99813635,engENG,"MF,FW",Liverpool,27.0,1988.0,2015-2016,EPL
+Rickie Lambert,495de82c,engENG,FW,West Bromwich Albion,33.0,1982.0,2015-2016,EPL
+Érik Lamela,abe66106,arARG,MF,Tottenham Hotspur,23.0,1992.0,2015-2016,EPL
+Manuel Lanzini,26f6dca8,arARG,MF,West Ham United,22.0,1993.0,2015-2016,EPL
+Sebastian Larsson,b26efc36,seSWE,MF,Sunderland,30.0,1985.0,2015-2016,EPL
+Jamaal Lascelles,450ab6fc,engENG,DF,Newcastle United,21.0,1993.0,2015-2016,EPL
+Miguel Layún,ad6295d4,mxMEX,"MF,DF",Watford,27.0,1988.0,2015-2016,EPL
+Joe Ledley,c221f149,wlsWAL,MF,Crystal Palace,28.0,1987.0,2015-2016,EPL
+Lucas Leiva,4c78b5ed,brBRA,"MF,DF",Liverpool,28.0,1987.0,2015-2016,EPL
+Jonathan Leko,76b5cbbd,engENG,MF,West Bromwich Albion,16.0,1999.0,2015-2016,EPL
+Aaron Lennon,2ff964a0,engENG,"MF,FW",Everton,28.0,1987.0,2015-2016,EPL
+Jeremain Lens,6f1721f0,nlNED,"MF,FW",Sunderland,27.0,1987.0,2015-2016,EPL
+Joleon Lescott,62393d3b,engENG,DF,West Bromwich Albion,32.0,1982.0,2015-2016,EPL
+Joleon Lescott,62393d3b,engENG,DF,Aston Villa,32.0,1982.0,2015-2016,EPL
+Jesse Lingard,810e3c74,engENG,MF,Manchester Utd,22.0,1992.0,2015-2016,EPL
+Hugo Lloris,8f62b6ee,frFRA,GK,Tottenham Hotspur,28.0,1986.0,2015-2016,EPL
+Ruben Loftus-Cheek,e97fd090,engENG,MF,Chelsea,19.0,1996.0,2015-2016,EPL
+Shane Long,9f472354,ieIRL,"FW,MF",Southampton,28.0,1987.0,2015-2016,EPL
+Donald Love,160599ed,sctSCO,"DF,MF",Manchester Utd,20.0,1994.0,2015-2016,EPL
+Dejan Lovren,1a2935f6,hrCRO,DF,Liverpool,26.0,1989.0,2015-2016,EPL
+Romelu Lukaku,5eae500a,beBEL,FW,Everton,22.0,1993.0,2015-2016,EPL
+Jordan Lyden,f246a2a8,auAUS,"MF,DF",Aston Villa,19.0,1996.0,2015-2016,EPL
+Yann M'Vila,d4133fa1,frFRA,MF,Sunderland,25.0,1990.0,2015-2016,EPL
+Shaun MacDonald,fdcff59c,wlsWAL,MF,Bournemouth,27.0,1988.0,2015-2016,EPL
+Riyad Mahrez,892d5bb1,dzALG,MF,Leicester City,24.0,1991.0,2015-2016,EPL
+Modibo Maïga,a546477d,mlMLI,"FW,MF",West Ham United,27.0,1987.0,2015-2016,EPL
+Sadio Mané,c691bfe2,snSEN,"MF,FW",Southampton,23.0,1992.0,2015-2016,EPL
+Eliaquim Mangala,f520049f,frFRA,DF,Manchester City,24.0,1991.0,2015-2016,EPL
+Vito Mannone,c4173f1a,itITA,GK,Sunderland,27.0,1988.0,2015-2016,EPL
+José Manuel Jurado,71d4e271,esESP,MF,Watford,29.0,1986.0,2015-2016,EPL
+Adrian Mariappa,8aa5f52c,jmJAM,DF,Crystal Palace,28.0,1986.0,2015-2016,EPL
+Anthony Martial,8b788c01,frFRA,"MF,FW",Manchester Utd,19.0,1995.0,2015-2016,EPL
+Russell Martin,24952f1e,sctSCO,DF,Norwich City,29.0,1986.0,2015-2016,EPL
+Cuco Martina,22551915,cwCUW,DF,Southampton,25.0,1989.0,2015-2016,EPL
+Ryan Mason,c8fac933,engENG,MF,Tottenham Hotspur,24.0,1991.0,2015-2016,EPL
+Juan Mata,29733c72,esESP,MF,Manchester Utd,27.0,1988.0,2015-2016,EPL
+Nemanja Matić,eb7822d7,rsSRB,MF,Chelsea,26.0,1988.0,2015-2016,EPL
+Adam Matthews,d8bffa70,wlsWAL,"DF,MF",Sunderland,23.0,1992.0,2015-2016,EPL
+Kevin Mbabu,493924a7,chSUI,DF,Newcastle United,20.0,1995.0,2015-2016,EPL
+Chancel Mbemba,e76cb9cc,cdCOD,DF,Newcastle United,20.0,1994.0,2015-2016,EPL
+Dieumerci Mbokani,d9847696,cdCOD,FW,Norwich City,29.0,1985.0,2015-2016,EPL
+James McArthur,cee31595,sctSCO,MF,Crystal Palace,27.0,1987.0,2015-2016,EPL
+Gareth McAuley,ac7d7378,nirNIR,DF,West Bromwich Albion,35.0,1979.0,2015-2016,EPL
+Alex McCarthy,36c2ca73,engENG,GK,Crystal Palace,25.0,1989.0,2015-2016,EPL
+James McCarthy,64b08de7,ieIRL,MF,Everton,24.0,1990.0,2015-2016,EPL
+James McClean,53538b39,ieIRL,"MF,FW",West Bromwich Albion,26.0,1989.0,2015-2016,EPL
+Callum McManaman,1a5dbcc2,engENG,MF,West Bromwich Albion,24.0,1991.0,2015-2016,EPL
+Paddy McNair,8ac454b5,nirNIR,DF,Manchester Utd,20.0,1995.0,2015-2016,EPL
+Memphis,8f696594,nlNED,MF,Manchester Utd,21.0,1994.0,2015-2016,EPL
+Per Mertesacker,5be28712,deGER,DF,Arsenal,30.0,1984.0,2015-2016,EPL
+Matt Miazga,9fc0f253,usUSA,DF,Chelsea,20.0,1995.0,2015-2016,EPL
+Simon Mignolet,d436eb94,beBEL,GK,Liverpool,27.0,1988.0,2015-2016,EPL
+James Milner,2f90f6b8,engENG,"MF,FW",Liverpool,29.0,1986.0,2015-2016,EPL
+Tyrone Mings,8397a50c,engENG,DF,Bournemouth,22.0,1993.0,2015-2016,EPL
+Kevin Mirallas,aa51343f,beBEL,"MF,FW",Everton,27.0,1987.0,2015-2016,EPL
+Aleksandar Mitrović,3925dbd6,rsSRB,FW,Newcastle United,20.0,1994.0,2015-2016,EPL
+Nacho Monreal,d4cb83cc,esESP,DF,Arsenal,29.0,1986.0,2015-2016,EPL
+Jefferson Montero,fa6561bf,ecECU,"MF,FW",Swansea City,25.0,1989.0,2015-2016,EPL
+Alberto Moreno,11b9265b,esESP,DF,Liverpool,23.0,1992.0,2015-2016,EPL
+Wes Morgan,80c31c97,jmJAM,DF,Leicester City,31.0,1984.0,2015-2016,EPL
+James Morrison,21a66e33,sctSCO,MF,West Bromwich Albion,29.0,1986.0,2015-2016,EPL
+Victor Moses,e726e11e,ngNGA,"MF,FW",West Ham United,24.0,1990.0,2015-2016,EPL
+Youssouf Mulumbu,a275b145,cdCOD,MF,Norwich City,28.0,1987.0,2015-2016,EPL
+Marc Muniesa,4db76f57,esESP,DF,Stoke City,23.0,1992.0,2015-2016,EPL
+Glenn Murray,f2f29dda,engENG,FW,Crystal Palace,31.0,1983.0,2015-2016,EPL
+Glenn Murray,f2f29dda,engENG,FW,Bournemouth,31.0,1983.0,2015-2016,EPL
+Jordon Mutch,37c408cc,engENG,MF,Crystal Palace,23.0,1991.0,2015-2016,EPL
+Boaz Myhill,7ca2d989,wlsWAL,GK,West Bromwich Albion,32.0,1982.0,2015-2016,EPL
+Dame N'Doye,4574720b,snSEN,"MF,FW",Sunderland,30.0,1985.0,2015-2016,EPL
+Clinton N'Jie,77f278a0,cmCMR,"FW,MF",Tottenham Hotspur,21.0,1993.0,2015-2016,EPL
+Charles N'Zogbia,4e31f3e2,frFRA,"DF,FW",Aston Villa,29.0,1986.0,2015-2016,EPL
+Steven Naismith,5e98c186,sctSCO,MF,Norwich City,28.0,1986.0,2015-2016,EPL
+Steven Naismith,5e98c186,sctSCO,MF,Everton,28.0,1986.0,2015-2016,EPL
+Samir Nasri,165bed61,frFRA,"MF,FW",Manchester City,28.0,1987.0,2015-2016,EPL
+Kyle Naughton,e860c42f,engENG,DF,Swansea City,26.0,1988.0,2015-2016,EPL
+Jesús Navas,3f10bd22,esESP,MF,Manchester City,29.0,1985.0,2015-2016,EPL
+Oumar Niasse,af721f98,snSEN,"MF,FW",Everton,25.0,1990.0,2015-2016,EPL
+Mark Noble,ff527768,engENG,MF,West Ham United,28.0,1987.0,2015-2016,EPL
+Kevin Nolan,3d307105,engENG,MF,West Ham United,33.0,1982.0,2015-2016,EPL
+Kristoffer Nordfeldt,78549904,seSWE,GK,Swansea City,26.0,1989.0,2015-2016,EPL
+Allan Nyom,97572117,cmCMR,DF,Watford,27.0,1988.0,2015-2016,EPL
+Eunan O'Kane,b7f8b1fc,ieIRL,MF,Bournemouth,25.0,1990.0,2015-2016,EPL
+Gary O'Neil,754d4ac4,engENG,MF,Norwich City,32.0,1983.0,2015-2016,EPL
+John O'Shea,7c1f4685,ieIRL,DF,Sunderland,34.0,1981.0,2015-2016,EPL
+Gabriel Obertan,adc264a8,frFRA,MF,Newcastle United,26.0,1989.0,2015-2016,EPL
+John Obi Mikel,424d5f72,ngNGA,"MF,DF",Chelsea,28.0,1987.0,2015-2016,EPL
+Pedro Obiang,ba1e04b3,gqEQG,MF,West Ham United,23.0,1992.0,2015-2016,EPL
+Peter Odemwingie,b16150ac,ngNGA,FW,Stoke City,34.0,1981.0,2015-2016,EPL
+Vadis Odjidja-Ofoe,518918ad,beBEL,MF,Norwich City,26.0,1989.0,2015-2016,EPL
+Angelo Ogbonna,74b2cd7e,itITA,DF,West Ham United,27.0,1988.0,2015-2016,EPL
+Sheyi Ojo,7b9a86e6,engENG,"MF,FW",Liverpool,18.0,1997.0,2015-2016,EPL
+Shinji Okazaki,68796d61,jpJPN,"FW,MF",Leicester City,29.0,1986.0,2015-2016,EPL
+Jores Okore,bd7138e5,dkDEN,DF,Aston Villa,22.0,1992.0,2015-2016,EPL
+Jonas Olsson,48844a9b,seSWE,DF,West Bromwich Albion,32.0,1983.0,2015-2016,EPL
+Martin Olsson,2f72f79e,seSWE,DF,Norwich City,27.0,1988.0,2015-2016,EPL
+Josh Onomah,6612cd8c,engENG,"FW,MF",Tottenham Hotspur,18.0,1997.0,2015-2016,EPL
+Divock Origi,43a166b4,beBEL,FW,Liverpool,20.0,1995.0,2015-2016,EPL
+Oscar,57fe98dd,brBRA,MF,Chelsea,23.0,1991.0,2015-2016,EPL
+Leon Osman,a014c247,engENG,"MF,FW",Everton,34.0,1981.0,2015-2016,EPL
+David Ospina,82b1198a,coCOL,GK,Arsenal,26.0,1988.0,2015-2016,EPL
+Nicolás Otamendi,0d267745,arARG,DF,Manchester City,27.0,1988.0,2015-2016,EPL
+Obbi Oulare,9e49c320,beBEL,FW,Watford,19.0,1996.0,2015-2016,EPL
+Bryan Oviedo,31faf295,crCRC,DF,Everton,25.0,1990.0,2015-2016,EPL
+Reece Oxford,8b6e0db2,engENG,"MF,DF",West Ham United,16.0,1998.0,2015-2016,EPL
+Alex Oxlade-Chamberlain,38c7feef,engENG,MF,Arsenal,21.0,1993.0,2015-2016,EPL
+Mesut Özil,16380240,deGER,MF,Arsenal,26.0,1988.0,2015-2016,EPL
+Alberto Paloschi,b5cae4e6,itITA,"FW,MF",Swansea City,25.0,1990.0,2015-2016,EPL
+Costel Pantilimon,d24e154c,roROU,GK,Sunderland,28.0,1987.0,2015-2016,EPL
+Alexandre Pato,7dd83c7d,brBRA,FW,Chelsea,25.0,1989.0,2015-2016,EPL
+Gabriel Paulista,b7ca5c51,brBRA,DF,Arsenal,24.0,1990.0,2015-2016,EPL
+Dimitri Payet,58ae47b2,frFRA,"FW,MF",West Ham United,28.0,1987.0,2015-2016,EPL
+Pedro,3ca7254a,esESP,MF,Chelsea,28.0,1987.0,2015-2016,EPL
+Graziano Pellè,9654d8de,itITA,FW,Southampton,30.0,1985.0,2015-2016,EPL
+Matthew Pennington,0ff967f7,engENG,DF,Everton,20.0,1994.0,2015-2016,EPL
+Andreas Pereira,6639e500,brBRA,MF,Manchester Utd,19.0,1996.0,2015-2016,EPL
+Ayoze Pérez,819aa8e7,esESP,"MF,FW",Newcastle United,22.0,1993.0,2015-2016,EPL
+Jordan Pickford,4806ec67,engENG,GK,Sunderland,21.0,1994.0,2015-2016,EPL
+Steven Pienaar,8056f6e6,zaRSA,MF,Everton,33.0,1982.0,2015-2016,EPL
+Erik Pieters,1ef37668,nlNED,DF,Stoke City,26.0,1988.0,2015-2016,EPL
+Ivo Pinto,8d82551b,ptPOR,DF,Norwich City,25.0,1990.0,2015-2016,EPL
+Sébastien Pocognoli,cc41eec1,beBEL,"DF,MF",West Bromwich Albion,27.0,1987.0,2015-2016,EPL
+Nick Powell,05ca4fcb,engENG,"FW,MF",Manchester Utd,21.0,1994.0,2015-2016,EPL
+Alex Pritchard,ff9fcd4d,engENG,"FW,MF",Tottenham Hotspur,22.0,1993.0,2015-2016,EPL
+Alex Pritchard,ff9fcd4d,engENG,"FW,MF",West Bromwich Albion,22.0,1993.0,2015-2016,EPL
+Sebastian Prödl,f5e6d08d,atAUT,DF,Watford,28.0,1987.0,2015-2016,EPL
+Marc Pugh,9aacb284,engENG,MF,Bournemouth,28.0,1987.0,2015-2016,EPL
+Jason Puncheon,fd3f57ce,engENG,"MF,FW",Crystal Palace,29.0,1986.0,2015-2016,EPL
+Baba Rahman,e4086af3,ghGHA,DF,Chelsea,21.0,1994.0,2015-2016,EPL
+Ramires,4cce2c67,brBRA,MF,Chelsea,28.0,1987.0,2015-2016,EPL
+Gastón Ramírez,2c851997,uyURU,"FW,MF",Southampton,24.0,1990.0,2015-2016,EPL
+Aaron Ramsey,ef619b0b,wlsWAL,MF,Arsenal,24.0,1990.0,2015-2016,EPL
+Connor Randall,412e1445,engENG,DF,Liverpool,19.0,1995.0,2015-2016,EPL
+Darren Randolph,6385ebfb,ieIRL,GK,West Ham United,28.0,1987.0,2015-2016,EPL
+Àngel Rangel,93ee387c,esESP,DF,Swansea City,32.0,1982.0,2015-2016,EPL
+Tokelo Rantie,7ef25942,zaRSA,FW,Bournemouth,24.0,1990.0,2015-2016,EPL
+Marcus Rashford,a1d5bd30,engENG,FW,Manchester Utd,17.0,1997.0,2015-2016,EPL
+Nathan Redmond,ab651565,engENG,MF,Norwich City,21.0,1994.0,2015-2016,EPL
+Harrison Reed,803ae100,engENG,MF,Southampton,20.0,1995.0,2015-2016,EPL
+Winston Reid,562eed5c,nzNZL,DF,West Ham United,27.0,1988.0,2015-2016,EPL
+Loïc Rémy,5c2da10f,frFRA,FW,Chelsea,28.0,1987.0,2015-2016,EPL
+Micah Richards,ff87875a,engENG,DF,Aston Villa,27.0,1988.0,2015-2016,EPL
+Kieran Richardson,d2bf40b4,engENG,"DF,MF",Aston Villa,30.0,1984.0,2015-2016,EPL
+Matt Ritchie,71ef519e,sctSCO,MF,Bournemouth,25.0,1989.0,2015-2016,EPL
+Emmanuel Rivière,2bae5658,frFRA,FW,Newcastle United,25.0,1990.0,2015-2016,EPL
+Patrick Roberts,59d93937,engENG,"FW,MF",Manchester City,18.0,1997.0,2015-2016,EPL
+Tyler Roberts,6c17e046,wlsWAL,"FW,MF",West Bromwich Albion,16.0,1999.0,2015-2016,EPL
+Joel Robles,cda0b317,esESP,GK,Everton,25.0,1990.0,2015-2016,EPL
+Thomas Robson,a18298ff,engENG,DF,Sunderland,19.0,1995.0,2015-2016,EPL
+Jay Rodriguez,4ab53cdb,engENG,"MF,FW",Southampton,26.0,1989.0,2015-2016,EPL
+Jack Rodwell,a07579ee,engENG,MF,Sunderland,24.0,1991.0,2015-2016,EPL
+Marcos Rojo,e0991c04,arARG,DF,Manchester Utd,25.0,1990.0,2015-2016,EPL
+Sergio Romero,1e26e376,arARG,GK,Manchester Utd,28.0,1987.0,2015-2016,EPL
+Oriol Romeu,4b511457,esESP,MF,Southampton,23.0,1991.0,2015-2016,EPL
+Salomón Rondón,b318a643,veVEN,FW,West Bromwich Albion,25.0,1989.0,2015-2016,EPL
+Wayne Rooney,f07be45a,engENG,"FW,MF",Manchester Utd,29.0,1985.0,2015-2016,EPL
+Danny Rose,89d10e53,engENG,DF,Tottenham Hotspur,25.0,1990.0,2015-2016,EPL
+Jordan Rossiter,0e459095,engENG,MF,Liverpool,18.0,1997.0,2015-2016,EPL
+Wayne Routledge,1d387eee,engENG,"MF,FW",Swansea City,30.0,1985.0,2015-2016,EPL
+Declan Rudd,42f4f848,engENG,GK,Norwich City,24.0,1991.0,2015-2016,EPL
+John Ruddy,da8b19e2,engENG,GK,Norwich City,28.0,1986.0,2015-2016,EPL
+Bacary Sagna,6ef56efd,frFRA,DF,Manchester City,32.0,1983.0,2015-2016,EPL
+Henri Saivet,f3709655,snSEN,MF,Newcastle United,24.0,1990.0,2015-2016,EPL
+Diafra Sakho,57c433c8,snSEN,FW,West Ham United,25.0,1989.0,2015-2016,EPL
+Mamadou Sakho,87935cf3,frFRA,DF,Liverpool,25.0,1990.0,2015-2016,EPL
+Bakary Sako,381d7d54,mlMLI,"MF,FW",Crystal Palace,27.0,1988.0,2015-2016,EPL
+Alexis Sánchez,2c0f8e9e,clCHI,MF,Arsenal,26.0,1988.0,2015-2016,EPL
+Carlos Sánchez,50b51fac,coCOL,MF,Aston Villa,29.0,1986.0,2015-2016,EPL
+Sandro,c1c2c925,brBRA,MF,West Bromwich Albion,26.0,1989.0,2015-2016,EPL
+Jeffrey Schlupp,3312f911,ghGHA,"DF,MF",Leicester City,22.0,1992.0,2015-2016,EPL
+Kasper Schmeichel,53af52f3,dkDEN,GK,Leicester City,28.0,1986.0,2015-2016,EPL
+Morgan Schneiderlin,51b41c5c,frFRA,MF,Manchester Utd,25.0,1989.0,2015-2016,EPL
+Bastian Schweinsteiger,ccc22fea,deGER,MF,Manchester Utd,30.0,1984.0,2015-2016,EPL
+Stéphane Sessègnon,35c5f9b1,bjBEN,"MF,FW",West Bromwich Albion,31.0,1984.0,2015-2016,EPL
+Xherdan Shaqiri,6421ec64,chSUI,MF,Stoke City,23.0,1991.0,2015-2016,EPL
+Luke Shaw,9c94165b,engENG,DF,Manchester Utd,20.0,1995.0,2015-2016,EPL
+Ryan Shawcross,285a3d44,engENG,DF,Stoke City,27.0,1987.0,2015-2016,EPL
+Jonjo Shelvey,3727dd3c,engENG,MF,Newcastle United,23.0,1992.0,2015-2016,EPL
+Jonjo Shelvey,3727dd3c,engENG,MF,Swansea City,23.0,1992.0,2015-2016,EPL
+Steve Sidwell,ed083afd,engENG,MF,Stoke City,32.0,1982.0,2015-2016,EPL
+Gylfi Sigurðsson,76dd1480,isISL,"MF,FW",Swansea City,25.0,1989.0,2015-2016,EPL
+David Silva,e2716bd0,esESP,MF,Manchester City,29.0,1986.0,2015-2016,EPL
+Danny Simpson,3201b03d,engENG,DF,Leicester City,28.0,1987.0,2015-2016,EPL
+Scott Sinclair,273c483b,engENG,"FW,MF",Aston Villa,26.0,1989.0,2015-2016,EPL
+Moussa Sissoko,2acd49b9,frFRA,MF,Newcastle United,25.0,1989.0,2015-2016,EPL
+Martin Škrtel,defb905a,skSVK,DF,Liverpool,30.0,1984.0,2015-2016,EPL
+Chris Smalling,b6964eb6,engENG,DF,Manchester Utd,25.0,1989.0,2015-2016,EPL
+Adam Smith,20b104bc,engENG,DF,Bournemouth,24.0,1991.0,2015-2016,EPL
+Brad Smith,c76c717c,auAUS,DF,Liverpool,21.0,1994.0,2015-2016,EPL
+Cédric Soares,839c14e1,ptPOR,"DF,MF",Southampton,23.0,1991.0,2015-2016,EPL
+Alexandre Song,1c32281d,cmCMR,MF,West Ham United,27.0,1987.0,2015-2016,EPL
+Pape Souaré,46b5375e,snSEN,DF,Crystal Palace,25.0,1990.0,2015-2016,EPL
+Julián Speroni,8e65a5e5,arARG,GK,Crystal Palace,36.0,1979.0,2015-2016,EPL
+Junior Stanislas,6992791d,engENG,MF,Bournemouth,25.0,1989.0,2015-2016,EPL
+Maarten Stekelenburg,fefce889,nlNED,GK,Southampton,32.0,1982.0,2015-2016,EPL
+Raheem Sterling,b400bde0,engENG,MF,Manchester City,20.0,1994.0,2015-2016,EPL
+Jamie Sterry,f13d0f83,engENG,"DF,MF",Newcastle United,19.0,1995.0,2015-2016,EPL
+Kevin Stewart,ff674795,jmJAM,MF,Liverpool,21.0,1993.0,2015-2016,EPL
+John Stones,5eecec3d,engENG,DF,Everton,21.0,1994.0,2015-2016,EPL
+Daniel Sturridge,1b7ec703,engENG,FW,Liverpool,25.0,1989.0,2015-2016,EPL
+Mario Suárez,7106f0a0,esESP,MF,Watford,28.0,1987.0,2015-2016,EPL
+Ki Sung-yueng,1d8c99b0,krKOR,MF,Swansea City,26.0,1989.0,2015-2016,EPL
+Andrew Surman,7d41b619,engENG,MF,Bournemouth,28.0,1986.0,2015-2016,EPL
+Dušan Tadić,2475dcc6,rsSRB,"MF,FW",Southampton,26.0,1988.0,2015-2016,EPL
+Matt Targett,e514ab62,engENG,"DF,MF",Southampton,19.0,1995.0,2015-2016,EPL
+Neil Taylor,c2f9d19f,wlsWAL,DF,Swansea City,26.0,1989.0,2015-2016,EPL
+Steven Taylor,9f9ba8ca,engENG,DF,Newcastle United,29.0,1986.0,2015-2016,EPL
+Dionatan Teixeira,f7f09bee,brBRA,DF,Stoke City,23.0,1992.0,2015-2016,EPL
+John Terry,68517cfd,engENG,DF,Chelsea,34.0,1980.0,2015-2016,EPL
+Alexander Tettey,75566759,noNOR,MF,Norwich City,29.0,1986.0,2015-2016,EPL
+Florian Thauvin,2b9fdeea,frFRA,MF,Newcastle United,22.0,1993.0,2015-2016,EPL
+Cheick Tioté,e1270968,ciCIV,MF,Newcastle United,29.0,1986.0,2015-2016,EPL
+Ola Toivonen,de4fe7a2,seSWE,MF,Sunderland,29.0,1986.0,2015-2016,EPL
+James Tomkins,e7ca0439,engENG,DF,West Ham United,26.0,1989.0,2015-2016,EPL
+Lee Tomlin,ef1739b9,engENG,MF,Bournemouth,26.0,1989.0,2015-2016,EPL
+Fikayo Tomori,7edfbb8a,engENG,DF,Chelsea,17.0,1997.0,2015-2016,EPL
+Kevin Toner,e2910435,ieIRL,"DF,MF",Aston Villa,19.0,1996.0,2015-2016,EPL
+Ivan Toney,e09f279b,engENG,FW,Newcastle United,19.0,1996.0,2015-2016,EPL
+Kolo Touré,3301c9f4,ciCIV,DF,Liverpool,34.0,1981.0,2015-2016,EPL
+Yaya Touré,c204f844,ciCIV,MF,Manchester City,32.0,1983.0,2015-2016,EPL
+Andros Townsend,b28bbd58,engENG,"FW,MF",Tottenham Hotspur,24.0,1991.0,2015-2016,EPL
+Andros Townsend,b28bbd58,engENG,MF,Newcastle United,24.0,1991.0,2015-2016,EPL
+Adama Traoré,9a28eba4,esESP,"FW,MF",Aston Villa,19.0,1996.0,2015-2016,EPL
+Bertrand Traoré,c47541e0,bfBFA,"FW,MF",Chelsea,19.0,1995.0,2015-2016,EPL
+Kieran Trippier,21512407,engENG,DF,Tottenham Hotspur,24.0,1990.0,2015-2016,EPL
+Leonardo Ulloa,eed56f6c,arARG,FW,Leicester City,29.0,1986.0,2015-2016,EPL
+Antonio Valencia,08aa17d0,ecECU,DF,Manchester Utd,29.0,1985.0,2015-2016,EPL
+Enner Valencia,fb485406,ecECU,"FW,MF",West Ham United,25.0,1989.0,2015-2016,EPL
+Virgil van Dijk,e06683ca,nlNED,DF,Southampton,24.0,1991.0,2015-2016,EPL
+Jamie Vardy,45963054,engENG,FW,Leicester City,28.0,1987.0,2015-2016,EPL
+Guillermo Varela,5c961282,uyURU,DF,Manchester Utd,22.0,1993.0,2015-2016,EPL
+Jordan Veretout,4a56052c,frFRA,MF,Aston Villa,22.0,1993.0,2015-2016,EPL
+Jan Vertonghen,ba23a904,beBEL,DF,Tottenham Hotspur,28.0,1987.0,2015-2016,EPL
+Michel Vorm,1bebde9d,nlNED,GK,Tottenham Hotspur,31.0,1983.0,2015-2016,EPL
+Theo Walcott,1ecb65be,engENG,"MF,FW",Arsenal,26.0,1989.0,2015-2016,EPL
+Kyle Walker,86dd77d1,engENG,DF,Tottenham Hotspur,25.0,1990.0,2015-2016,EPL
+Jonathan Walters,0356cf4f,ieIRL,"MF,FW",Stoke City,31.0,1983.0,2015-2016,EPL
+Victor Wanyama,e0900238,keKEN,MF,Southampton,24.0,1991.0,2015-2016,EPL
+Danny Ward,d3ce0e89,wlsWAL,GK,Liverpool,22.0,1993.0,2015-2016,EPL
+Joel Ward,8a7ff278,engENG,DF,Crystal Palace,25.0,1989.0,2015-2016,EPL
+James Ward-Prowse,3515d404,engENG,MF,Southampton,20.0,1994.0,2015-2016,EPL
+Marcin Wasilewski,24249219,plPOL,DF,Leicester City,35.0,1980.0,2015-2016,EPL
+Duncan Watmore,2b2bae51,engENG,"MF,FW",Sunderland,21.0,1994.0,2015-2016,EPL
+Ben Watson,df540668,engENG,MF,Watford,30.0,1985.0,2015-2016,EPL
+James Weir,c8d651c1,engENG,MF,Manchester Utd,19.0,1995.0,2015-2016,EPL
+Danny Welbeck,ce5143da,engENG,FW,Arsenal,24.0,1990.0,2015-2016,EPL
+Ashley Westwood,495945ef,engENG,MF,Aston Villa,25.0,1990.0,2015-2016,EPL
+Glenn Whelan,d5bd56a5,ieIRL,MF,Stoke City,31.0,1984.0,2015-2016,EPL
+Steven Whittaker,06f81a8c,sctSCO,DF,Norwich City,31.0,1984.0,2015-2016,EPL
+Connor Wickham,41cc19c2,engENG,FW,Crystal Palace,22.0,1993.0,2015-2016,EPL
+Georginio Wijnaldum,eb58eef0,nlNED,MF,Newcastle United,24.0,1990.0,2015-2016,EPL
+Ashley Williams,a498e276,wlsWAL,DF,Swansea City,30.0,1984.0,2015-2016,EPL
+Jonny Williams,49b8432c,wlsWAL,"FW,MF",Crystal Palace,21.0,1993.0,2015-2016,EPL
+Willian,8b9ebd03,brBRA,MF,Chelsea,26.0,1988.0,2015-2016,EPL
+Jack Wilshere,9c318325,engENG,MF,Arsenal,23.0,1992.0,2015-2016,EPL
+Callum Wilson,c596fcb0,engENG,"FW,MF",Bournemouth,23.0,1992.0,2015-2016,EPL
+James Wilson,b0d786ee,engENG,"FW,MF",Manchester Utd,19.0,1995.0,2015-2016,EPL
+Marc Wilson,c325c010,ieIRL,DF,Stoke City,27.0,1987.0,2015-2016,EPL
+Kevin Wimmer,faf55ce4,atAUT,DF,Tottenham Hotspur,22.0,1992.0,2015-2016,EPL
+Andre Wisdom,ab6a3628,engENG,DF,Norwich City,22.0,1993.0,2015-2016,EPL
+Philipp Wollscheid,c4cca587,deGER,DF,Stoke City,26.0,1989.0,2015-2016,EPL
+Claudio Yacob,bda6ffd4,arARG,MF,West Bromwich Albion,28.0,1987.0,2015-2016,EPL
+DeAndre Yedlin,ae0a7ddf,usUSA,"DF,MF",Sunderland,22.0,1993.0,2015-2016,EPL
+Maya Yoshida,caffaf5a,jpJPN,"DF,MF",Southampton,26.0,1988.0,2015-2016,EPL
+Ashley Young,be927d03,engENG,"DF,MF",Manchester Utd,30.0,1985.0,2015-2016,EPL
+Pablo Zabaleta,6813ac34,arARG,DF,Manchester City,30.0,1985.0,2015-2016,EPL
+Wilfried Zaha,b2bc3b1f,ciCIV,"MF,FW",Crystal Palace,22.0,1992.0,2015-2016,EPL
+Mauro Zárate,cc18ff4c,arARG,"MF,FW",West Ham United,28.0,1987.0,2015-2016,EPL
+Kurt Zouma,ce4246f5,frFRA,DF,Chelsea,20.0,1994.0,2015-2016,EPL
+Ignazio Abate,1c529186,itITA,DF,Milan,28.0,1986.0,2015-2016,ITA
+Christian Abbiati,322421c2,itITA,GK,Milan,38.0,1977.0,2015-2016,ITA
+Francesco Acerbi,b96b595c,itITA,DF,Sassuolo,27.0,1988.0,2015-2016,ITA
+Robert Acquafresca,d2b115ae,itITA,FW,Bologna,27.0,1987.0,2015-2016,ITA
+Afriyie Acquah,d7403bd5,ghGHA,MF,Torino,23.0,1992.0,2015-2016,ITA
+Claud Adjapong,ce5b170a,itITA,"DF,MF",Sassuolo,17.0,1998.0,2015-2016,ITA
+Ali Adnan Kadhim,06050480,iqIRQ,"MF,DF",Udinese,21.0,1993.0,2015-2016,ITA
+Luiz Adriano,2557c196,brBRA,FW,Milan,28.0,1987.0,2015-2016,ITA
+Rodrigo Aguirre,b5691f5d,uyURU,FW,Udinese,20.0,1994.0,2015-2016,ITA
+Emmanuel Agyemang-Badu,fe0b8f0e,ghGHA,MF,Udinese,24.0,1990.0,2015-2016,ITA
+Arlind Ajeti,f9714604,alALB,DF,Frosinone,21.0,1993.0,2015-2016,ITA
+Fabrizio Alastra,cfed4243,itITA,GK,Palermo,17.0,1997.0,2015-2016,ITA
+Michelangelo Albertazzi,330e4b00,itITA,DF,Hellas Verona,24.0,1991.0,2015-2016,ITA
+Raúl Albiol,4bd414c1,esESP,DF,Napoli,29.0,1985.0,2015-2016,ITA
+Alex,58721835,brBRA,DF,Milan,33.0,1982.0,2015-2016,ITA
+Allan,cc700722,brBRA,MF,Napoli,24.0,1991.0,2015-2016,ITA
+Marcos Alonso,f4290206,esESP,"MF,DF",Fiorentina,24.0,1990.0,2015-2016,ITA
+Ricky Álvarez,92a5ac34,arARG,"MF,FW",Sampdoria,27.0,1988.0,2015-2016,ITA
+Amauri,b6d4bf9d,itITA,FW,Torino,35.0,1980.0,2015-2016,ITA
+Felipe Anderson,9f1893b9,brBRA,"FW,MF",Lazio,22.0,1993.0,2015-2016,ITA
+Ionuț Andrei Radu,29d80748,roROU,GK,Inter,,,2015-2016,ITA
+Cristian Ansaldi,bbafc0c4,arARG,"MF,DF",Genoa,28.0,1986.0,2015-2016,ITA
+Luca Antei,97c9bce3,itITA,DF,Sassuolo,23.0,1992.0,2015-2016,ITA
+Luca Antonelli,40f0ed6c,itITA,DF,Milan,28.0,1987.0,2015-2016,ITA
+Siniša Anđelković,f978a28b,siSVN,DF,Palermo,29.0,1986.0,2015-2016,ITA
+Lorenzo Ariaudo,68b78c2a,itITA,DF,Empoli,26.0,1989.0,2015-2016,ITA
+Lorenzo Ariaudo,68b78c2a,itITA,DF,Sassuolo,26.0,1989.0,2015-2016,ITA
+Pablo Armero,afabf74e,coCOL,MF,Udinese,28.0,1986.0,2015-2016,ITA
+Kwadwo Asamoah,089550f5,ghGHA,MF,Juventus,26.0,1988.0,2015-2016,ITA
+Davide Astori,1522dab2,itITA,DF,Fiorentina,28.0,1987.0,2015-2016,ITA
+Danilo Avelar,eacb45fd,brBRA,MF,Torino,26.0,1989.0,2015-2016,ITA
+Khouma Babacar,422ec08a,snSEN,FW,Fiorentina,22.0,1993.0,2015-2016,ITA
+Carlos Bacca,09a9e921,coCOL,FW,Milan,28.0,1986.0,2015-2016,ITA
+Milan Badelj,e8c930bb,hrCRO,MF,Fiorentina,26.0,1989.0,2015-2016,ITA
+Keita Baldé,509a4ccb,snSEN,FW,Lazio,20.0,1995.0,2015-2016,ITA
+Norbert Balogh,24190824,huHUN,FW,Palermo,19.0,1996.0,2015-2016,ITA
+Mario Balotelli,8ff07990,itITA,FW,Milan,24.0,1990.0,2015-2016,ITA
+Federico Barba,c010b898,itITA,DF,Empoli,21.0,1993.0,2015-2016,ITA
+Francesco Bardi,0acda699,itITA,GK,Frosinone,23.0,1992.0,2015-2016,ITA
+Édgar Barreto,43a1bea5,pyPAR,MF,Sampdoria,31.0,1984.0,2015-2016,ITA
+Andrea Barzagli,7c0000fd,itITA,DF,Juventus,34.0,1981.0,2015-2016,ITA
+Daniele Baselli,ea06dd97,itITA,MF,Torino,23.0,1992.0,2015-2016,ITA
+Davide Bassi,b260a8e3,itITA,GK,Atalanta,30.0,1985.0,2015-2016,ITA
+Dušan Basta,3b57f7f8,rsSRB,DF,Lazio,30.0,1984.0,2015-2016,ITA
+Vid Belec,4f8ce0e1,siSVN,GK,Carpi,25.0,1990.0,2015-2016,ITA
+Gianpaolo Bellini,77b818ea,itITA,DF,Atalanta,35.0,1980.0,2015-2016,ITA
+Andrea Belotti,d705ba44,itITA,FW,Torino,21.0,1993.0,2015-2016,ITA
+Marco Benassi,0000acda,itITA,MF,Torino,20.0,1994.0,2015-2016,ITA
+Accursio Bentivegna,2130bea6,itITA,FW,Palermo,19.0,1996.0,2015-2016,ITA
+Francesco Benussi,42bcb825,itITA,GK,Carpi,33.0,1981.0,2015-2016,ITA
+Domenico Berardi,53a0e358,itITA,FW,Sassuolo,20.0,1994.0,2015-2016,ITA
+Etrit Berisha,ee833569,alALB,GK,Lazio,26.0,1989.0,2015-2016,ITA
+Federico Bernardeschi,ee93c1a9,itITA,MF,Fiorentina,21.0,1994.0,2015-2016,ITA
+Andrea Bertolacci,c75b6a02,itITA,MF,Milan,24.0,1991.0,2015-2016,ITA
+Davide Bertoncini,cab28bbe,itITA,DF,Frosinone,24.0,1991.0,2015-2016,ITA
+Jonathan Biabiany,6b99d135,frFRA,"MF,FW",Inter,27.0,1988.0,2015-2016,ITA
+Matteo Bianchetti,b3a20f18,itITA,DF,Hellas Verona,22.0,1993.0,2015-2016,ITA
+Raffaele Bianco,147c0f9e,itITA,MF,Carpi,27.0,1987.0,2015-2016,ITA
+Lucas Biglia,5710a281,arARG,MF,Lazio,29.0,1986.0,2015-2016,ITA
+Davide Biondini,b4c3070a,itITA,MF,Sassuolo,32.0,1983.0,2015-2016,ITA
+Valter Birsa,455a2b79,siSVN,"MF,FW",Chievo,28.0,1986.0,2015-2016,ITA
+Milan Biševac,a51728e3,rsSRB,DF,Lazio,31.0,1983.0,2015-2016,ITA
+Luca Bittante,2d3432e7,itITA,DF,Empoli,21.0,1993.0,2015-2016,ITA
+Albano Bizzarri,32b9b5fa,arARG,GK,Chievo,37.0,1977.0,2015-2016,ITA
+Leonardo Blanchard,7359f559,itITA,DF,Frosinone,27.0,1988.0,2015-2016,ITA
+Kevin-Prince Boateng,f4ec4fd0,ghGHA,MF,Milan,28.0,1987.0,2015-2016,ITA
+Giacomo Bonaventura,d995ed27,itITA,"MF,FW",Milan,25.0,1989.0,2015-2016,ITA
+Federico Bonazzoli,bf57eaab,itITA,FW,Sampdoria,18.0,1997.0,2015-2016,ITA
+Leonardo Bonucci,52ec54d0,itITA,DF,Juventus,28.0,1987.0,2015-2016,ITA
+Marco Borriello,a889ffc7,itITA,FW,Carpi,33.0,1982.0,2015-2016,ITA
+Marco Borriello,a889ffc7,itITA,FW,Atalanta,33.0,1982.0,2015-2016,ITA
+Cesare Bovo,6d584b34,itITA,DF,Torino,32.0,1983.0,2015-2016,ITA
+Edson Braafheid,f8e3660d,nlNED,DF,Lazio,32.0,1983.0,2015-2016,ITA
+Franco Brienza,aff058a4,itITA,"MF,FW",Bologna,36.0,1979.0,2015-2016,ITA
+Matteo Brighi,d417b306,itITA,MF,Bologna,34.0,1981.0,2015-2016,ITA
+Alberto Brignoli,6989550f,itITA,GK,Sampdoria,23.0,1991.0,2015-2016,ITA
+Davide Brivio,32e0c69e,itITA,"DF,MF",Atalanta,27.0,1988.0,2015-2016,ITA
+Željko Brkić,5b8e51a8,rsSRB,GK,Carpi,29.0,1986.0,2015-2016,ITA
+Marcelo Brozović,33b8d077,hrCRO,MF,Inter,22.0,1992.0,2015-2016,ITA
+Gastón Brugman,e947ee4a,uyURU,"MF,FW",Palermo,22.0,1992.0,2015-2016,ITA
+Igor Bubnjić,aea881d3,hrCRO,DF,Carpi,23.0,1992.0,2015-2016,ITA
+Marcel Büchel,2edeb221,liLIE,MF,Empoli,24.0,1991.0,2015-2016,ITA
+Gianluigi Buffon,e40d028b,itITA,GK,Juventus,37.0,1978.0,2015-2016,ITA
+Nicolás Burdisso,9417f322,arARG,DF,Genoa,34.0,1981.0,2015-2016,ITA
+Jakub Błaszczykowski,2b350e6b,plPOL,"MF,FW",Fiorentina,29.0,1985.0,2015-2016,ITA
+Fabrizio Cacciatore,00b0bb87,itITA,DF,Chievo,28.0,1986.0,2015-2016,ITA
+Martín Cáceres,e94d79e3,uyURU,DF,Juventus,28.0,1987.0,2015-2016,ITA
+Davide Calabria,2146785a,itITA,DF,Milan,18.0,1996.0,2015-2016,ITA
+José Callejón,78841da9,esESP,FW,Napoli,28.0,1987.0,2015-2016,ITA
+Michele Camporese,035c1d09,itITA,DF,Empoli,23.0,1992.0,2015-2016,ITA
+Antonio Candreva,356c9002,itITA,"FW,MF",Lazio,28.0,1987.0,2015-2016,ITA
+Paolo Cannavaro,46ed55b6,itITA,DF,Sassuolo,34.0,1981.0,2015-2016,ITA
+Diego Capel,4933a2f2,esESP,"FW,MF",Genoa,27.0,1988.0,2015-2016,ITA
+Carlos Carbonero,11af1c57,coCOL,"FW,MF",Sampdoria,25.0,1990.0,2015-2016,ITA
+Massimiliano Carlini,fc478db0,itITA,"MF,FW",Frosinone,28.0,1986.0,2015-2016,ITA
+Carlos Carmona,12b9753e,clCHI,MF,Atalanta,28.0,1987.0,2015-2016,ITA
+Mattia Cassani,f3d0d85e,itITA,DF,Sampdoria,31.0,1983.0,2015-2016,ITA
+Antonio Cassano,d0ed4d32,itITA,"FW,MF",Sampdoria,33.0,1982.0,2015-2016,ITA
+Leandro Castán,019f4d0d,brBRA,DF,Roma,28.0,1986.0,2015-2016,ITA
+Nicolás Castillo,58a160e1,clCHI,FW,Frosinone,22.0,1993.0,2015-2016,ITA
+Lucas Castro,56b2957b,arARG,MF,Chievo,26.0,1989.0,2015-2016,ITA
+Danilo Cataldi,ba3d3bea,itITA,MF,Lazio,20.0,1994.0,2015-2016,ITA
+Alessio Cerci,5370cba7,itITA,FW,Genoa,28.0,1987.0,2015-2016,ITA
+Alessio Cerci,5370cba7,itITA,"FW,MF",Milan,28.0,1987.0,2015-2016,ITA
+Boštjan Cesar,c1d18f10,siSVN,DF,Chievo,33.0,1982.0,2015-2016,ITA
+Nathaniel Chalobah,422862ea,engENG,"DF,MF",Napoli,20.0,1994.0,2015-2016,ITA
+Luca Checchin,2d6dc11c,itITA,MF,Hellas Verona,18.0,1997.0,2015-2016,ITA
+Nicolò Cherubin,88189b42,itITA,DF,Atalanta,28.0,1986.0,2015-2016,ITA
+Raman Chibsah,aa5a409a,ghGHA,MF,Frosinone,22.0,1993.0,2015-2016,ITA
+Giorgio Chiellini,e85fb9b8,itITA,DF,Juventus,30.0,1984.0,2015-2016,ITA
+Vlad Chiricheș,c316607a,roROU,DF,Napoli,25.0,1989.0,2015-2016,ITA
+Ivaylo Chochev,39c53a23,bgBUL,MF,Palermo,22.0,1993.0,2015-2016,ITA
+Lazaros Christodoulopoulos,f73abe54,grGRE,"MF,FW",Sampdoria,28.0,1986.0,2015-2016,ITA
+Luca Cigarini,ae64d449,itITA,MF,Atalanta,29.0,1986.0,2015-2016,ITA
+Daniel Ciofani,b09a3ecc,itITA,FW,Frosinone,30.0,1985.0,2015-2016,ITA
+Matteo Ciofani,d9448e6b,itITA,DF,Frosinone,27.0,1988.0,2015-2016,ITA
+Thiago Cionek,46f5c54d,plPOL,DF,Palermo,29.0,1986.0,2015-2016,ITA
+Issa Cissokho,a1017967,snSEN,MF,Genoa,30.0,1985.0,2015-2016,ITA
+Andrea Coda,6e110b50,itITA,DF,Sampdoria,30.0,1985.0,2015-2016,ITA
+Isaac Cofie,c6dda86e,ghGHA,MF,Carpi,23.0,1991.0,2015-2016,ITA
+Simone Colombi,72be9309,itITA,GK,Carpi,24.0,1991.0,2015-2016,ITA
+Simone Colombi,72be9309,itITA,GK,Palermo,24.0,1991.0,2015-2016,ITA
+Kingsley Coman,042e8a49,frFRA,FW,Juventus,19.0,1996.0,2015-2016,ITA
+Andrea Consigli,8cabdc1e,itITA,GK,Sassuolo,28.0,1987.0,2015-2016,ITA
+Kévin Constant,062b01b9,gnGUI,DF,Bologna,28.0,1987.0,2015-2016,ITA
+Andrea Conti,8fef5412,itITA,"MF,DF",Atalanta,21.0,1994.0,2015-2016,ITA
+Ferdinando Coppola,7feaf90b,itITA,GK,Hellas Verona,37.0,1978.0,2015-2016,ITA
+Joaquín Correa,45b9b619,arARG,"MF,FW",Sampdoria,20.0,1994.0,2015-2016,ITA
+Uroš Ćosić,69960ac3,rsSRB,DF,Empoli,22.0,1992.0,2015-2016,ITA
+Andrea Costa,f5e9a8bd,itITA,DF,Empoli,29.0,1986.0,2015-2016,ITA
+Filippo Costa,00528660,itITA,"DF,MF",Chievo,20.0,1995.0,2015-2016,ITA
+Angelo da Costa Júnior,18736214,brBRA,GK,Bologna,31.0,1983.0,2015-2016,ITA
+Tino Costa,8f747a86,arARG,MF,Fiorentina,30.0,1985.0,2015-2016,ITA
+Tino Costa,8f747a86,arARG,MF,Genoa,30.0,1985.0,2015-2016,ITA
+Marco Crimi,3872a972,itITA,MF,Bologna,25.0,1990.0,2015-2016,ITA
+Marco Crimi,3872a972,itITA,"MF,FW",Carpi,25.0,1990.0,2015-2016,ITA
+Lorenzo Crisetig,f54dfca8,itITA,MF,Bologna,22.0,1993.0,2015-2016,ITA
+Bryan Cristante,16657b95,itITA,MF,Palermo,20.0,1995.0,2015-2016,ITA
+Roberto Crivello,1e092d9c,itITA,DF,Frosinone,23.0,1991.0,2015-2016,ITA
+Daniele Croce,e931f5da,itITA,MF,Empoli,32.0,1982.0,2015-2016,ITA
+Juan Cuadrado,0ab1f153,coCOL,"MF,FW",Juventus,27.0,1988.0,2015-2016,ITA
+Marco D'Alessandro,060606ec,itITA,"FW,MF",Atalanta,24.0,1991.0,2015-2016,ITA
+Danilo D'Ambrosio,44eb9093,itITA,"DF,MF",Inter,26.0,1988.0,2015-2016,ITA
+Dario Dainelli,3858e611,itITA,DF,Chievo,36.0,1979.0,2015-2016,ITA
+Felipe dal Belo,8cea6319,brBRA,DF,Udinese,31.0,1984.0,2015-2016,ITA
+Fabio Daprelà,6bff8a73,chSUI,"DF,MF",Carpi,24.0,1991.0,2015-2016,ITA
+Fabio Daprelà,6bff8a73,chSUI,MF,Palermo,24.0,1991.0,2015-2016,ITA
+Sebastien De Maio,952a03fe,frFRA,DF,Genoa,28.0,1987.0,2015-2016,ITA
+Daniele De Rossi,532d2690,itITA,"MF,DF",Roma,32.0,1983.0,2015-2016,ITA
+Morgan De Sanctis,83228343,itITA,GK,Roma,38.0,1977.0,2015-2016,ITA
+Mattia De Sciglio,ae4e2852,itITA,DF,Milan,22.0,1992.0,2015-2016,ITA
+Lorenzo De Silvestri,e74f0e59,itITA,"MF,DF",Sampdoria,27.0,1988.0,2015-2016,ITA
+Grégoire Defrel,854ee61a,mqMTQ,FW,Sassuolo,24.0,1991.0,2015-2016,ITA
+Fabio Della Giovanna,40872399,itITA,DF,Inter,18.0,1997.0,2015-2016,ITA
+Germán Denis,3b64f69d,arARG,FW,Atalanta,33.0,1981.0,2015-2016,ITA
+Mattia Destro,d7d32194,itITA,FW,Bologna,24.0,1991.0,2015-2016,ITA
+Antonio Di Gaudio,434b8c73,itITA,"MF,FW",Carpi,25.0,1989.0,2015-2016,ITA
+Lorenzo Di Livio,fa28e7d3,itITA,MF,Roma,18.0,1997.0,2015-2016,ITA
+Antonio Di Natale,45f26945,itITA,FW,Udinese,37.0,1977.0,2015-2016,ITA
+Modibo Diakité,e5eb4ab4,frFRA,DF,Frosinone,28.0,1987.0,2015-2016,ITA
+Modibo Diakité,e5eb4ab4,frFRA,DF,Sampdoria,28.0,1987.0,2015-2016,ITA
+Alessandro Diamanti,cb5af1af,itITA,"FW,MF",Atalanta,32.0,1983.0,2015-2016,ITA
+Amadou Diawara,bf309d24,gnGUI,MF,Bologna,18.0,1997.0,2015-2016,ITA
+Lucas Digne,1b84dbe1,frFRA,DF,Roma,22.0,1993.0,2015-2016,ITA
+Federico Dionisi,a74d2999,itITA,FW,Frosinone,28.0,1987.0,2015-2016,ITA
+Assane Dioussé,7f622eef,snSEN,MF,Empoli,17.0,1997.0,2015-2016,ITA
+Berat Djimsiti,6eee05f1,alALB,DF,Atalanta,22.0,1993.0,2015-2016,ITA
+Dodô,99931185,brBRA,"MF,DF",Sampdoria,23.0,1992.0,2015-2016,ITA
+Maurizio Domizzi,822aad0c,itITA,DF,Udinese,35.0,1980.0,2015-2016,ITA
+Gianluigi Donnarumma,08f5afaa,itITA,GK,Milan,16.0,1999.0,2015-2016,ITA
+Godfred Donsah,384dd218,ghGHA,MF,Bologna,19.0,1996.0,2015-2016,ITA
+Boukary Dramé,a5cd894b,snSEN,"DF,MF",Atalanta,30.0,1985.0,2015-2016,ITA
+Alfred Duncan,528492ea,ghGHA,MF,Sassuolo,22.0,1993.0,2015-2016,ITA
+Paulo Dybala,e0921a4f,arARG,FW,Juventus,21.0,1993.0,2015-2016,ITA
+Edin Džeko,3bb7f478,baBIH,FW,Roma,29.0,1986.0,2015-2016,ITA
+Blerim Džemaili,756959aa,chSUI,MF,Genoa,29.0,1986.0,2015-2016,ITA
+Edenílson,4e50f20e,brBRA,MF,Udinese,25.0,1989.0,2015-2016,ITA
+Éder,5a325298,itITA,FW,Sampdoria,28.0,1986.0,2015-2016,ITA
+Éder,5a325298,itITA,"FW,MF",Inter,28.0,1986.0,2015-2016,ITA
+Simone Edera,8697c095,itITA,MF,Torino,18.0,1997.0,2015-2016,ITA
+Rodrigo Ely,fd47b4f2,brBRA,DF,Milan,21.0,1993.0,2015-2016,ITA
+Urby Emanuelson,66e83563,nlNED,"MF,DF",Hellas Verona,29.0,1986.0,2015-2016,ITA
+Marcelo Estigarribia,188a2362,pyPAR,"DF,MF",Atalanta,27.0,1987.0,2015-2016,ITA
+Patrice Evra,51a3caf1,frFRA,"MF,DF",Juventus,34.0,1981.0,2015-2016,ITA
+Diego Falcinelli,a39b9ef6,itITA,FW,Sassuolo,24.0,1991.0,2015-2016,ITA
+Filippo Falco,e23f56c1,itITA,FW,Bologna,23.0,1992.0,2015-2016,ITA
+Iago Falque,440c84ed,esESP,"FW,MF",Roma,25.0,1990.0,2015-2016,ITA
+Mohamed Fares,b7a5bc86,dzALG,"DF,MF",Hellas Verona,19.0,1996.0,2015-2016,ITA
+Alexander Farnerud,93b21179,seSWE,MF,Torino,31.0,1984.0,2015-2016,ITA
+Andrea Favilli,44510fde,itITA,FW,Juventus,18.0,1997.0,2015-2016,ITA
+Matteo Fedele,80ab2ca2,chSUI,MF,Carpi,23.0,1992.0,2015-2016,ITA
+Bruno Fernandes,507c7bdf,ptPOR,"MF,FW",Udinese,20.0,1994.0,2015-2016,ITA
+Matías Fernández,8a250399,clCHI,MF,Fiorentina,29.0,1986.0,2015-2016,ITA
+Fernando,34c3ec17,brBRA,MF,Sampdoria,23.0,1992.0,2015-2016,ITA
+Alex Ferrari,d0dbca9f,itITA,DF,Bologna,21.0,1994.0,2015-2016,ITA
+Riccardo Fiamozzi,9f9b9269,itITA,MF,Genoa,22.0,1993.0,2015-2016,ITA
+Diogo Figueiras,3e587547,ptPOR,"MF,DF",Genoa,24.0,1991.0,2015-2016,ITA
+Sergio Floccari,df301450,itITA,FW,Bologna,33.0,1981.0,2015-2016,ITA
+Sergio Floccari,df301450,itITA,FW,Sassuolo,33.0,1981.0,2015-2016,ITA
+Alessandro Florenzi,e288d4b3,itITA,"DF,MF",Roma,24.0,1991.0,2015-2016,ITA
+Antonio Floro Flores,d6846501,itITA,"FW,MF",Chievo,32.0,1983.0,2015-2016,ITA
+Antonio Floro Flores,d6846501,itITA,FW,Sassuolo,32.0,1983.0,2015-2016,ITA
+Alessandro Frara,9ad115ba,itITA,MF,Frosinone,32.0,1982.0,2015-2016,ITA
+Remo Freuler,98d2c2c4,chSUI,MF,Atalanta,23.0,1992.0,2015-2016,ITA
+Nicolas Frey,6378443d,frFRA,DF,Chievo,31.0,1984.0,2015-2016,ITA
+Dominik Furman,cd39528d,plPOL,MF,Hellas Verona,23.0,1992.0,2015-2016,ITA
+Manolo Gabbiadini,8f866fe8,itITA,FW,Napoli,23.0,1991.0,2015-2016,ITA
+Gabriel,f93ed0df,brBRA,GK,Napoli,22.0,1992.0,2015-2016,ITA
+Roberto Gagliardini,ce30bfc8,itITA,MF,Atalanta,21.0,1994.0,2015-2016,ITA
+Riccardo Gagliolo,173061c0,seSWE,DF,Carpi,25.0,1990.0,2015-2016,ITA
+Serge Gakpé,cf4053e2,tgTOG,FW,Genoa,28.0,1987.0,2015-2016,ITA
+Serge Gakpé,cf4053e2,tgTOG,"FW,MF",Atalanta,28.0,1987.0,2015-2016,ITA
+Alessandro Gamberini,8ec95452,itITA,DF,Chievo,33.0,1981.0,2015-2016,ITA
+Daniele Gastaldello,13f89eaa,itITA,DF,Bologna,32.0,1983.0,2015-2016,ITA
+Alessandro Gazzi,63d2a792,itITA,MF,Torino,32.0,1983.0,2015-2016,ITA
+Marcello Gazzola,93390969,itITA,DF,Sassuolo,30.0,1985.0,2015-2016,ITA
+Santiago Gentiletti,4ac07e1b,arARG,DF,Lazio,30.0,1985.0,2015-2016,ITA
+Gervinho,e468c053,ciCIV,"FW,MF",Roma,28.0,1987.0,2015-2016,ITA
+Faouzi Ghoulam,c5adc293,dzALG,DF,Napoli,24.0,1991.0,2015-2016,ITA
+Emanuele Giaccherini,1c50f354,itITA,"FW,MF",Bologna,30.0,1985.0,2015-2016,ITA
+Alberto Gilardino,45aa5d13,itITA,FW,Palermo,33.0,1982.0,2015-2016,ITA
+Gilberto,1338e42b,brBRA,"DF,MF",Hellas Verona,22.0,1993.0,2015-2016,ITA
+Gilberto,1338e42b,brBRA,MF,Fiorentina,22.0,1993.0,2015-2016,ITA
+Luigi Giorgi,c2aa89f5,itITA,MF,Atalanta,28.0,1987.0,2015-2016,ITA
+Kamil Glik,c6056d58,plPOL,DF,Torino,27.0,1988.0,2015-2016,ITA
+Assane Gnoukouri,2e2e72d5,ciCIV,MF,Inter,18.0,1996.0,2015-2016,ITA
+Massimo Gobbi,635b0bae,itITA,DF,Chievo,34.0,1980.0,2015-2016,ITA
+Edoardo Goldaniga,4b029b31,itITA,DF,Palermo,21.0,1993.0,2015-2016,ITA
+Pierluigi Gollini,f0f7f62f,itITA,GK,Hellas Verona,20.0,1995.0,2015-2016,ITA
+Papu Gómez,6e4df551,arARG,FW,Atalanta,27.0,1988.0,2015-2016,ITA
+Giancarlo González,117beb8f,crCRC,DF,Palermo,27.0,1988.0,2015-2016,ITA
+Mirko Gori,7d86864c,itITA,MF,Frosinone,22.0,1993.0,2015-2016,ITA
+Alberto Grassi,6cc97b6a,itITA,MF,Atalanta,20.0,1995.0,2015-2016,ITA
+Leandro Greco,0d9b99a4,itITA,MF,Hellas Verona,29.0,1986.0,2015-2016,ITA
+Fredy Guarín,c36ef7e9,coCOL,MF,Inter,29.0,1986.0,2015-2016,ITA
+Robert Gucher,7ef612ab,atAUT,MF,Frosinone,24.0,1991.0,2015-2016,ITA
+Guilherme,8754c7ca,qaQAT,MF,Udinese,24.0,1991.0,2015-2016,ITA
+Jonathan de Guzmán,1bcca8b8,nlNED,FW,Carpi,27.0,1987.0,2015-2016,ITA
+Norbert Gyömbér,0be276c6,skSVK,"DF,MF",Roma,23.0,1992.0,2015-2016,ITA
+Emil Hallfreðsson,86015b20,isISL,MF,Udinese,31.0,1984.0,2015-2016,ITA
+Emil Hallfreðsson,86015b20,isISL,MF,Hellas Verona,31.0,1984.0,2015-2016,ITA
+Marek Hamšík,e6ad16b2,skSVK,MF,Napoli,28.0,1987.0,2015-2016,ITA
+Samir Handanović,74419746,siSVN,GK,Inter,31.0,1984.0,2015-2016,ITA
+Filip Helander,27f0ddef,seSWE,DF,Hellas Verona,22.0,1993.0,2015-2016,ITA
+Hernanes,cfc2ee72,brBRA,MF,Inter,30.0,1985.0,2015-2016,ITA
+Hernanes,cfc2ee72,brBRA,"MF,FW",Juventus,30.0,1985.0,2015-2016,ITA
+Përparim Hetemaj,90b70194,fiFIN,MF,Chievo,28.0,1986.0,2015-2016,ITA
+Thomas Heurtaux,32d1c24f,frFRA,DF,Udinese,27.0,1988.0,2015-2016,ITA
+Gonzalo Higuaín,8a08491a,arARG,FW,Napoli,27.0,1987.0,2015-2016,ITA
+Oscar Hiljemark,98e958af,seSWE,MF,Palermo,23.0,1992.0,2015-2016,ITA
+Wesley Hoedt,875898c7,nlNED,DF,Lazio,21.0,1994.0,2015-2016,ITA
+Keisuke Honda,5cfc82a1,jpJPN,MF,Milan,29.0,1986.0,2015-2016,ITA
+Elseid Hysaj,2f3452eb,alALB,DF,Napoli,21.0,1994.0,2015-2016,ITA
+Víctor Ibarbo,552d1e41,coCOL,"FW,MF",Roma,25.0,1990.0,2015-2016,ITA
+Mauro Icardi,43b78598,arARG,FW,Inter,22.0,1993.0,2015-2016,ITA
+Salvador Ichazo,514f0896,uyURU,GK,Torino,23.0,1992.0,2015-2016,ITA
+Josip Iličić,68252d6d,siSVN,MF,Fiorentina,27.0,1988.0,2015-2016,ITA
+Ciro Immobile,4431aed2,itITA,FW,Torino,25.0,1990.0,2015-2016,ITA
+Roberto Inglese,6c1f7328,itITA,FW,Chievo,23.0,1991.0,2015-2016,ITA
+Lorenzo Insigne,2f557579,itITA,"FW,MF",Napoli,24.0,1991.0,2015-2016,ITA
+Artur Ioniță,cedb3e36,mdMDA,"MF,FW",Hellas Verona,24.0,1990.0,2015-2016,ITA
+Mauricio Isla,de4517dd,clCHI,"DF,MF",Juventus,27.0,1988.0,2015-2016,ITA
+Juan Iturbe,2c0fbaf5,pyPAR,FW,Roma,22.0,1993.0,2015-2016,ITA
+Manuel Iturra,000b3da6,clCHI,MF,Udinese,31.0,1984.0,2015-2016,ITA
+Dávid Ivan,b2e3ce45,skSVK,MF,Sampdoria,20.0,1995.0,2015-2016,ITA
+Armando Izzo,89976232,itITA,DF,Genoa,23.0,1992.0,2015-2016,ITA
+Mato Jajalo,8c65eb5f,baBIH,MF,Palermo,27.0,1988.0,2015-2016,ITA
+Boško Janković,7b17d906,rsSRB,"FW,MF",Hellas Verona,31.0,1984.0,2015-2016,ITA
+Pontus Jansson,172e52d8,seSWE,DF,Torino,24.0,1991.0,2015-2016,ITA
+Juan Jesus,79083382,brBRA,DF,Inter,24.0,1991.0,2015-2016,ITA
+Nigel de Jong,a0e209bc,nlNED,MF,Milan,30.0,1984.0,2015-2016,ITA
+Jorginho,45db685d,itITA,MF,Napoli,23.0,1991.0,2015-2016,ITA
+Stevan Jovetić,f36c432f,meMNE,"FW,MF",Inter,25.0,1989.0,2015-2016,ITA
+Juanito,07df1b90,arARG,FW,Hellas Verona,30.0,1985.0,2015-2016,ITA
+Omar El Kaddouri,92b17b2a,maMAR,MF,Napoli,24.0,1990.0,2015-2016,ITA
+Nikola Kalinić,d4931a5a,hrCRO,FW,Fiorentina,27.0,1988.0,2015-2016,ITA
+Abdelhamid El Kaoutari,494a3a41,maMAR,DF,Palermo,25.0,1990.0,2015-2016,ITA
+Orestis Karnezis,85b011bb,grGRE,GK,Udinese,30.0,1985.0,2015-2016,ITA
+Seydou Keita,500c4e9b,mlMLI,MF,Roma,35.0,1980.0,2015-2016,ITA
+Sami Khedira,38ac43d3,deGER,MF,Juventus,28.0,1987.0,2015-2016,ITA
+Ricardo Kishna,84e947d6,nlNED,"MF,FW",Lazio,20.0,1995.0,2015-2016,ITA
+Miroslav Klose,5e36a0dd,deGER,FW,Lazio,37.0,1978.0,2015-2016,ITA
+Geoffrey Kondogbia,cce181df,cfCTA,MF,Inter,22.0,1993.0,2015-2016,ITA
+Panagiotis Kone,27d34558,grGRE,MF,Udinese,28.0,1987.0,2015-2016,ITA
+Panagiotis Kone,27d34558,grGRE,MF,Fiorentina,28.0,1987.0,2015-2016,ITA
+Abdoulay Konko,43857861,frFRA,DF,Lazio,31.0,1984.0,2015-2016,ITA
+Kalidou Koulibaly,da974c7b,snSEN,DF,Napoli,24.0,1991.0,2015-2016,ITA
+Emil Krafth,77cf6852,seSWE,DF,Bologna,20.0,1994.0,2015-2016,ITA
+Oliver Kragl,1c17dfe0,deGER,"FW,MF",Frosinone,25.0,1990.0,2015-2016,ITA
+Nenad Krstičić,5631b735,rsSRB,MF,Sampdoria,25.0,1990.0,2015-2016,ITA
+Rade Krunić,817c6964,baBIH,MF,Empoli,21.0,1993.0,2015-2016,ITA
+Juraj Kucka,5aaef9ef,skSVK,MF,Genoa,28.0,1987.0,2015-2016,ITA
+Juraj Kucka,5aaef9ef,skSVK,MF,Milan,28.0,1987.0,2015-2016,ITA
+Jasmin Kurtić,144607cc,siSVN,MF,Atalanta,26.0,1989.0,2015-2016,ITA
+Zdravko Kuzmanović,6df0dc74,rsSRB,MF,Udinese,27.0,1987.0,2015-2016,ITA
+Antonino La Gumina,822a7761,itITA,FW,Palermo,19.0,1996.0,2015-2016,ITA
+Eugenio Lamanna,349601c3,itITA,GK,Genoa,25.0,1989.0,2015-2016,ITA
+Danilo Larangeira,fed5f993,brBRA,DF,Udinese,31.0,1984.0,2015-2016,ITA
+Karim Laribi,d1437a4c,tnTUN,MF,Sassuolo,24.0,1991.0,2015-2016,ITA
+Kevin Lasagna,09538fdb,itITA,"FW,MF",Carpi,22.0,1992.0,2015-2016,ITA
+Vincent Laurini,3535098b,frFRA,DF,Empoli,26.0,1989.0,2015-2016,ITA
+Diego Laxalt,f26e3c59,uyURU,"MF,FW",Genoa,22.0,1993.0,2015-2016,ITA
+Achraf Lazaar,957d41d2,maMAR,"MF,DF",Palermo,23.0,1992.0,2015-2016,ITA
+Darko Lazović,5128bde4,rsSRB,FW,Genoa,24.0,1990.0,2015-2016,ITA
+Andrea Lazzari,2d6caaa7,itITA,MF,Carpi,30.0,1984.0,2015-2016,ITA
+Nicola Leali,5f9970a0,itITA,GK,Frosinone,22.0,1993.0,2015-2016,ITA
+Mario Lemina,2b471f99,gaGAB,MF,Juventus,21.0,1993.0,2015-2016,ITA
+Gaetano Letizia,3dd45b70,itITA,"DF,MF",Carpi,25.0,1990.0,2015-2016,ITA
+Luca Lezzerini,c9c32262,itITA,GK,Fiorentina,20.0,1995.0,2015-2016,ITA
+Stephan Lichtsteiner,99b1d0e6,chSUI,"MF,DF",Juventus,31.0,1984.0,2015-2016,ITA
+Marko Livaja,6e5497ca,hrCRO,FW,Empoli,21.0,1993.0,2015-2016,ITA
+Adem Ljajić,2648e18f,rsSRB,"FW,MF",Roma,23.0,1991.0,2015-2016,ITA
+Adem Ljajić,2648e18f,rsSRB,"MF,FW",Inter,23.0,1991.0,2015-2016,ITA
+Fernando Llorente,82dbf623,esESP,FW,Juventus,30.0,1985.0,2015-2016,ITA
+Manuel Locatelli,a8a874f1,itITA,MF,Milan,17.0,1998.0,2015-2016,ITA
+Francesco Lodi,3ddc8b87,itITA,MF,Udinese,31.0,1984.0,2015-2016,ITA
+Lorenzo Lollo,1272d9f4,itITA,"MF,FW",Carpi,24.0,1990.0,2015-2016,ITA
+Alessandro Longhi,1544319d,itITA,DF,Sassuolo,26.0,1989.0,2015-2016,ITA
+Samuele Longo,1163de29,itITA,FW,Frosinone,23.0,1992.0,2015-2016,ITA
+David López,f03f284b,esESP,MF,Napoli,25.0,1989.0,2015-2016,ITA
+Diego López,73683fa9,esESP,GK,Milan,33.0,1981.0,2015-2016,ITA
+Maxi López,ad469944,arARG,FW,Torino,31.0,1984.0,2015-2016,ITA
+Senad Lulić,7fd58fe3,baBIH,"DF,MF",Lazio,29.0,1986.0,2015-2016,ITA
+Paul-Jose M'Poku,6ec1ddf1,cdCOD,"FW,MF",Chievo,23.0,1992.0,2015-2016,ITA
+Massimo Maccarone,1586379d,itITA,FW,Empoli,35.0,1979.0,2015-2016,ITA
+Christian Maggio,31d7f557,itITA,DF,Napoli,33.0,1982.0,2015-2016,ITA
+Francesco Magnanelli,07767f42,itITA,MF,Sassuolo,30.0,1984.0,2015-2016,ITA
+Raffaele Maiello,02febfdc,itITA,MF,Empoli,24.0,1991.0,2015-2016,ITA
+Domenico Maietta,3d936ba9,itITA,DF,Bologna,32.0,1982.0,2015-2016,ITA
+Nikola Maksimović,16b9d5cf,rsSRB,DF,Torino,23.0,1991.0,2015-2016,ITA
+Rey Manaj,7703afb6,alALB,FW,Inter,18.0,1997.0,2015-2016,ITA
+Matteo Mancosu,235fab68,itITA,FW,Bologna,30.0,1984.0,2015-2016,ITA
+Matteo Mancosu,235fab68,itITA,FW,Carpi,30.0,1984.0,2015-2016,ITA
+Mario Mandžukić,afa0d4e0,hrCRO,FW,Juventus,29.0,1986.0,2015-2016,ITA
+Kostas Manolas,c707411f,grGRE,DF,Roma,24.0,1991.0,2015-2016,ITA
+Giovanni Marchese,55142846,itITA,DF,Genoa,30.0,1984.0,2015-2016,ITA
+Federico Marchetti,f794b426,itITA,GK,Lazio,32.0,1983.0,2015-2016,ITA
+Claudio Marchisio,e304acd5,itITA,MF,Juventus,29.0,1986.0,2015-2016,ITA
+Enzo Maresca,1a899d99,itITA,MF,Palermo,35.0,1980.0,2015-2016,ITA
+Rafael Márquez,ce067ffe,mxMEX,DF,Hellas Verona,36.0,1979.0,2015-2016,ITA
+Marquinho,949bdc36,brBRA,MF,Udinese,29.0,1986.0,2015-2016,ITA
+Luca Marrone,ea468ea8,itITA,MF,Hellas Verona,25.0,1990.0,2015-2016,ITA
+Luca Marrone,ea468ea8,itITA,"MF,DF",Carpi,25.0,1990.0,2015-2016,ITA
+Luca Martinelli,583e55a5,itITA,DF,Empoli,26.0,1988.0,2015-2016,ITA
+Josef Martínez,e73f0aa1,veVEN,FW,Torino,22.0,1993.0,2015-2016,ITA
+Raphael Martinho,1124bc4f,brBRA,MF,Carpi,27.0,1988.0,2015-2016,ITA
+Andrea Masiello,e0314d87,itITA,DF,Atalanta,29.0,1986.0,2015-2016,ITA
+Adam Masina,de0f152c,maMAR,DF,Bologna,21.0,1994.0,2015-2016,ITA
+Tim Matavž,ebc29a56,siSVN,FW,Genoa,26.0,1989.0,2015-2016,ITA
+Ryder Matos,7280b54f,brBRA,FW,Udinese,22.0,1993.0,2015-2016,ITA
+Ryder Matos,7280b54f,brBRA,"FW,MF",Carpi,22.0,1993.0,2015-2016,ITA
+Alessandro Matri,58d97e77,itITA,"FW,MF",Lazio,30.0,1984.0,2015-2016,ITA
+Federico Mattiello,fba81826,itITA,DF,Chievo,20.0,1995.0,2015-2016,ITA
+Matuzalém,5ba2fc63,brBRA,MF,Hellas Verona,35.0,1980.0,2015-2016,ITA
+José Mauri,644faf10,itITA,MF,Milan,19.0,1996.0,2015-2016,ITA
+Stefano Mauri,e3bb6738,itITA,"MF,FW",Lazio,35.0,1980.0,2015-2016,ITA
+Maurício,d5bd1abc,brBRA,DF,Lazio,26.0,1988.0,2015-2016,ITA
+Jerry Mbakogu,8196a263,ngNGA,FW,Carpi,22.0,1992.0,2015-2016,ITA
+Ibrahima Mbaye,cfbf9881,snSEN,DF,Bologna,20.0,1994.0,2015-2016,ITA
+Levan Mchedlidze,54ab361e,geGEO,FW,Empoli,25.0,1990.0,2015-2016,ITA
+Gary Medel,563a68ad,clCHI,"MF,DF",Inter,27.0,1987.0,2015-2016,ITA
+Riccardo Meggiorini,2ec0f902,itITA,FW,Chievo,29.0,1985.0,2015-2016,ITA
+Felipe Melo,b14d84d3,brBRA,MF,Inter,32.0,1983.0,2015-2016,ITA
+Jérémy Ménez,41976af1,frFRA,FW,Milan,28.0,1987.0,2015-2016,ITA
+Alexander Merkel,5181e2cb,kzKAZ,MF,Udinese,23.0,1992.0,2015-2016,ITA
+Dries Mertens,89b2c8a9,beBEL,FW,Napoli,28.0,1987.0,2015-2016,ITA
+Djamel Mesbah,72158162,dzALG,DF,Sampdoria,30.0,1984.0,2015-2016,ITA
+Philippe Mexès,a5eb25eb,frFRA,DF,Milan,33.0,1982.0,2015-2016,ITA
+Giulio Migliaccio,e0d0587c,itITA,MF,Atalanta,34.0,1981.0,2015-2016,ITA
+Sergej Milinković-Savić,4e6dbac4,rsSRB,MF,Lazio,20.0,1995.0,2015-2016,ITA
+Miranda,314f2124,brBRA,DF,Inter,30.0,1984.0,2015-2016,ITA
+Antonio Mirante,30223b33,itITA,GK,Bologna,32.0,1983.0,2015-2016,ITA
+Simone Missiroli,331c0a43,itITA,MF,Sassuolo,29.0,1986.0,2015-2016,ITA
+Niklas Moisander,00844823,fiFIN,DF,Sampdoria,29.0,1985.0,2015-2016,ITA
+Cristian Molinaro,1c8c5aed,itITA,MF,Torino,32.0,1983.0,2015-2016,ITA
+Gaetano Monachello,241ee811,itITA,FW,Atalanta,21.0,1994.0,2015-2016,ITA
+Riccardo Montolivo,b746d309,itITA,MF,Milan,30.0,1985.0,2015-2016,ITA
+Martín Montoya,5cec2487,esESP,DF,Inter,24.0,1991.0,2015-2016,ITA
+Maximiliano Moralez,f99f37fc,arARG,FW,Atalanta,28.0,1987.0,2015-2016,ITA
+Vangelis Moras,bffec2a8,grGRE,DF,Hellas Verona,33.0,1981.0,2015-2016,ITA
+Álvaro Morata,129af0db,esESP,FW,Juventus,22.0,1992.0,2015-2016,ITA
+Emiliano Moretti,55667895,itITA,DF,Torino,34.0,1981.0,2015-2016,ITA
+Michel Morganella,02728546,chSUI,"MF,DF",Palermo,26.0,1989.0,2015-2016,ITA
+Archimede Morleo,2260bad9,itITA,DF,Bologna,31.0,1983.0,2015-2016,ITA
+Ravel Morrison,bf59c794,jmJAM,MF,Lazio,22.0,1993.0,2015-2016,ITA
+Anthony Mounier,d9255c9a,frFRA,"FW,MF",Bologna,27.0,1987.0,2015-2016,ITA
+Ezequiel Muñoz,e4b8c5b6,arARG,DF,Genoa,24.0,1990.0,2015-2016,ITA
+Luis Muriel,eb2fe5b6,coCOL,FW,Sampdoria,24.0,1991.0,2015-2016,ITA
+Jeison Murillo,b233e8e4,coCOL,DF,Inter,23.0,1992.0,2015-2016,ITA
+Yuto Nagatomo,4b6960d2,jpJPN,DF,Inter,28.0,1986.0,2015-2016,ITA
+Radja Nainggolan,1f9328da,beBEL,MF,Roma,27.0,1988.0,2015-2016,ITA
+Neto,a9dc785c,brBRA,GK,Juventus,26.0,1989.0,2015-2016,ITA
+M'Baye Niang,2054d037,snSEN,FW,Milan,20.0,1994.0,2015-2016,ITA
+Nikola Ninković,ab1263d2,rsSRB,"FW,MF",Chievo,20.0,1994.0,2015-2016,ITA
+Antonio Nocerino,07cf67f3,itITA,MF,Milan,30.0,1985.0,2015-2016,ITA
+Olivier Ntcham,6554bb97,cmCMR,"MF,FW",Genoa,19.0,1996.0,2015-2016,ITA
+Joel Obi,614c38fb,ngNGA,MF,Torino,24.0,1991.0,2015-2016,ITA
+Marios Oikonomou,3b9858f5,grGRE,DF,Bologna,22.0,1992.0,2015-2016,ITA
+Wallace Oliveira,adbd7009,brBRA,MF,Carpi,21.0,1994.0,2015-2016,ITA
+Ogenyi Onazi,17310a6c,ngNGA,MF,Lazio,22.0,1992.0,2015-2016,ITA
+Juan Pablo Carrizo,04e6e152,arARG,GK,Inter,31.0,1984.0,2015-2016,ITA
+Daniele Padelli,cf1c23d8,itITA,GK,Torino,29.0,1985.0,2015-2016,ITA
+Simone Padoin,5eb72339,itITA,"MF,DF",Juventus,31.0,1984.0,2015-2016,ITA
+Luca Paganini,e5b98a70,itITA,"MF,FW",Frosinone,22.0,1993.0,2015-2016,ITA
+Rodrigo Palacio,8d8178ac,arARG,"FW,MF",Inter,33.0,1982.0,2015-2016,ITA
+Gabriel Paletta,cc3477f4,itITA,DF,Atalanta,29.0,1986.0,2015-2016,ITA
+Emerson Palmieri,e0bc6fdc,itITA,DF,Roma,20.0,1994.0,2015-2016,ITA
+Angelo Palombo,d0bd8589,itITA,MF,Sampdoria,33.0,1981.0,2015-2016,ITA
+Alberto Paloschi,b5cae4e6,itITA,FW,Chievo,25.0,1990.0,2015-2016,ITA
+Goran Pandev,d711d04f,mkMKD,FW,Genoa,32.0,1983.0,2015-2016,ITA
+Giuseppe Panico,bb30083b,itITA,FW,Genoa,18.0,1997.0,2015-2016,ITA
+Leandro Paredes,dff153a4,arARG,MF,Empoli,21.0,1994.0,2015-2016,ITA
+Marco Parolo,ed5886d2,itITA,MF,Lazio,30.0,1985.0,2015-2016,ITA
+Lorenzo Pasciuti,ef896c4b,itITA,MF,Carpi,25.0,1989.0,2015-2016,ITA
+Manuel Pasqual,548902cc,itITA,"MF,DF",Fiorentina,33.0,1982.0,2015-2016,ITA
+Giovanni Pasquale,9366f242,itITA,MF,Udinese,33.0,1982.0,2015-2016,ITA
+Patric,f7223718,esESP,DF,Lazio,22.0,1993.0,2015-2016,ITA
+Daniel Pavlović,47146acb,baBIH,DF,Frosinone,27.0,1988.0,2015-2016,ITA
+Leonardo Pavoletti,d37b0350,itITA,FW,Genoa,26.0,1988.0,2015-2016,ITA
+Giampaolo Pazzini,6ca663b4,itITA,FW,Hellas Verona,30.0,1984.0,2015-2016,ITA
+Gianluca Pegolo,f058ed1f,itITA,GK,Sassuolo,34.0,1981.0,2015-2016,ITA
+Alberto Pelagotti,3101c3ce,itITA,GK,Empoli,25.0,1989.0,2015-2016,ITA
+Lorenzo Pellegrini,4a5a45c7,itITA,MF,Sassuolo,19.0,1996.0,2015-2016,ITA
+Sergio Pellissier,878ee034,itITA,FW,Chievo,36.0,1979.0,2015-2016,ITA
+Federico Peluso,4f2908e5,itITA,DF,Sassuolo,31.0,1984.0,2015-2016,ITA
+Simone Pepe,1f3674c2,itITA,"MF,FW",Chievo,31.0,1983.0,2015-2016,ITA
+Pedro Pereira,f66a3871,ptPOR,FW,Sampdoria,31.0,1984.0,2015-2016,ITA
+Bruno Peres,852351df,brBRA,MF,Torino,25.0,1990.0,2015-2016,ITA
+Roberto Pereyra,75f2c59f,arARG,"MF,FW",Juventus,24.0,1991.0,2015-2016,ITA
+Stipe Perica,269b4638,hrCRO,FW,Udinese,20.0,1995.0,2015-2016,ITA
+Mattia Perin,4c62d0c8,itITA,GK,Genoa,22.0,1992.0,2015-2016,ITA
+Ivan Perišić,6fe90922,hrCRO,"MF,FW",Inter,26.0,1989.0,2015-2016,ITA
+Diego Perotti,a40d5a0c,arARG,FW,Genoa,27.0,1988.0,2015-2016,ITA
+Diego Perotti,a40d5a0c,arARG,"FW,MF",Roma,27.0,1988.0,2015-2016,ITA
+Giuseppe Pezzella,149c5f5d,itITA,"DF,MF",Palermo,17.0,1997.0,2015-2016,ITA
+Mauricio Pinilla,33bd231e,clCHI,FW,Atalanta,31.0,1984.0,2015-2016,ITA
+Giampiero Pinzi,8857991f,itITA,MF,Chievo,34.0,1981.0,2015-2016,ITA
+Iván Piris,95ced740,pyPAR,DF,Udinese,26.0,1989.0,2015-2016,ITA
+Eros Pisano,81515841,itITA,DF,Hellas Verona,28.0,1987.0,2015-2016,ITA
+Alessandro Piu,e3eec2a7,itITA,FW,Empoli,19.0,1996.0,2015-2016,ITA
+Miralem Pjanić,ad6df2d5,baBIH,MF,Roma,25.0,1990.0,2015-2016,ITA
+Paul Pogba,867239d3,frFRA,MF,Juventus,22.0,1993.0,2015-2016,ITA
+Andrea Poli,b3fd7075,itITA,MF,Milan,25.0,1989.0,2015-2016,ITA
+Fabrizio Poli,0b98abf4,itITA,"DF,MF",Carpi,26.0,1989.0,2015-2016,ITA
+Matteo Politano,5e861944,itITA,FW,Sassuolo,21.0,1993.0,2015-2016,ITA
+Ronaldo Pompeu,86c9bfe8,brBRA,MF,Empoli,25.0,1990.0,2015-2016,ITA
+Andrés Ponce,d9600938,veVEN,FW,Sampdoria,18.0,1996.0,2015-2016,ITA
+Filippo Porcari,4e9ad4a3,itITA,MF,Carpi,31.0,1984.0,2015-2016,ITA
+Josip Posavec,72624a76,hrCRO,GK,Palermo,19.0,1996.0,2015-2016,ITA
+Sanjin Prcić,51c30111,baBIH,MF,Torino,21.0,1993.0,2015-2016,ITA
+Vasyl Pryima,a0c8a672,uaUKR,DF,Frosinone,24.0,1991.0,2015-2016,ITA
+Manuel Pucciarelli,a1c7b425,itITA,FW,Empoli,24.0,1991.0,2015-2016,ITA
+Maurizio Pugliesi,09f1423a,itITA,GK,Empoli,38.0,1976.0,2015-2016,ITA
+Erick Pulgar,4611e028,clCHI,MF,Bologna,21.0,1994.0,2015-2016,ITA
+Fabio Quagliarella,ee4f2f3b,itITA,FW,Torino,32.0,1983.0,2015-2016,ITA
+Fabio Quagliarella,ee4f2f3b,itITA,FW,Sampdoria,32.0,1983.0,2015-2016,ITA
+Robin Quaison,74c7c2db,seSWE,"FW,MF",Palermo,21.0,1993.0,2015-2016,ITA
+Ivan Radovanović,023937a9,rsSRB,MF,Chievo,26.0,1988.0,2015-2016,ITA
+Ștefan Radu,53de807a,roROU,DF,Lazio,28.0,1986.0,2015-2016,ITA
+Boris Radunović,0dfce079,rsSRB,GK,Atalanta,19.0,1996.0,2015-2016,ITA
+Rafael,dd06d56c,brBRA,GK,Hellas Verona,33.0,1982.0,2015-2016,ITA
+Cristian Raimondi,a6909989,itITA,"DF,MF",Atalanta,34.0,1981.0,2015-2016,ITA
+Andrea Ranocchia,539230cf,itITA,DF,Sampdoria,27.0,1988.0,2015-2016,ITA
+Andrea Ranocchia,539230cf,itITA,DF,Inter,27.0,1988.0,2015-2016,ITA
+Ante Rebić,536cebe5,hrCRO,"MF,FW",Hellas Verona,21.0,1993.0,2015-2016,ITA
+Ante Rebić,536cebe5,hrCRO,"FW,MF",Fiorentina,21.0,1993.0,2015-2016,ITA
+Vasco Regini,339c6ed4,itITA,DF,Sampdoria,24.0,1990.0,2015-2016,ITA
+Vasco Regini,339c6ed4,itITA,DF,Napoli,24.0,1990.0,2015-2016,ITA
+Pepe Reina,e358587b,esESP,GK,Napoli,32.0,1982.0,2015-2016,ITA
+Luca Rigoni,4dba2a97,itITA,MF,Genoa,30.0,1984.0,2015-2016,ITA
+Luca Rigoni,4dba2a97,itITA,MF,Palermo,30.0,1984.0,2015-2016,ITA
+Nicola Rigoni,e327bd76,itITA,MF,Chievo,24.0,1990.0,2015-2016,ITA
+Tomás Rincón,f1cfc209,veVEN,MF,Genoa,27.0,1988.0,2015-2016,ITA
+Andrea Rispoli,39ee6cb6,itITA,MF,Palermo,26.0,1988.0,2015-2016,ITA
+Luca Rizzo,a3e4b724,itITA,"FW,MF",Bologna,23.0,1992.0,2015-2016,ITA
+Michele Rocca,93a5f02f,itITA,MF,Sampdoria,19.0,1996.0,2015-2016,ITA
+Alejandro Rodríguez,7602ddf6,esESP,FW,Sampdoria,24.0,1991.0,2015-2016,ITA
+Gonzalo Rodríguez,46e6fea3,arARG,DF,Fiorentina,31.0,1984.0,2015-2016,ITA
+Alessio Romagnoli,3ead85f9,itITA,DF,Milan,20.0,1995.0,2015-2016,ITA
+Simone Romagnoli,09899de8,itITA,DF,Carpi,25.0,1990.0,2015-2016,ITA
+Rômulo,07abb358,itITA,"DF,MF",Hellas Verona,28.0,1987.0,2015-2016,ITA
+Facundo Roncaglia,51e3954c,arARG,DF,Fiorentina,28.0,1987.0,2015-2016,ITA
+Marten de Roon,2a1beb34,nlNED,MF,Atalanta,24.0,1991.0,2015-2016,ITA
+Aleandro Rosi,1b729ba2,itITA,DF,Frosinone,28.0,1987.0,2015-2016,ITA
+Luca Rossettini,47a500ae,itITA,DF,Bologna,30.0,1985.0,2015-2016,ITA
+Giuseppe Rossi,fe48a073,itITA,"FW,MF",Fiorentina,28.0,1987.0,2015-2016,ITA
+Antonio Rüdiger,18b896d6,deGER,DF,Roma,22.0,1993.0,2015-2016,ITA
+Daniele Rugani,14b8fcdf,itITA,DF,Juventus,21.0,1994.0,2015-2016,ITA
+Mário Rui,0b5a292a,ptPOR,DF,Empoli,24.0,1991.0,2015-2016,ITA
+Adriano Russo,3ace4299,itITA,DF,Frosinone,28.0,1987.0,2015-2016,ITA
+Stefano Sabelli,0ccac09c,itITA,"MF,DF",Carpi,22.0,1993.0,2015-2016,ITA
+Umar Sadiq,686cbe7d,ngNGA,"MF,FW",Roma,18.0,1997.0,2015-2016,ITA
+Jacopo Sala,da5a981b,itITA,"MF,DF",Hellas Verona,23.0,1991.0,2015-2016,ITA
+Jacopo Sala,da5a981b,itITA,"MF,DF",Sampdoria,23.0,1991.0,2015-2016,ITA
+Mohamed Salah,e342ad68,egEGY,"FW,MF",Roma,23.0,1992.0,2015-2016,ITA
+Paolo Sammarco,3c1e4e84,itITA,MF,Frosinone,32.0,1983.0,2015-2016,ITA
+Alex Sandro,0d82903c,brBRA,"MF,DF",Juventus,24.0,1991.0,2015-2016,ITA
+Nicola Sansone,7eb97a8e,itITA,FW,Sassuolo,23.0,1991.0,2015-2016,ITA
+Davide Santon,88c89891,itITA,DF,Inter,24.0,1991.0,2015-2016,ITA
+Samir Santos,92b4758e,brBRA,DF,Hellas Verona,20.0,1994.0,2015-2016,ITA
+Riccardo Saponara,3bb7af3b,itITA,"MF,FW",Empoli,23.0,1991.0,2015-2016,ITA
+Gennaro Sardo,efffc3d5,itITA,DF,Chievo,36.0,1979.0,2015-2016,ITA
+Andrea Seculin,c4f573f4,itITA,GK,Chievo,25.0,1990.0,2015-2016,ITA
+Stephan El Shaarawy,d3aaad90,itITA,"FW,MF",Roma,22.0,1992.0,2015-2016,ITA
+Franco Signorelli,9f1f4ae9,veVEN,MF,Empoli,24.0,1991.0,2015-2016,ITA
+Luca Siligardi,1cac99dc,itITA,"MF,FW",Hellas Verona,27.0,1988.0,2015-2016,ITA
+Gabriel Silva,4914ed4a,brBRA,MF,Genoa,24.0,1991.0,2015-2016,ITA
+Gabriel Silva,4914ed4a,brBRA,"MF,DF",Carpi,24.0,1991.0,2015-2016,ITA
+Gastón Silva,47d493c3,uyURU,"MF,DF",Torino,21.0,1994.0,2015-2016,ITA
+Matías Silvestre,b6ca47a2,arARG,DF,Sampdoria,30.0,1984.0,2015-2016,ITA
+Maicon Sisenando,fbc5d136,brBRA,DF,Roma,34.0,1981.0,2015-2016,ITA
+Łukasz Skorupski,ab4449d6,plPOL,GK,Empoli,24.0,1991.0,2015-2016,ITA
+Milan Škriniar,30f5ffa9,skSVK,DF,Sampdoria,20.0,1995.0,2015-2016,ITA
+Danilo Soddimo,098139eb,itITA,"MF,FW",Frosinone,27.0,1987.0,2015-2016,ITA
+Roberto Soriano,9d4c45d6,itITA,MF,Sampdoria,24.0,1991.0,2015-2016,ITA
+Stefano Sorrentino,048877f5,itITA,GK,Palermo,36.0,1979.0,2015-2016,ITA
+Samuel Souprayen,f7c9fcd6,frFRA,DF,Hellas Verona,26.0,1989.0,2015-2016,ITA
+Nicolás Spolli,9a560ebe,arARG,"DF,MF",Carpi,32.0,1983.0,2015-2016,ITA
+Nicolás Spolli,9a560ebe,arARG,DF,Chievo,32.0,1983.0,2015-2016,ITA
+Marco Sportiello,ac4003af,itITA,GK,Atalanta,23.0,1992.0,2015-2016,ITA
+Guglielmo Stendardo,333a9ae7,itITA,DF,Atalanta,34.0,1981.0,2015-2016,ITA
+Ivan Strinić,52e2ef8f,hrCRO,DF,Napoli,28.0,1987.0,2015-2016,ITA
+Kevin Strootman,ef2e5e1a,nlNED,MF,Roma,25.0,1990.0,2015-2016,ITA
+Aljaž Struna,b82c2982,siSVN,DF,Palermo,24.0,1990.0,2015-2016,ITA
+Stefano Sturaro,2334478a,itITA,MF,Juventus,22.0,1993.0,2015-2016,ITA
+Emanuele Suagher,976a9181,itITA,DF,Carpi,22.0,1992.0,2015-2016,ITA
+Mario Suárez,7106f0a0,esESP,MF,Fiorentina,28.0,1987.0,2015-2016,ITA
+Suso,4e219ad2,esESP,FW,Genoa,21.0,1993.0,2015-2016,ITA
+Suso,4e219ad2,esESP,MF,Milan,21.0,1993.0,2015-2016,ITA
+Wojciech Szczęsny,01b8a2b2,plPOL,GK,Roma,25.0,1990.0,2015-2016,ITA
+Aaron Tabacchi,58eebf14,itITA,FW,Bologna,17.0,1998.0,2015-2016,ITA
+Panagiotis Tachtsidis,e26bd2f4,grGRE,MF,Genoa,24.0,1991.0,2015-2016,ITA
+Saphir Taïder,a12d0c05,dzALG,MF,Bologna,23.0,1992.0,2015-2016,ITA
+Ciprian Tătărușanu,b056e3da,roROU,GK,Fiorentina,29.0,1986.0,2015-2016,ITA
+Alex Telles,e73c9bb2,brBRA,DF,Inter,22.0,1992.0,2015-2016,ITA
+Cristian Tello,72a99e38,esESP,MF,Fiorentina,23.0,1991.0,2015-2016,ITA
+Emanuele Terranova,8d408687,itITA,DF,Sassuolo,28.0,1987.0,2015-2016,ITA
+Cyril Théréau,4d3ab428,frFRA,FW,Udinese,32.0,1983.0,2015-2016,ITA
+Rafael Tolói,c56dc39e,itITA,DF,Atalanta,24.0,1990.0,2015-2016,ITA
+Nenad Tomović,6aafdc27,rsSRB,DF,Fiorentina,27.0,1987.0,2015-2016,ITA
+Lorenzo Tonelli,8cc29864,itITA,DF,Empoli,25.0,1990.0,2015-2016,ITA
+Aleksandar Tonev,c15d1af9,bgBUL,"MF,FW",Frosinone,25.0,1990.0,2015-2016,ITA
+Luca Toni,dd74033b,itITA,FW,Hellas Verona,38.0,1977.0,2015-2016,ITA
+Vasilis Torosidis,8ea2c099,grGRE,DF,Roma,30.0,1985.0,2015-2016,ITA
+Francesco Totti,ed75b6c7,itITA,"MF,FW",Roma,38.0,1976.0,2015-2016,ITA
+Aleksandar Trajkovski,84bba8b6,mkMKD,"FW,MF",Palermo,22.0,1992.0,2015-2016,ITA
+Marcello Trotta,acdad0aa,itITA,FW,Sassuolo,22.0,1992.0,2015-2016,ITA
+Marco Tumminello,5bdd44d8,itITA,FW,Roma,16.0,1998.0,2015-2016,ITA
+Salih Uçan,fe154b26,trTUR,MF,Roma,21.0,1994.0,2015-2016,ITA
+William Vainqueur,92cd4bef,frFRA,MF,Roma,26.0,1988.0,2015-2016,ITA
+Mirko Valdifiori,c710f7d5,itITA,MF,Napoli,29.0,1986.0,2015-2016,ITA
+Borja Valero,0e21fc3c,esESP,MF,Fiorentina,30.0,1985.0,2015-2016,ITA
+Franco Vázquez,467bae22,arARG,"FW,MF",Palermo,26.0,1989.0,2015-2016,ITA
+Matías Vecino,44ac04e9,uyURU,MF,Fiorentina,23.0,1991.0,2015-2016,ITA
+Daniele Verde,d3298c99,itITA,FW,Frosinone,19.0,1996.0,2015-2016,ITA
+Simone Verdi,0375723e,itITA,"FW,MF",Carpi,23.0,1992.0,2015-2016,ITA
+Joan Verdú,61508522,esESP,MF,Fiorentina,32.0,1983.0,2015-2016,ITA
+Roberto Vitiello,f918e2fb,itITA,DF,Palermo,32.0,1983.0,2015-2016,ITA
+Giuseppe Vives,095867aa,itITA,MF,Torino,35.0,1980.0,2015-2016,ITA
+Federico Viviani,2258c078,itITA,MF,Hellas Verona,23.0,1992.0,2015-2016,ITA
+Emiliano Viviano,03760df0,itITA,GK,Sampdoria,29.0,1985.0,2015-2016,ITA
+Stefan de Vrij,d0d8dd44,nlNED,DF,Lazio,23.0,1992.0,2015-2016,ITA
+Šime Vrsaljko,46a8347f,hrCRO,DF,Sassuolo,23.0,1992.0,2015-2016,ITA
+Molla Wagué,a440d8ca,mlMLI,DF,Udinese,24.0,1991.0,2015-2016,ITA
+Silvan Widmer,f68b64fc,chSUI,MF,Udinese,22.0,1993.0,2015-2016,ITA
+Kamil Wilczek,8513b4e6,plPOL,FW,Carpi,27.0,1988.0,2015-2016,ITA
+Paweł Wszołek,21b03d15,plPOL,MF,Hellas Verona,23.0,1992.0,2015-2016,ITA
+Paweł Wszołek,21b03d15,plPOL,"DF,MF",Sampdoria,23.0,1992.0,2015-2016,ITA
+Mattia Zaccagni,d85c238b,itITA,"FW,MF",Hellas Verona,20.0,1995.0,2015-2016,ITA
+Cristian Zaccardo,ae2a7988,itITA,DF,Carpi,33.0,1981.0,2015-2016,ITA
+Marco Zambelli,c09136a3,itITA,DF,Empoli,29.0,1985.0,2015-2016,ITA
+Cristián Zapata,b1deecf8,coCOL,DF,Milan,28.0,1986.0,2015-2016,ITA
+Duván Zapata,d3de9af0,coCOL,FW,Udinese,24.0,1991.0,2015-2016,ITA
+Davide Zappacosta,7fe90ccd,itITA,MF,Torino,23.0,1992.0,2015-2016,ITA
+Massimo Zappino,03d5e282,brBRA,GK,Frosinone,34.0,1981.0,2015-2016,ITA
+Mauro Zárate,cc18ff4c,arARG,"MF,FW",Fiorentina,28.0,1987.0,2015-2016,ITA
+Simone Zaza,9592289a,itITA,FW,Juventus,24.0,1991.0,2015-2016,ITA
+Piotr Zieliński,a5296e55,plPOL,MF,Empoli,21.0,1994.0,2015-2016,ITA
+Franco Zuculini,9c31bb89,arARG,MF,Bologna,24.0,1990.0,2015-2016,ITA
+Ervin Zukanović,1253a12e,baBIH,DF,Sampdoria,28.0,1987.0,2015-2016,ITA
+Ervin Zukanović,1253a12e,baBIH,DF,Roma,28.0,1987.0,2015-2016,ITA
+Juan Zúñiga,06b34f37,coCOL,"MF,FW",Bologna,29.0,1985.0,2015-2016,ITA
+Filip Đorđević,dfb933e0,rsSRB,FW,Lazio,27.0,1987.0,2015-2016,ITA
+Uroš Đurđević,d49b243a,meMNE,FW,Palermo,21.0,1994.0,2015-2016,ITA
+David Abraham,565bf0da,arARG,DF,Eintracht Frankfurt,29.0,1986.0,2015-2016,GER
+René Adler,f71890f5,deGER,GK,Hamburger SV,30.0,1985.0,2015-2016,GER
+Stefan Aigner,17cc3f63,deGER,"MF,FW",Eintracht Frankfurt,27.0,1987.0,2015-2016,GER
+Albian Ajeti,2b1c4abd,chSUI,FW,Augsburg,18.0,1997.0,2015-2016,GER
+David Alaba,05439de2,atAUT,DF,Bayern Munich,23.0,1992.0,2015-2016,GER
+Miiko Albornoz,d459281d,clCHI,DF,Hannover 96,24.0,1990.0,2015-2016,GER
+Thiago Alcántara,77e84962,esESP,MF,Bayern Munich,24.0,1991.0,2015-2016,GER
+Hugo Almeida,740acaf8,ptPOR,FW,Hannover 96,31.0,1984.0,2015-2016,GER
+Xabi Alonso,dc001a06,esESP,"MF,DF",Bayern Munich,33.0,1981.0,2015-2016,GER
+Batuhan Altıntaş,362269ee,trTUR,FW,Hamburger SV,19.0,1996.0,2015-2016,GER
+Halil Altıntop,efcdb132,trTUR,MF,Augsburg,32.0,1982.0,2015-2016,GER
+Nadiem Amiri,555d5edd,deGER,"MF,FW",Hoffenheim,18.0,1996.0,2015-2016,GER
+Leon Andreasen,8a000de5,dkDEN,MF,Hannover 96,32.0,1983.0,2015-2016,GER
+Waldemar Anton,5e66fa06,deGER,"DF,MF",Hannover 96,19.0,1996.0,2015-2016,GER
+Dennis Aogo,c311243f,deGER,"DF,MF",Schalke 04,28.0,1987.0,2015-2016,GER
+Charles Aránguiz,56413b1f,clCHI,"MF,DF",Leverkusen,26.0,1989.0,2015-2016,GER
+Fynn Arkenberg,b301674b,deGER,DF,Hannover 96,19.0,1996.0,2015-2016,GER
+Maximilian Arnold,86e119e0,deGER,MF,Wolfsburg,21.0,1994.0,2015-2016,GER
+Ahmet Arslan,d63e97c6,deGER,MF,Hamburger SV,21.0,1994.0,2015-2016,GER
+Carlos Ascues,38851eb2,pePER,"DF,MF",Wolfsburg,23.0,1992.0,2015-2016,GER
+Pierre-Emerick Aubameyang,d5dd5f1f,gaGAB,FW,Dortmund,26.0,1989.0,2015-2016,GER
+Kaan Ayhan,2200181e,trTUR,"DF,MF",Schalke 04,20.0,1994.0,2015-2016,GER
+Kaan Ayhan,2200181e,trTUR,MF,Eintracht Frankfurt,20.0,1994.0,2015-2016,GER
+Ismail Azzaoui,272cfd72,beBEL,"FW,MF",Wolfsburg,17.0,1998.0,2015-2016,GER
+Holger Badstuber,45b7edae,deGER,DF,Bayern Munich,26.0,1989.0,2015-2016,GER
+Nabil Bahoui,8689dccc,seSWE,MF,Hamburger SV,24.0,1991.0,2015-2016,GER
+Mike-Steven Bähre,3fb33d66,deGER,MF,Hannover 96,19.0,1995.0,2015-2016,GER
+Daniel Baier,f261abcb,deGER,MF,Augsburg,31.0,1984.0,2015-2016,GER
+Leon Balogun,78e68b4d,ngNGA,DF,Mainz 05,27.0,1988.0,2015-2016,GER
+Federico Barba,c010b898,itITA,DF,Stuttgart,21.0,1993.0,2015-2016,GER
+Philipp Bargfrede,3f7cd8f1,deGER,MF,Werder Bremen,26.0,1989.0,2015-2016,GER
+Fin Bartels,acc7b7ec,deGER,"MF,FW",Werder Bremen,28.0,1987.0,2015-2016,GER
+Robert Bauer,9b88e120,deGER,DF,Ingolstadt,20.0,1995.0,2015-2016,GER
+Oliver Baumann,47064058,deGER,GK,Hoffenheim,25.0,1990.0,2015-2016,GER
+Timo Baumgartl,bd7d2e6d,deGER,DF,Stuttgart,19.0,1996.0,2015-2016,GER
+Julian Baumgartlinger,69374ff5,atAUT,MF,Mainz 05,27.0,1988.0,2015-2016,GER
+Alexander Baumjohann,0300e2dc,deGER,MF,Hertha BSC,28.0,1987.0,2015-2016,GER
+Noah Joel Sarenren Bazee,fbbc8e15,ngNGA,"MF,DF",Hannover 96,18.0,1996.0,2015-2016,GER
+Uffe Bech,f7097e8a,dkDEN,"MF,FW",Hannover 96,22.0,1993.0,2015-2016,GER
+Roy Beerens,abb32016,nlNED,MF,Hertha BSC,27.0,1987.0,2015-2016,GER
+Maximilian Beister,25df5f56,deGER,"FW,MF",Mainz 05,24.0,1990.0,2015-2016,GER
+Younès Belhanda,e204ec12,maMAR,MF,Schalke 04,25.0,1990.0,2015-2016,GER
+Stefan Bell,857a5abe,deGER,DF,Mainz 05,23.0,1991.0,2015-2016,GER
+Karim Bellarabi,bee0bab1,deGER,MF,Leverkusen,25.0,1990.0,2015-2016,GER
+Änis Ben-Hatira,132e4111,tnTUN,MF,Eintracht Frankfurt,27.0,1988.0,2015-2016,GER
+Diego Benaglio,b7e7937d,chSUI,GK,Wolfsburg,31.0,1983.0,2015-2016,GER
+Medhi Benatia,3b15ef2d,maMAR,DF,Bayern Munich,28.0,1987.0,2015-2016,GER
+Lars Bender,c50281a0,deGER,"MF,DF",Leverkusen,26.0,1989.0,2015-2016,GER
+Sven Bender,070ec0b1,deGER,"DF,MF",Dortmund,26.0,1989.0,2015-2016,GER
+Nicklas Bendtner,9f9c57f0,dkDEN,FW,Wolfsburg,27.0,1988.0,2015-2016,GER
+Pierre Bengtsson,d1992a3b,seSWE,DF,Mainz 05,27.0,1988.0,2015-2016,GER
+Charlison Benschop,fc93fdf1,cwCUW,FW,Hannover 96,25.0,1989.0,2015-2016,GER
+Juan Bernat,433dc9a2,esESP,"DF,MF",Bayern Munich,22.0,1993.0,2015-2016,GER
+Ermin Bičakčić,7aac47fe,baBIH,DF,Hoffenheim,25.0,1990.0,2015-2016,GER
+Leonardo Bittencourt,dc62fbee,deGER,"MF,FW",Köln,21.0,1993.0,2015-2016,GER
+Pablo de Blasis,9ab48bde,arARG,MF,Mainz 05,27.0,1988.0,2015-2016,GER
+Jérôme Boateng,2db2fd7b,deGER,DF,Bayern Munich,26.0,1988.0,2015-2016,GER
+Raúl Bobadilla,9b285700,pyPAR,"FW,MF",Augsburg,28.0,1987.0,2015-2016,GER
+Sebastian Boenisch,e6a25eeb,plPOL,DF,Leverkusen,28.0,1987.0,2015-2016,GER
+Julian Brandt,a167537f,deGER,"MF,FW",Leverkusen,19.0,1996.0,2015-2016,GER
+Romain Brégerie,28e01b39,frFRA,"MF,DF",Ingolstadt,28.0,1986.0,2015-2016,GER
+John Brooks,e27da244,usUSA,DF,Hertha BSC,22.0,1993.0,2015-2016,GER
+Daniel Brosinski,a7813ac4,deGER,DF,Mainz 05,27.0,1988.0,2015-2016,GER
+Roel Brouwers,82f61d83,nlNED,DF,Gladbach,33.0,1981.0,2015-2016,GER
+Niko Bungert,0e0ab524,deGER,DF,Mainz 05,28.0,1986.0,2015-2016,GER
+Roman Bürki,9d12e142,chSUI,GK,Dortmund,24.0,1990.0,2015-2016,GER
+Gaëtan Bussmann,278f6efc,frFRA,DF,Mainz 05,24.0,1991.0,2015-2016,GER
+Júnior Caiçara,038aa94a,brBRA,"DF,MF",Schalke 04,26.0,1989.0,2015-2016,GER
+Caiuby,c6637acf,brBRA,"MF,FW",Augsburg,27.0,1988.0,2015-2016,GER
+Luca Caldirola,226008f1,itITA,DF,Darmstadt 98,24.0,1991.0,2015-2016,GER
+Hakan Çalhanoğlu,cd0fa27b,trTUR,MF,Leverkusen,21.0,1994.0,2015-2016,GER
+Daniel Caligiuri,d1273f09,itITA,MF,Wolfsburg,27.0,1988.0,2015-2016,GER
+Jan-Ingwer Callsen-Bracker,0999a593,deGER,DF,Augsburg,30.0,1984.0,2015-2016,GER
+Russell Canouse,ec730d9a,usUSA,MF,Hoffenheim,20.0,1995.0,2015-2016,GER
+Luc Castaignos,a19be070,nlNED,FW,Eintracht Frankfurt,22.0,1992.0,2015-2016,GER
+Koen Casteels,db401046,beBEL,GK,Wolfsburg,23.0,1992.0,2015-2016,GER
+Gonzalo Castro,68829001,deGER,MF,Dortmund,28.0,1987.0,2015-2016,GER
+Timothy Chandler,b3b7f5a6,usUSA,DF,Eintracht Frankfurt,25.0,1990.0,2015-2016,GER
+Andreas Christensen,1cb49278,dkDEN,DF,Gladbach,19.0,1996.0,2015-2016,GER
+Max Christiansen,e7b899b8,deGER,MF,Ingolstadt,18.0,1996.0,2015-2016,GER
+Tolga Ciğerci,6e17c802,trTUR,MF,Hertha BSC,23.0,1992.0,2015-2016,GER
+Per Ciljan Skjelbred,ecab64a0,noNOR,MF,Hertha BSC,28.0,1987.0,2015-2016,GER
+Cléber,20c981ba,brBRA,DF,Hamburger SV,24.0,1990.0,2015-2016,GER
+Christian Clemens,612cb8d3,deGER,MF,Mainz 05,23.0,1991.0,2015-2016,GER
+Almog Cohen,5b37ba7a,ilISR,MF,Ingolstadt,26.0,1988.0,2015-2016,GER
+Kingsley Coman,042e8a49,frFRA,"MF,FW",Bayern Munich,19.0,1996.0,2015-2016,GER
+Jhon Córdoba,9f381d8b,coCOL,FW,Mainz 05,22.0,1993.0,2015-2016,GER
+Danny da Costa,5ddb8f9f,deGER,DF,Ingolstadt,22.0,1993.0,2015-2016,GER
+Douglas Costa,4fa7cb9b,brBRA,MF,Bayern Munich,24.0,1990.0,2015-2016,GER
+Mahmoud Dahoud,db4ed67b,deGER,MF,Gladbach,19.0,1996.0,2015-2016,GER
+Dante,fd2bc67d,brBRA,DF,Bayern Munich,31.0,1983.0,2015-2016,GER
+Dante,fd2bc67d,brBRA,DF,Wolfsburg,31.0,1983.0,2015-2016,GER
+Vladimír Darida,3eb0f2df,czCZE,MF,Hertha BSC,24.0,1990.0,2015-2016,GER
+Kevin De Bruyne,e46012d4,beBEL,MF,Wolfsburg,24.0,1991.0,2015-2016,GER
+Johannes van den Bergh,2009b7f2,deGER,MF,Hertha BSC,28.0,1986.0,2015-2016,GER
+Franco Di Santo,549c6ba7,arARG,FW,Schalke 04,26.0,1989.0,2015-2016,GER
+Júnior Díaz,a83f301d,crCRC,DF,Darmstadt 98,31.0,1983.0,2015-2016,GER
+Marcelo Díaz,955b2e8a,clCHI,MF,Hamburger SV,28.0,1986.0,2015-2016,GER
+Daniel Didavi,d3096421,deGER,"MF,FW",Stuttgart,25.0,1990.0,2015-2016,GER
+Serey Die,3c1b7c60,ciCIV,MF,Stuttgart,30.0,1984.0,2015-2016,GER
+Dennis Diekmeier,6873f3bc,deGER,DF,Hamburger SV,25.0,1989.0,2015-2016,GER
+Tim Dierßen,96f8ab0c,deGER,MF,Hannover 96,19.0,1996.0,2015-2016,GER
+Constant Djakpa,b3ed818e,ciCIV,"DF,MF",Eintracht Frankfurt,28.0,1986.0,2015-2016,GER
+Papy Djilobodji,083525e5,snSEN,DF,Werder Bremen,26.0,1988.0,2015-2016,GER
+Johan Djourou,b8673e18,chSUI,DF,Hamburger SV,28.0,1987.0,2015-2016,GER
+Álvaro Domínguez,cd0a9411,esESP,DF,Gladbach,26.0,1989.0,2015-2016,GER
+Giulio Donati,22051fbe,itITA,DF,Mainz 05,25.0,1990.0,2015-2016,GER
+Giulio Donati,22051fbe,itITA,DF,Leverkusen,25.0,1990.0,2015-2016,GER
+Ji Dong-won,7d841904,krKOR,"MF,FW",Augsburg,24.0,1991.0,2015-2016,GER
+Bas Dost,dc90cfbe,nlNED,FW,Wolfsburg,26.0,1989.0,2015-2016,GER
+Julian Draxler,1a992676,deGER,MF,Wolfsburg,21.0,1993.0,2015-2016,GER
+Julian Draxler,1a992676,deGER,MF,Schalke 04,21.0,1993.0,2015-2016,GER
+Josip Drmić,15ea94de,chSUI,MF,Hamburger SV,22.0,1992.0,2015-2016,GER
+Josip Drmić,15ea94de,chSUI,FW,Gladbach,22.0,1992.0,2015-2016,GER
+Jaroslav Drobný,e4a30d8c,czCZE,GK,Hamburger SV,35.0,1979.0,2015-2016,GER
+Erik Durm,cf623c78,deGER,"DF,MF",Dortmund,23.0,1992.0,2015-2016,GER
+Maximilian Eggestein,beb882a8,deGER,"MF,FW",Werder Bremen,18.0,1996.0,2015-2016,GER
+Albin Ekdal,f503ea63,seSWE,MF,Hamburger SV,26.0,1989.0,2015-2016,GER
+Nico Elvedi,48035304,chSUI,DF,Gladbach,18.0,1996.0,2015-2016,GER
+Tarik Elyounoussi,85b0c4c6,noNOR,MF,Hoffenheim,27.0,1988.0,2015-2016,GER
+Konstantin Engel,df6a938e,kzKAZ,DF,Ingolstadt,27.0,1988.0,2015-2016,GER
+Mevlüt Erdinç,3b99b9e1,trTUR,FW,Hannover 96,28.0,1987.0,2015-2016,GER
+Alexander Esswein,b48215cd,deGER,MF,Augsburg,25.0,1990.0,2015-2016,GER
+Marco Fabián,e665a2db,mxMEX,"MF,FW",Eintracht Frankfurt,26.0,1989.0,2015-2016,GER
+Ralf Fährmann,1e43fad8,deGER,GK,Schalke 04,26.0,1988.0,2015-2016,GER
+Felipe,de164de6,brBRA,DF,Hannover 96,28.0,1987.0,2015-2016,GER
+Arianit Ferati,b98b99e8,xkKVX,MF,Stuttgart,17.0,1997.0,2015-2016,GER
+Markus Feulner,ee08880b,deGER,"DF,MF",Augsburg,33.0,1982.0,2015-2016,GER
+Alfreð Finnbogason,f9e7c4ac,isISL,FW,Augsburg,26.0,1989.0,2015-2016,GER
+Johannes Flum,3cb3aa2a,deGER,MF,Eintracht Frankfurt,27.0,1987.0,2015-2016,GER
+Iver Fossum,ce218223,noNOR,"MF,FW",Hannover 96,19.0,1996.0,2015-2016,GER
+Fabian Frei,9fb640a8,chSUI,MF,Mainz 05,26.0,1989.0,2015-2016,GER
+Marlon Frey,c9ab6b68,deGER,MF,Leverkusen,19.0,1996.0,2015-2016,GER
+Marvin Friedrich,b77f44a4,deGER,DF,Schalke 04,19.0,1995.0,2015-2016,GER
+Clemens Fritz,c739b3ad,deGER,MF,Werder Bremen,34.0,1980.0,2015-2016,GER
+Lukas Fröde,04979b5a,deGER,FW,Werder Bremen,20.0,1995.0,2015-2016,GER
+Mijat Gaćinović,16daec92,rsSRB,MF,Eintracht Frankfurt,20.0,1995.0,2015-2016,GER
+Álex Gálvez,960fb42d,esESP,DF,Werder Bremen,26.0,1989.0,2015-2016,GER
+Santiago García,0dca0fd9,arARG,DF,Werder Bremen,27.0,1988.0,2015-2016,GER
+Ulisses Garcia,c952f633,chSUI,"MF,DF",Werder Bremen,19.0,1996.0,2015-2016,GER
+György Garics,ca50fc0e,atAUT,DF,Darmstadt 98,31.0,1984.0,2015-2016,GER
+Theodor Gebre Selassie,3f65898c,czCZE,DF,Werder Bremen,28.0,1986.0,2015-2016,GER
+Johannes Geis,294450ba,deGER,MF,Schalke 04,21.0,1993.0,2015-2016,GER
+Christian Gentner,a4f94a0d,deGER,MF,Stuttgart,29.0,1985.0,2015-2016,GER
+Joel Gerezgiher,35f3c55a,deGER,MF,Eintracht Frankfurt,19.0,1995.0,2015-2016,GER
+Yannick Gerhardt,62ab9184,deGER,MF,Köln,21.0,1994.0,2015-2016,GER
+Daniel Ginczek,e5f63987,deGER,FW,Stuttgart,24.0,1991.0,2015-2016,GER
+Matthias Ginter,f521b80a,deGER,"DF,MF",Dortmund,21.0,1994.0,2015-2016,GER
+Jérôme Gondorf,49ffe0f2,deGER,MF,Darmstadt 98,27.0,1988.0,2015-2016,GER
+Leon Goretzka,cc86b9a3,deGER,MF,Schalke 04,20.0,1995.0,2015-2016,GER
+Benjamin Gorka,d186ecfd,deGER,DF,Darmstadt 98,31.0,1984.0,2015-2016,GER
+Mario Götze,9efa1d25,deGER,"FW,MF",Bayern Munich,23.0,1992.0,2015-2016,GER
+Jeffrey Gouweleeuw,1025db8e,nlNED,DF,Augsburg,24.0,1991.0,2015-2016,GER
+Jens Grahl,f26dee6b,deGER,GK,Hoffenheim,26.0,1988.0,2015-2016,GER
+Michael Gregoritsch,8e235926,atAUT,"MF,FW",Hamburger SV,21.0,1994.0,2015-2016,GER
+Florian Grillitsch,ffbbc83b,atAUT,MF,Werder Bremen,19.0,1995.0,2015-2016,GER
+Pascal Groß,8aec0537,deGER,MF,Ingolstadt,24.0,1991.0,2015-2016,GER
+Kevin Großkreutz,fbeee546,deGER,"DF,MF",Stuttgart,27.0,1988.0,2015-2016,GER
+Carlos Gruezo,f2dd9a21,ecECU,MF,Stuttgart,20.0,1995.0,2015-2016,GER
+Josuha Guilavogui,e6c43eec,frFRA,MF,Wolfsburg,24.0,1990.0,2015-2016,GER
+Ceyhun Gülselam,27d02a40,trTUR,"MF,DF",Hannover 96,27.0,1987.0,2015-2016,GER
+İlkay Gündoğan,819b3158,deGER,MF,Dortmund,24.0,1990.0,2015-2016,GER
+Luiz Gustavo,82671804,brBRA,MF,Wolfsburg,28.0,1987.0,2015-2016,GER
+Leon Guwara,2eed0cbb,gmGAM,DF,Werder Bremen,19.0,1996.0,2015-2016,GER
+Alexander Hack,a5ec3ede,deGER,DF,Mainz 05,21.0,1993.0,2015-2016,GER
+André Hahn,cd82452e,deGER,"FW,MF",Gladbach,24.0,1990.0,2015-2016,GER
+Jiloan Hamad,a1d609ca,iqIRQ,MF,Hoffenheim,24.0,1990.0,2015-2016,GER
+Genki Haraguchi,f24ea523,jpJPN,"MF,FW",Hertha BSC,24.0,1991.0,2015-2016,GER
+Martin Harnik,99b7584f,atAUT,"MF,FW",Stuttgart,28.0,1987.0,2015-2016,GER
+Marcel Hartel,614eca9b,deGER,"FW,MF",Köln,19.0,1996.0,2015-2016,GER
+Moritz Hartmann,16ee355d,deGER,FW,Ingolstadt,29.0,1986.0,2015-2016,GER
+Makoto Hasebe,9ab16552,jpJPN,"MF,DF",Eintracht Frankfurt,31.0,1984.0,2015-2016,GER
+Thorgan Hazard,50871bcc,beBEL,"MF,FW",Gladbach,22.0,1993.0,2015-2016,GER
+Jonas Hector,c2009df3,deGER,"DF,MF",Köln,25.0,1990.0,2015-2016,GER
+Jens Hegeler,959d5963,deGER,"MF,FW",Hertha BSC,27.0,1988.0,2015-2016,GER
+Dominique Heintz,699fb8db,deGER,DF,Köln,21.0,1993.0,2015-2016,GER
+Philip Heise,ef66b362,deGER,DF,Stuttgart,24.0,1991.0,2015-2016,GER
+Marcel Heller,11dbba47,deGER,MF,Darmstadt 98,29.0,1986.0,2015-2016,GER
+Benjamin Henrichs,0a89e877,deGER,"DF,MF",Leverkusen,18.0,1997.0,2015-2016,GER
+Bruno Henrique,5edff24f,brBRA,MF,Wolfsburg,24.0,1990.0,2015-2016,GER
+Javier Hernández,189cee7b,mxMEX,FW,Leverkusen,27.0,1988.0,2015-2016,GER
+Patrick Herrmann,dfb6490a,deGER,MF,Gladbach,24.0,1991.0,2015-2016,GER
+Son Heung-min,92e7e919,krKOR,MF,Leverkusen,23.0,1992.0,2015-2016,GER
+Roberto Hilbert,a8d2b7ca,deGER,DF,Leverkusen,30.0,1984.0,2015-2016,GER
+Marcel Hilßner,26eb9b9e,deGER,MF,Werder Bremen,20.0,1995.0,2015-2016,GER
+Martin Hinteregger,080440a4,atAUT,"MF,DF",Gladbach,22.0,1992.0,2015-2016,GER
+Lukas Hinterseer,6a98c5a9,atAUT,FW,Ingolstadt,24.0,1991.0,2015-2016,GER
+Andreas Hirzel,5dfde5ff,chSUI,GK,Hamburger SV,22.0,1993.0,2015-2016,GER
+Marwin Hitz,2e7ff968,chSUI,GK,Augsburg,27.0,1987.0,2015-2016,GER
+Adam Hloušek,54e217e3,czCZE,DF,Stuttgart,26.0,1988.0,2015-2016,GER
+André Hoffmann,34b306a1,deGER,"MF,DF",Hannover 96,22.0,1993.0,2015-2016,GER
+Jonas Hofmann,2903a856,deGER,"MF,FW",Gladbach,23.0,1992.0,2015-2016,GER
+Jonas Hofmann,2903a856,deGER,"MF,FW",Dortmund,23.0,1992.0,2015-2016,GER
+Marco Höger,4114f306,deGER,MF,Schalke 04,25.0,1989.0,2015-2016,GER
+Fabian Holland,017018d1,deGER,DF,Darmstadt 98,25.0,1990.0,2015-2016,GER
+Lewis Holtby,410ab123,deGER,MF,Hamburger SV,24.0,1990.0,2015-2016,GER
+Timo Horn,3cd9e95a,deGER,GK,Köln,22.0,1993.0,2015-2016,GER
+Philipp Hosiner,30cd5ca5,atAUT,FW,Köln,26.0,1989.0,2015-2016,GER
+Benedikt Höwedes,d5c04323,deGER,DF,Schalke 04,27.0,1988.0,2015-2016,GER
+Lukáš Hrádecký,ad3389d5,fiFIN,GK,Eintracht Frankfurt,25.0,1989.0,2015-2016,GER
+Branimir Hrgota,710fbdd1,seSWE,"FW,MF",Gladbach,22.0,1993.0,2015-2016,GER
+Benjamin Hübner,99de6b6f,deGER,DF,Ingolstadt,26.0,1989.0,2015-2016,GER
+Mats Hummels,05d548d8,deGER,DF,Dortmund,26.0,1988.0,2015-2016,GER
+Aaron Hunt,5f9f0531,deGER,MF,Hamburger SV,28.0,1986.0,2015-2016,GER
+Aaron Hunt,5f9f0531,deGER,MF,Wolfsburg,28.0,1986.0,2015-2016,GER
+Klaas-Jan Huntelaar,5042e5c2,nlNED,FW,Schalke 04,31.0,1983.0,2015-2016,GER
+Oliver Hüsing,4d0d4790,deGER,DF,Werder Bremen,22.0,1993.0,2015-2016,GER
+Szabolcs Huszti,9916979a,huHUN,MF,Eintracht Frankfurt,32.0,1983.0,2015-2016,GER
+Pierre Højbjerg,8b04d6c1,dkDEN,MF,Schalke 04,19.0,1995.0,2015-2016,GER
+Vedad Ibišević,c3fd9887,baBIH,FW,Hertha BSC,30.0,1984.0,2015-2016,GER
+Aleksandar Ignjovski,63b08315,rsSRB,"DF,MF",Eintracht Frankfurt,24.0,1991.0,2015-2016,GER
+Ivo Iličević,4e3e4138,hrCRO,MF,Hamburger SV,28.0,1986.0,2015-2016,GER
+Emiliano Insúa,f3cccffe,arARG,DF,Stuttgart,26.0,1989.0,2015-2016,GER
+Takashi Inui,61bd33d0,jpJPN,MF,Eintracht Frankfurt,27.0,1988.0,2015-2016,GER
+Milan Ivana,84fd169a,skSVK,"FW,MF",Darmstadt 98,31.0,1983.0,2015-2016,GER
+Koo Ja-cheol,3c05e082,krKOR,MF,Augsburg,26.0,1989.0,2015-2016,GER
+Koo Ja-cheol,3c05e082,krKOR,MF,Mainz 05,26.0,1989.0,2015-2016,GER
+Christoph Janker,cf01fe3a,deGER,DF,Augsburg,30.0,1985.0,2015-2016,GER
+Tony Jantschke,34b54da7,deGER,DF,Gladbach,25.0,1990.0,2015-2016,GER
+Adnan Januzaj,4737cebe,beBEL,"FW,MF",Dortmund,20.0,1995.0,2015-2016,GER
+Gonzalo Jara,9b1b4782,clCHI,"MF,DF",Mainz 05,29.0,1985.0,2015-2016,GER
+Rune Jarstein,27d2618c,noNOR,GK,Hertha BSC,30.0,1984.0,2015-2016,GER
+Tin Jedvaj,f820504e,hrCRO,DF,Leverkusen,19.0,1995.0,2015-2016,GER
+Hong Jeong-ho,f2fb78a6,krKOR,DF,Augsburg,25.0,1989.0,2015-2016,GER
+Kim Jin-su,8e6ff136,krKOR,DF,Hoffenheim,23.0,1992.0,2015-2016,GER
+Joelinton,c17bfb65,brBRA,"FW,MF",Hoffenheim,18.0,1996.0,2015-2016,GER
+Aron Jóhannsson,c0dc9fc7,usUSA,FW,Werder Bremen,24.0,1990.0,2015-2016,GER
+Fabian Johnson,76e5da9d,usUSA,MF,Gladbach,27.0,1987.0,2015-2016,GER
+Miloš Jojić,fb59286d,rsSRB,MF,Köln,23.0,1992.0,2015-2016,GER
+Park Joo-ho,502fd802,krKOR,DF,Mainz 05,28.0,1987.0,2015-2016,GER
+Park Joo-ho,502fd802,krKOR,DF,Dortmund,28.0,1987.0,2015-2016,GER
+Gideon Jung,a2e7de6f,deGER,MF,Hamburger SV,20.0,1994.0,2015-2016,GER
+Sebastian Jung,86b30561,deGER,DF,Wolfsburg,25.0,1990.0,2015-2016,GER
+Florian Jungwirth,f179c207,deGER,"DF,MF",Darmstadt 98,26.0,1989.0,2015-2016,GER
+Zlatko Junuzović,dba67bc4,atAUT,MF,Werder Bremen,27.0,1987.0,2015-2016,GER
+Gojko Kačar,cc58c4ea,rsSRB,MF,Hamburger SV,28.0,1987.0,2015-2016,GER
+Elias Kachunga,5bddccc9,cdCOD,FW,Ingolstadt,23.0,1992.0,2015-2016,GER
+Pavel Kadeřábek,79c90e45,czCZE,DF,Hoffenheim,23.0,1992.0,2015-2016,GER
+Václav Kadlec,9ad2b8e2,czCZE,FW,Eintracht Frankfurt,23.0,1992.0,2015-2016,GER
+Shinji Kagawa,5afafbfe,jpJPN,MF,Dortmund,26.0,1989.0,2015-2016,GER
+Salomon Kalou,2042d931,ciCIV,"MF,FW",Hertha BSC,29.0,1985.0,2015-2016,GER
+Kevin Kampl,b825a650,siSVN,MF,Dortmund,24.0,1990.0,2015-2016,GER
+Kevin Kampl,b825a650,siSVN,MF,Leverkusen,24.0,1990.0,2015-2016,GER
+Kenan Karaman,8f0f2230,trTUR,"MF,FW",Hannover 96,21.0,1994.0,2015-2016,GER
+Loris Karius,32e7ce92,deGER,GK,Mainz 05,22.0,1993.0,2015-2016,GER
+Thilo Kehrer,51dbeea9,deGER,DF,Schalke 04,18.0,1996.0,2015-2016,GER
+Tobias Kempe,d7cdfd81,deGER,MF,Darmstadt 98,26.0,1989.0,2015-2016,GER
+Thomas Kessler,3967d651,deGER,GK,Köln,29.0,1986.0,2015-2016,GER
+Stefan Kießling,c419e035,deGER,FW,Leverkusen,31.0,1984.0,2015-2016,GER
+Joshua Kimmich,49296448,deGER,"DF,MF",Bayern Munich,20.0,1995.0,2015-2016,GER
+David Kinsombi,4dc9e563,,DF,Eintracht Frankfurt,19.0,1995.0,2015-2016,GER
+Sonny Kittel,92904961,deGER,MF,Eintracht Frankfurt,22.0,1993.0,2015-2016,GER
+Hiroshi Kiyotake,0dba1f3e,jpJPN,"MF,FW",Hannover 96,25.0,1989.0,2015-2016,GER
+Felix Klaus,aeda1f69,deGER,"MF,FW",Hannover 96,22.0,1992.0,2015-2016,GER
+Ragnar Klavan,008a6e6d,eeEST,DF,Augsburg,29.0,1985.0,2015-2016,GER
+Florian Klein,dc8f5b58,atAUT,"DF,MF",Stuttgart,28.0,1986.0,2015-2016,GER
+László Kleinheisler,af8e4246,huHUN,MF,Werder Bremen,21.0,1994.0,2015-2016,GER
+Philipp Klement,0cddeaa7,deGER,MF,Mainz 05,22.0,1992.0,2015-2016,GER
+Jan Kliment,c2a30c01,czCZE,"FW,MF",Stuttgart,21.0,1993.0,2015-2016,GER
+Timm Klose,5f1d07f6,chSUI,DF,Wolfsburg,27.0,1988.0,2015-2016,GER
+Lukas Klünter,92948149,deGER,"DF,MF",Köln,19.0,1996.0,2015-2016,GER
+Robin Knoche,6bd5cd5d,deGER,DF,Wolfsburg,23.0,1992.0,2015-2016,GER
+Florian Kohls,9fe72be9,deGER,MF,Hertha BSC,20.0,1995.0,2015-2016,GER
+Dominik Kohr,0fbecd11,deGER,MF,Augsburg,21.0,1994.0,2015-2016,GER
+Sead Kolašinac,3935e52e,baBIH,"DF,MF",Schalke 04,22.0,1993.0,2015-2016,GER
+Julian Korb,3dffff26,deGER,"DF,MF",Gladbach,23.0,1992.0,2015-2016,GER
+Filip Kostić,b1cd37e6,rsSRB,MF,Stuttgart,22.0,1992.0,2015-2016,GER
+Thomas Kraft,bb25c778,deGER,GK,Hertha BSC,27.0,1988.0,2015-2016,GER
+Andrej Kramarić,603cb947,hrCRO,FW,Hoffenheim,24.0,1991.0,2015-2016,GER
+Christoph Kramer,496aeede,deGER,MF,Leverkusen,24.0,1991.0,2015-2016,GER
+Artem Kravets,0b5b8057,uaUKR,FW,Stuttgart,26.0,1989.0,2015-2016,GER
+Dario Krešić,8ae11182,hrCRO,GK,Leverkusen,31.0,1984.0,2015-2016,GER
+Felix Kroos,4d7faad1,deGER,MF,Werder Bremen,24.0,1991.0,2015-2016,GER
+Max Kruse,f9446dcd,deGER,"FW,MF",Wolfsburg,27.0,1988.0,2015-2016,GER
+Robbie Kruse,9571ca99,auAUS,"FW,MF",Stuttgart,26.0,1988.0,2015-2016,GER
+Robbie Kruse,9571ca99,auAUS,MF,Leverkusen,26.0,1988.0,2015-2016,GER
+Kevin Kurányi,ac2c067c,deGER,FW,Hoffenheim,33.0,1982.0,2015-2016,GER
+Philipp Lahm,de491a33,deGER,"DF,MF",Bayern Munich,31.0,1983.0,2015-2016,GER
+Mitchell Langerak,d2a184cc,auAUS,GK,Stuttgart,26.0,1988.0,2015-2016,GER
+Sebastian Langkamp,74d70fb5,deGER,DF,Hertha BSC,27.0,1988.0,2015-2016,GER
+Pierre-Michel Lasogga,130444f9,deGER,FW,Hamburger SV,23.0,1991.0,2015-2016,GER
+Danny Latza,33b554b7,deGER,MF,Mainz 05,25.0,1989.0,2015-2016,GER
+Mathew Leckie,b93b7882,auAUS,FW,Ingolstadt,24.0,1991.0,2015-2016,GER
+Matthias Lehmann,abb42ce6,deGER,MF,Köln,32.0,1983.0,2015-2016,GER
+Moritz Leitner,9460aaed,deGER,MF,Dortmund,22.0,1992.0,2015-2016,GER
+Bernd Leno,2628fd2b,deGER,GK,Leverkusen,23.0,1992.0,2015-2016,GER
+Tobias Levels,b3e57af1,deGER,DF,Ingolstadt,28.0,1986.0,2015-2016,GER
+Robert Lewandowski,8d78e732,plPOL,FW,Bayern Munich,26.0,1988.0,2015-2016,GER
+Stefan Lex,b39c06ed,deGER,"FW,MF",Ingolstadt,25.0,1989.0,2015-2016,GER
+Dario Lezcano,d4bb2b53,pyPAR,FW,Ingolstadt,25.0,1990.0,2015-2016,GER
+Melvyn Lorenzen,41d6be38,ugUGA,FW,Werder Bremen,20.0,1994.0,2015-2016,GER
+Assani Lukimya-Mulongoti,333ec821,cdCOD,DF,Werder Bremen,29.0,1986.0,2015-2016,GER
+Fabian Lustenberger,a63a995f,chSUI,"MF,DF",Hertha BSC,27.0,1988.0,2015-2016,GER
+Yunus Mallı,f3722c97,trTUR,MF,Mainz 05,23.0,1992.0,2015-2016,GER
+Alex Manninger,eb55b1bc,atAUT,GK,Augsburg,38.0,1977.0,2015-2016,GER
+Marcelo,e3d0b0c4,brBRA,DF,Hannover 96,28.0,1987.0,2015-2016,GER
+Dominic Maroh,3f30b506,siSVN,DF,Köln,28.0,1987.0,2015-2016,GER
+Javi Martínez,7f97771d,esESP,"DF,MF",Bayern Munich,26.0,1988.0,2015-2016,GER
+Tim Matavž,ebc29a56,siSVN,FW,Augsburg,26.0,1989.0,2015-2016,GER
+Christian Mathenia,4a15e95b,deGER,GK,Darmstadt 98,23.0,1992.0,2015-2016,GER
+Joël Matip,b217ef29,cmCMR,DF,Schalke 04,23.0,1991.0,2015-2016,GER
+Marvin Matip,97decaae,cmCMR,DF,Ingolstadt,29.0,1985.0,2015-2016,GER
+Mërgim Mavraj,0eb5720b,alALB,DF,Köln,29.0,1986.0,2015-2016,GER
+Philipp Max,826e8b63,deGER,DF,Augsburg,21.0,1993.0,2015-2016,GER
+Alexandru Maxim,61fc9685,roROU,MF,Stuttgart,25.0,1990.0,2015-2016,GER
+Eric Maxim Choupo-Moting,0e6bc38c,cmCMR,"MF,FW",Schalke 04,26.0,1989.0,2015-2016,GER
+Slobodan Medojević,2e64bb49,rsSRB,MF,Eintracht Frankfurt,24.0,1990.0,2015-2016,GER
+Admir Mehmedi,b500b384,chSUI,MF,Leverkusen,24.0,1991.0,2015-2016,GER
+Alexander Meier,362aa29d,deGER,"FW,MF",Eintracht Frankfurt,32.0,1983.0,2015-2016,GER
+Max Meyer,eba42d2b,deGER,MF,Schalke 04,19.0,1995.0,2015-2016,GER
+Tom Mickel,1238d5c3,deGER,GK,Hamburger SV,26.0,1989.0,2015-2016,GER
+Alexander Milošević,2f065e3a,seSWE,DF,Hannover 96,23.0,1992.0,2015-2016,GER
+Maximilian Mittelstädt,88d4144a,deGER,"MF,DF",Hertha BSC,18.0,1997.0,2015-2016,GER
+Henrikh Mkhitaryan,dd0daf32,amARM,"MF,FW",Dortmund,26.0,1989.0,2015-2016,GER
+Filip Mladenović,a3eabee0,rsSRB,"MF,DF",Köln,23.0,1991.0,2015-2016,GER
+Anthony Modeste,34e4343c,frFRA,FW,Köln,27.0,1988.0,2015-2016,GER
+Sascha Mölders,9ddae0f4,deGER,FW,Augsburg,30.0,1985.0,2015-2016,GER
+Alfredo Morales,ff45add5,usUSA,MF,Ingolstadt,25.0,1990.0,2015-2016,GER
+Jan Morávek,e7d22eae,czCZE,MF,Augsburg,25.0,1989.0,2015-2016,GER
+Christoph Moritz,08a41cc9,deGER,MF,Mainz 05,25.0,1990.0,2015-2016,GER
+Nicolai Müller,5e1df051,deGER,MF,Hamburger SV,27.0,1987.0,2015-2016,GER
+Thomas Müller,3c6089ab,deGER,"MF,FW",Bayern Munich,25.0,1989.0,2015-2016,GER
+Maurice Multhaup,eba75d39,deGER,MF,Ingolstadt,18.0,1996.0,2015-2016,GER
+Yoshinori Mutō,5343eb4e,jpJPN,FW,Mainz 05,23.0,1992.0,2015-2016,GER
+Kazuki Nagasawa,69dc5362,jpJPN,MF,Köln,23.0,1991.0,2015-2016,GER
+Naldo,03bd0bf4,brBRA,DF,Wolfsburg,32.0,1982.0,2015-2016,GER
+Matija Nastasić,f35430a4,rsSRB,DF,Schalke 04,22.0,1993.0,2015-2016,GER
+Manuel Neuer,8778c910,deGER,GK,Bayern Munich,29.0,1986.0,2015-2016,GER
+Roman Neustädter,98d5ecc2,ruRUS,DF,Schalke 04,27.0,1988.0,2015-2016,GER
+Florian Niederlechner,d6862409,deGER,FW,Mainz 05,24.0,1990.0,2015-2016,GER
+Georg Niedermeier,8290c915,deGER,DF,Stuttgart,29.0,1986.0,2015-2016,GER
+Peter Niemeyer,a8c27b5b,deGER,MF,Darmstadt 98,31.0,1983.0,2015-2016,GER
+Håvard Nordtveit,6cafd68d,noNOR,"DF,MF",Gladbach,25.0,1990.0,2015-2016,GER
+Alexander Nübel,afb0c500,deGER,GK,Schalke 04,18.0,1996.0,2015-2016,GER
+Ørjan Nyland,bdedffac,noNOR,GK,Ingolstadt,24.0,1990.0,2015-2016,GER
+Philipp Ochs,78952998,deGER,"MF,DF",Hoffenheim,18.0,1997.0,2015-2016,GER
+Bastian Oczipka,d1661819,deGER,DF,Eintracht Frankfurt,26.0,1989.0,2015-2016,GER
+Ivica Olić,1bb54bef,hrCRO,FW,Hamburger SV,35.0,1979.0,2015-2016,GER
+Paweł Olkowski,896c126c,plPOL,DF,Köln,25.0,1990.0,2015-2016,GER
+Karim Onisiwo,f26834c7,atAUT,MF,Mainz 05,23.0,1992.0,2015-2016,GER
+Daniel Opare,49d53c68,ghGHA,"MF,DF",Augsburg,24.0,1990.0,2015-2016,GER
+Yuya Osako,f69fba57,jpJPN,"MF,FW",Köln,25.0,1990.0,2015-2016,GER
+Matthias Ostrzolek,1cd87320,deGER,DF,Hamburger SV,25.0,1990.0,2015-2016,GER
+Ramazan Özcan,a165a577,atAUT,GK,Ingolstadt,31.0,1984.0,2015-2016,GER
+Levin Öztunalı,66385c46,deGER,"MF,FW",Werder Bremen,19.0,1996.0,2015-2016,GER
+Miloš Pantović,5dc15574,rsSRB,"FW,MF",Bayern Munich,19.0,1996.0,2015-2016,GER
+Kyriakos Papadopoulos,931b7c30,grGRE,DF,Leverkusen,23.0,1992.0,2015-2016,GER
+Sokratis Papastathopoulos,b682dcf6,grGRE,DF,Dortmund,27.0,1988.0,2015-2016,GER
+Devante Parker,43000fbc,deGER,MF,Mainz 05,19.0,1996.0,2015-2016,GER
+Felix Passlack,5c899683,deGER,"FW,DF",Dortmund,17.0,1998.0,2015-2016,GER
+Peter Pekarík,c18d22f5,skSVK,DF,Hertha BSC,28.0,1986.0,2015-2016,GER
+Tomáš Pekhart,20dbf9e0,czCZE,FW,Ingolstadt,26.0,1989.0,2015-2016,GER
+Ivan Perišić,6fe90922,hrCRO,MF,Wolfsburg,26.0,1989.0,2015-2016,GER
+Łukasz Piszczek,fe2db476,plPOL,DF,Dortmund,30.0,1985.0,2015-2016,GER
+Claudio Pizarro,54b6ee79,pePER,FW,Werder Bremen,36.0,1978.0,2015-2016,GER
+Felix Platte,e644f5ac,deGER,FW,Darmstadt 98,19.0,1996.0,2015-2016,GER
+Felix Platte,e644f5ac,deGER,FW,Schalke 04,19.0,1996.0,2015-2016,GER
+Marvin Plattenhardt,f7aa75bd,deGER,DF,Hertha BSC,23.0,1992.0,2015-2016,GER
+Eugen Polanski,fb2a63bb,plPOL,MF,Hoffenheim,29.0,1986.0,2015-2016,GER
+Edgar Prib,420ff5a3,deGER,"MF,DF",Hannover 96,25.0,1989.0,2015-2016,GER
+Christian Pulisic,1bf33a9a,usUSA,"MF,FW",Dortmund,16.0,1998.0,2015-2016,GER
+Leandro Putaro,a31a01a9,deGER,"FW,MF",Wolfsburg,18.0,1997.0,2015-2016,GER
+Raffael,791af558,brBRA,"FW,MF",Gladbach,30.0,1985.0,2015-2016,GER
+Rafinha,d003e213,brBRA,"DF,MF",Bayern Munich,29.0,1985.0,2015-2016,GER
+Slobodan Rajković,9686fc54,rsSRB,DF,Darmstadt 98,26.0,1989.0,2015-2016,GER
+André Ramalho,7483d9f9,brBRA,DF,Leverkusen,23.0,1992.0,2015-2016,GER
+Adrián Ramos,c693cf7c,coCOL,"FW,MF",Dortmund,29.0,1986.0,2015-2016,GER
+Konstantin Rausch,6435e737,ruRUS,MF,Darmstadt 98,25.0,1990.0,2015-2016,GER
+Fabian Reese,b1823b08,deGER,"FW,MF",Schalke 04,17.0,1997.0,2015-2016,GER
+Yanni Regäsel,a00c1de1,deGER,DF,Hertha BSC,19.0,1996.0,2015-2016,GER
+Yanni Regäsel,a00c1de1,deGER,DF,Eintracht Frankfurt,19.0,1996.0,2015-2016,GER
+Stefan Reinartz,768cdec1,deGER,MF,Eintracht Frankfurt,26.0,1989.0,2015-2016,GER
+Marco Reus,36a3ff67,deGER,"MF,FW",Dortmund,26.0,1989.0,2015-2016,GER
+Franck Ribéry,f61c7c4e,frFRA,"MF,FW",Bayern Munich,32.0,1983.0,2015-2016,GER
+Sascha Riether,3cb009c5,deGER,DF,Schalke 04,32.0,1983.0,2015-2016,GER
+Nico Rinderknecht,73ba1609,deGER,MF,Eintracht Frankfurt,17.0,1997.0,2015-2016,GER
+Marcel Risse,140afefb,deGER,"MF,DF",Köln,25.0,1989.0,2015-2016,GER
+Mart Ristl,1d3efcd3,deGER,MF,Stuttgart,19.0,1996.0,2015-2016,GER
+Arjen Robben,09586899,nlNED,MF,Bayern Munich,31.0,1984.0,2015-2016,GER
+Sebastian Rode,e12b0b5b,deGER,MF,Bayern Munich,24.0,1990.0,2015-2016,GER
+Francisco Rodríguez Araya,ebca86ca,chSUI,MF,Wolfsburg,19.0,1995.0,2015-2016,GER
+Ricardo Rodríguez,7f78ad23,chSUI,DF,Wolfsburg,22.0,1992.0,2015-2016,GER
+Roger,3bc07f80,brBRA,MF,Ingolstadt,29.0,1985.0,2015-2016,GER
+Ronny,b4031fbb,brBRA,"DF,MF",Hertha BSC,29.0,1986.0,2015-2016,GER
+Jan Rosenthal,feff3bb7,deGER,"MF,FW",Darmstadt 98,29.0,1986.0,2015-2016,GER
+Artjoms Rudņevs,6398cd4e,lvLVA,FW,Hamburger SV,27.0,1988.0,2015-2016,GER
+Sebastian Rudy,80f36c88,deGER,MF,Hoffenheim,25.0,1990.0,2015-2016,GER
+Lukas Rupp,3faa1780,deGER,MF,Stuttgart,24.0,1991.0,2015-2016,GER
+Marco Russ,e26c4233,deGER,"DF,MF",Eintracht Frankfurt,29.0,1985.0,2015-2016,GER
+Nuri Şahin,f4081572,trTUR,MF,Dortmund,26.0,1988.0,2015-2016,GER
+Marco Sailer,aba8e0d2,deGER,"FW,MF",Darmstadt 98,29.0,1985.0,2015-2016,GER
+Allan Saint-Maximin,2b16cb1a,frFRA,FW,Hannover 96,18.0,1997.0,2015-2016,GER
+Gōtoku Sakai,c8e25f78,jpJPN,DF,Hamburger SV,24.0,1991.0,2015-2016,GER
+Hiroki Sakai,d63e2912,jpJPN,DF,Hannover 96,25.0,1990.0,2015-2016,GER
+Sidney Sam,988d81bd,deGER,"FW,MF",Schalke 04,27.0,1988.0,2015-2016,GER
+Jairo Samperio,c0a0c18f,esESP,MF,Mainz 05,22.0,1993.0,2015-2016,GER
+Leroy Sané,2b114be3,deGER,MF,Schalke 04,19.0,1996.0,2015-2016,GER
+Salif Sané,791abba1,snSEN,"MF,DF",Hannover 96,24.0,1990.0,2015-2016,GER
+Marcel Schäfer,11b349cf,deGER,"DF,MF",Wolfsburg,31.0,1984.0,2015-2016,GER
+Fabian Schär,c8aa95da,chSUI,DF,Hoffenheim,23.0,1991.0,2015-2016,GER
+Julian Schieber,37c213cf,deGER,FW,Hertha BSC,26.0,1989.0,2015-2016,GER
+Sven Schipplock,53eeaf6a,deGER,FW,Hamburger SV,26.0,1988.0,2015-2016,GER
+Marcel Schmelzer,89565ac5,deGER,DF,Dortmund,27.0,1988.0,2015-2016,GER
+Jonathan Schmid,088ca1bd,frFRA,"MF,FW",Hoffenheim,25.0,1990.0,2015-2016,GER
+Manuel Schmiedebach,d8f5dc3d,deGER,"MF,FW",Hannover 96,26.0,1988.0,2015-2016,GER
+Alessandro Schöpf,106bca06,atAUT,MF,Schalke 04,21.0,1994.0,2015-2016,GER
+Christian Schulz,b8699f1e,deGER,DF,Hannover 96,32.0,1983.0,2015-2016,GER
+Marvin Schulz,651167c8,deGER,"DF,MF",Gladbach,20.0,1995.0,2015-2016,GER
+Nico Schulz,fa274d97,deGER,"DF,MF",Hertha BSC,22.0,1993.0,2015-2016,GER
+Nico Schulz,fa274d97,deGER,"DF,MF",Gladbach,22.0,1993.0,2015-2016,GER
+André Schürrle,ecbb3fdf,deGER,"MF,FW",Wolfsburg,24.0,1990.0,2015-2016,GER
+Daniel Schwaab,824bd41a,deGER,"DF,MF",Stuttgart,26.0,1988.0,2015-2016,GER
+Pirmin Schwegler,5528407e,chSUI,MF,Hoffenheim,28.0,1987.0,2015-2016,GER
+Haris Seferović,a45eac1f,chSUI,FW,Eintracht Frankfurt,23.0,1992.0,2015-2016,GER
+Paul Seguin,8872ed17,deGER,MF,Wolfsburg,20.0,1995.0,2015-2016,GER
+Suat Serdar,b3325a30,deGER,MF,Mainz 05,18.0,1997.0,2015-2016,GER
+Tobias Sippel,0d8a37c2,deGER,GK,Gladbach,27.0,1988.0,2015-2016,GER
+Sandro Sirigu,8da7db0a,deGER,MF,Darmstadt 98,26.0,1988.0,2015-2016,GER
+Danilo Soares,c05f2f8c,brBRA,DF,Ingolstadt,23.0,1991.0,2015-2016,GER
+Artur Sobiech,73d30c88,plPOL,FW,Hannover 96,25.0,1990.0,2015-2016,GER
+Yann Sommer,420c18a1,chSUI,GK,Gladbach,26.0,1988.0,2015-2016,GER
+Oliver Sorg,541cdd20,deGER,"DF,MF",Hannover 96,25.0,1990.0,2015-2016,GER
+Elkin Soto,47bf23f2,coCOL,MF,Mainz 05,34.0,1980.0,2015-2016,GER
+Emir Spahić,009633c8,baBIH,DF,Hamburger SV,34.0,1980.0,2015-2016,GER
+Kostas Stafylidis,861e0116,grGRE,DF,Augsburg,21.0,1993.0,2015-2016,GER
+Niklas Stark,aad48be9,deGER,"DF,MF",Hertha BSC,20.0,1995.0,2015-2016,GER
+Marc Stendera,500cd987,deGER,MF,Eintracht Frankfurt,19.0,1995.0,2015-2016,GER
+Janek Sternberg,adef6b86,deGER,"MF,DF",Werder Bremen,22.0,1992.0,2015-2016,GER
+Zoltán Stieber,495b10e2,huHUN,"FW,MF",Hamburger SV,26.0,1988.0,2015-2016,GER
+Lars Stindl,7cd6badb,deGER,"FW,MF",Gladbach,26.0,1988.0,2015-2016,GER
+Valentin Stocker,6b85f966,chSUI,"MF,FW",Hertha BSC,26.0,1989.0,2015-2016,GER
+Martin Stranzl,4786c8d5,atAUT,DF,Gladbach,35.0,1980.0,2015-2016,GER
+Tobias Strobl,17780d2b,deGER,"MF,DF",Hoffenheim,25.0,1990.0,2015-2016,GER
+Dominik Stroh-Engel,88131379,deGER,FW,Darmstadt 98,29.0,1985.0,2015-2016,GER
+Neven Subotić,821233cc,rsSRB,DF,Dortmund,26.0,1988.0,2015-2016,GER
+Niklas Süle,e33c06cf,deGER,DF,Hoffenheim,19.0,1995.0,2015-2016,GER
+Valmir Sulejmani,63923468,xkKVX,MF,Hannover 96,19.0,1996.0,2015-2016,GER
+Aytaç Sulu,51c1301e,,DF,Darmstadt 98,29.0,1985.0,2015-2016,GER
+Toni Šunjić,a79c321f,baBIH,DF,Stuttgart,26.0,1988.0,2015-2016,GER
+Markus Suttner,7391c2d9,atAUT,DF,Ingolstadt,28.0,1987.0,2015-2016,GER
+Dušan Švento,665ea69b,skSVK,MF,Köln,29.0,1985.0,2015-2016,GER
+Ádám Szalai,53e07d0b,huHUN,FW,Hoffenheim,27.0,1987.0,2015-2016,GER
+Ádám Szalai,53e07d0b,huHUN,FW,Hannover 96,27.0,1987.0,2015-2016,GER
+Frederik Sørensen,68635c10,dkDEN,DF,Köln,23.0,1992.0,2015-2016,GER
+Jonathan Tah,bd142efb,deGER,DF,Leverkusen,19.0,1996.0,2015-2016,GER
+Serdar Tasci,7f5ca4f8,deGER,DF,Bayern Munich,28.0,1987.0,2015-2016,GER
+Borys Tashchy,2f3de947,uaUKR,"FW,MF",Stuttgart,22.0,1993.0,2015-2016,GER
+Jeremy Toljan,a96e5dc0,deGER,DF,Hoffenheim,20.0,1994.0,2015-2016,GER
+Ömer Toprak,c5fd13e9,trTUR,"DF,MF",Leverkusen,26.0,1989.0,2015-2016,GER
+Ibrahima Traoré,096a77c4,gnGUI,MF,Gladbach,27.0,1988.0,2015-2016,GER
+Christian Träsch,21aa2700,deGER,"DF,MF",Wolfsburg,27.0,1987.0,2015-2016,GER
+Piotr Trochowski,6cae08d5,deGER,MF,Augsburg,31.0,1984.0,2015-2016,GER
+Przemysław Tytoń,1fa85681,plPOL,GK,Stuttgart,28.0,1987.0,2015-2016,GER
+Anthony Ujah,99be8fb5,ngNGA,FW,Werder Bremen,24.0,1990.0,2015-2016,GER
+Sven Ulreich,7d3e7da6,deGER,GK,Bayern Munich,26.0,1988.0,2015-2016,GER
+Mark Uth,a3ddb1b9,deGER,"MF,FW",Hoffenheim,23.0,1991.0,2015-2016,GER
+Eduardo Vargas,bd603c00,clCHI,"FW,MF",Hoffenheim,25.0,1989.0,2015-2016,GER
+Miloš Veljković,a5ae8f8e,rsSRB,MF,Werder Bremen,19.0,1995.0,2015-2016,GER
+Paul Verhaegh,97655ccd,nlNED,DF,Augsburg,31.0,1983.0,2015-2016,GER
+Jannik Vestergaard,1900032e,dkDEN,DF,Werder Bremen,22.0,1992.0,2015-2016,GER
+Arturo Vidal,67cdbc0e,clCHI,MF,Bayern Munich,28.0,1987.0,2015-2016,GER
+Vieirinha,779fe525,ptPOR,"MF,DF",Wolfsburg,29.0,1986.0,2015-2016,GER
+Odysseas Vlachodimos,03df04ff,grGRE,GK,Stuttgart,21.0,1994.0,2015-2016,GER
+Kevin Vogt,1d8e9add,deGER,MF,Köln,23.0,1991.0,2015-2016,GER
+Kevin Volland,64f69877,deGER,"FW,MF",Hoffenheim,23.0,1992.0,2015-2016,GER
+Mario Vrančić,16fa6881,baBIH,"MF,FW",Darmstadt 98,26.0,1989.0,2015-2016,GER
+Sandro Wagner,61b0b44d,deGER,FW,Darmstadt 98,27.0,1987.0,2015-2016,GER
+Luca Waldschmidt,e5a35ae9,deGER,"FW,MF",Eintracht Frankfurt,19.0,1996.0,2015-2016,GER
+Marvin Wanitzek,d0a1ddcb,deGER,MF,Stuttgart,22.0,1993.0,2015-2016,GER
+Stefan Wannenwetsch,e63077b7,deGER,MF,Ingolstadt,23.0,1992.0,2015-2016,GER
+Roman Weidenfeller,16b8fabd,deGER,GK,Dortmund,34.0,1980.0,2015-2016,GER
+Julian Weigl,346d51d9,deGER,MF,Dortmund,19.0,1995.0,2015-2016,GER
+Mitchell Weiser,30c220c3,deGER,"DF,MF",Hertha BSC,21.0,1994.0,2015-2016,GER
+Wendell,f9acca3a,brBRA,DF,Leverkusen,22.0,1993.0,2015-2016,GER
+Oscar Wendt,b69261a0,seSWE,"DF,MF",Gladbach,29.0,1985.0,2015-2016,GER
+Timo Werner,49fe9070,deGER,"FW,MF",Stuttgart,19.0,1996.0,2015-2016,GER
+Tobias Werner,882d02a7,deGER,MF,Augsburg,30.0,1985.0,2015-2016,GER
+Felix Wiedwald,e2d34771,deGER,GK,Werder Bremen,25.0,1990.0,2015-2016,GER
+Marius Wolf,fa661778,deGER,FW,Hannover 96,20.0,1995.0,2015-2016,GER
+Granit Xhaka,e61b8aee,chSUI,MF,Gladbach,22.0,1992.0,2015-2016,GER
+Hotaru Yamaguchi,8c147c14,jpJPN,MF,Hannover 96,24.0,1990.0,2015-2016,GER
+Sambou Yatabaré,3cfd6114,mlMLI,MF,Werder Bremen,26.0,1989.0,2015-2016,GER
+David Yelldell,915e8ac2,usUSA,GK,Leverkusen,33.0,1981.0,2015-2016,GER
+Özkan Yıldırım,001a63e0,deGER,MF,Werder Bremen,22.0,1993.0,2015-2016,GER
+Vladlen Yurchenko,27e3271e,uaUKR,MF,Leverkusen,21.0,1994.0,2015-2016,GER
+Carlos Zambrano,89b72f6c,pePER,DF,Eintracht Frankfurt,26.0,1989.0,2015-2016,GER
+Luca-Milan Zander,a5d1aab2,deGER,DF,Werder Bremen,19.0,1995.0,2015-2016,GER
+Łukasz Załuska,f715a3bd,plPOL,GK,Darmstadt 98,33.0,1982.0,2015-2016,GER
+Ron-Robert Zieler,a0606ae8,deGER,GK,Hannover 96,26.0,1989.0,2015-2016,GER
+Matthias Zimmermann,e199d5b0,deGER,DF,Stuttgart,23.0,1992.0,2015-2016,GER
+Simon Zoller,29f7cfd9,deGER,"FW,MF",Köln,24.0,1991.0,2015-2016,GER
+Steven Zuber,b6a6e0a7,chSUI,MF,Hoffenheim,23.0,1991.0,2015-2016,GER
+Rafidine Abdullah,4d9ee090,kmCOM,MF,Lorient,21.0,1994.0,2015-2016,FRA
+Jordan Adéoti,508c8f3e,bjBEN,"MF,DF",Caen,26.0,1989.0,2015-2016,FRA
+Adryan,769bba76,brBRA,"MF,FW",Nantes,20.0,1994.0,2015-2016,FRA
+Kossi Agassa,14a03f68,tgTOG,GK,Reims,37.0,1978.0,2015-2016,FRA
+Ali Ahamada,0b64b1e6,kmCOM,GK,Toulouse,23.0,1991.0,2015-2016,FRA
+Jean-Daniel Akpa-Akpro,fdf4b948,ciCIV,MF,Toulouse,22.0,1992.0,2015-2016,FRA
+Alexis Alegue,0f4c0bad,frFRA,MF,Nantes,18.0,1996.0,2015-2016,FRA
+Romain Alessandrini,7a7610d2,frFRA,"MF,FW",Marseille,26.0,1989.0,2015-2016,FRA
+Chaker Alhadhur,0cb40f7a,kmCOM,DF,Caen,23.0,1991.0,2015-2016,FRA
+Ibrahim Amadou,9260926b,frFRA,"MF,DF",Lille,22.0,1993.0,2015-2016,FRA
+Morgan Amalfitano,ab914649,frFRA,"FW,MF",Lille,30.0,1985.0,2015-2016,FRA
+Jean Ambrose,3fb23267,htHAI,DF,Bordeaux,21.0,1993.0,2015-2016,FRA
+Benjamin André,ef9c1c95,frFRA,MF,Rennes,24.0,1990.0,2015-2016,FRA
+Yoann Andreu,872cd68c,frFRA,DF,Angers,26.0,1989.0,2015-2016,FRA
+Benjamin Angoua,de715534,ciCIV,DF,Guingamp,28.0,1986.0,2015-2016,FRA
+Gaël Angoula,504d4bb0,frFRA,DF,Angers,33.0,1982.0,2015-2016,FRA
+Dennis Appiah,feb5d3ab,frFRA,DF,Caen,23.0,1992.0,2015-2016,FRA
+Mauro Arambarri,58afe001,uyURU,MF,Bordeaux,19.0,1995.0,2015-2016,FRA
+Alexis Araujo,ca56de6e,ptPOR,MF,Lille,18.0,1996.0,2015-2016,FRA
+Sylvain Armand,cfa036c3,frFRA,DF,Rennes,34.0,1980.0,2015-2016,FRA
+Benoît Assou-Ekotto,a557e6b0,cmCMR,DF,Saint-Étienne,31.0,1984.0,2015-2016,FRA
+Johan Audel,216f70c6,mqMTQ,"MF,FW",Nantes,31.0,1983.0,2015-2016,FRA
+Jean-Kévin Augustin,97bfa797,frFRA,FW,Paris Saint-Germain,18.0,1997.0,2015-2016,FRA
+Olivier Auriac,86c8c22e,frFRA,MF,Angers,31.0,1983.0,2015-2016,FRA
+Serge Aurier,5c2b4f07,ciCIV,DF,Paris Saint-Germain,22.0,1992.0,2015-2016,FRA
+Thomas Ayasse,aca9ef32,frFRA,"MF,DF",Troyes,28.0,1987.0,2015-2016,FRA
+Floyd Ayité,fd5888a0,tgTOG,"FW,MF",Bastia,26.0,1988.0,2015-2016,FRA
+Karim Azamoum,eaf71a5e,frFRA,"MF,FW",Troyes,25.0,1990.0,2015-2016,FRA
+Ludovic Baal,d3ce9f1f,gfGUF,"MF,DF",Rennes,29.0,1986.0,2015-2016,FRA
+Maxime Baca,3d82351b,frFRA,DF,Guingamp,32.0,1983.0,2015-2016,FRA
+Jean-Christophe Bahebeck,a8be386b,frFRA,"MF,FW",Saint-Étienne,22.0,1993.0,2015-2016,FRA
+Farès Bahlouli,776972d5,frFRA,MF,Monaco,20.0,1995.0,2015-2016,FRA
+Djamel Bakar,2c2a312a,kmCOM,FW,Montpellier,26.0,1989.0,2015-2016,FRA
+Tiemoué Bakayoko,59bf127b,frFRA,MF,Monaco,20.0,1994.0,2015-2016,FRA
+Florent Balmont,4e7bfc23,frFRA,MF,Lille,35.0,1980.0,2015-2016,FRA
+Jonathan Bamba,b2bd0f6c,ciCIV,"FW,MF",Saint-Étienne,19.0,1996.0,2015-2016,FRA
+Yacine Bammou,a1d04509,maMAR,"MF,FW",Nantes,23.0,1991.0,2015-2016,FRA
+Lass Bangoura,740f39d4,gnGUI,"FW,MF",Reims,23.0,1992.0,2015-2016,FRA
+Abdelaziz Barrada,89dac314,maMAR,MF,Marseille,26.0,1989.0,2015-2016,FRA
+Maxime Barthelmé,9b8b52d3,frFRA,MF,Lorient,26.0,1988.0,2015-2016,FRA
+Marko Baša,f170b78c,meMNE,DF,Lille,32.0,1982.0,2015-2016,FRA
+Michy Batshuayi,2973d8ff,beBEL,FW,Marseille,21.0,1993.0,2015-2016,FRA
+Éric Bauthéac,af859ca4,frFRA,"FW,MF",Lille,27.0,1987.0,2015-2016,FRA
+Moustapha Bayal Sall,74577256,snSEN,DF,Saint-Étienne,29.0,1985.0,2015-2016,FRA
+Paul Baysse,2515040a,frFRA,DF,Nice,27.0,1988.0,2015-2016,FRA
+Hervé Bazile,7abfcbff,htHAI,"MF,FW",Caen,25.0,1990.0,2015-2016,FRA
+Claudio Beauvue,8ca253a3,gpGLP,FW,Lyon,27.0,1988.0,2015-2016,FRA
+Henri Bedimo,0d57f1c1,cmCMR,DF,Lyon,31.0,1984.0,2015-2016,FRA
+Alejandro Bedoya,9a6f8dfd,usUSA,MF,Nantes,28.0,1987.0,2015-2016,FRA
+Julien Bègue,3e06c057,reREU,MF,Guingamp,21.0,1993.0,2015-2016,FRA
+François Bellugou,2174bc8d,frFRA,"MF,DF",Lorient,28.0,1987.0,2015-2016,FRA
+Hatem Ben Arfa,74dc806c,frFRA,"FW,MF",Nice,28.0,1987.0,2015-2016,FRA
+Chaouki Ben Saada,61d618fa,tnTUN,"MF,FW",Troyes,31.0,1984.0,2015-2016,FRA
+Wissam Ben Yedder,942b4f90,frFRA,FW,Toulouse,24.0,1990.0,2015-2016,FRA
+Syam Ben Youssef,2293f5df,tnTUN,DF,Caen,26.0,1989.0,2015-2016,FRA
+Youssef Benali,3df7b8c9,maMAR,"FW,MF",Toulouse,20.0,1995.0,2015-2016,FRA
+Nicolas Benezet,30395d3b,frFRA,"MF,FW",Guingamp,24.0,1991.0,2015-2016,FRA
+Saïd Benrahma,5a04fd92,dzALG,"FW,MF",Nice,19.0,1995.0,2015-2016,FRA
+Saïd Benrahma,5a04fd92,dzALG,FW,Angers,19.0,1995.0,2015-2016,FRA
+Ramy Bensebaini,378825c7,dzALG,"DF,MF",Montpellier,20.0,1995.0,2015-2016,FRA
+Yassine Benzia,6fbde63a,dzALG,"FW,MF",Lille,20.0,1994.0,2015-2016,FRA
+Franck Béria,c4d64855,frFRA,DF,Lille,32.0,1983.0,2015-2016,FRA
+Robert Berić,9001138b,siSVN,"FW,MF",Saint-Étienne,24.0,1991.0,2015-2016,FRA
+Kévin Bérigaud,3250c6cd,frFRA,"FW,MF",Montpellier,27.0,1988.0,2015-2016,FRA
+Paul Bernardoni,28dabd43,frFRA,GK,Bordeaux,18.0,1997.0,2015-2016,FRA
+Paul Bernardoni,28dabd43,frFRA,GK,Troyes,18.0,1997.0,2015-2016,FRA
+Vincent Bessat,5e6342d4,frFRA,"FW,DF",Caen,29.0,1985.0,2015-2016,FRA
+Henri Bienvenu,df6b9707,cmCMR,FW,Troyes,27.0,1988.0,2015-2016,FRA
+Thievy Bifouma,5978dc3c,cgCGO,"FW,MF",Reims,23.0,1992.0,2015-2016,FRA
+Milan Biševac,a51728e3,rsSRB,DF,Lyon,31.0,1983.0,2015-2016,FRA
+André Biyogo Poko,77b8d8f1,gaGAB,"MF,DF",Bordeaux,22.0,1993.0,2015-2016,FRA
+Ludovic Blas,6191093d,frFRA,MF,Guingamp,17.0,1997.0,2015-2016,FRA
+Alexis Blin,c69ef855,frFRA,MF,Toulouse,18.0,1996.0,2015-2016,FRA
+Yann Bodiger,8c2c48a9,frFRA,MF,Toulouse,20.0,1995.0,2015-2016,FRA
+Mathieu Bodmer,f3642ba8,frFRA,"DF,FW",Nice,32.0,1982.0,2015-2016,FRA
+Jeremie Boga,fe012aca,ciCIV,"MF,FW",Rennes,18.0,1997.0,2015-2016,FRA
+Olivier Boscagli,403f5d20,frFRA,"DF,MF",Nice,17.0,1997.0,2015-2016,FRA
+Gabriel Boschilia,e90af77c,brBRA,MF,Monaco,19.0,1996.0,2015-2016,FRA
+Denis Bouanga,0b0cbe5b,gaGAB,"FW,MF",Lorient,20.0,1994.0,2015-2016,FRA
+Ryad Boudebouz,1001ae82,dzALG,"MF,FW",Montpellier,25.0,1990.0,2015-2016,FRA
+Sofiane Boufal,b0c71810,maMAR,"FW,MF",Lille,21.0,1993.0,2015-2016,FRA
+Arnold Bouka Moutou,f3085377,cgCGO,"DF,FW",Angers,26.0,1988.0,2015-2016,FRA
+Grégory Bourillon,0e59a941,frFRA,"MF,DF",Angers,31.0,1984.0,2015-2016,FRA
+Khalid Boutaïb,6074b849,maMAR,FW,Gazélec Ajaccio,28.0,1987.0,2015-2016,FRA
+Martin Braithwaite,fd771f95,dkDEN,FW,Toulouse,24.0,1991.0,2015-2016,FRA
+Brandão,15b4e984,brBRA,FW,Bastia,35.0,1980.0,2015-2016,FRA
+Jérémie Bréchet,2a13c80b,frFRA,DF,Gazélec Ajaccio,35.0,1979.0,2015-2016,FRA
+Jimmy Briand,f83c8d6c,frFRA,FW,Guingamp,29.0,1985.0,2015-2016,FRA
+Jonathan Brison,c0bd9792,frFRA,DF,Saint-Étienne,32.0,1983.0,2015-2016,FRA
+Frédéric Bulot,335a76ea,gaGAB,"MF,FW",Reims,24.0,1990.0,2015-2016,FRA
+Ludovic Butelle,26975a92,frFRA,GK,Angers,32.0,1983.0,2015-2016,FRA
+Rémy Cabella,148e136f,frFRA,"MF,FW",Marseille,25.0,1990.0,2015-2016,FRA
+Jimmy Cabot,46359159,frFRA,"MF,FW",Troyes,21.0,1994.0,2015-2016,FRA
+Jimmy Cabot,46359159,frFRA,"MF,FW",Lorient,21.0,1994.0,2015-2016,FRA
+Dorian Caddy,14adaf39,frFRA,FW,Nice,20.0,1995.0,2015-2016,FRA
+Yannick Cahuzac,677ee102,frFRA,MF,Bastia,30.0,1985.0,2015-2016,FRA
+Abdoul Camara,07296190,gnGUI,FW,Angers,25.0,1990.0,2015-2016,FRA
+Souleymane Camara,c58270f8,snSEN,"FW,MF",Montpellier,32.0,1982.0,2015-2016,FRA
+Fabien Camus,42443716,tnTUN,"MF,FW",Troyes,30.0,1985.0,2015-2016,FRA
+Lorik Cana,01ceeb0f,alALB,DF,Nantes,32.0,1983.0,2015-2016,FRA
+Pierrick Capelle,79b2399c,frFRA,"FW,MF",Angers,28.0,1987.0,2015-2016,FRA
+Yoan Cardinale,950ff24d,frFRA,GK,Nice,21.0,1994.0,2015-2016,FRA
+Julien Cardy,ca57c481,frFRA,MF,Guingamp,33.0,1981.0,2015-2016,FRA
+Cédric Carrasso,17f5a888,frFRA,GK,Bordeaux,33.0,1981.0,2015-2016,FRA
+Johann Carrasso,223f8202,frFRA,GK,Reims,27.0,1988.0,2015-2016,FRA
+Guido Carrillo,8f898ba8,arARG,FW,Monaco,24.0,1991.0,2015-2016,FRA
+Ricardo Carvalho,57e7081e,ptPOR,DF,Monaco,37.0,1978.0,2015-2016,FRA
+Ivan Cavaleiro,979b811d,ptPOR,"MF,FW",Monaco,21.0,1993.0,2015-2016,FRA
+Edinson Cavani,527f063d,uyURU,FW,Paris Saint-Germain,28.0,1987.0,2015-2016,FRA
+Ilyes Chaïbi,209b6b19,dzALG,FW,Monaco,18.0,1996.0,2015-2016,FRA
+Florent Chaigneau,e3a4b82d,frFRA,GK,Lorient,31.0,1984.0,2015-2016,FRA
+Clément Chantôme,f1df248c,frFRA,MF,Bordeaux,27.0,1987.0,2015-2016,FRA
+Gaëtan Charbonnier,18ebca4b,frFRA,"FW,MF",Reims,26.0,1988.0,2015-2016,FRA
+Amine Chermiti,fec0a1f5,tnTUN,"MF,FW",Gazélec Ajaccio,27.0,1987.0,2015-2016,FRA
+Gilles Cioni,2af93180,frFRA,DF,Bastia,31.0,1984.0,2015-2016,FRA
+Renato Civelli,71bc7742,arARG,DF,Lille,31.0,1983.0,2015-2016,FRA
+Jérémy Clément,06cb3efe,frFRA,MF,Saint-Étienne,30.0,1984.0,2015-2016,FRA
+François Clerc,6cc7e81b,frFRA,"DF,MF",Saint-Étienne,32.0,1983.0,2015-2016,FRA
+Marcus Coco,3010aefb,frFRA,MF,Guingamp,19.0,1996.0,2015-2016,FRA
+Alexandre Coeff,c4065f40,frFRA,DF,Gazélec Ajaccio,23.0,1992.0,2015-2016,FRA
+Fábio Coentrão,0f8bd0a6,ptPOR,"DF,MF",Monaco,27.0,1988.0,2015-2016,FRA
+Renaud Cohade,4e7d66f8,frFRA,MF,Saint-Étienne,30.0,1984.0,2015-2016,FRA
+Alois Confais,535b0343,frFRA,"DF,MF",Troyes,18.0,1996.0,2015-2016,FRA
+Daniel Congré,3f5b4635,frFRA,DF,Montpellier,30.0,1985.0,2015-2016,FRA
+Antoine Conte,9cdfcd02,gnGUI,DF,Reims,21.0,1994.0,2015-2016,FRA
+Diego Contento,15a21c79,deGER,DF,Bordeaux,25.0,1990.0,2015-2016,FRA
+Sébastien Corchia,0e7ccfc4,frFRA,"DF,MF",Lille,24.0,1990.0,2015-2016,FRA
+Benjamin Corgnet,cfd8dde3,frFRA,MF,Saint-Étienne,28.0,1987.0,2015-2016,FRA
+Maxwel Cornet,beb391dd,ciCIV,"FW,MF",Lyon,18.0,1996.0,2015-2016,FRA
+Quentin Cornette,5d42d487,frFRA,MF,Montpellier,21.0,1994.0,2015-2016,FRA
+Jonathan Correia,3903c7b2,frFRA,DF,Nice,21.0,1994.0,2015-2016,FRA
+Hélder Costa,f13d02a6,aoANG,"MF,FW",Monaco,21.0,1994.0,2015-2016,FRA
+Benoît Costil,2434f24a,frFRA,GK,Rennes,28.0,1987.0,2015-2016,FRA
+Lassana Coulibaly,85a44ecc,mlMLI,MF,Bastia,19.0,1996.0,2015-2016,FRA
+Yoann Court,26e4447b,frFRA,"MF,FW",Troyes,25.0,1990.0,2015-2016,FRA
+Enzo Crivelli,06f33dc8,frFRA,FW,Bordeaux,20.0,1995.0,2015-2016,FRA
+Damien Da Silva,1ec7e1c5,frFRA,DF,Caen,27.0,1988.0,2015-2016,FRA
+Bryan Dabo,c53083ad,bfBFA,"MF,DF",Montpellier,23.0,1992.0,2015-2016,FRA
+Mouhamadou Dabo,78853b7b,frFRA,DF,Troyes,28.0,1986.0,2015-2016,FRA
+Gaël Danic,5a529d5a,frFRA,"MF,FW",Bastia,33.0,1981.0,2015-2016,FRA
+Romain Danzé,a5876fca,frFRA,DF,Rennes,29.0,1986.0,2015-2016,FRA
+Stéphane Darbion,75d97aa6,frFRA,MF,Troyes,31.0,1984.0,2015-2016,FRA
+Sergi Darder,070a3904,esESP,MF,Lyon,21.0,1993.0,2015-2016,FRA
+Paolo De Ceglie,bdc1a432,itITA,DF,Marseille,28.0,1986.0,2015-2016,FRA
+Nill De Pauw,518738b4,cdCOD,MF,Guingamp,25.0,1990.0,2015-2016,FRA
+Lucas Deaux,44f8c299,frFRA,"MF,DF",Nantes,26.0,1988.0,2015-2016,FRA
+Mathieu Debuchy,92232aad,frFRA,DF,Bordeaux,30.0,1985.0,2015-2016,FRA
+Romain Del Castillo,0be95d34,frFRA,"FW,MF",Lyon,19.0,1996.0,2015-2016,FRA
+Jonathan Delaplace,79685569,frFRA,MF,Caen,29.0,1986.0,2015-2016,FRA
+Andy Delort,d33c706e,dzALG,FW,Caen,23.0,1991.0,2015-2016,FRA
+Mana Dembélé,a19db3d0,mlMLI,FW,Guingamp,26.0,1988.0,2015-2016,FRA
+Ousmane Dembélé,b19db005,frFRA,"MF,FW",Rennes,18.0,1997.0,2015-2016,FRA
+Mathieu Deplagne,ff16ecad,frFRA,DF,Montpellier,23.0,1991.0,2015-2016,FRA
+Gregory van der Wiel,2fb3ad46,nlNED,DF,Paris Saint-Germain,27.0,1988.0,2015-2016,FRA
+Antoine Devaux,8af9e002,frFRA,MF,Reims,30.0,1985.0,2015-2016,FRA
+Jean Deza,b633488d,pePER,"MF,FW",Montpellier,22.0,1993.0,2015-2016,FRA
+Ángel Di María,19cda00b,arARG,"FW,MF",Paris Saint-Germain,27.0,1988.0,2015-2016,FRA
+Issiar Dia,32d787c2,snSEN,FW,Gazélec Ajaccio,28.0,1987.0,2015-2016,FRA
+Cheick Diabaté,95cfe655,mlMLI,FW,Bordeaux,27.0,1988.0,2015-2016,FRA
+Abou Diaby,8c8b5071,frFRA,MF,Marseille,29.0,1986.0,2015-2016,FRA
+Fallou Diagne,cd387ff4,snSEN,DF,Rennes,25.0,1989.0,2015-2016,FRA
+Abdoulaye Diallo,26383ea5,snSEN,GK,Rennes,23.0,1992.0,2015-2016,FRA
+Mustapha Diallo,6c6ecdd4,snSEN,MF,Guingamp,29.0,1986.0,2015-2016,FRA
+Sadio Diallo,abfe37a2,gnGUI,"MF,FW",Bastia,24.0,1990.0,2015-2016,FRA
+Lassana Diarra,79584585,frFRA,MF,Marseille,30.0,1985.0,2015-2016,FRA
+Étienne Didot,d2aa8ac0,frFRA,MF,Toulouse,32.0,1983.0,2015-2016,FRA
+Diego,cd09e9a1,brBRA,"MF,FW",Reims,27.0,1988.0,2015-2016,FRA
+Charles Diers,b6f4300e,frFRA,MF,Angers,34.0,1981.0,2015-2016,FRA
+Ismaël Diomandé,10650926,ciCIV,MF,Caen,22.0,1992.0,2015-2016,FRA
+Ismaël Diomandé,10650926,ciCIV,MF,Saint-Étienne,22.0,1992.0,2015-2016,FRA
+Issa Diop,a712ca2b,frFRA,DF,Toulouse,18.0,1997.0,2015-2016,FRA
+Nabil Dirar,a2b0d521,maMAR,"MF,FW",Monaco,29.0,1986.0,2015-2016,FRA
+Brice Dja Djédjé,d8593687,ciCIV,DF,Marseille,24.0,1990.0,2015-2016,FRA
+Koffi Djidji,933d3b51,ciCIV,DF,Nantes,22.0,1992.0,2015-2016,FRA
+Alexander Djiku,43e7a164,ghGHA,DF,Bastia,20.0,1994.0,2015-2016,FRA
+Férébory Doré,cf91c5d6,cgCGO,"FW,MF",Angers,26.0,1989.0,2015-2016,FRA
+Laurent Dos Santos,69b89eff,frFRA,DF,Guingamp,21.0,1993.0,2015-2016,FRA
+Nicolas Douchez,65df6f31,frFRA,GK,Paris Saint-Germain,35.0,1980.0,2015-2016,FRA
+Abdoulaye Doucouré,02b29014,mlMLI,"MF,FW",Rennes,22.0,1993.0,2015-2016,FRA
+Tongo Doumbia,29a506e1,mlMLI,MF,Toulouse,25.0,1989.0,2015-2016,FRA
+Matthieu Dreyer,fbf83734,frFRA,GK,Troyes,26.0,1989.0,2015-2016,FRA
+Leo Dubois,ff0ab48c,frFRA,DF,Nantes,20.0,1994.0,2015-2016,FRA
+David Ducourtioux,0a1f8ddf,frFRA,MF,Gazélec Ajaccio,37.0,1978.0,2015-2016,FRA
+Maxime Dupé,0e12089d,frFRA,GK,Nantes,22.0,1993.0,2015-2016,FRA
+Elderson Echiéjilé,f95570f9,ngNGA,DF,Monaco,27.0,1988.0,2015-2016,FRA
+Éder,f0fc9d0e,ptPOR,FW,Lille,27.0,1987.0,2015-2016,FRA
+Vincent Enyeama,62156b6a,ngNGA,GK,Lille,32.0,1982.0,2015-2016,FRA
+Kermit Erasmus,4faf6bb6,zaRSA,"FW,MF",Rennes,25.0,1990.0,2015-2016,FRA
+Mevlüt Erdinç,3b99b9e1,trTUR,FW,Guingamp,28.0,1987.0,2015-2016,FRA
+Valentin Eysseric,ae82fa48,frFRA,"FW,MF",Nice,23.0,1992.0,2015-2016,FRA
+Valentin Eysseric,ae82fa48,frFRA,"MF,FW",Saint-Étienne,23.0,1992.0,2015-2016,FRA
+Fabinho,7f3b388c,brBRA,"DF,MF",Monaco,21.0,1993.0,2015-2016,FRA
+Nabil Fekir,bece776f,frFRA,"FW,MF",Lyon,22.0,1993.0,2015-2016,FRA
+Julien Féret,ac62861c,frFRA,MF,Caen,33.0,1982.0,2015-2016,FRA
+Gelson Fernandes,8e58987d,chSUI,MF,Rennes,28.0,1986.0,2015-2016,FRA
+Jordan Ferri,375622c5,frFRA,MF,Lyon,23.0,1992.0,2015-2016,FRA
+Rodéric Filippi,0dda6fb3,frFRA,DF,Gazélec Ajaccio,26.0,1989.0,2015-2016,FRA
+Steven Fletcher,2c9c3502,sctSCO,FW,Marseille,28.0,1987.0,2015-2016,FRA
+Mohamed Fofana,3e65ec26,mlMLI,DF,Reims,30.0,1985.0,2015-2016,FRA
+Moryké Fofana,d4f8f243,ciCIV,"FW,MF",Lorient,23.0,1991.0,2015-2016,FRA
+Seko Fofana,5313ed43,ciCIV,MF,Bastia,20.0,1995.0,2015-2016,FRA
+Odaïr Fortes,357dc7b5,cvCPV,"MF,FW",Reims,28.0,1987.0,2015-2016,FRA
+Milan Gajić,9f6325f9,rsSRB,DF,Bordeaux,19.0,1996.0,2015-2016,FRA
+Marvin Gakpa,c1b16364,frFRA,"FW,MF",Lorient,21.0,1993.0,2015-2016,FRA
+Lamine Gassama,2361ce33,snSEN,DF,Lorient,25.0,1989.0,2015-2016,FRA
+Romain Genevois,1040e783,htHAI,"DF,MF",Nice,27.0,1987.0,2015-2016,FRA
+Valère Germain,ea0ff634,frFRA,FW,Nice,25.0,1990.0,2015-2016,FRA
+Rachid Ghezzal,dc3a9a0d,dzALG,"FW,MF",Lyon,23.0,1992.0,2015-2016,FRA
+Guillaume Gillet,3f944dad,beBEL,MF,Nantes,31.0,1984.0,2015-2016,FRA
+Thibault Giresse,81d9a76b,frFRA,MF,Guingamp,34.0,1981.0,2015-2016,FRA
+Joris Gnagnon,1232e1dc,frFRA,"MF,DF",Rennes,18.0,1997.0,2015-2016,FRA
+Jules Goda,f3f2ed5c,cmCMR,GK,Gazélec Ajaccio,26.0,1989.0,2015-2016,FRA
+Mauro Goicoechea,132bb875,uyURU,GK,Toulouse,27.0,1988.0,2015-2016,FRA
+Diego Gómez,f346b8b8,arARG,"FW,MF",Angers,31.0,1984.0,2015-2016,FRA
+Kévin Gomis,d6cec71a,gwGNB,DF,Nice,26.0,1989.0,2015-2016,FRA
+Rémi Gomis,539f3173,snSEN,MF,Nantes,31.0,1984.0,2015-2016,FRA
+Maxime Gonalons,b8c1de25,frFRA,"MF,DF",Lyon,26.0,1989.0,2015-2016,FRA
+Mathieu Gorgelin,4d3e9033,frFRA,GK,Lyon,24.0,1990.0,2015-2016,FRA
+Yoann Gourcuff,3acddfdd,frFRA,"MF,FW",Rennes,29.0,1986.0,2015-2016,FRA
+Samuel Grandsir,d2448564,frFRA,"FW,MF",Troyes,18.0,1996.0,2015-2016,FRA
+Clément Grenier,8b298f56,frFRA,"MF,FW",Lyon,24.0,1991.0,2015-2016,FRA
+Kamil Grosicki,81d8091f,plPOL,"MF,FW",Rennes,27.0,1988.0,2015-2016,FRA
+Paul-André Guérin,9a6d4f3d,frFRA,GK,Gazélec Ajaccio,17.0,1997.0,2015-2016,FRA
+Raphaël Guerreiro,048a1cbc,ptPOR,"DF,MF",Lorient,21.0,1993.0,2015-2016,FRA
+Babacar Guèye,4942dad3,snSEN,FW,Troyes,20.0,1994.0,2015-2016,FRA
+Frederic Guilbert,5d8d7454,frFRA,DF,Bordeaux,20.0,1994.0,2015-2016,FRA
+Baptiste Guillaume,9453d2f4,beBEL,FW,Lille,20.0,1995.0,2015-2016,FRA
+Serhou Guirassy,923f4dda,gnGUI,FW,Lille,19.0,1996.0,2015-2016,FRA
+Habib Habibou,0a54bf93,cfCTA,FW,Rennes,28.0,1987.0,2015-2016,FRA
+Romain Hamouma,0b4d8274,frFRA,"MF,FW",Saint-Étienne,28.0,1987.0,2015-2016,FRA
+Jesper Hansen,a3b952f8,dkDEN,GK,Bastia,30.0,1985.0,2015-2016,FRA
+Ilias Hassani,773070d2,dzALG,DF,Bordeaux,19.0,1995.0,2015-2016,FRA
+Mouez Hassen,fd481f3f,tnTUN,GK,Nice,20.0,1995.0,2015-2016,FRA
+Pedro Henrique,460976a2,brBRA,"FW,MF",Rennes,25.0,1990.0,2015-2016,FRA
+Thomas Henry,9ef42479,frFRA,FW,Nantes,20.0,1994.0,2015-2016,FRA
+Franck Héry,050f6302,frFRA,DF,Guingamp,22.0,1993.0,2015-2016,FRA
+Vitorino Hilton,c4bbea9f,brBRA,DF,Montpellier,37.0,1977.0,2015-2016,FRA
+Franck Honorat,db7849ca,frFRA,"FW,MF",Nice,18.0,1996.0,2015-2016,FRA
+Lyes Houri,a6d31fc7,frFRA,MF,Bastia,19.0,1996.0,2015-2016,FRA
+Niklas Hult,497228f9,seSWE,"MF,DF",Nice,25.0,1990.0,2015-2016,FRA
+Deniz Hummet,754f87d6,trTUR,FW,Troyes,18.0,1996.0,2015-2016,FRA
+Didier Ibrahim Ndong,885b7aa7,gaGAB,MF,Lorient,21.0,1994.0,2015-2016,FRA
+Zlatan Ibrahimović,4cde5509,seSWE,FW,Paris Saint-Germain,33.0,1981.0,2015-2016,FRA
+Jules Iloki,f352a2db,frFRA,MF,Nantes,23.0,1992.0,2015-2016,FRA
+Emmanuel Imorou,3e87d087,bjBEN,DF,Caen,26.0,1988.0,2015-2016,FRA
+Mauricio Isla,de4517dd,clCHI,"MF,DF",Marseille,27.0,1988.0,2015-2016,FRA
+Lars Jacobsen,bef72e41,dkDEN,DF,Guingamp,35.0,1979.0,2015-2016,FRA
+Christophe Jallet,46d50339,frFRA,DF,Lyon,31.0,1983.0,2015-2016,FRA
+Nicolas Janvier,22a62523,frFRA,MF,Rennes,16.0,1998.0,2015-2016,FRA
+Corentin Jean,7d9b37bf,frFRA,"FW,MF",Troyes,20.0,1995.0,2015-2016,FRA
+Benjamin Jeannot,2e52206e,frFRA,FW,Lorient,23.0,1992.0,2015-2016,FRA
+Yassine Jebbour,eb398a20,maMAR,DF,Bastia,23.0,1991.0,2015-2016,FRA
+Jemerson,7cab69b5,brBRA,DF,Monaco,22.0,1992.0,2015-2016,FRA
+Yann Jouffre,5d66c10d,frFRA,MF,Lorient,31.0,1984.0,2015-2016,FRA
+Geoffrey Jourdren,aaa7b6bf,frFRA,GK,Montpellier,29.0,1986.0,2015-2016,FRA
+Jussiê,c827ff8e,brBRA,MF,Bordeaux,31.0,1983.0,2015-2016,FRA
+Aldo Kalulu,d75098c2,cdCOD,FW,Lyon,19.0,1996.0,2015-2016,FRA
+François Kamano,81d3318f,gnGUI,"MF,FW",Bastia,19.0,1996.0,2015-2016,FRA
+Hassane Kamara,19a12bed,ciCIV,"DF,MF",Reims,21.0,1994.0,2015-2016,FRA
+Jean-Armel Kana-Biyik,76a4233b,cmCMR,DF,Toulouse,26.0,1989.0,2015-2016,FRA
+Jaba Kankava,3f10ad0c,geGEO,MF,Reims,29.0,1986.0,2015-2016,FRA
+Abdelhamid El Kaoutari,494a3a41,maMAR,DF,Reims,25.0,1990.0,2015-2016,FRA
+Lossémy Karaboué,eacab42f,ciCIV,"DF,MF",Troyes,27.0,1988.0,2015-2016,FRA
+Hamadou Karamoko,46c21294,ciCIV,DF,Lorient,19.0,1995.0,2015-2016,FRA
+Goran Karanović,67817513,chSUI,FW,Angers,27.0,1987.0,2015-2016,FRA
+Abdoulaye Keita,ae77ece0,mlMLI,MF,Bastia,21.0,1994.0,2015-2016,FRA
+Olivier Kemen,22f1de6c,cmCMR,MF,Lyon,19.0,1996.0,2015-2016,FRA
+Christophe Kerbrat,0515a4cb,frFRA,DF,Guingamp,28.0,1986.0,2015-2016,FRA
+Billy Ketkeophomphone,06f46837,laLAO,FW,Angers,25.0,1990.0,2015-2016,FRA
+Wahbi Khazri,2677a1de,tnTUN,"MF,FW",Bordeaux,24.0,1991.0,2015-2016,FRA
+Isaac Kiese Thelin,b956af7d,seSWE,"FW,MF",Bordeaux,23.0,1992.0,2015-2016,FRA
+Presnel Kimpembe,aef6e670,frFRA,DF,Paris Saint-Germain,19.0,1995.0,2015-2016,FRA
+Erwin Koffi,b4d4fc0d,frFRA,FW,Lorient,20.0,1995.0,2015-2016,FRA
+Bakary Koné,1f713024,bfBFA,DF,Lyon,27.0,1988.0,2015-2016,FRA
+Lamine Koné,a46472d0,ciCIV,DF,Lorient,26.0,1989.0,2015-2016,FRA
+Mory Koné,3ef7a30b,ciCIV,DF,Troyes,21.0,1994.0,2015-2016,FRA
+Youssouf Koné,e6eadfb8,mlMLI,DF,Lille,20.0,1995.0,2015-2016,FRA
+Christian Kouakou,ce316f8c,ciCIV,FW,Caen,24.0,1991.0,2015-2016,FRA
+Vincent Koziello,9a493fb7,frFRA,MF,Nice,19.0,1995.0,2015-2016,FRA
+Layvin Kurzawa,41e7ef1c,frFRA,DF,Monaco,22.0,1992.0,2015-2016,FRA
+Layvin Kurzawa,41e7ef1c,frFRA,DF,Paris Saint-Germain,22.0,1992.0,2015-2016,FRA
+Enock Kwateng,4bf69118,frFRA,DF,Nantes,18.0,1997.0,2015-2016,FRA
+Grejohn Kyei,397ba086,frFRA,FW,Reims,19.0,1995.0,2015-2016,FRA
+Zakarie Labidi,630186b2,frFRA,MF,Lyon,20.0,1995.0,2015-2016,FRA
+Gaëtan Laborde,7cdda3bf,frFRA,"FW,MF",Bordeaux,21.0,1994.0,2015-2016,FRA
+Alexandre Lacazette,9dbb75ca,frFRA,FW,Lyon,24.0,1991.0,2015-2016,FRA
+Alban Lafont,4e7db402,ciCIV,GK,Toulouse,16.0,1999.0,2015-2016,FRA
+Aïssa Laïdouni,22798128,tnTUN,DF,Angers,18.0,1996.0,2015-2016,FRA
+Mohamed Larbi,76be043f,tnTUN,"MF,FW",Gazélec Ajaccio,27.0,1987.0,2015-2016,FRA
+Paul Lasne,542cc80f,frFRA,MF,Montpellier,26.0,1989.0,2015-2016,FRA
+Wesley Lautoa,6e5b5a45,ncNCL,DF,Lorient,27.0,1987.0,2015-2016,FRA
+Ezequiel Lavezzi,6d6456d7,arARG,"FW,MF",Paris Saint-Germain,30.0,1985.0,2015-2016,FRA
+Valentin Lavigne,b61da2b5,frFRA,FW,Lorient,21.0,1994.0,2015-2016,FRA
+Mickaël Le Bihan,d512db65,frFRA,FW,Nice,25.0,1990.0,2015-2016,FRA
+Vincent Le Goff,2321ea6e,frFRA,DF,Lorient,25.0,1989.0,2015-2016,FRA
+Maxime Le Marchand,321a71a7,frFRA,DF,Nice,25.0,1989.0,2015-2016,FRA
+Jordan Leborgne,0f0d05fd,gpGLP,"MF,FW",Caen,19.0,1995.0,2015-2016,FRA
+Jean-Louis Leca,edbe46dc,frFRA,GK,Bastia,29.0,1985.0,2015-2016,FRA
+Benjamin Lecomte,2fa2a875,frFRA,GK,Lorient,24.0,1991.0,2015-2016,FRA
+Reynald Lemaître,ff44edbb,frFRA,DF,Guingamp,32.0,1983.0,2015-2016,FRA
+Thomas Lemar,4dbd0916,frFRA,"MF,FW",Monaco,19.0,1995.0,2015-2016,FRA
+Mario Lemina,2b471f99,gaGAB,MF,Marseille,21.0,1993.0,2015-2016,FRA
+Jérôme Lemoigne,5c289caa,frFRA,MF,Gazélec Ajaccio,32.0,1983.0,2015-2016,FRA
+Fabien Lemoine,54d51e22,frFRA,MF,Saint-Étienne,28.0,1987.0,2015-2016,FRA
+Ermir Lenjani,780ec14d,alALB,"DF,FW",Rennes,25.0,1989.0,2015-2016,FRA
+Ermir Lenjani,780ec14d,alALB,"DF,MF",Nantes,25.0,1989.0,2015-2016,FRA
+Alexandre Letellier,96fcd380,frFRA,GK,Angers,24.0,1990.0,2015-2016,FRA
+Dorian Lévêque,1263fecd,frFRA,DF,Guingamp,25.0,1989.0,2015-2016,FRA
+Jonathan Ligali,c69a3268,frFRA,GK,Montpellier,24.0,1991.0,2015-2016,FRA
+Jérémy Livolant,4f3768f1,frFRA,"FW,MF",Guingamp,17.0,1998.0,2015-2016,FRA
+Gautier Lloris,ac89503b,frFRA,DF,Nice,20.0,1995.0,2015-2016,FRA
+Anthony Lopes,f00de885,ptPOR,GK,Lyon,24.0,1990.0,2015-2016,FRA
+Rony Lopes,7c2965bb,ptPOR,FW,Lille,19.0,1995.0,2015-2016,FRA
+Rony Lopes,7c2965bb,ptPOR,"MF,FW",Monaco,19.0,1995.0,2015-2016,FRA
+Jonas Lössl,939bc634,dkDEN,GK,Guingamp,26.0,1989.0,2015-2016,FRA
+Jeff Louis,4ee7e082,htHAI,"MF,FW",Caen,22.0,1992.0,2015-2016,FRA
+Vágner Love,6d4d9e18,brBRA,"FW,MF",Monaco,31.0,1984.0,2015-2016,FRA
+David Luiz,c0e27d1a,brBRA,DF,Paris Saint-Germain,28.0,1987.0,2015-2016,FRA
+Cheikh M'Bengue,88fdac8b,snSEN,DF,Rennes,27.0,1988.0,2015-2016,FRA
+Hicham M'Laab,4f9e422d,frFRA,"FW,MF",Nantes,25.0,1990.0,2015-2016,FRA
+Edwin Maanane,6bdc60a2,frFRA,FW,Reims,20.0,1995.0,2015-2016,FRA
+Christopher Maboulou,4d592990,cgCGO,FW,Bastia,25.0,1990.0,2015-2016,FRA
+Zinédine Machach,31377e38,frFRA,"MF,FW",Toulouse,19.0,1996.0,2015-2016,FRA
+Mike Maignan,fcb38f57,frFRA,GK,Lille,20.0,1995.0,2015-2016,FRA
+Abdul Majeed Waris,46907171,ghGHA,FW,Lorient,23.0,1991.0,2015-2016,FRA
+Jean-Victor Makengo,22bfb57e,frFRA,MF,Caen,17.0,1998.0,2015-2016,FRA
+Steed Malbranque,e3df61bc,frFRA,"MF,FW",Lyon,35.0,1980.0,2015-2016,FRA
+Malcom,6853490f,brBRA,"FW,MF",Bordeaux,18.0,1997.0,2015-2016,FRA
+Kévin Malcuit,d6a889ea,maMAR,"DF,MF",Saint-Étienne,24.0,1991.0,2015-2016,FRA
+Wallyson Mallmann,6b02ee48,brBRA,"FW,MF",Nice,21.0,1994.0,2015-2016,FRA
+Vincent Manceau,c26a3918,frFRA,DF,Angers,26.0,1989.0,2015-2016,FRA
+Steve Mandanda,1d2d5cc8,frFRA,GK,Marseille,30.0,1985.0,2015-2016,FRA
+Aïssa Mandi,fbd6378b,dzALG,DF,Reims,23.0,1991.0,2015-2016,FRA
+Kader Mangane,dbb10755,snSEN,"DF,MF",Gazélec Ajaccio,32.0,1983.0,2015-2016,FRA
+Thomas Mangani,c801616a,frFRA,MF,Angers,28.0,1987.0,2015-2016,FRA
+Javier Manquillo,758dd7f0,esESP,DF,Marseille,21.0,1994.0,2015-2016,FRA
+Florian Marange,5e8628cc,frFRA,"DF,MF",Bastia,29.0,1986.0,2015-2016,FRA
+Marquinhos,d5f2f82b,brBRA,DF,Paris Saint-Germain,21.0,1994.0,2015-2016,FRA
+Anthony Martial,8b788c01,frFRA,FW,Monaco,19.0,1995.0,2015-2016,FRA
+Johan Martial,33406eee,frFRA,DF,Troyes,24.0,1991.0,2015-2016,FRA
+Jonas Martin,468fdbad,frFRA,MF,Montpellier,25.0,1990.0,2015-2016,FRA
+Marvin Martin,f4319ee8,frFRA,MF,Lille,27.0,1988.0,2015-2016,FRA
+Pablo Martinez,1ad8cb67,frFRA,DF,Gazélec Ajaccio,26.0,1989.0,2015-2016,FRA
+Jonathan Martins Pereira,b51242ef,frFRA,DF,Troyes,29.0,1986.0,2015-2016,FRA
+Jonathan Martins Pereira,b51242ef,frFRA,DF,Guingamp,29.0,1986.0,2015-2016,FRA
+Joris Marveaux,df8795f4,mqMTQ,MF,Montpellier,32.0,1982.0,2015-2016,FRA
+William Matheus,3498ddf4,brBRA,DF,Toulouse,25.0,1990.0,2015-2016,FRA
+Lionel Mathis,ebed1a06,frFRA,MF,Guingamp,33.0,1981.0,2015-2016,FRA
+Blaise Matuidi,c0cddebe,frFRA,MF,Paris Saint-Germain,28.0,1987.0,2015-2016,FRA
+Robin Maulun,b1940817,frFRA,MF,Bordeaux,18.0,1996.0,2015-2016,FRA
+Neal Maupay,4bcf39f6,frFRA,"FW,MF",Saint-Étienne,18.0,1996.0,2015-2016,FRA
+Nicolas Maurice-Belay,8a8e4f0c,frFRA,"MF,FW",Bordeaux,30.0,1985.0,2015-2016,FRA
+Clément Maury,7dd60434,frFRA,GK,Gazélec Ajaccio,29.0,1985.0,2015-2016,FRA
+Chris Mavinga,fda36cfb,cdCOD,DF,Troyes,24.0,1991.0,2015-2016,FRA
+Rio Mavuba,48c16bf5,frFRA,MF,Lille,31.0,1984.0,2015-2016,FRA
+Maxwell,6f08cece,brBRA,DF,Paris Saint-Germain,33.0,1981.0,2015-2016,FRA
+Kévin Mayi,6a26e528,gaGAB,"MF,FW",Gazélec Ajaccio,22.0,1993.0,2015-2016,FRA
+Kylian Mbappé,42fd9c7f,frFRA,"MF,FW",Monaco,16.0,1998.0,2015-2016,FRA
+Nolan Mbemba,6c9642ae,cgCGO,FW,Lille,20.0,1995.0,2015-2016,FRA
+Soualiho Meïté,5cec2c74,frFRA,"DF,MF",Lille,21.0,1994.0,2015-2016,FRA
+Yakou Méïte,c55e8ab0,ciCIV,"FW,MF",Paris Saint-Germain,19.0,1996.0,2015-2016,FRA
+Pedro Mendes,6690ef25,ptPOR,DF,Rennes,24.0,1990.0,2015-2016,FRA
+Ryan Mendes,ba6e01ab,cvCPV,"FW,MF",Lille,25.0,1990.0,2015-2016,FRA
+Alexandre Mendy,e067808c,gwGNB,FW,Nice,21.0,1994.0,2015-2016,FRA
+Benjamin Mendy,5271c8f1,frFRA,DF,Marseille,21.0,1994.0,2015-2016,FRA
+Nampalys Mendy,1598599e,snSEN,MF,Nice,23.0,1992.0,2015-2016,FRA
+Walid Mesloub,6565c9ef,dzALG,MF,Lorient,29.0,1985.0,2015-2016,FRA
+Mexer,ce492295,mzMOZ,DF,Rennes,26.0,1988.0,2015-2016,FRA
+Omenuke Mfulu,bdc14559,cdCOD,"MF,DF",Reims,21.0,1994.0,2015-2016,FRA
+François Modesto,6691423e,frFRA,"DF,MF",Bastia,36.0,1978.0,2015-2016,FRA
+Wilfried Moimbé,65c25d8f,frFRA,DF,Nantes,26.0,1988.0,2015-2016,FRA
+Yohan Mollo,74950bcc,frFRA,"DF,FW",Saint-Étienne,26.0,1989.0,2015-2016,FRA
+Kévin Monnet-Paquet,4a57580c,frFRA,"MF,FW",Saint-Étienne,26.0,1988.0,2015-2016,FRA
+Steven Moreira,f10983ae,cvCPV,"MF,DF",Rennes,20.0,1994.0,2015-2016,FRA
+Jérémy Morel,e97150c0,mgMAD,DF,Lyon,31.0,1984.0,2015-2016,FRA
+Mehdi Mostefa,b2a138bc,dzALG,MF,Bastia,31.0,1983.0,2015-2016,FRA
+Mehdi Mostefa,b2a138bc,dzALG,MF,Lorient,31.0,1983.0,2015-2016,FRA
+Thiago Motta,57ef0d97,itITA,MF,Paris Saint-Germain,32.0,1982.0,2015-2016,FRA
+François Moubandje,6ca88b2a,chSUI,DF,Toulouse,25.0,1990.0,2015-2016,FRA
+Benjamin Moukandjo,e0312377,cmCMR,FW,Lorient,26.0,1988.0,2015-2016,FRA
+Steve Mounié,19ba6c6d,bjBEN,FW,Montpellier,20.0,1994.0,2015-2016,FRA
+Anthony Mounier,d9255c9a,frFRA,MF,Montpellier,27.0,1987.0,2015-2016,FRA
+Lucas Moura,2b622f01,brBRA,"FW,MF",Paris Saint-Germain,22.0,1992.0,2015-2016,FRA
+João Moutinho,f5a00fa4,ptPOR,MF,Monaco,28.0,1986.0,2015-2016,FRA
+Rémi Mulumba,05099e0e,cdCOD,MF,Lorient,22.0,1992.0,2015-2016,FRA
+Yrondu Musavu-King,c9cfd7e8,gaGAB,DF,Lorient,23.0,1992.0,2015-2016,FRA
+Arnold Mvuemba,50fd977e,cdCOD,MF,Lyon,30.0,1985.0,2015-2016,FRA
+Mahamadou N'Diaye,acfa8248,mlMLI,DF,Troyes,25.0,1990.0,2015-2016,FRA
+Mamadou N'Diaye,261d5529,snSEN,DF,Montpellier,20.0,1995.0,2015-2016,FRA
+Cheikh N'Doye,f1b2365a,snSEN,MF,Angers,29.0,1986.0,2015-2016,FRA
+David N'Gog,beec2968,frFRA,FW,Reims,26.0,1989.0,2015-2016,FRA
+Georges-Kévin N'Koudou,76c131da,cmCMR,MF,Marseille,20.0,1995.0,2015-2016,FRA
+Lenny Nangis,74f3f15e,frFRA,"FW,MF",Caen,21.0,1994.0,2015-2016,FRA
+Lenny Nangis,74f3f15e,frFRA,FW,Lille,21.0,1994.0,2015-2016,FRA
+Paul Nardi,2d70dbe5,frFRA,GK,Monaco,21.0,1994.0,2015-2016,FRA
+Aly Ndom,df819670,frFRA,MF,Reims,19.0,1996.0,2015-2016,FRA
+Axel Ngando,954b2503,frFRA,MF,Bastia,22.0,1993.0,2015-2016,FRA
+Anele Ngcongca,2f51c455,zaRSA,DF,Troyes,27.0,1987.0,2015-2016,FRA
+Guy Ngosso,34cfec6b,cmCMR,MF,Angers,30.0,1985.0,2015-2016,FRA
+Casimir Ninga,91f2da4c,tdCHA,"FW,MF",Montpellier,22.0,1993.0,2015-2016,FRA
+Pavle Ninkov,01b63256,rsSRB,"DF,MF",Toulouse,30.0,1985.0,2015-2016,FRA
+Benjamin Nivet,1ec4e202,frFRA,MF,Troyes,38.0,1977.0,2015-2016,FRA
+Jordan Nkololo,bf354e77,cdCOD,"MF,FW",Caen,22.0,1992.0,2015-2016,FRA
+Nicolas Nkoulou,93cf32a8,cmCMR,DF,Marseille,25.0,1990.0,2015-2016,FRA
+Christopher Nkunku,7c56da38,frFRA,MF,Paris Saint-Germain,17.0,1997.0,2015-2016,FRA
+Jean-Pierre Nsame,12e6d21a,cmCMR,FW,Angers,22.0,1993.0,2015-2016,FRA
+Paul-Georges Ntep,81aeb1dd,cmCMR,"FW,MF",Rennes,23.0,1992.0,2015-2016,FRA
+Saidi Ntibazonkiza,a9a7e37b,biBDI,"MF,FW",Caen,28.0,1987.0,2015-2016,FRA
+Mounir Obbadi,bd504946,maMAR,MF,Lille,32.0,1983.0,2015-2016,FRA
+Lucas Ocampos,a08b974a,arARG,"MF,FW",Marseille,21.0,1994.0,2015-2016,FRA
+Hervin Ongenda,6989b4b0,frFRA,"MF,FW",Paris Saint-Germain,20.0,1995.0,2015-2016,FRA
+Prince Oniangué,9e27e5de,cgCGO,MF,Reims,26.0,1988.0,2015-2016,FRA
+Quentin Othon,f6256137,frFRA,"DF,FW",Troyes,27.0,1988.0,2015-2016,FRA
+Adam Ounas,ed90babd,dzALG,"FW,MF",Bordeaux,18.0,1996.0,2015-2016,FRA
+Pablo,29d8ad3f,brBRA,DF,Bordeaux,24.0,1991.0,2015-2016,FRA
+Vincent Pajot,f86ca403,frFRA,MF,Saint-Étienne,24.0,1990.0,2015-2016,FRA
+Nicolas Pallois,779847d6,frFRA,DF,Bordeaux,27.0,1987.0,2015-2016,FRA
+Julian Palmieri,25444898,frFRA,"DF,MF",Bastia,28.0,1986.0,2015-2016,FRA
+Mario Pašalić,e599253a,hrCRO,MF,Monaco,20.0,1995.0,2015-2016,FRA
+Javier Pastore,881ef58c,arARG,MF,Paris Saint-Germain,26.0,1989.0,2015-2016,FRA
+Benjamin Pavard,45a03961,frFRA,"DF,MF",Lille,19.0,1996.0,2015-2016,FRA
+Pape Paye,91cad9fd,frFRA,"DF,MF",Lorient,25.0,1990.0,2015-2016,FRA
+Jordan Pefok,b684a484,usUSA,"MF,FW",Reims,19.0,1996.0,2015-2016,FRA
+Yohann Pelé,76806215,frFRA,GK,Marseille,32.0,1982.0,2015-2016,FRA
+Brayan Perea,a499b56d,coCOL,FW,Troyes,22.0,1993.0,2015-2016,FRA
+Ricardo Pereira,75a72a99,ptPOR,DF,Nice,21.0,1993.0,2015-2016,FRA
+Gaëtan Perrin,10dd88f9,frFRA,"FW,MF",Lyon,19.0,1996.0,2015-2016,FRA
+Loïc Perrin,6b200d45,frFRA,DF,Saint-Étienne,29.0,1985.0,2015-2016,FRA
+Aleksandar Pešić,a2f2d806,rsSRB,"FW,MF",Toulouse,23.0,1992.0,2015-2016,FRA
+Denis Petrić,dab1b8dc,rsSRB,GK,Troyes,27.0,1988.0,2015-2016,FRA
+Denis Petrić,dab1b8dc,rsSRB,GK,Angers,27.0,1988.0,2015-2016,FRA
+Alexi Peuget,22dabac7,frFRA,"MF,FW",Reims,24.0,1990.0,2015-2016,FRA
+Mathieu Peybernes,34c872d2,frFRA,DF,Bastia,24.0,1990.0,2015-2016,FRA
+Romain Philippoteaux,f98b15f0,frFRA,"MF,FW",Lorient,27.0,1988.0,2015-2016,FRA
+Jessy Pi,7f1d26d9,frFRA,MF,Troyes,21.0,1993.0,2015-2016,FRA
+Jérémy Pied,a634b9d2,frFRA,DF,Nice,26.0,1989.0,2015-2016,FRA
+Ronaël Pierre-Gabriel,64ba07c0,frFRA,DF,Saint-Étienne,17.0,1998.0,2015-2016,FRA
+Erin Pinheiro,e78d62f9,frFRA,MF,Saint-Étienne,18.0,1997.0,2015-2016,FRA
+Laurent Pionnier,05856228,frFRA,GK,Montpellier,33.0,1982.0,2015-2016,FRA
+Johny Placide,f1666a9d,htHAI,GK,Reims,27.0,1988.0,2015-2016,FRA
+Jaroslav Plašil,516dc25b,czCZE,MF,Bordeaux,33.0,1982.0,2015-2016,FRA
+Alassane Pléa,bc6bd723,frFRA,FW,Nice,22.0,1993.0,2015-2016,FRA
+Florentin Pogba,1e23a224,gnGUI,DF,Saint-Étienne,24.0,1990.0,2015-2016,FRA
+Louis Poggi,caef5bc6,frFRA,MF,Gazélec Ajaccio,31.0,1984.0,2015-2016,FRA
+Pierre-Yves Polomat,2ef637bd,frFRA,"DF,MF",Saint-Étienne,21.0,1993.0,2015-2016,FRA
+Jérémie Porsan-Clémenté,fa27b5a0,mqMTQ,FW,Marseille,17.0,1997.0,2015-2016,FRA
+Maxime Poundjé,b92edde2,frFRA,DF,Bordeaux,22.0,1992.0,2015-2016,FRA
+Simon Pouplin,e76c18e4,frFRA,GK,Nice,30.0,1985.0,2015-2016,FRA
+Nicolas de Préville,b0547a87,frFRA,"FW,MF",Reims,24.0,1991.0,2015-2016,FRA
+Jérôme Prior,1061c207,frFRA,GK,Bordeaux,19.0,1995.0,2015-2016,FRA
+Sloan Privat,4df04a86,frFRA,FW,Guingamp,26.0,1989.0,2015-2016,FRA
+Paulin Puel,b9d38842,frFRA,FW,Nice,18.0,1997.0,2015-2016,FRA
+Grégory Pujol,fa669152,frFRA,FW,Gazélec Ajaccio,35.0,1980.0,2015-2016,FRA
+Juan Quintero,540d0b37,coCOL,"MF,FW",Rennes,22.0,1993.0,2015-2016,FRA
+Antoine Rabillard,93c37339,frFRA,FW,Marseille,19.0,1995.0,2015-2016,FRA
+Adrien Rabiot,8794e251,frFRA,MF,Paris Saint-Germain,20.0,1995.0,2015-2016,FRA
+Rafael,9a1f2e1c,brBRA,DF,Lyon,25.0,1990.0,2015-2016,FRA
+Albert Rafetraniaina,40726d19,mgMAD,"DF,MF",Nice,18.0,1996.0,2015-2016,FRA
+Andrea Raggi,bd4f5f94,itITA,DF,Monaco,31.0,1984.0,2015-2016,FRA
+Stéphan Raheriharimanana,944ea8c9,mgMAD,MF,Nice,21.0,1993.0,2015-2016,FRA
+Alexandre Raineau,19b62821,frFRA,DF,Caen,29.0,1986.0,2015-2016,FRA
+Antony Ranieri,6a27495a,frFRA,FW,Nice,18.0,1997.0,2015-2016,FRA
+Florian Raspentino,9448a3be,frFRA,"FW,MF",Bastia,26.0,1989.0,2015-2016,FRA
+Adrien Regattin,b87a2715,maMAR,"MF,FW",Toulouse,23.0,1991.0,2015-2016,FRA
+Karim Rekik,3376a776,nlNED,DF,Marseille,20.0,1994.0,2015-2016,FRA
+William Rémy,40ff763c,frFRA,"DF,MF",Montpellier,24.0,1991.0,2015-2016,FRA
+Anthony Ribelin,80f0d2b6,frFRA,FW,Montpellier,19.0,1996.0,2015-2016,FRA
+Kévin Rimane,7a137df4,gfGUF,"DF,MF",Paris Saint-Germain,24.0,1991.0,2015-2016,FRA
+Rincón,5d668fb7,brBRA,DF,Troyes,28.0,1987.0,2015-2016,FRA
+Rémy Riou,7f41ee30,frFRA,GK,Nantes,27.0,1987.0,2015-2016,FRA
+Ronny Rodelin,1f8c7aa9,frFRA,"FW,MF",Caen,25.0,1989.0,2015-2016,FRA
+Ronny Rodelin,1f8c7aa9,frFRA,MF,Lille,25.0,1989.0,2015-2016,FRA
+Hugo Rodriguez,feb6c954,frFRA,MF,Reims,24.0,1991.0,2015-2016,FRA
+Diego Rolán,d1491e00,uyURU,"FW,MF",Bordeaux,22.0,1993.0,2015-2016,FRA
+Rolando,0eeafda5,ptPOR,DF,Marseille,29.0,1985.0,2015-2016,FRA
+Julien Romain,ef8e6d07,frFRA,FW,Bastia,19.0,1996.0,2015-2016,FRA
+Alaixys Romao,0aa874f4,tgTOG,MF,Marseille,31.0,1984.0,2015-2016,FRA
+Valentin Rongier,ed45c4a5,frFRA,MF,Nantes,20.0,1994.0,2015-2016,FRA
+Lindsay Rose,6ee683f5,muMRI,"DF,MF",Lorient,23.0,1992.0,2015-2016,FRA
+Lindsay Rose,6ee683f5,muMRI,DF,Lyon,23.0,1992.0,2015-2016,FRA
+Jérôme Roussillon,13203c45,frFRA,"DF,MF",Montpellier,22.0,1993.0,2015-2016,FRA
+Nolan Roux,3071a619,frFRA,FW,Saint-Étienne,27.0,1988.0,2015-2016,FRA
+Stéphane Ruffier,cac76a72,frFRA,GK,Saint-Étienne,28.0,1986.0,2015-2016,FRA
+Youssouf Sabaly,fbbb9269,snSEN,DF,Nantes,22.0,1993.0,2015-2016,FRA
+Wesley Saïd,90fcf472,frFRA,"FW,MF",Rennes,20.0,1995.0,2015-2016,FRA
+Jamel Saihi,5b29dd71,tnTUN,MF,Montpellier,28.0,1987.0,2015-2016,FRA
+Romain Saïss,9fbbcf39,maMAR,"MF,DF",Angers,25.0,1990.0,2015-2016,FRA
+Henri Saivet,f3709655,snSEN,MF,Bordeaux,24.0,1990.0,2015-2016,FRA
+Emiliano Sala,5d59e0df,arARG,"FW,MF",Nantes,24.0,1990.0,2015-2016,FRA
+Yannis Salibur,bb4a42be,frFRA,"MF,FW",Guingamp,24.0,1991.0,2015-2016,FRA
+Sebastien Salles-Lamonge,afc16a32,frFRA,MF,Rennes,19.0,1996.0,2015-2016,FRA
+Mamadou Samassa,cfe852d8,mlMLI,GK,Guingamp,25.0,1990.0,2015-2016,FRA
+Lamine Sané,125cb9fe,snSEN,DF,Bordeaux,28.0,1987.0,2015-2016,FRA
+Younousse Sankharé,c650629d,snSEN,MF,Guingamp,25.0,1989.0,2015-2016,FRA
+Morgan Sanson,6e7f1353,frFRA,MF,Montpellier,20.0,1994.0,2015-2016,FRA
+Bouna Sarr,1a4b9094,snSEN,"MF,FW",Marseille,23.0,1992.0,2015-2016,FRA
+Matthieu Saunier,fa4e0908,frFRA,DF,Troyes,25.0,1990.0,2015-2016,FRA
+Ole Selnæs,4db2157a,noNOR,MF,Saint-Étienne,21.0,1994.0,2015-2016,FRA
+Jean Seri,10efd0e1,ciCIV,MF,Nice,24.0,1991.0,2015-2016,FRA
+Mathias Serin,9fc1b5e3,frFRA,MF,Angers,23.0,1991.0,2015-2016,FRA
+Grégory Sertic,c4527123,frFRA,DF,Bordeaux,25.0,1989.0,2015-2016,FRA
+Nicolas Seube,a2b5da1e,frFRA,MF,Caen,35.0,1979.0,2015-2016,FRA
+Stephan El Shaarawy,d3aaad90,itITA,"FW,MF",Monaco,22.0,1992.0,2015-2016,FRA
+Djibril Sidibé,4c5b714f,frFRA,"DF,MF",Lille,23.0,1992.0,2015-2016,FRA
+Franck Signorino,88f4ddd2,frFRA,"DF,MF",Reims,33.0,1981.0,2015-2016,FRA
+Kolbeinn Sigþórsson,adf825b9,isISL,FW,Nantes,25.0,1990.0,2015-2016,FRA
+Bernardo Silva,3eb22ec9,ptPOR,"MF,FW",Monaco,20.0,1994.0,2015-2016,FRA
+Lucas Silva,1c646218,brBRA,MF,Marseille,22.0,1993.0,2015-2016,FRA
+Thiago Silva,86e7deaf,brBRA,DF,Paris Saint-Germain,30.0,1984.0,2015-2016,FRA
+Giovanni Sio,0fe7f7bc,ciCIV,FW,Rennes,26.0,1989.0,2015-2016,FRA
+Pantxi Sirieix,e6dd61a7,frFRA,MF,Toulouse,34.0,1980.0,2015-2016,FRA
+Salvatore Sirigu,10dc46f0,itITA,GK,Paris Saint-Germain,28.0,1987.0,2015-2016,FRA
+Slimane Sissoko,7a37efc7,frFRA,FW,Angers,24.0,1991.0,2015-2016,FRA
+Ellyes Skhiri,c2211709,tnTUN,"MF,DF",Montpellier,20.0,1995.0,2015-2016,FRA
+Somália,c1febb46,brBRA,"DF,MF",Toulouse,26.0,1988.0,2015-2016,FRA
+Kévin Soni,6435143e,cmCMR,FW,Bordeaux,17.0,1998.0,2015-2016,FRA
+Jérémy Sorbon,7768df30,frFRA,DF,Guingamp,31.0,1983.0,2015-2016,FRA
+Florian Sotoca,7a42d0df,frFRA,"FW,MF",Montpellier,24.0,1990.0,2015-2016,FRA
+Adama Soumaoro,7b075c75,frFRA,DF,Lille,23.0,1992.0,2015-2016,FRA
+Uroš Spajić,02ce2030,rsSRB,DF,Toulouse,22.0,1993.0,2015-2016,FRA
+Stéphane Sparagna,27f6c6e9,frFRA,DF,Marseille,20.0,1995.0,2015-2016,FRA
+Sébastien Squillaci,f7ec06db,frFRA,DF,Bastia,34.0,1980.0,2015-2016,FRA
+Benjamin Stambouli,5939baa2,frFRA,MF,Paris Saint-Germain,24.0,1990.0,2015-2016,FRA
+Danijel Subašić,f6db3bd5,hrCRO,GK,Monaco,30.0,1984.0,2015-2016,FRA
+Gilles Sunu,beff5d14,tgTOG,FW,Angers,24.0,1991.0,2015-2016,FRA
+Stoppila Sunzu,1bab7b66,zmZAM,DF,Lille,26.0,1989.0,2015-2016,FRA
+Issiaga Sylla,b99bec05,gnGUI,"DF,MF",Gazélec Ajaccio,21.0,1994.0,2015-2016,FRA
+Yacouba Sylla,f121f4b7,mlMLI,MF,Rennes,24.0,1990.0,2015-2016,FRA
+Alexander Søderlund,e61d33f1,noNOR,"FW,MF",Saint-Étienne,27.0,1987.0,2015-2016,FRA
+Franck Tabanou,15e1afd5,frFRA,"DF,MF",Saint-Étienne,26.0,1989.0,2015-2016,FRA
+Mickaël Tacalfred,3ef5e819,gpGLP,DF,Reims,34.0,1981.0,2015-2016,FRA
+Junior Tallo,84fb6b36,ciCIV,FW,Lille,22.0,1992.0,2015-2016,FRA
+Oussama Tannane,730bd100,maMAR,"FW,MF",Saint-Étienne,21.0,1994.0,2015-2016,FRA
+Timothée Taufflieb,662d15a0,frFRA,MF,Paris Saint-Germain,22.0,1992.0,2015-2016,FRA
+Florian Thauvin,2b9fdeea,frFRA,"MF,FW",Marseille,22.0,1993.0,2015-2016,FRA
+Kévin Théophile-Catherine,6b994195,frFRA,DF,Saint-Étienne,25.0,1989.0,2015-2016,FRA
+Romain Thomas,275e2c51,frFRA,DF,Angers,27.0,1988.0,2015-2016,FRA
+Adrien Thomasson,c76b7567,frFRA,MF,Nantes,21.0,1993.0,2015-2016,FRA
+Marcel Tisserand,45954ec7,cdCOD,DF,Toulouse,22.0,1993.0,2015-2016,FRA
+Ola Toivonen,de4fe7a2,seSWE,"FW,MF",Rennes,29.0,1986.0,2015-2016,FRA
+Corentin Tolisso,652d4c37,frFRA,MF,Lyon,20.0,1994.0,2015-2016,FRA
+Jérémy Toulalan,7adea561,frFRA,MF,Monaco,31.0,1983.0,2015-2016,FRA
+Abdoulaye Touré,ef7cd87a,gnGUI,MF,Nantes,21.0,1994.0,2015-2016,FRA
+Alassane Touré,a8530df7,frFRA,"DF,MF",Gazélec Ajaccio,26.0,1989.0,2015-2016,FRA
+Almamy Touré,c8c60119,mlMLI,DF,Monaco,19.0,1996.0,2015-2016,FRA
+Birama Touré,a4b798a9,mlMLI,MF,Nantes,23.0,1992.0,2015-2016,FRA
+Thomas Touré,d72db2f5,ciCIV,"MF,FW",Bordeaux,21.0,1993.0,2015-2016,FRA
+Zargo Touré,a32d6732,snSEN,DF,Lorient,25.0,1989.0,2015-2016,FRA
+Lucas Tousart,71ec39ef,frFRA,MF,Lyon,18.0,1997.0,2015-2016,FRA
+Abdou Traoré,bb1e9544,mlMLI,MF,Bordeaux,27.0,1988.0,2015-2016,FRA
+Adama Traoré,1a6f2a66,mlMLI,MF,Monaco,20.0,1995.0,2015-2016,FRA
+Alain Traoré,8c7ae73d,bfBFA,"FW,MF",Lorient,26.0,1988.0,2015-2016,FRA
+Charles Traore,de488e56,mlMLI,DF,Troyes,23.0,1992.0,2015-2016,FRA
+Hamari Traoré,a4b1028a,mlMLI,"DF,MF",Reims,23.0,1992.0,2015-2016,FRA
+Ismaël Traoré,b666421b,ciCIV,DF,Angers,28.0,1986.0,2015-2016,FRA
+Lacina Traoré,883f251e,ciCIV,FW,Monaco,25.0,1990.0,2015-2016,FRA
+Mahamane Traoré,da5a5a29,mlMLI,"MF,DF",Nice,26.0,1988.0,2015-2016,FRA
+Kevin Trapp,ce17b5eb,deGER,GK,Paris Saint-Germain,25.0,1990.0,2015-2016,FRA
+Óscar Trejo,fc647b34,arARG,"MF,FW",Toulouse,27.0,1988.0,2015-2016,FRA
+John Tshibumbu,6e922e43,cdCOD,FW,Gazélec Ajaccio,26.0,1989.0,2015-2016,FRA
+Atila Turan,5c10ff85,trTUR,"DF,MF",Reims,23.0,1992.0,2015-2016,FRA
+Samuel Umtiti,3eed9821,frFRA,DF,Lyon,21.0,1993.0,2015-2016,FRA
+Valentín Vada,dcf7cf44,arARG,MF,Bordeaux,19.0,1996.0,2015-2016,FRA
+Mathieu Valbuena,7a4cea18,frFRA,FW,Lyon,30.0,1984.0,2015-2016,FRA
+Olivier Veigneau,f44d1c08,frFRA,DF,Nantes,30.0,1985.0,2015-2016,FRA
+Rémy Vercoutre,1d0900d4,frFRA,GK,Caen,35.0,1980.0,2015-2016,FRA
+Marco Verratti,1467af0d,itITA,MF,Paris Saint-Germain,22.0,1992.0,2015-2016,FRA
+Dušan Veškovac,bc070090,rsSRB,DF,Troyes,29.0,1986.0,2015-2016,FRA
+Thomas Vincensini,249f9a4c,frFRA,GK,Bastia,21.0,1993.0,2015-2016,FRA
+Oswaldo Vizcarrondo,446aa6e1,veVEN,DF,Nantes,31.0,1984.0,2015-2016,FRA
+Wallace,d61b3354,brBRA,DF,Monaco,20.0,1994.0,2015-2016,FRA
+Anthony Walongwa,eb78322b,,DF,Nantes,21.0,1993.0,2015-2016,FRA
+Rémi Walter,0984c5d5,frFRA,MF,Nice,20.0,1995.0,2015-2016,FRA
+Anthony Weber,0927ab8e,frFRA,DF,Reims,28.0,1987.0,2015-2016,FRA
+Sébastien Wüthrich,f5daad25,chSUI,MF,Montpellier,25.0,1990.0,2015-2016,FRA
+Thiago Xavier,62562194,brBRA,MF,Troyes,31.0,1983.0,2015-2016,FRA
+Steeve Yago,7f9111ea,bfBFA,DF,Toulouse,22.0,1992.0,2015-2016,FRA
+Alaeddine Yahia,7e84cc61,tnTUN,DF,Caen,33.0,1981.0,2015-2016,FRA
+Cédric Yamberé,1c344204,cfCTA,"DF,MF",Bordeaux,24.0,1990.0,2015-2016,FRA
+Mapou Yanga-Mbiwa,20573d10,frFRA,DF,Lyon,26.0,1989.0,2015-2016,FRA
+Mustapha Yatabaré,398dc4f4,mlMLI,"FW,MF",Montpellier,29.0,1986.0,2015-2016,FRA
+Mohamed Yattara,adf008e1,gnGUI,FW,Angers,22.0,1993.0,2015-2016,FRA
+Yaw Yeboah,36292031,ghGHA,FW,Lille,18.0,1997.0,2015-2016,FRA
+Amos Youga,8ca850b8,cfCTA,MF,Gazélec Ajaccio,22.0,1992.0,2015-2016,FRA
+Andre-Frank Zambo Anguissa,6bb2c084,cmCMR,MF,Marseille,19.0,1995.0,2015-2016,FRA
+Mehdi Zeffane,c8c02ac7,dzALG,"MF,DF",Rennes,23.0,1992.0,2015-2016,FRA
+Jacques Zoua,8accc7db,cmCMR,FW,Gazélec Ajaccio,23.0,1991.0,2015-2016,FRA
+Damjan Đoković,0ac893aa,hrCRO,MF,Gazélec Ajaccio,25.0,1990.0,2015-2016,FRA
